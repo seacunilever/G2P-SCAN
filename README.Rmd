@@ -42,18 +42,18 @@ Output of the pipeline includes a count summary data of each of the data type, g
 This package is currently not released on CRAN so it can be installed from Github with:
 
 ``` r
-install.packages(“devtools”)
-Devtools::install_github(“seacunilever/G2P-SCAN”) # This will change when updating to new repo 
+install.packages("devtools")
+library(devtools)
+devtools::install_github("seacunilever/G2P-SCAN")
 ```
 ## Example
 
-The runGenes2Pathways function is the wrapper function, calling all functions representing each step of the G2P-SCAN pipeline (see figure below).
+The `runGenes2Pathways` function is the wrapper function, calling all functions representing each step of the G2P-SCAN pipeline (see figure below).
 ![pipeline](man/figures/workflow.png)
 The function will first map the input gene(s) to Reactome pathways, get all genes found in those pathways and get all given orthologues for the species selected for the analysis, all using R package InterMineR. All orthologues are then queried using the UniProt protein API to determine a corresponding protein for the gene if available, these are then queried using the InterPro API to map the given proteins to functional families. A file of entities and reactions for all species is then created and used, derived from Reactome, of all Human pathways of entities and reactions counts for each species. Counts of entities and reactions are pulled from this file for each of the mapped pathways and species of interest for the final output. All Human genes and species orthologues are counted per mapped pathway as well as the corresponding proteins and functional families for a final output.
 
 ```{r example, message = FALSE, warning = FALSE}
 library(Genes2Pathways)
-library(parallel)
 ACHE_BCHE_T_ALL <- runGenes2Pathways(inputGenes = c("ACHE", "BCHE"),
                                      pathwayLevels = c("terminal"),
                                      species = NULL,
