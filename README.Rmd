@@ -54,6 +54,7 @@ The function will first map the input gene(s) to Reactome pathways, get all gene
 
 ```{r example, message = FALSE, warning = FALSE}
 library(Genes2Pathways)
+library(parallel) # for detectCores() 
 ACHE_BCHE_T_ALL <- runGenes2Pathways(inputGenes = c("ACHE", "BCHE"),
                                      pathwayLevels = c("terminal"),
                                      species = NULL,

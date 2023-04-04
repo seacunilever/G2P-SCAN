@@ -105,13 +105,14 @@ This package is currently not released on CRAN so it can be installed
 from Github with:
 
 ``` r
-install.packages(“devtools”)
-Devtools::install_github(“seacunilever/G2P-SCAN”) # This will change when updating to new repo 
+install.packages("devtools")
+library(devtools)
+devtools::install_github("seacunilever/G2P-SCAN")
 ```
 
 ## Example
 
-The runGenes2Pathways function is the wrapper function, calling all
+The `runGenes2Pathways` function is the wrapper function, calling all
 functions representing each step of the G2P-SCAN pipeline (see figure
 below). ![pipeline](man/figures/workflow.png) The function will first
 map the input gene(s) to Reactome pathways, get all genes found in those
@@ -130,7 +131,7 @@ families for a final output.
 
 ``` r
 library(Genes2Pathways)
-library(parallel)
+library(parallel) # for detectCores() 
 ACHE_BCHE_T_ALL <- runGenes2Pathways(inputGenes = c("ACHE", "BCHE"),
                                      pathwayLevels = c("terminal"),
                                      species = NULL,
@@ -385,10 +386,10 @@ species and pathways of interest.
 
 |               | Human_entities | R. norvegicus_entities | M. musculus_entities | D. rerio_entities | C. elegans_entities | D. melanogaster_entities | S. cerevisiae_entities | Human_reactions | R. norvegicus_reactions | M. musculus_reactions | D. rerio_reactions | C. elegans_reactions | D. melanogaster_reactions | S. cerevisiae_reactions |
 |:--------------|---------------:|-----------------------:|---------------------:|------------------:|--------------------:|-------------------------:|-----------------------:|----------------:|------------------------:|----------------------:|-------------------:|---------------------:|--------------------------:|------------------------:|
-| R-HSA-112311  |             36 |                      9 |                    9 |                 7 |                   5 |                        5 |                      0 |              16 |                      15 |                    15 |                 14 |                    7 |                         6 |                       0 |
-| R-HSA-1483191 |             55 |                     25 |                   25 |                23 |                  15 |                       13 |                      8 |              18 |                      18 |                    18 |                 17 |                   11 |                        11 |                       7 |
+| R-HSA-112311  |             36 |                      9 |                    9 |                 7 |                   6 |                        5 |                      0 |              16 |                      15 |                    15 |                 14 |                    7 |                         6 |                       0 |
+| R-HSA-1483191 |             55 |                     25 |                   25 |                23 |                  13 |                       13 |                      9 |              18 |                      18 |                    18 |                 17 |                   10 |                        11 |                       6 |
 | R-HSA-422085  |             26 |                     14 |                   14 |                13 |                   2 |                        1 |                      0 |               8 |                       8 |                     8 |                  7 |                    1 |                         1 |                       0 |
-| R-HSA-9749641 |             80 |                     24 |                   26 |                14 |                   8 |                        6 |                      1 |              26 |                      12 |                    12 |                  9 |                    6 |                         5 |                       1 |
+| R-HSA-9749641 |             80 |                     25 |                   28 |                12 |                   8 |                        6 |                      1 |              26 |                      12 |                    12 |                  9 |                    6 |                         5 |                       1 |
 
 ### `getOrthologueGenes`
 
@@ -530,10 +531,10 @@ human gene (row) and species (column).
 
 |        | Human  | R. norvegicus | M. musculus | D. rerio       | C. elegans                                                                                                 | D. melanogaster                                                                        | S. cerevisiae                  |
 |:-------|:-------|:--------------|:------------|:---------------|:-----------------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------|:-------------------------------|
-| ABCC2  | Q92887 | Q63120        | Q8VI47      | Q6PH26         | Q19048, G5EFP3, Q9U2G5, Q9XW61                                                                             | Q9VL32, Q7KTC0                                                                         | P38735, P39109, P14772, P32386 |
-| ABCC3  | O15438 | O88563        | B2RX12      | A0A0N4SUC0     | Q95QE2, Q20943                                                                                             | NA                                                                                     | P53049                         |
+| ABCC2  | Q92887 | Q63120        | Q8VI47      | F1DB26         | Q19048, G5EFP3, Q9U2G5, Q9XW61                                                                             | Q9VL32, Q7KTC0                                                                         | P38735, P39109, P14772, P32386 |
+| ABCC3  | O15438 | O88563        | B2RX12      | NA             | Q95QE2, Q20943                                                                                             | NA                                                                                     | P53049                         |
 | ABHD3  | Q8WU67 | A0A8I5ZSG0    | Q91ZH7      | Q66HU2         | Q9U1Z6, Q18610                                                                                             | A1Z7Q7                                                                                 | P38295, Q03649, Q02891         |
-| ACHE   | P22303 | NA            | NA          | Q5BJI3, Q32LW0 | Q04457, Q8MQ23, O01302, P92016, Q9XW75, Q23268, H9G2Y9, G5EDJ7, A0A1C3NSL8, Q21266, Q22008, H2L0K7, Q4LDP0 | Q9W2F4, P08171, P18167, P23654, Q9BMT7, Q9Y141, Q8MZ17, Q9VPZ5, Q9VLA3, Q8T016, A1ZA97 | NA                             |
+| ACHE   | P22303 | NA            | NA          | Q1LUZ9, Q08BF1 | Q04457, Q8MQ23, O01302, P92016, Q9XW75, Q23268, H9G2Y9, G5EDJ7, A0A1C3NSL8, Q21266, Q22008, H2L0K7, Q4LDP0 | Q9W2F4, P08171, P18167, P23654, Q9BMT7, Q9Y141, Q8MZ17, Q9VPZ5, Q9VLA3, Q8T016, A1ZA97 | NA                             |
 | ACSM2A | Q08AH3 | O70490        | Q8K0L3      | A9JRA7         | NA                                                                                                         | NA                                                                                     | NA                             |
 | ACSM2B | Q68CK6 | O70490        | Q8K0L3      | A9JRA7         | NA                                                                                                         | NA                                                                                     | NA                             |
 
@@ -568,12 +569,12 @@ string of comma separated terms).
 |     | protein.accession | Gene.homologues.homologue.organism.shortName | filtered_family |
 |:----|:------------------|:---------------------------------------------|:----------------|
 | 86  | Q03764            | S. cerevisiae                                |                 |
-| 87  | P20485            | S. cerevisiae                                |                 |
+| 87  | Q3TFD2            | M. musculus                                  |                 |
 | 88  | O17610            | C. elegans                                   |                 |
-| 89  | Q22942            | C. elegans                                   |                 |
-| 90  | Q32Q55            | R. norvegicus                                |                 |
-| 91  | A0A0G2KB83        | R. norvegicus                                |                 |
-| 92  | Q8VCC2            | M. musculus                                  |                 |
+| 89  | Q1LWG4            | D. rerio                                     |                 |
+| 90  | P46558            | C. elegans                                   |                 |
+| 91  | O70177            | R. norvegicus                                |                 |
+| 92  | A1Z7Q7            | D. melanogaster                              |                 |
 
 ### `getFamilyMatrix`
 
@@ -592,102 +593,102 @@ and species (column).
   knitr::kable(ACHE_BCHE_T_ALL$family_matrix) # subset of results
 ```
 
-|          | Human                | Human | R. norvegicus        | M. musculus          | D. rerio                                   | C. elegans           | D. melanogaster      | S. cerevisiae        |
-|:---------|:---------------------|:------|:---------------------|:---------------------|:-------------------------------------------|:---------------------|:---------------------|:---------------------|
-| ABCC2    | IPR005292            | NA    | IPR005292            | IPR005292            | IPR005292                                  | IPR005292            | IPR005292            | NA                   |
-| ABCC3    | IPR005292            | NA    | IPR005292            | IPR005292            | IPR005292                                  | IPR005292            | NA                   | NA                   |
-| ABHD3    | IPR012020            | NA    | IPR012020            | IPR012020            | IPR012020                                  | IPR012020            | NA                   | IPR012020            |
-| ACHE     | IPR000997            | NA    | NA                   | NA                   | NA                                         | NA                   | NA                   | NA                   |
-| ACSM2A   | NA                   | NA    | NA                   | NA                   | NA                                         | NA                   | NA                   | NA                   |
-| ACSM2B   | NA                   | NA    | NA                   | NA                   | NA                                         | NA                   | NA                   | NA                   |
-| ACSM4    | NA                   | NA    | NA                   | NA                   | NA                                         | NA                   | NA                   | NA                   |
-| ACSM5    | NA                   | NA    | NA                   | NA                   | NA                                         | NA                   | NA                   | NA                   |
-| ALB      | IPR021177            | NA    | IPR021177            | IPR021177            | NA                                         | NA                   | NA                   | NA                   |
-| ALDH2    | NA                   | NA    | NA                   | NA                   | NA                                         | NA                   | NA                   | NA                   |
-| BCHE     | IPR000997            | NA    | IPR000997            | IPR000997            | NA                                         | IPR000997            | IPR001445            | NA                   |
-| BSG      | NA                   | NA    | IPR043204            | IPR043204            | NA                                         | IPR043204, IPR009138 | IPR043204            | NA                   |
-| CEPT1    | IPR014472            | NA    | IPR014472            | IPR014472            | IPR014472                                  | IPR014472            | NA                   | IPR014472            |
-| CES1     | NA                   | NA    | NA                   | NA                   | NA                                         | NA                   | NA                   | NA                   |
-| CES2     | NA                   | NA    | NA                   | NA                   | NA                                         | NA                   | NA                   | NA                   |
-| CHAT     | IPR000542            | NA    | IPR000542            | IPR000542            | IPR000542                                  | IPR000542            | IPR000542            | IPR000542            |
-| CHKA     | NA                   | NA    | NA                   | NA                   | NA                                         | NA                   | NA                   | NA                   |
-| CHKB     | NA                   | NA    | NA                   | NA                   | NA                                         | NA                   | NA                   | NA                   |
-| CHPT1    | IPR014472            | NA    | IPR014472            | IPR014472            | IPR014472                                  | NA                   | NA                   | NA                   |
-| COMT     | IPR017128            | NA    | IPR017128            | IPR017128            | IPR017128                                  | NA                   | NA                   | NA                   |
-| CRHR2    | IPR003051, IPR003053 | NA    | IPR003051, IPR003053 | IPR003051, IPR003053 | NA                                         | NA                   | IPR002001            | NA                   |
-| CSNK2A1  | IPR045216            | NA    | IPR045216            | IPR045216            | IPR045216                                  | IPR045216            | IPR045216            | IPR045216            |
-| CSNK2A2  | IPR045216            | NA    | IPR045216            | IPR045216            | IPR045216                                  | NA                   | NA                   | NA                   |
-| CYP2C19  | IPR002401            | NA    | NA                   | IPR002401            | IPR002401                                  | IPR002401            | NA                   | NA                   |
-| CYP2C8   | IPR002401            | NA    | NA                   | NA                   | NA                                         | NA                   | NA                   | NA                   |
-| CYP2C9   | IPR002401            | NA    | NA                   | NA                   | NA                                         | NA                   | NA                   | NA                   |
-| CYP2D6   | IPR002401, IPR008069 | NA    | IPR002401, IPR008069 | IPR002401, IPR008069 | IPR002401, IPR008069, IPR008071, IPR008067 | NA                   | NA                   | NA                   |
-| CYP2E1   | IPR002401, IPR008070 | NA    | IPR002401, IPR008070 | IPR002401, IPR008070 | NA                                         | NA                   | NA                   | NA                   |
-| CYP3A4   | IPR002402, IPR008072 | NA    | IPR002402, IPR008072 | IPR002402, IPR008072 | IPR002401                                  | NA                   | NA                   | NA                   |
-| GCG      | IPR015550            | NA    | IPR015550            | IPR015550            | IPR015550                                  | NA                   | NA                   | NA                   |
-| GH1      | IPR001400            | NA    | IPR001400            | IPR001400            | IPR001400                                  | NA                   | NA                   | NA                   |
-| GHRL     | IPR005441            | NA    | IPR005441            | IPR005441            | IPR005441                                  | NA                   | NA                   | NA                   |
-| GLYAT    | IPR010313            | NA    | IPR010313            | IPR010313            | IPR010313                                  | IPR010313            | NA                   | NA                   |
-| GLYATL1  | IPR010313            | NA    | NA                   | NA                   | NA                                         | NA                   | NA                   | NA                   |
-| GLYATL2  | IPR010313            | NA    | NA                   | NA                   | NA                                         | NA                   | NA                   | NA                   |
-| GLYATL3  | IPR010313            | NA    | IPR010313            | IPR010313            | NA                                         | NA                   | NA                   | NA                   |
-| IGF1     | IPR022341, IPR022350 | NA    | IPR022341, IPR022350 | IPR022341, IPR022350 | IPR022350, IPR022341                       | NA                   | NA                   | NA                   |
-| INS      | IPR004825            | NA    | IPR004825            | IPR004825            | IPR004825                                  | NA                   | NA                   | NA                   |
-| KLF4     | NA                   | NA    | NA                   | NA                   | NA                                         | NA                   | NA                   | NA                   |
-| LEP      | IPR000065            | NA    | IPR000065            | IPR000065            | IPR000065                                  | NA                   | NA                   | NA                   |
-| LPCAT1   | NA                   | NA    | NA                   | NA                   | NA                                         | NA                   | NA                   | NA                   |
-| LPIN1    | IPR026058            | NA    | IPR026058            | IPR026058            | IPR026058                                  | IPR026058            | IPR026058            | IPR026058            |
-| LPIN2    | IPR026058            | NA    | IPR026058            | IPR026058            | IPR026058                                  | NA                   | NA                   | NA                   |
-| LPIN3    | IPR026058            | NA    | IPR026058            | IPR026058            | IPR026058                                  | NA                   | NA                   | NA                   |
-| LRTOMT   | IPR002935            | NA    | IPR002935            | IPR002935            | IPR002935                                  | NA                   | NA                   | NA                   |
-| MAOA     | IPR001613            | NA    | IPR001613            | IPR001613            | NA                                         | NA                   | NA                   | NA                   |
-| MBOAT4   | IPR004299            | NA    | IPR004299            | IPR004299            | IPR004299                                  | IPR004299            | IPR004299            | IPR004299            |
-| MFSD2A   | IPR039672            | NA    | IPR039672            | IPR039672            | IPR039672                                  | NA                   | NA                   | NA                   |
-| PCSK1    | IPR015500            | NA    | IPR015500            | IPR015500            | IPR015500                                  | IPR015500            | NA                   | IPR015500            |
-| PCTP     | NA                   | NA    | NA                   | NA                   | NA                                         | NA                   | NA                   | NA                   |
-| PCYT1A   | IPR045049            | NA    | IPR045049            | IPR045049            | IPR045049                                  | IPR045049            | IPR045049            | IPR045049            |
-| PCYT1B   | IPR045049            | NA    | IPR045049            | IPR045049            | IPR045049                                  | NA                   | NA                   | NA                   |
-| PEMT     | IPR024960            | NA    | IPR024960            | IPR024960            | IPR024960                                  | NA                   | NA                   | IPR024960            |
-| PHOSPHO1 | IPR016965            | NA    | IPR016965            | IPR016965            | IPR016965                                  | NA                   | IPR016965            | NA                   |
-| PLA2G7   | IPR016715            | NA    | IPR016715            | IPR016715            | IPR016715                                  | IPR016715            | NA                   | NA                   |
-| SEC11A   | IPR001733            | NA    | IPR001733            | IPR001733            | IPR001733                                  | IPR001733            | IPR001733            | IPR001733            |
-| SEC11C   | IPR001733            | NA    | IPR001733            | IPR001733            | NA                                         | NA                   | NA                   | NA                   |
-| SLC16A1  | IPR004743            | NA    | IPR004743            | IPR004743            | IPR004743                                  | IPR011701, IPR010645 | IPR011701            | IPR044738, IPR011701 |
-| SLC22A1  | IPR004749            | NA    | IPR004749            | IPR004749            | IPR005828, IPR004749                       | IPR011701, IPR005828 | IPR005828, IPR011701 | NA                   |
-| SLC22A2  | IPR004749            | NA    | IPR004749            | IPR004749            | NA                                         | NA                   | NA                   | NA                   |
-| SLC22A7  | IPR004749, IPR011701 | NA    | IPR004749            | IPR004749            | IPR005828, IPR011701                       | NA                   | NA                   | NA                   |
-| SLC44A1  | IPR007603            | NA    | IPR007603            | IPR007603            | NA                                         | NA                   | NA                   | NA                   |
-| SLC44A2  | IPR007603            | NA    | IPR007603            | IPR007603            | IPR007603                                  | NA                   | NA                   | NA                   |
-| SLC44A3  | IPR007603            | NA    | IPR007603            | IPR007603            | IPR007603                                  | NA                   | IPR007603            | NA                   |
-| SLC44A4  | IPR007603            | NA    | IPR007603            | IPR007603            | IPR007603                                  | NA                   | NA                   | NA                   |
-| SLC44A5  | IPR007603            | NA    | IPR007603            | IPR007603            | IPR007603                                  | IPR007603            | IPR007603            | NA                   |
-| SLC6A3   | IPR002436            | NA    | IPR002436            | IPR002436            | IPR000175                                  | IPR000175            | IPR000175            | NA                   |
-| SLC6A4   | IPR000175            | NA    | IPR000175            | IPR000175            | IPR000175                                  | IPR000175            | IPR000175            | NA                   |
-| SPCS1    | IPR009542            | NA    | IPR009542            | IPR009542            | IPR009542                                  | IPR009542            | IPR009542            | IPR009542            |
-| SPCS2    | IPR009582            | NA    | IPR009582            | IPR009582            | IPR009582                                  | IPR009582            | IPR009582            | IPR009582            |
-| SPCS3    | IPR007653            | NA    | IPR007653            | IPR007653            | IPR007653                                  | IPR007653            | IPR007653            | IPR007653            |
-| STARD10  | NA                   | NA    | NA                   | NA                   | NA                                         | NA                   | NA                   | NA                   |
-| STARD7   | NA                   | NA    | NA                   | NA                   | NA                                         | NA                   | NA                   | NA                   |
-| UCN      | IPR003620            | NA    | IPR003620            | IPR003620            | IPR003620                                  | NA                   | NA                   | NA                   |
-| UGT1A1   | IPR002213            | NA    | IPR002213            | IPR002213            | NA                                         | NA                   | NA                   | NA                   |
-| UGT1A3   | IPR002213            | NA    | NA                   | NA                   | NA                                         | NA                   | NA                   | NA                   |
-| UGT1A4   | IPR002213            | NA    | NA                   | NA                   | NA                                         | NA                   | NA                   | NA                   |
-| UGT1A5   | IPR002213            | NA    | IPR002213            | IPR002213            | NA                                         | NA                   | NA                   | NA                   |
-| UGT1A6   | IPR002213            | NA    | IPR002213            | IPR002213            | NA                                         | NA                   | NA                   | NA                   |
-| UGT1A7   | IPR002213            | NA    | NA                   | NA                   | NA                                         | NA                   | NA                   | NA                   |
-| UGT1A8   | IPR002213            | NA    | IPR002213            | IPR002213            | NA                                         | NA                   | NA                   | IPR002213            |
-| UGT1A9   | IPR002213            | NA    | NA                   | NA                   | NA                                         | NA                   | NA                   | NA                   |
-| UGT2A1   | IPR002213            | NA    | IPR002213            | IPR002213            | NA                                         | NA                   | NA                   | NA                   |
-| UGT2A2   | IPR002213            | NA    | NA                   | IPR002213            | NA                                         | NA                   | NA                   | NA                   |
-| UGT2A3   | IPR002213            | NA    | NA                   | NA                   | NA                                         | NA                   | NA                   | NA                   |
-| UGT2B10  | IPR002213            | NA    | NA                   | NA                   | NA                                         | NA                   | NA                   | NA                   |
-| UGT2B11  | IPR002213            | NA    | IPR002213            | IPR002213            | IPR002213                                  | IPR002213            | IPR002213            | NA                   |
-| UGT2B15  | IPR002213            | NA    | NA                   | NA                   | NA                                         | NA                   | NA                   | NA                   |
-| UGT2B17  | IPR002213            | NA    | NA                   | NA                   | NA                                         | NA                   | NA                   | NA                   |
-| UGT2B28  | IPR002213            | NA    | NA                   | NA                   | NA                                         | NA                   | NA                   | NA                   |
-| UGT2B4   | IPR002213            | NA    | NA                   | NA                   | NA                                         | NA                   | NA                   | NA                   |
-| UGT2B7   | IPR002213            | NA    | NA                   | NA                   | NA                                         | NA                   | NA                   | NA                   |
-| UGT3A1   | IPR002213            | NA    | IPR002213            | IPR002213            | NA                                         | NA                   | NA                   | NA                   |
-| UGT3A2   | IPR002213            | NA    | NA                   | NA                   | NA                                         | NA                   | NA                   | NA                   |
+|          | Human                | Human | R. norvegicus        | M. musculus          | D. rerio                                       | C. elegans           | D. melanogaster      | S. cerevisiae        |
+|:---------|:---------------------|:------|:---------------------|:---------------------|:-----------------------------------------------|:---------------------|:---------------------|:---------------------|
+| ABCC2    | IPR005292            | NA    | IPR005292            | IPR005292            | IPR005292                                      | IPR005292            | IPR005292            | NA                   |
+| ABCC3    | IPR005292            | NA    | IPR005292            | IPR005292            | NA                                             | IPR005292            | NA                   | NA                   |
+| ABHD3    | IPR012020            | NA    | IPR012020            | IPR012020            | IPR012020                                      | IPR012020            | NA                   | IPR012020            |
+| ACHE     | IPR000997            | NA    | NA                   | NA                   | NA                                             | NA                   | NA                   | NA                   |
+| ACSM2A   | NA                   | NA    | NA                   | NA                   | NA                                             | NA                   | NA                   | NA                   |
+| ACSM2B   | NA                   | NA    | NA                   | NA                   | NA                                             | NA                   | NA                   | NA                   |
+| ACSM4    | NA                   | NA    | NA                   | NA                   | NA                                             | NA                   | NA                   | NA                   |
+| ACSM5    | NA                   | NA    | NA                   | NA                   | NA                                             | NA                   | NA                   | NA                   |
+| ALB      | IPR021177            | NA    | IPR021177            | IPR021177            | NA                                             | NA                   | NA                   | NA                   |
+| ALDH2    | NA                   | NA    | NA                   | NA                   | NA                                             | NA                   | NA                   | NA                   |
+| BCHE     | IPR000997            | NA    | IPR000997            | IPR000997            | NA                                             | IPR000997            | IPR001445            | NA                   |
+| BSG      | NA                   | NA    | IPR043204            | IPR043204            | IPR043204                                      | IPR043204, IPR009138 | IPR043204            | NA                   |
+| CEPT1    | IPR014472            | NA    | IPR014472            | IPR014472            | IPR014472                                      | IPR014472            | NA                   | IPR014472            |
+| CES1     | NA                   | NA    | NA                   | NA                   | NA                                             | NA                   | NA                   | NA                   |
+| CES2     | NA                   | NA    | NA                   | NA                   | NA                                             | NA                   | NA                   | NA                   |
+| CHAT     | IPR000542            | NA    | IPR000542            | IPR000542            | IPR000542                                      | IPR000542            | IPR000542            | IPR000542            |
+| CHKA     | NA                   | NA    | NA                   | NA                   | NA                                             | NA                   | NA                   | NA                   |
+| CHKB     | NA                   | NA    | NA                   | NA                   | NA                                             | NA                   | NA                   | NA                   |
+| CHPT1    | IPR014472            | NA    | IPR014472            | IPR014472            | IPR014472                                      | NA                   | NA                   | NA                   |
+| COMT     | IPR017128            | NA    | IPR017128            | IPR017128            | IPR017128                                      | NA                   | NA                   | NA                   |
+| CRHR2    | IPR003051, IPR003053 | NA    | IPR003051, IPR003053 | IPR003051, IPR003053 | NA                                             | NA                   | IPR002001            | NA                   |
+| CSNK2A1  | IPR045216            | NA    | IPR045216            | IPR045216            | IPR045216                                      | IPR045216            | IPR045216            | IPR045216            |
+| CSNK2A2  | IPR045216            | NA    | IPR045216            | IPR045216            | IPR045216                                      | NA                   | NA                   | NA                   |
+| CYP2C19  | IPR002401            | NA    | NA                   | IPR002401            | IPR002401                                      | IPR002401            | NA                   | NA                   |
+| CYP2C8   | IPR002401            | NA    | NA                   | NA                   | NA                                             | NA                   | NA                   | NA                   |
+| CYP2C9   | IPR002401            | NA    | NA                   | NA                   | NA                                             | NA                   | NA                   | NA                   |
+| CYP2D6   | IPR002401, IPR008069 | NA    | IPR002401, IPR008069 | IPR002401, IPR008069 | IPR002401, IPR008069, IPR008071, IPR008067, NA | NA                   | NA                   | NA                   |
+| CYP2E1   | IPR002401, IPR008070 | NA    | IPR002401, IPR008070 | IPR002401, IPR008070 | NA                                             | NA                   | NA                   | NA                   |
+| CYP3A4   | IPR002402, IPR008072 | NA    | IPR002402, IPR008072 | IPR002402, IPR008072 | IPR002401                                      | NA                   | NA                   | NA                   |
+| GCG      | IPR015550            | NA    | IPR015550            | IPR015550            | IPR015550                                      | NA                   | NA                   | NA                   |
+| GH1      | IPR001400, IPR034975 | NA    | IPR001400, IPR034975 | IPR001400, IPR034975 | IPR001400, IPR034975                           | NA                   | NA                   | NA                   |
+| GHRL     | IPR005441            | NA    | IPR005441            | IPR005441            | IPR005441                                      | NA                   | NA                   | NA                   |
+| GLYAT    | IPR010313            | NA    | IPR010313            | IPR010313            | NA                                             | IPR010313            | NA                   | NA                   |
+| GLYATL1  | IPR010313            | NA    | NA                   | NA                   | NA                                             | NA                   | NA                   | NA                   |
+| GLYATL2  | IPR010313            | NA    | NA                   | NA                   | NA                                             | NA                   | NA                   | NA                   |
+| GLYATL3  | IPR010313            | NA    | IPR010313            | IPR010313            | NA                                             | NA                   | NA                   | NA                   |
+| IGF1     | IPR022341, IPR022350 | NA    | IPR022341, IPR022350 | IPR022341, IPR022350 | IPR022350, IPR022341                           | NA                   | NA                   | NA                   |
+| INS      | IPR004825            | NA    | IPR004825            | IPR004825            | IPR004825                                      | NA                   | NA                   | NA                   |
+| KLF4     | NA                   | NA    | NA                   | NA                   | NA                                             | NA                   | NA                   | NA                   |
+| LEP      | IPR000065            | NA    | IPR000065            | IPR000065            | IPR000065                                      | NA                   | NA                   | NA                   |
+| LPCAT1   | NA                   | NA    | NA                   | NA                   | NA                                             | NA                   | NA                   | NA                   |
+| LPIN1    | IPR026058            | NA    | IPR026058            | IPR026058            | IPR026058, NA                                  | IPR026058            | IPR026058            | IPR026058            |
+| LPIN2    | IPR026058            | NA    | IPR026058            | IPR026058            | IPR026058                                      | NA                   | NA                   | NA                   |
+| LPIN3    | IPR026058            | NA    | IPR026058            | IPR026058            | IPR026058                                      | NA                   | NA                   | NA                   |
+| LRTOMT   | IPR002935            | NA    | IPR002935            | IPR002935            | IPR002935                                      | NA                   | NA                   | NA                   |
+| MAOA     | IPR001613            | NA    | IPR001613            | IPR001613            | NA                                             | NA                   | NA                   | NA                   |
+| MBOAT4   | IPR004299            | NA    | IPR004299            | IPR004299            | IPR004299                                      | IPR004299            | IPR004299            | IPR004299            |
+| MFSD2A   | IPR039672            | NA    | IPR039672            | IPR039672            | IPR039672                                      | NA                   | NA                   | NA                   |
+| PCSK1    | IPR015500            | NA    | IPR015500            | IPR015500            | IPR015500                                      | IPR015500            | NA                   | IPR015500            |
+| PCTP     | NA                   | NA    | NA                   | NA                   | NA                                             | NA                   | NA                   | NA                   |
+| PCYT1A   | IPR045049            | NA    | IPR045049            | IPR045049            | IPR045049                                      | IPR045049            | IPR045049            | IPR045049            |
+| PCYT1B   | IPR045049            | NA    | IPR045049            | IPR045049            | IPR045049                                      | NA                   | NA                   | NA                   |
+| PEMT     | IPR024960            | NA    | IPR024960            | IPR024960            | IPR024960                                      | NA                   | NA                   | IPR024960            |
+| PHOSPHO1 | IPR016965            | NA    | IPR016965            | IPR016965            | IPR016965                                      | NA                   | IPR016965            | NA                   |
+| PLA2G7   | IPR016715            | NA    | IPR016715            | IPR016715            | IPR016715                                      | IPR016715            | NA                   | NA                   |
+| SEC11A   | IPR001733            | NA    | IPR001733            | IPR001733            | IPR001733                                      | IPR001733            | IPR001733            | IPR001733            |
+| SEC11C   | IPR001733            | NA    | IPR001733            | IPR001733            | NA                                             | NA                   | NA                   | NA                   |
+| SLC16A1  | IPR004743            | NA    | IPR004743            | IPR004743            | IPR004743                                      | IPR011701, IPR010645 | IPR011701            | IPR044738, IPR011701 |
+| SLC22A1  | IPR004749            | NA    | IPR004749            | IPR004749            | IPR005828, IPR004749                           | IPR011701, IPR005828 | IPR005828, IPR011701 | NA                   |
+| SLC22A2  | IPR004749            | NA    | IPR004749            | IPR004749            | NA                                             | NA                   | NA                   | NA                   |
+| SLC22A7  | IPR004749, IPR011701 | NA    | IPR004749            | IPR004749            | IPR005828, IPR011701, NA                       | NA                   | NA                   | NA                   |
+| SLC44A1  | IPR007603            | NA    | IPR007603            | IPR007603            | NA                                             | NA                   | NA                   | NA                   |
+| SLC44A2  | IPR007603            | NA    | IPR007603            | IPR007603            | IPR007603                                      | NA                   | NA                   | NA                   |
+| SLC44A3  | IPR007603            | NA    | IPR007603            | IPR007603            | IPR007603, NA                                  | NA                   | IPR007603            | NA                   |
+| SLC44A4  | IPR007603            | NA    | IPR007603            | IPR007603            | IPR007603                                      | NA                   | NA                   | NA                   |
+| SLC44A5  | IPR007603            | NA    | IPR007603            | IPR007603            | IPR007603                                      | IPR007603            | IPR007603            | NA                   |
+| SLC6A3   | IPR002436            | NA    | IPR002436            | IPR002436            | IPR000175                                      | IPR000175            | IPR000175            | NA                   |
+| SLC6A4   | IPR000175            | NA    | IPR000175            | IPR000175            | IPR000175                                      | IPR000175            | IPR000175            | NA                   |
+| SPCS1    | IPR009542            | NA    | IPR009542            | IPR009542            | IPR009542                                      | IPR009542            | IPR009542            | IPR009542            |
+| SPCS2    | IPR009582            | NA    | IPR009582            | IPR009582            | IPR009582                                      | IPR009582            | IPR009582            | IPR009582            |
+| SPCS3    | IPR007653            | NA    | IPR007653            | IPR007653            | IPR007653                                      | IPR007653            | IPR007653            | IPR007653            |
+| STARD10  | NA                   | NA    | NA                   | NA                   | NA                                             | NA                   | NA                   | NA                   |
+| STARD7   | NA                   | NA    | NA                   | NA                   | NA                                             | NA                   | NA                   | NA                   |
+| UCN      | IPR003620            | NA    | IPR003620            | IPR003620            | IPR003620                                      | NA                   | NA                   | NA                   |
+| UGT1A1   | IPR002213            | NA    | IPR002213            | IPR002213            | NA                                             | NA                   | NA                   | NA                   |
+| UGT1A3   | IPR002213            | NA    | NA                   | NA                   | NA                                             | NA                   | NA                   | NA                   |
+| UGT1A4   | IPR002213            | NA    | NA                   | NA                   | NA                                             | NA                   | NA                   | NA                   |
+| UGT1A5   | IPR002213            | NA    | IPR002213            | IPR002213            | NA                                             | NA                   | NA                   | NA                   |
+| UGT1A6   | IPR002213            | NA    | IPR002213            | IPR002213            | NA                                             | NA                   | NA                   | NA                   |
+| UGT1A7   | IPR002213            | NA    | NA                   | NA                   | NA                                             | NA                   | NA                   | NA                   |
+| UGT1A8   | IPR002213            | NA    | IPR002213            | IPR002213            | NA                                             | NA                   | NA                   | IPR002213            |
+| UGT1A9   | IPR002213            | NA    | NA                   | NA                   | NA                                             | NA                   | NA                   | NA                   |
+| UGT2A1   | IPR002213            | NA    | IPR002213            | IPR002213            | NA                                             | NA                   | NA                   | NA                   |
+| UGT2A2   | IPR002213            | NA    | NA                   | IPR002213            | NA                                             | NA                   | NA                   | NA                   |
+| UGT2A3   | IPR002213            | NA    | NA                   | NA                   | NA                                             | NA                   | NA                   | NA                   |
+| UGT2B10  | IPR002213            | NA    | NA                   | NA                   | NA                                             | NA                   | NA                   | NA                   |
+| UGT2B11  | IPR002213            | NA    | IPR002213            | IPR002213            | IPR002213                                      | IPR002213            | IPR002213            | NA                   |
+| UGT2B15  | IPR002213            | NA    | NA                   | NA                   | NA                                             | NA                   | NA                   | NA                   |
+| UGT2B17  | IPR002213            | NA    | NA                   | NA                   | NA                                             | NA                   | NA                   | NA                   |
+| UGT2B28  | IPR002213            | NA    | NA                   | NA                   | NA                                             | NA                   | NA                   | NA                   |
+| UGT2B4   | IPR002213            | NA    | NA                   | NA                   | NA                                             | NA                   | NA                   | NA                   |
+| UGT2B7   | IPR002213            | NA    | NA                   | NA                   | NA                                             | NA                   | NA                   | NA                   |
+| UGT3A1   | IPR002213            | NA    | IPR002213            | IPR002213            | NA                                             | NA                   | NA                   | NA                   |
+| UGT3A2   | IPR002213            | NA    | NA                   | NA                   | NA                                             | NA                   | NA                   | NA                   |
 
 ### `getAllCounts`
 
@@ -735,7 +736,7 @@ accessions which no families were found for in the given pathway
 | Protein Count                       | 10                         | 9                          | 9                          | 10                         | 34                         | 39                         | 3                          |
 | Family Count                        | 7                          | 7                          | 7                          | 5                          | 4                          | 4                          | 0                          |
 | Proteins Unmapped to families Count | 1                          | 1                          | 1                          | 4                          | 15                         | 12                         | 3                          |
-| Entity Count                        | 36                         | 9                          | 9                          | 7                          | 5                          | 5                          | 0                          |
+| Entity Count                        | 36                         | 9                          | 9                          | 7                          | 6                          | 5                          | 0                          |
 | Reaction Count                      | 16                         | 15                         | 15                         | 14                         | 7                          | 6                          | 0                          |
 
 ### `writeOutput`
