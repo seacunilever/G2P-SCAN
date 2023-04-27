@@ -91,7 +91,11 @@ coverage across the selected species, based on the number of orthologues
 genes, proteins, assigned/ unassigned families, and molecular entities
 and reactions associated to each pathway, ready for subsequent
 analysis.  
-**(cite paper)**
+*Rivetti, C., Houghton, J., Basili, D., Hodges, G. and Campos, B.
+(2023), Genes-to-Pathways Species Conservation Analysis: Enabling the
+Exploration of Conservation of Biological Pathways and Processes Across
+Species. Environ Toxicol Chem, 42: 1152-1166.
+<https://doi.org/10.1002/etc.5600>*
 
 Output of the pipeline includes a count summary data of each of the data
 type, genes, proteins, protein families, entities and reactions,

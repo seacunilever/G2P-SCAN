@@ -33,7 +33,7 @@ The pipeline consists of four different main steps:
 2. *Identifying orthology across species:* the pipeline determines the mapped orthologues for all annotated genes in the identified pathways in the other queried species (i.e. rat, mouse, fish, fruitfly, worm, yeast).  
 3. *Retrieving information to infer gene conservation and functionality*: protein families are inferred based on the gene sequences/domains and used as a proxy for their function and role within the pathway. This approach offers a more relevant metric of relative functional conservation within a given pathway, than the individual gene assessment. At this stage, the number of entities (i.e. nucleic acids, proteins, complexes and small molecules) and reactions (i.e. molecular events) from Reactome are also retrieved as a different metric to assess pathways conservation.  
 4. *Data output*: the pipeline organises the information showing pathway coverage across the selected species, based on the number of orthologues genes, proteins, assigned/ unassigned families, and molecular entities and reactions associated to each pathway, ready for subsequent analysis.    
-**(cite paper)**
+*Rivetti, C., Houghton, J., Basili, D., Hodges, G. and Campos, B. (2023), Genes-to-Pathways Species Conservation Analysis: Enabling the Exploration of Conservation of Biological Pathways and Processes Across Species. Environ Toxicol Chem, 42: 1152-1166. https://doi.org/10.1002/etc.5600*
 
 Output of the pipeline includes a count summary data of each of the data type, genes, proteins, protein families, entities and reactions, collected for each pathway and each species analysed. Lists of genes/orthologues, proteins and protein families which are counted can be saved for further analysis.
 
