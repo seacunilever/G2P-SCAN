@@ -133,13 +133,13 @@ checkSpecies <- function(species, functionName, includeHuman = FALSE) {
   if(includeHuman) {
     species_name <- c("Human", species_name)
   }
+  not_species <- species[!species %in% species_name]
   if(!is.null(species)) {
     checkClass(parameter = "species", value = species, classType = "character", functionName = functionName)
     species <- species_name[species_name %in% species ] # order species
   } else {
     species <- species_name
   }
-  not_species <- species[!species %in% species_name]
   
   if(length(not_species) > 0) {
     
