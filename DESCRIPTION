@@ -1,11 +1,12 @@
 Encoding: UTF-8
 Package: Genes2Pathways
 Type: Package
-Title: Genes To Pathways - Species Conservation Analysis (G2P-SCAN) 
-Author: Jade Houghton
+Title: Genes To Pathways - Species Conservation Analysis (G2P-SCAN)
+Authors@R: 
+    person("Jade", "Houghton", email = "Jade.Houghton@Unilever.com", role = c("aut", "cre"))
 Description: G2P-SCAN is a novel pipeline to mine available open access data sources to assist the functional extrapolation of human-derived toxicity effects at the pathway-level across 6 environmental relevant species. The package integrates data about species genomes together with functional families’ annotation based on protein domains and entities and reactions mapped to pathways.
-Version: 1.0
-RoxygenNote: 7.2.0
+Version: 1.1.0
+RoxygenNote: 7.3.1
 Suggests: httptest
 Depends: R (>= 3.5.0)
 Collate: 
@@ -21,6 +22,7 @@ Collate:
     'updateReactomeResource.R'
     'getPathways.R'
     'getUniprotData.R'
+    'plotOutputs.R'
     'runGenes2Pathways.R'
     'updateInterproHierarchy.R'
     'writeEntitiesReactions.R'
@@ -41,5 +43,9 @@ Imports:
     jsonlite, 
     foreach, 
     rprojroot, 
-    httr 
+    httr,
+    ggplot2,
+    ggpubr,
+    forcats,
+    stringi
 License: LGPL (>= 3)

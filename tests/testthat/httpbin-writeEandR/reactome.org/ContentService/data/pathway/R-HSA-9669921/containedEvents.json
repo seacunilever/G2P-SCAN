@@ -1,0 +1,36 @@
+[
+    {
+        "dbId": 9669898,
+        "displayName": "KIT mutants bind type I TKIs",
+        "stId": "R-HSA-9669898",
+        "stIdVersion": "R-HSA-9669898.1",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "KIT mutants bind type I TKIs"
+        ],
+        "releaseDate": "2020-06-10",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "binding",
+        "className": "Reaction",
+        "schemaClass": "Reaction"
+    },
+    {
+        "dbId": 9669900,
+        "displayName": "KIT mutants bind type II TKIs",
+        "stId": "R-HSA-9669900",
+        "stIdVersion": "R-HSA-9669900.1",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "KIT mutants bind type II TKIs"
+        ],
+        "releaseDate": "2020-06-10",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "binding",
+        "className": "Reaction",
+        "schemaClass": "Reaction"
+    }
+]

@@ -1,0 +1,36 @@
+[
+    {
+        "dbId": 1855217,
+        "displayName": "I(1,4,5)P3 transports from the ER lumen to the cytosol",
+        "stId": "R-HSA-1855217",
+        "stIdVersion": "R-HSA-1855217.2",
+        "isInDisease": false,
+        "isInferred": false,
+        "name": [
+            "I(1,4,5)P3 transports from the ER lumen to the cytosol"
+        ],
+        "releaseDate": "2012-12-04",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "transition",
+        "className": "Reaction",
+        "schemaClass": "Reaction"
+    },
+    {
+        "dbId": 1855155,
+        "displayName": "I(1,3,4,5,6)P5 transports from the ER lumen to the cytosol",
+        "stId": "R-HSA-1855155",
+        "stIdVersion": "R-HSA-1855155.2",
+        "isInDisease": false,
+        "isInferred": false,
+        "name": [
+            "I(1,3,4,5,6)P5 transports from the ER lumen to the cytosol"
+        ],
+        "releaseDate": "2012-12-04",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "transition",
+        "className": "Reaction",
+        "schemaClass": "Reaction"
+    }
+]

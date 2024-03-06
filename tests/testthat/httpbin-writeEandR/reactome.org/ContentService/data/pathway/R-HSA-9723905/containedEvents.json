@@ -1,0 +1,19 @@
+[
+    {
+        "dbId": 9723906,
+        "displayName": "Defective TP53 does not tetramerize",
+        "stId": "R-HSA-9723906",
+        "stIdVersion": "R-HSA-9723906.1",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "Defective TP53 does not tetramerize"
+        ],
+        "releaseDate": "2021-06-09",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "transition",
+        "className": "Reaction",
+        "schemaClass": "FailedReaction"
+    }
+]

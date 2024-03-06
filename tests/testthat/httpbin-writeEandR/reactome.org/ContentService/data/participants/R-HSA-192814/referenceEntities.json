@@ -1,0 +1,624 @@
+[
+    {
+        "dbId": 169115,
+        "displayName": "UniProt:P03431 PB1",
+        "databaseName": "UniProt",
+        "identifier": "P03431",
+        "name": [
+            "PB1"
+        ],
+        "url": "http://purl.uniprot.org/uniprot/P03431",
+        "checksum": "FB23E4976E06C18F",
+        "comment": [
+            "FUNCTION RNA-dependent RNA polymerase which is responsible for replication and transcription of virus RNA segments. The transcription of viral mRNAs occurs by a unique mechanism called cap-snatching. 5' methylated caps of cellular mRNAs are cleaved after 10-13 nucleotides by PA. In turn, these short capped RNAs are used as primers by PB1 for transcription of viral mRNAs. During virus replication, PB1 initiates RNA synthesis and copy vRNA into complementary RNA (cRNA) which in turn serves as a template for the production of more vRNAs.SUBUNIT Influenza RNA polymerase is composed of three subunits: PB1, PB2 and PA. Interacts (via N-terminus) with PA (via C-terminus). Interacts (via C-terminus) with PB2 (via N-terminus); this interaction is essential for transcription initiation.PTM Phosphorylated by host PRKCA.SIMILARITY Belongs to the influenza viruses polymerase PB1 family."
+        ],
+        "description": [
+            "recommendedName: fullName evidence=\"1\"RNA-directed RNA polymerase catalytic subunit ecNumber evidence=\"1\"2.7.7.48/ecNumber  alternativeName: fullName evidence=\"1\"Polymerase basic protein 1 shortName evidence=\"1\"PB1  alternativeName: fullName evidence=\"1\"RNA-directed RNA polymerase subunit P1 "
+        ],
+        "geneName": [
+            "PB1"
+        ],
+        "isSequenceChanged": false,
+        "keyword": [
+            "3D-structure",
+            "Eukaryotic host gene expression shutoff by virus",
+            "Eukaryotic host transcription shutoff by virus",
+            "Host cytoplasm",
+            "Host gene expression shutoff by virus",
+            "Host nucleus",
+            "Host-virus interaction",
+            "Inhibition of host RNA polymerase II by virus",
+            "Nucleotide-binding",
+            "Nucleotidyltransferase",
+            "Phosphoprotein",
+            "Reference proteome",
+            "RNA-directed RNA polymerase",
+            "Transferase",
+            "Viral RNA replication",
+            "Viral transcription"
+        ],
+        "secondaryIdentifier": [
+            "RDRP_I34A1",
+            "A4GXH1",
+            "Q20N30",
+            "Q8JUU7"
+        ],
+        "sequenceLength": 757,
+        "chain": [
+            "chain:1-757"
+        ],
+        "schemaClass": "ReferenceGeneProduct",
+        "className": "ReferenceGeneProduct"
+    },
+    {
+        "dbId": 169094,
+        "displayName": "UniProt:P03428 PB2",
+        "databaseName": "UniProt",
+        "identifier": "P03428",
+        "name": [
+            "PB2"
+        ],
+        "url": "http://purl.uniprot.org/uniprot/P03428",
+        "checksum": "10D2D1608AE536D2",
+        "comment": [
+            "FUNCTION Plays an essential role in transcription initiation and cap-stealing mechanism, in which cellular capped pre-mRNAs are used to generate primers for viral transcription. Recognizes and binds the 7-methylguanosine-containing cap of the target pre-RNA which is subsequently cleaved after 10-13 nucleotides by the viral protein PA. Plays a role in the initiation of the viral genome replication and modulates the activity of the ribonucleoprotein (RNP) complex. In addition, participates in the inhibition of type I interferon induction through interaction with and inhibition of the host mitochondrial antiviral signaling protein MAVS.SUBUNIT Influenza RNA polymerase is composed of three subunits: PB1, PB2 and PA. Interacts (via N-terminus) with PB1 (via C-terminus). Interacts with nucleoprotein NP (via N-terminus). Interacts (via N-terminus) with host MAVS (via N-terminus); this interaction inhibits host innate immune response.SIMILARITY Belongs to the influenza viruses PB2 family."
+        ],
+        "description": [
+            "recommendedName: fullName evidence=\"2\"Polymerase basic protein 2  alternativeName: fullName evidence=\"2\"RNA-directed RNA polymerase subunit P3 "
+        ],
+        "geneName": [
+            "PB2"
+        ],
+        "isSequenceChanged": false,
+        "keyword": [
+            "3D-structure",
+            "Alternative splicing",
+            "Cap snatching",
+            "Eukaryotic host gene expression shutoff by virus",
+            "Eukaryotic host transcription shutoff by virus",
+            "Host gene expression shutoff by virus",
+            "Host mitochondrion",
+            "Host nucleus",
+            "Host-virus interaction",
+            "Inhibition of host innate immune response by virus",
+            "Inhibition of host MAVS by virus",
+            "Inhibition of host RLR pathway by virus",
+            "Inhibition of host RNA polymerase II by virus",
+            "mRNA capping",
+            "mRNA processing",
+            "Reference proteome",
+            "Viral immunoevasion",
+            "Viral transcription",
+            "Virion"
+        ],
+        "secondaryIdentifier": [
+            "PB2_I34A1",
+            "A4GXH0",
+            "Q20N28",
+            "Q8JUU8"
+        ],
+        "sequenceLength": 759,
+        "chain": [
+            "chain:1-759"
+        ],
+        "schemaClass": "ReferenceGeneProduct",
+        "className": "ReferenceGeneProduct"
+    },
+    {
+        "dbId": 169114,
+        "displayName": "UniProt:P03433 PA",
+        "databaseName": "UniProt",
+        "identifier": "P03433",
+        "name": [
+            "PA"
+        ],
+        "url": "http://purl.uniprot.org/uniprot/P03433",
+        "checksum": "8829F53525814394",
+        "comment": [
+            "FUNCTION Plays an essential role in viral RNA transcription and replication by forming the heterotrimeric polymerase complex together with PB1 and PB2 subunits. The complex transcribes viral mRNAs by using a unique mechanism called cap-snatching. It consists in the hijacking and cleavage of host capped pre-mRNAs. These short capped RNAs are then used as primers for viral mRNAs. The PB2 subunit is responsible for the binding of the 5' cap of cellular pre-mRNAs which are subsequently cleaved after 10-13 nucleotides by the PA subunit that carries the endonuclease activity.SUBUNIT Influenza RNA polymerase is composed of three subunits: PB1, PB2 and PA. Interacts (via C-terminus) with PB1 (via N-terminus).PTM Phosphorylated on serines and threonines by host kinases, including human casein kinase II.SIMILARITY Belongs to the influenza viruses PA family."
+        ],
+        "description": [
+            "recommendedName: fullName evidence=\"1\"Polymerase acidic protein ecNumber evidence=\"1\"3.1.-.-/ecNumber  alternativeName: fullName evidence=\"1\"RNA-directed RNA polymerase subunit P2 "
+        ],
+        "geneName": [
+            "PA"
+        ],
+        "isSequenceChanged": false,
+        "keyword": [
+            "3D-structure",
+            "Cap snatching",
+            "Endonuclease",
+            "Eukaryotic host gene expression shutoff by virus",
+            "Eukaryotic host transcription shutoff by virus",
+            "Host cytoplasm",
+            "Host gene expression shutoff by virus",
+            "Host nucleus",
+            "Host-virus interaction",
+            "Hydrolase",
+            "Inhibition of host RNA polymerase II by virus",
+            "Manganese",
+            "Metal-binding",
+            "Nuclease",
+            "Phosphoprotein",
+            "Reference proteome",
+            "Ribosomal frameshifting"
+        ],
+        "secondaryIdentifier": [
+            "PA_I34A1",
+            "A4GXH3",
+            "Q20N31",
+            "Q8JUU6"
+        ],
+        "sequenceLength": 716,
+        "chain": [
+            "chain:1-716"
+        ],
+        "schemaClass": "ReferenceGeneProduct",
+        "className": "ReferenceGeneProduct"
+    },
+    {
+        "dbId": 169085,
+        "displayName": "UniProt:P03466 NP",
+        "databaseName": "UniProt",
+        "identifier": "P03466",
+        "name": [
+            "NP"
+        ],
+        "url": "http://purl.uniprot.org/uniprot/P03466",
+        "checksum": "4F750FEF05D6E668",
+        "comment": [
+            "FUNCTION Encapsidates the negative strand viral RNA, protecting it from nucleases. The encapsidated genomic RNA is termed the ribonucleoprotein (RNP) and serves as template for transcription and replication. The RNP needs to be localized in the host nucleus to start an infectious cycle, but is too large to diffuse through the nuclear pore complex. NP comprises at least 2 nuclear localization signals that are responsible for the active RNP import into the nucleus through cellular importin alpha/beta pathway. Later in the infection, nclear export of RNPs are mediated through viral proteins NEP interacting with M1 which binds nucleoproteins. It is possible that nucleoprotein binds directly host exportin-1/XPO1 and plays an active role in RNPs nuclear export. M1 interaction with RNP seems to hide nucleoprotein's nuclear localization signals. Soon after a virion infects a new cell, M1 dissociates from the RNP under acidification of the virion driven by M2 protein. Dissociation of M1 from RNP unmasks nucleoprotein's nuclear localization signals, targeting the RNP to the nucleus.SUBUNIT Homomultimerizes to form the nucleocapsid. May bind host exportin-1/XPO1. Binds to viral genomic RNA. Protein-RNA contacts are mediated by a combination of electrostatic interactions between positively charged residues and the phosphate backbone and planar interactions between aromatic side chains and bases.PTM Late in virus-infected cells, may be cleaved from a 56-kDa protein to a 53-kDa protein by a cellular caspase. This cleavage might be a marker for the onset of apoptosis in infected cells or have a specific function in virus host interaction.SIMILARITY Belongs to the influenza viruses nucleoprotein family."
+        ],
+        "description": [
+            "recommendedName: fullName evidence=\"1\"Nucleoprotein  alternativeName: fullName evidence=\"1\"Nucleocapsid protein shortName evidence=\"1\"Protein N "
+        ],
+        "geneName": [
+            "NP"
+        ],
+        "isSequenceChanged": false,
+        "keyword": [
+            "3D-structure",
+            "Capsid protein",
+            "Helical capsid protein",
+            "Host nucleus",
+            "Host-virus interaction",
+            "Reference proteome",
+            "Ribonucleoprotein",
+            "RNA-binding",
+            "Viral nucleoprotein",
+            "Viral penetration into host nucleus",
+            "Virion",
+            "Virus entry into host cell"
+        ],
+        "secondaryIdentifier": [
+            "NCAP_I34A1",
+            "Q20N34",
+            "Q58NB3",
+            "Q67228",
+            "Q80AB4"
+        ],
+        "sequenceLength": 498,
+        "chain": [
+            "chain:1-498"
+        ],
+        "schemaClass": "ReferenceGeneProduct",
+        "className": "ReferenceGeneProduct"
+    },
+    {
+        "dbId": 9737137,
+        "displayName": "CTP(4-) [ChEBI:37563]",
+        "databaseName": "ChEBI",
+        "identifier": "37563",
+        "name": [
+            "CTP(4-)",
+            "ctp",
+            "cytidine 5'-triphosphate(4-)",
+            "CTP"
+        ],
+        "url": "http://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:37563",
+        "formula": "C9H12N3O14P3",
+        "schemaClass": "ReferenceMolecule",
+        "className": "ReferenceMolecule"
+    },
+    {
+        "dbId": 8869364,
+        "displayName": "ATP(4-) [ChEBI:30616]",
+        "databaseName": "ChEBI",
+        "identifier": "30616",
+        "name": [
+            "ATP(4-)",
+            "ATP",
+            "atp",
+            "Adenosine 5'-triphosphate"
+        ],
+        "url": "http://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:30616",
+        "formula": "C10H12N5O13P3",
+        "schemaClass": "ReferenceMolecule",
+        "className": "ReferenceMolecule"
+    },
+    {
+        "dbId": 9737136,
+        "displayName": "UTP(4-) [ChEBI:46398]",
+        "databaseName": "ChEBI",
+        "identifier": "46398",
+        "name": [
+            "UTP(4-)",
+            "UTP",
+            "utp",
+            "uridine 5'-triphosphate(4-)",
+            "URIDINE 5'-TRIPHOSPHATE"
+        ],
+        "url": "http://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:46398",
+        "formula": "C9H11N2O15P3",
+        "schemaClass": "ReferenceMolecule",
+        "className": "ReferenceMolecule"
+    },
+    {
+        "dbId": 9736415,
+        "displayName": "GTP(4-) [ChEBI:37565]",
+        "databaseName": "ChEBI",
+        "identifier": "37565",
+        "name": [
+            "GTP(4-)",
+            "GTP",
+            "gtp",
+            "guanosine 5'-triphosphate(4-)"
+        ],
+        "url": "http://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:37565",
+        "formula": "C10H12N5O14P3",
+        "schemaClass": "ReferenceMolecule",
+        "className": "ReferenceMolecule"
+    },
+    {
+        "dbId": 188837,
+        "displayName": "EMBL:AF389118 Unknown",
+        "databaseName": "EMBL",
+        "identifier": "AF389118",
+        "name": [
+            "H1N1 Genomic RNA Segment 4"
+        ],
+        "url": "http://www.ebi.ac.uk/ena/data/view/AF389118",
+        "description": [
+            "Influenza A virus (A/Puerto Rico/8/34/Mount Sinai(H1N1)) segment 4, complete sequence."
+        ],
+        "schemaClass": "ReferenceRNASequence",
+        "className": "ReferenceRNASequence"
+    },
+    {
+        "dbId": 192992,
+        "displayName": "EMBL:AF389122 NS",
+        "databaseName": "EMBL",
+        "identifier": "AF389122",
+        "name": [
+            "NS1 mRNA"
+        ],
+        "url": "http://www.ebi.ac.uk/ena/data/view/AF389122",
+        "geneName": [
+            "NS"
+        ],
+        "schemaClass": "ReferenceRNASequence",
+        "className": "ReferenceRNASequence"
+    },
+    {
+        "dbId": 188862,
+        "displayName": "EMBL:AF389120 Unknown",
+        "databaseName": "EMBL",
+        "identifier": "AF389120",
+        "name": [
+            "H1N1 Genomic RNA Segment 6"
+        ],
+        "url": "http://www.ebi.ac.uk/ena/data/view/AF389120",
+        "description": [
+            "Influenza A virus (A/Puerto Rico/8/34/Mount Sinai(H1N1)) segment 6, complete sequence."
+        ],
+        "schemaClass": "ReferenceRNASequence",
+        "className": "ReferenceRNASequence"
+    },
+    {
+        "dbId": 188854,
+        "displayName": "EMBL:AF389117 Unknown",
+        "databaseName": "EMBL",
+        "identifier": "AF389117",
+        "name": [
+            "H1N1 Genomic RNA Segment 3"
+        ],
+        "url": "http://www.ebi.ac.uk/ena/data/view/AF389117",
+        "description": [
+            "Influenza A virus (A/Puerto Rico/8/34/Mount Sinai(H1N1)) segment 3, complete sequence."
+        ],
+        "schemaClass": "ReferenceRNASequence",
+        "className": "ReferenceRNASequence"
+    },
+    {
+        "dbId": 188836,
+        "displayName": "EMBL:AF389119 Unknown",
+        "databaseName": "EMBL",
+        "identifier": "AF389119",
+        "name": [
+            "H1N1 Genomic RNA Segment 5"
+        ],
+        "url": "http://www.ebi.ac.uk/ena/data/view/AF389119",
+        "description": [
+            "Influenza A virus (A/Puerto Rico/8/34/Mount Sinai(H1N1)) segment 5, complete sequence."
+        ],
+        "schemaClass": "ReferenceRNASequence",
+        "className": "ReferenceRNASequence"
+    },
+    {
+        "dbId": 188870,
+        "displayName": "EMBL:AF389115 Unknown",
+        "databaseName": "EMBL",
+        "identifier": "AF389115",
+        "name": [
+            "H1N1 Genomic RNA Segment 1"
+        ],
+        "url": "http://www.ebi.ac.uk/ena/data/view/AF389115",
+        "description": [
+            "Influenza A virus (A/Puerto Rico/8/34/Mount Sinai(H1N1)) segment 1, complete sequence"
+        ],
+        "schemaClass": "ReferenceRNASequence",
+        "className": "ReferenceRNASequence"
+    },
+    {
+        "dbId": 188847,
+        "displayName": "EMBL:AF389116 Unknown",
+        "databaseName": "EMBL",
+        "identifier": "AF389116",
+        "name": [
+            "H1N1 Genomic RNA Segment 2"
+        ],
+        "url": "http://www.ebi.ac.uk/ena/data/view/AF389116",
+        "description": [
+            "Influenza A virus (A/Puerto Rico/8/34/Mount Sinai(H1N1)) segment 2, complete sequence."
+        ],
+        "schemaClass": "ReferenceRNASequence",
+        "className": "ReferenceRNASequence"
+    },
+    {
+        "dbId": 188873,
+        "displayName": "EMBL:AF389121 Unknown",
+        "databaseName": "EMBL",
+        "identifier": "AF389121",
+        "name": [
+            "H1N1 Genomic RNA Segment 7"
+        ],
+        "url": "http://www.ebi.ac.uk/ena/data/view/AF389121",
+        "description": [
+            "Influenza A virus (A/Puerto Rico/8/34/Mount Sinai(H1N1)) segment 7, complete sequence."
+        ],
+        "schemaClass": "ReferenceRNASequence",
+        "className": "ReferenceRNASequence"
+    },
+    {
+        "dbId": 62070,
+        "displayName": "UniProt:P09874 PARP1",
+        "databaseName": "UniProt",
+        "identifier": "P09874",
+        "name": [
+            "PARP1"
+        ],
+        "otherIdentifier": [
+            "11726247_s_at",
+            "11726248_x_at",
+            "11726249_a_at",
+            "11745950_a_at",
+            "1287_at",
+            "142",
+            "16699739",
+            "208644_at",
+            "2458786",
+            "2458787",
+            "2458788",
+            "2458789",
+            "2458790",
+            "2458791",
+            "2458792",
+            "2458796",
+            "2458797",
+            "2458801",
+            "2458803",
+            "2458805",
+            "2458806",
+            "2458808",
+            "2458810",
+            "2458813",
+            "2458816",
+            "2458817",
+            "2458818",
+            "2458819",
+            "2458820",
+            "2458821",
+            "2458823",
+            "2458825",
+            "2458827",
+            "2458828",
+            "2458829",
+            "2458832",
+            "2458838",
+            "2458839",
+            "2458840",
+            "3501577",
+            "3501611",
+            "3539486",
+            "3539490",
+            "3539492",
+            "3539496",
+            "41146_at",
+            "7924733",
+            "A_33_P3236921",
+            "A_33_P3290338",
+            "GE81045",
+            "GO:0000122",
+            "GO:0000715",
+            "GO:0000717",
+            "GO:0000723",
+            "GO:0000724",
+            "GO:0000781",
+            "GO:0002376",
+            "GO:0003674",
+            "GO:0003677",
+            "GO:0003723",
+            "GO:0003950",
+            "GO:0005515",
+            "GO:0005575",
+            "GO:0005622",
+            "GO:0005634",
+            "GO:0005635",
+            "GO:0005654",
+            "GO:0005667",
+            "GO:0005694",
+            "GO:0005730",
+            "GO:0005737",
+            "GO:0005739",
+            "GO:0006259",
+            "GO:0006281",
+            "GO:0006287",
+            "GO:0006293",
+            "GO:0006294",
+            "GO:0006295",
+            "GO:0006296",
+            "GO:0006302",
+            "GO:0006366",
+            "GO:0006464",
+            "GO:0006471",
+            "GO:0006915",
+            "GO:0006950",
+            "GO:0006974",
+            "GO:0007005",
+            "GO:0007165",
+            "GO:0007179",
+            "GO:0008134",
+            "GO:0008150",
+            "GO:0008219",
+            "GO:0008270",
+            "GO:0009058",
+            "GO:0010332",
+            "GO:0010613",
+            "GO:0010990",
+            "GO:0016020",
+            "GO:0016540",
+            "GO:0016604",
+            "GO:0016740",
+            "GO:0016757",
+            "GO:0018312",
+            "GO:0018424",
+            "GO:0019899",
+            "GO:0019901",
+            "GO:0022607",
+            "GO:0023019",
+            "GO:0030154",
+            "GO:0030225",
+            "GO:0030331",
+            "GO:0030592",
+            "GO:0032042",
+            "GO:0032869",
+            "GO:0032991",
+            "GO:0032993",
+            "GO:0033148",
+            "GO:0033683",
+            "GO:0034599",
+            "GO:0034641",
+            "GO:0034644",
+            "GO:0035861",
+            "GO:0036211",
+            "GO:0042592",
+            "GO:0042769",
+            "GO:0042802",
+            "GO:0042826",
+            "GO:0043167",
+            "GO:0043226",
+            "GO:0043504",
+            "GO:0044030",
+            "GO:0044281",
+            "GO:0045944",
+            "GO:0046332",
+            "GO:0046872",
+            "GO:0047485",
+            "GO:0048856",
+            "GO:0050790",
+            "GO:0051276",
+            "GO:0051287",
+            "GO:0051604",
+            "GO:0051901",
+            "GO:0060391",
+            "GO:0065003",
+            "GO:0070212",
+            "GO:0070213",
+            "GO:0070412",
+            "GO:0070911",
+            "GO:0071294",
+            "GO:0071560",
+            "GO:0090734",
+            "GO:0140294",
+            "GO:1900182",
+            "GO:1901216",
+            "GO:1903376",
+            "GO:1903518",
+            "GO:1903827",
+            "GO:1904044",
+            "GO:1904357",
+            "GO:1904646",
+            "GO:1904762",
+            "GO:1905168",
+            "GO:1990404",
+            "GO:1990966",
+            "GO:2000679",
+            "GO:2001170",
+            "HMNXSV003052846",
+            "J03473_at",
+            "PH_hs_0010559",
+            "TC01003876.hg",
+            "g190266_3p_at"
+        ],
+        "url": "http://purl.uniprot.org/uniprot/P09874",
+        "checksum": "6A5FC01EB91C046B",
+        "comment": [
+            "FUNCTION Poly-ADP-ribosyltransferase that mediates poly-ADP-ribosylation of proteins and plays a key role in DNA repair (PubMed:17177976, PubMed:18172500, PubMed:19344625, PubMed:19661379, PubMed:23230272, PubMed:25043379, PubMed:33186521, PubMed:32028527, PubMed:26344098). Mediates glutamate, aspartate, serine or tyrosine ADP-ribosylation of proteins: the ADP-D-ribosyl group of NAD(+) is transferred to the acceptor carboxyl group of target residues and further ADP-ribosyl groups are transferred to the 2'-position of the terminal adenosine moiety, building up a polymer with an average chain length of 20-30 units (PubMed:7852410, PubMed:9315851, PubMed:19764761, PubMed:25043379, PubMed:28190768, PubMed:29954836). Serine ADP-ribosylation of proteins constitutes the primary form of ADP-ribosylation of proteins in response to DNA damage (PubMed:33186521). Mainly mediates glutamate and aspartate ADP-ribosylation of target proteins in absence of HPF1 (PubMed:19764761, PubMed:25043379). Following interaction with HPF1, catalyzes serine ADP-ribosylation of target proteins; HPF1 conferring serine specificity by completing the PARP1 active site (PubMed:28190768, PubMed:29954836, PubMed:33186521, PubMed:32028527). Also catalyzes tyrosine ADP-ribosylation of target proteins following interaction with HPF1 (PubMed:30257210, PubMed:29954836). PARP1 initiates the repair of DNA breaks: recognizes and binds DNA breaks within chromatin and recruits HPF1, licensing serine ADP-ribosylation of target proteins, such as histones, thereby promoting decompaction of chromatin and the recruitment of repair factors leading to the reparation of DNA strand breaks (PubMed:17177976, PubMed:18172500, PubMed:19344625, PubMed:19661379, PubMed:23230272, PubMed:27067600). In addition to base excision repair (BER) pathway, also involved in double-strand breaks (DSBs) repair: together with TIMELESS, accumulates at DNA damage sites and promotes homologous recombination repair by mediating poly-ADP-ribosylation (PubMed:26344098, PubMed:30356214). Mediates the poly(ADP-ribosyl)ation of a number of proteins, including itself, APLF and CHFR (PubMed:17396150, PubMed:19764761). In addition to proteins, also able to ADP-ribosylate DNA: catalyzes ADP-ribosylation of DNA strand break termini containing terminal phosphates and a 2'-OH group in single- and double-stranded DNA, respectively (PubMed:27471034). Required for PARP9 and DTX3L recruitment to DNA damage sites (PubMed:23230272). PARP1-dependent PARP9-DTX3L-mediated ubiquitination promotes the rapid and specific recruitment of 53BP1/TP53BP1, UIMC1/RAP80, and BRCA1 to DNA damage sites (PubMed:23230272). Acts as a regulator of transcription: positively regulates the transcription of MTUS1 and negatively regulates the transcription of MTUS2/TIP150 (PubMed:19344625). Plays a role in the positive regulation of IFNG transcription in T-helper 1 cells as part of an IFNG promoter-binding complex with TXK and EEF1A1 (PubMed:17177976). Involved in the synthesis of ATP in the nucleus, together with NMNAT1, PARG and NUDT5 (PubMed:27257257). Nuclear ATP generation is required for extensive chromatin remodeling events that are energy-consuming (PubMed:27257257).SUBUNIT Homo- and heterodimer with PARP2. Interacts with APTX (PubMed:15044383). Component of a base excision repair (BER) complex, containing at least XRCC1, PARP1, PARP2, POLB and LRIG3 (By similarity). Interacts with SRY (PubMed:16904257). The SWAP complex consists of NPM1, NCL, PARP1 and SWAP70 (By similarity). Interacts with TIAM2 (By similarity). Interacts with PARP3; leading to activate PARP1 in absence of DNA (PubMed:20064938). Interacts (when poly-ADP-ribosylated) with CHD1L (via macro domain) (PubMed:19661379, PubMed:29220653). Interacts with the DNA polymerase alpha catalytic subunit POLA1; this interaction functions as part of the control of replication fork progression (PubMed:9518481). Interacts with EEF1A1 and TXK (PubMed:17177976). Interacts with RNF4 (PubMed:19779455). Interacts with RNF146 (PubMed:21799911). Interacts with ZNF423 (PubMed:22863007). Interacts with APLF (PubMed:17396150). Interacts with SNAI1 (via zinc fingers); the interaction requires SNAI1 to be poly-ADP-ribosylated and non-phosphorylated (active) by GSK3B (PubMed:21577210). Interacts (when poly-ADP-ribosylated) with PARP9 (PubMed:23230272). Interacts with NR4A3; activates PARP1 by improving acetylation of PARP1 and suppressing the interaction between PARP1 and SIRT1 (By similarity). Interacts (via catalytic domain) with PUM3; the interaction inhibits the poly-ADP-ribosylation activity of PARP1 and the degradation of PARP1 by CASP3 following genotoxic stress (PubMed:21266351). Interacts (via the PARP catalytic domain) with HPF1 (PubMed:27067600, PubMed:28190768, PubMed:29954836, PubMed:32028527). Interacts with ZNF365 (PubMed:23966166). Interacts with RRP1B (PubMed:19710015). Interacts with TIMELESS; the interaction is direct (PubMed:26344098). Interacts with CGAS; leading to impede the formation of the PARP1-TIMELESS complex (PubMed:30356214).DOMAIN The N-terminal disordered region does not act as a key DNA-binding domain. The WGR and PARP catalytic domains function together to recruit PARP1 to sites of DNA breaks. The N-terminal disordered region is only required for activation on specific types of DNA damage.DOMAIN The WGR domain bridges two nucleosomes, with the broken DNA aligned in a position suitable for ligation. The bridging induces structural changes in PARP1 that signal the recognition of a DNA break to the catalytic domain of PARP1, promoting HPF1 recruitment and subsequent activation of PARP1, licensing serine ADP-ribosylation of target proteins.PTM Poly-ADP-ribosylated on glutamate and aspartate residues by autocatalysis (PubMed:19764761). Poly-ADP-ribosylated by PARP2; poly-ADP-ribosylation mediates the recruitment of CHD1L to DNA damage sites (PubMed:19661379). ADP-ribosylated on serine by autocatalysis; serine ADP-ribosylation takes place following interaction with HPF1 (PubMed:28190768). Auto poly-ADP-ribosylated on serine residues, leading to dissociation of the PARP1-HPF1 complex from chromatin (By similarity).PTM Phosphorylated by PRKDC (PubMed:10467406). Phosphorylated by TXK (PubMed:17177976).PTM S-nitrosylated, leading to inhibit transcription regulation activity.SIMILARITY Belongs to the ARTD/PARP family."
+        ],
+        "description": [
+            "recommendedName: Poly [ADP-ribose] polymerase 1 shortName:PARP-1 ecNumber evidence=\"18 22 31 32 36 44\"2.4.2.30/ecNumber  alternativeName: fullName evidence=\"50\"ADP-ribosyltransferase diphtheria toxin-like 1 shortName evidence=\"50\"ARTD1  alternativeName: fullName evidence=\"52\"DNA ADP-ribosyltransferase PARP1 ecNumber evidence=\"35\"2.4.2.-/ecNumber  alternativeName: fullName evidence=\"51\"NAD(+) ADP-ribosyltransferase 1 shortName evidence=\"51\"ADPRT 1  alternativeName: Poly[ADP-ribose] synthase 1  alternativeName: fullName evidence=\"52\"Protein poly-ADP-ribosyltransferase PARP1 ecNumber evidence=\"22 31\"2.4.2.-/ecNumber "
+        ],
+        "geneName": [
+            "PARP1",
+            "ADPRT",
+            "PPOL"
+        ],
+        "isSequenceChanged": false,
+        "keyword": [
+            "3D-structure",
+            "Acetylation",
+            "ADP-ribosylation",
+            "Chromosome",
+            "Direct protein sequencing",
+            "DNA damage",
+            "DNA repair",
+            "DNA-binding",
+            "Glycosyltransferase",
+            "Isopeptide bond",
+            "Metal-binding",
+            "NAD",
+            "Nucleus",
+            "Phosphoprotein",
+            "Reference proteome",
+            "Repeat",
+            "Transcription",
+            "Transcription regulation",
+            "Transferase",
+            "Ubl conjugation",
+            "Zinc",
+            "Zinc-finger"
+        ],
+        "secondaryIdentifier": [
+            "PARP1_HUMAN",
+            "B1ANJ4",
+            "Q8IUZ9"
+        ],
+        "sequenceLength": 1014,
+        "chain": [
+            "initiator methionine:1",
+            "chain:2-1014"
+        ],
+        "schemaClass": "ReferenceGeneProduct",
+        "className": "ReferenceGeneProduct"
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "dbId": 9669859,
+        "displayName": "Imatinib-resistant KIT mutants do not bind imatinib",
+        "stId": "R-HSA-9669859",
+        "stIdVersion": "R-HSA-9669859.1",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "Imatinib-resistant KIT mutants do not bind imatinib"
+        ],
+        "releaseDate": "2020-06-10",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "transition",
+        "className": "Reaction",
+        "schemaClass": "FailedReaction"
+    }
+]

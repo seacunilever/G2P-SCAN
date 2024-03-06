@@ -1,0 +1,18 @@
+[
+    {
+        "dbId": 2317387,
+        "displayName": "PTEN cancer mutants do not dephosphorylate PIP3",
+        "stId": "R-HSA-2317387",
+        "stIdVersion": "R-HSA-2317387.4",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "PTEN cancer mutants do not dephosphorylate PIP3"
+        ],
+        "releaseDate": "2012-09-18",
+        "speciesName": "Homo sapiens",
+        "category": "transition",
+        "className": "Reaction",
+        "schemaClass": "FailedReaction"
+    }
+]

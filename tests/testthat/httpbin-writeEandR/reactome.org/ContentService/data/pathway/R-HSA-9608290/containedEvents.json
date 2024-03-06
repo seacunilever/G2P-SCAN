@@ -1,0 +1,19 @@
+[
+    {
+        "dbId": 9605313,
+        "displayName": "Defective MUTYH mutants do not cleave adenine mispaired with 8-oxoguanine",
+        "stId": "R-HSA-9605313",
+        "stIdVersion": "R-HSA-9605313.1",
+        "isInDisease": true,
+        "isInferred": true,
+        "name": [
+            "Defective MUTYH mutants do not cleave adenine mispaired with 8-oxoguanine"
+        ],
+        "releaseDate": "2018-09-12",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "transition",
+        "className": "Reaction",
+        "schemaClass": "FailedReaction"
+    }
+]

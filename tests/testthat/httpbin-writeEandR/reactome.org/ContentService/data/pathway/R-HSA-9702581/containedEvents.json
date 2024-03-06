@@ -1,0 +1,19 @@
+[
+    {
+        "dbId": 9702583,
+        "displayName": "crenolanib-resistant FLT3 mutants don't bind crenolanib",
+        "stId": "R-HSA-9702583",
+        "stIdVersion": "R-HSA-9702583.1",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "crenolanib-resistant FLT3 mutants don't bind crenolanib"
+        ],
+        "releaseDate": "2020-12-08",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "transition",
+        "className": "Reaction",
+        "schemaClass": "FailedReaction"
+    }
+]

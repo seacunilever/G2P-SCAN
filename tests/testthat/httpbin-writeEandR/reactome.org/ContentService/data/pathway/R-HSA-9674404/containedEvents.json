@@ -1,0 +1,19 @@
+[
+    {
+        "dbId": 9674414,
+        "displayName": "Sorafenib-resistant PDGFR mutants don't bind sorefenib",
+        "stId": "R-HSA-9674414",
+        "stIdVersion": "R-HSA-9674414.1",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "Sorafenib-resistant PDGFR mutants don't bind sorefenib"
+        ],
+        "releaseDate": "2020-03-17",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "transition",
+        "className": "Reaction",
+        "schemaClass": "FailedReaction"
+    }
+]

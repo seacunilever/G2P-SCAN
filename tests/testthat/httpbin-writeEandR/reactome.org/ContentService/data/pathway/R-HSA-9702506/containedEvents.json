@@ -1,0 +1,478 @@
+[
+    {
+        "dbId": 9702581,
+        "displayName": "crenolanib-resistant FLT3 mutants",
+        "stId": "R-HSA-9702581",
+        "stIdVersion": "R-HSA-9702581.1",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "crenolanib-resistant FLT3 mutants"
+        ],
+        "releaseDate": "2020-12-08",
+        "speciesName": "Homo sapiens",
+        "hasDiagram": true,
+        "hasEHLD": false,
+        "schemaClass": "Pathway",
+        "className": "Pathway"
+    },
+    {
+        "dbId": 9702583,
+        "displayName": "crenolanib-resistant FLT3 mutants don't bind crenolanib",
+        "stId": "R-HSA-9702583",
+        "stIdVersion": "R-HSA-9702583.1",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "crenolanib-resistant FLT3 mutants don't bind crenolanib"
+        ],
+        "releaseDate": "2020-12-08",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "transition",
+        "className": "Reaction",
+        "schemaClass": "FailedReaction"
+    },
+    {
+        "dbId": 9702614,
+        "displayName": "ponatinib-resistant FLT3 mutants",
+        "stId": "R-HSA-9702614",
+        "stIdVersion": "R-HSA-9702614.1",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "ponatinib-resistant FLT3 mutants"
+        ],
+        "releaseDate": "2020-12-08",
+        "speciesName": "Homo sapiens",
+        "hasDiagram": true,
+        "hasEHLD": false,
+        "schemaClass": "Pathway",
+        "className": "Pathway"
+    },
+    {
+        "dbId": 9702613,
+        "displayName": "ponatinib-resistant FLT3 mutants don't bind ponatinib",
+        "stId": "R-HSA-9702613",
+        "stIdVersion": "R-HSA-9702613.1",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "ponatinib-resistant FLT3 mutants don't bind ponatinib"
+        ],
+        "releaseDate": "2020-12-08",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "transition",
+        "className": "Reaction",
+        "schemaClass": "FailedReaction"
+    },
+    {
+        "dbId": 9702998,
+        "displayName": "linifanib-resistant FLT3 mutants",
+        "stId": "R-HSA-9702998",
+        "stIdVersion": "R-HSA-9702998.1",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "linifanib-resistant FLT3 mutants"
+        ],
+        "releaseDate": "2020-12-08",
+        "speciesName": "Homo sapiens",
+        "hasDiagram": true,
+        "hasEHLD": false,
+        "schemaClass": "Pathway",
+        "className": "Pathway"
+    },
+    {
+        "dbId": 9702997,
+        "displayName": "linafinib-resistant FLT3 mutants don't bind linifanib",
+        "stId": "R-HSA-9702997",
+        "stIdVersion": "R-HSA-9702997.1",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "linafinib-resistant FLT3 mutants don't bind linifanib"
+        ],
+        "releaseDate": "2020-12-08",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "transition",
+        "className": "Reaction",
+        "schemaClass": "FailedReaction"
+    },
+    {
+        "dbId": 9702577,
+        "displayName": "semaxanib-resistant FLT3 mutants",
+        "stId": "R-HSA-9702577",
+        "stIdVersion": "R-HSA-9702577.1",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "semaxanib-resistant FLT3 mutants"
+        ],
+        "releaseDate": "2020-12-08",
+        "speciesName": "Homo sapiens",
+        "hasDiagram": true,
+        "hasEHLD": false,
+        "schemaClass": "Pathway",
+        "className": "Pathway"
+    },
+    {
+        "dbId": 9702578,
+        "displayName": "semaxanib-resistant FLT3 mutants don't bind semaxanib<br>",
+        "stId": "R-HSA-9702578",
+        "stIdVersion": "R-HSA-9702578.1",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "semaxanib-resistant FLT3 mutants don't bind semaxanib<br>"
+        ],
+        "releaseDate": "2020-12-08",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "transition",
+        "className": "Reaction",
+        "schemaClass": "FailedReaction"
+    },
+    {
+        "dbId": 9702620,
+        "displayName": "quizartinib-resistant FLT3 mutants",
+        "stId": "R-HSA-9702620",
+        "stIdVersion": "R-HSA-9702620.1",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "quizartinib-resistant FLT3 mutants"
+        ],
+        "releaseDate": "2020-12-08",
+        "speciesName": "Homo sapiens",
+        "hasDiagram": true,
+        "hasEHLD": false,
+        "schemaClass": "Pathway",
+        "className": "Pathway"
+    },
+    {
+        "dbId": 9702618,
+        "displayName": "quizartinib-resistant FLT3 mutants don't bind quizartinib",
+        "stId": "R-HSA-9702618",
+        "stIdVersion": "R-HSA-9702618.1",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "quizartinib-resistant FLT3 mutants don't bind quizartinib"
+        ],
+        "releaseDate": "2020-12-08",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "transition",
+        "className": "Reaction",
+        "schemaClass": "FailedReaction"
+    },
+    {
+        "dbId": 9702590,
+        "displayName": "gilteritinib-resistant FLT3 mutants",
+        "stId": "R-HSA-9702590",
+        "stIdVersion": "R-HSA-9702590.1",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "gilteritinib-resistant FLT3 mutants"
+        ],
+        "releaseDate": "2020-12-08",
+        "speciesName": "Homo sapiens",
+        "hasDiagram": true,
+        "hasEHLD": false,
+        "schemaClass": "Pathway",
+        "className": "Pathway"
+    },
+    {
+        "dbId": 9702589,
+        "displayName": "gilteritinib-resistant FLT3 mutants don't bind gilteritinib",
+        "stId": "R-HSA-9702589",
+        "stIdVersion": "R-HSA-9702589.1",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "gilteritinib-resistant FLT3 mutants don't bind gilteritinib"
+        ],
+        "releaseDate": "2020-12-08",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "transition",
+        "className": "Reaction",
+        "schemaClass": "FailedReaction"
+    },
+    {
+        "dbId": 9702596,
+        "displayName": "lestaurtinib-resistant FLT3 mutants",
+        "stId": "R-HSA-9702596",
+        "stIdVersion": "R-HSA-9702596.1",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "lestaurtinib-resistant FLT3 mutants"
+        ],
+        "releaseDate": "2020-12-08",
+        "speciesName": "Homo sapiens",
+        "hasDiagram": true,
+        "hasEHLD": false,
+        "schemaClass": "Pathway",
+        "className": "Pathway"
+    },
+    {
+        "dbId": 9702593,
+        "displayName": "lestaurtinib-resistant FLT3 mutants don't bind lestaurtinib",
+        "stId": "R-HSA-9702593",
+        "stIdVersion": "R-HSA-9702593.1",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "lestaurtinib-resistant FLT3 mutants don't bind lestaurtinib"
+        ],
+        "releaseDate": "2020-12-08",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "transition",
+        "className": "Reaction",
+        "schemaClass": "FailedReaction"
+    },
+    {
+        "dbId": 9702624,
+        "displayName": "sorafenib-resistant FLT3 mutants",
+        "stId": "R-HSA-9702624",
+        "stIdVersion": "R-HSA-9702624.1",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "sorafenib-resistant FLT3 mutants"
+        ],
+        "releaseDate": "2020-12-08",
+        "speciesName": "Homo sapiens",
+        "hasDiagram": true,
+        "hasEHLD": false,
+        "schemaClass": "Pathway",
+        "className": "Pathway"
+    },
+    {
+        "dbId": 9702623,
+        "displayName": "sorafenib-resistant FLT3 mutants don't bind sorafenib",
+        "stId": "R-HSA-9702623",
+        "stIdVersion": "R-HSA-9702623.1",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "sorafenib-resistant FLT3 mutants don't bind sorafenib"
+        ],
+        "releaseDate": "2020-12-08",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "transition",
+        "className": "Reaction",
+        "schemaClass": "FailedReaction"
+    },
+    {
+        "dbId": 9703009,
+        "displayName": "tamatinib-resistant FLT3 mutants",
+        "stId": "R-HSA-9703009",
+        "stIdVersion": "R-HSA-9703009.1",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "tamatinib-resistant FLT3 mutants"
+        ],
+        "releaseDate": "2020-12-08",
+        "speciesName": "Homo sapiens",
+        "hasDiagram": true,
+        "hasEHLD": false,
+        "schemaClass": "Pathway",
+        "className": "Pathway"
+    },
+    {
+        "dbId": 9703008,
+        "displayName": "tamatinib-resistant FLT3 mutants don't bind tamatinib",
+        "stId": "R-HSA-9703008",
+        "stIdVersion": "R-HSA-9703008.1",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "tamatinib-resistant FLT3 mutants don't bind tamatinib"
+        ],
+        "releaseDate": "2020-12-08",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "transition",
+        "className": "Reaction",
+        "schemaClass": "FailedReaction"
+    },
+    {
+        "dbId": 9702636,
+        "displayName": "tandutinib-resistant FLT3 mutants",
+        "stId": "R-HSA-9702636",
+        "stIdVersion": "R-HSA-9702636.1",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "tandutinib-resistant FLT3 mutants"
+        ],
+        "releaseDate": "2020-12-08",
+        "speciesName": "Homo sapiens",
+        "hasDiagram": true,
+        "hasEHLD": false,
+        "schemaClass": "Pathway",
+        "className": "Pathway"
+    },
+    {
+        "dbId": 9702638,
+        "displayName": "tandutinib-resistant FLT3 mutants don't bind tandutinib",
+        "stId": "R-HSA-9702638",
+        "stIdVersion": "R-HSA-9702638.1",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "tandutinib-resistant FLT3 mutants don't bind tandutinib"
+        ],
+        "releaseDate": "2020-12-08",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "transition",
+        "className": "Reaction",
+        "schemaClass": "FailedReaction"
+    },
+    {
+        "dbId": 9702605,
+        "displayName": "pexidartinib-resistant FLT3 mutants",
+        "stId": "R-HSA-9702605",
+        "stIdVersion": "R-HSA-9702605.1",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "pexidartinib-resistant FLT3 mutants"
+        ],
+        "releaseDate": "2020-12-08",
+        "speciesName": "Homo sapiens",
+        "hasDiagram": true,
+        "hasEHLD": false,
+        "schemaClass": "Pathway",
+        "className": "Pathway"
+    },
+    {
+        "dbId": 9702607,
+        "displayName": "pexidartinib-resistant FLT3 mutants don't bind pexidartinib",
+        "stId": "R-HSA-9702607",
+        "stIdVersion": "R-HSA-9702607.1",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "pexidartinib-resistant FLT3 mutants don't bind pexidartinib"
+        ],
+        "releaseDate": "2020-12-08",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "transition",
+        "className": "Reaction",
+        "schemaClass": "FailedReaction"
+    },
+    {
+        "dbId": 9702632,
+        "displayName": "sunitinib-resistant FLT3 mutants",
+        "stId": "R-HSA-9702632",
+        "stIdVersion": "R-HSA-9702632.1",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "sunitinib-resistant FLT3 mutants"
+        ],
+        "releaseDate": "2020-12-08",
+        "speciesName": "Homo sapiens",
+        "hasDiagram": true,
+        "hasEHLD": false,
+        "schemaClass": "Pathway",
+        "className": "Pathway"
+    },
+    {
+        "dbId": 9702629,
+        "displayName": "sunitinib-resistant FLT3 mutants don't bind sunitinib",
+        "stId": "R-HSA-9702629",
+        "stIdVersion": "R-HSA-9702629.1",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "sunitinib-resistant FLT3 mutants don't bind sunitinib"
+        ],
+        "releaseDate": "2020-12-08",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "transition",
+        "className": "Reaction",
+        "schemaClass": "FailedReaction"
+    },
+    {
+        "dbId": 9702600,
+        "displayName": "midostaurin-resistant FLT3 mutants",
+        "stId": "R-HSA-9702600",
+        "stIdVersion": "R-HSA-9702600.1",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "midostaurin-resistant FLT3 mutants"
+        ],
+        "releaseDate": "2020-12-08",
+        "speciesName": "Homo sapiens",
+        "hasDiagram": true,
+        "hasEHLD": false,
+        "schemaClass": "Pathway",
+        "className": "Pathway"
+    },
+    {
+        "dbId": 9702601,
+        "displayName": "midostaurin-resistant FLT3 mutants don't bind midostaurin",
+        "stId": "R-HSA-9702601",
+        "stIdVersion": "R-HSA-9702601.1",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "midostaurin-resistant FLT3 mutants don't bind midostaurin"
+        ],
+        "releaseDate": "2020-12-08",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "transition",
+        "className": "Reaction",
+        "schemaClass": "FailedReaction"
+    },
+    {
+        "dbId": 9702569,
+        "displayName": "KW2449-resistant FLT3 mutants",
+        "stId": "R-HSA-9702569",
+        "stIdVersion": "R-HSA-9702569.1",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "KW2449-resistant FLT3 mutants"
+        ],
+        "releaseDate": "2020-12-08",
+        "speciesName": "Homo sapiens",
+        "hasDiagram": true,
+        "hasEHLD": false,
+        "schemaClass": "Pathway",
+        "className": "Pathway"
+    },
+    {
+        "dbId": 9702570,
+        "displayName": "KW2449-resistant FLT3 mutants don't bind KW2449",
+        "stId": "R-HSA-9702570",
+        "stIdVersion": "R-HSA-9702570.1",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "KW2449-resistant FLT3 mutants don't bind KW2449"
+        ],
+        "releaseDate": "2020-12-08",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "transition",
+        "className": "Reaction",
+        "schemaClass": "FailedReaction"
+    }
+]

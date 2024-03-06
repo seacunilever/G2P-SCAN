@@ -1,0 +1,8 @@
+^renv$
+^renv\.lock$
+^.*\.Rproj$
+^\.Rproj\.user$
+COPYING
+COPYING.LESSER
+^LICENSE\.md$
+^g2pScanData$

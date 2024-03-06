@@ -4,7 +4,7 @@
 \alias{getProteinMatrix}
 \title{Get matrix of proteins}
 \usage{
-getProteinMatrix(proteinResult, orthologueData, species)
+getProteinMatrix(proteinResult, orthologueData, species = NULL)
 }
 \arguments{
 \item{proteinResult}{Data from output of function getProteins}

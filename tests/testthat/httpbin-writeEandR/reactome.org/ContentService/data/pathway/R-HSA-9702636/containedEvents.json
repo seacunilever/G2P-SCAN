@@ -1,0 +1,19 @@
+[
+    {
+        "dbId": 9702638,
+        "displayName": "tandutinib-resistant FLT3 mutants don't bind tandutinib",
+        "stId": "R-HSA-9702638",
+        "stIdVersion": "R-HSA-9702638.1",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "tandutinib-resistant FLT3 mutants don't bind tandutinib"
+        ],
+        "releaseDate": "2020-12-08",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "transition",
+        "className": "Reaction",
+        "schemaClass": "FailedReaction"
+    }
+]

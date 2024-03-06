@@ -1,0 +1,19 @@
+[
+    {
+        "dbId": 9702997,
+        "displayName": "linafinib-resistant FLT3 mutants don't bind linifanib",
+        "stId": "R-HSA-9702997",
+        "stIdVersion": "R-HSA-9702997.1",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "linafinib-resistant FLT3 mutants don't bind linifanib"
+        ],
+        "releaseDate": "2020-12-08",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "transition",
+        "className": "Reaction",
+        "schemaClass": "FailedReaction"
+    }
+]

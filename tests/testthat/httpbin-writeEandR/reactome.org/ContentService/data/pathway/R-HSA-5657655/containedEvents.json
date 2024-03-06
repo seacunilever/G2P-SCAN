@@ -1,0 +1,34 @@
+[
+    {
+        "dbId": 5657651,
+        "displayName": "MGMT binds alkylated DNA containing 6-O-methylguanine",
+        "stId": "R-HSA-5657651",
+        "stIdVersion": "R-HSA-5657651.2",
+        "isInDisease": false,
+        "isInferred": false,
+        "name": [
+            "MGMT binds alkylated DNA containing 6-O-methylguanine"
+        ],
+        "releaseDate": "2004-03-06",
+        "speciesName": "Homo sapiens",
+        "category": "binding",
+        "className": "Reaction",
+        "schemaClass": "Reaction"
+    },
+    {
+        "dbId": 73892,
+        "displayName": "MGMT/hAGT mediated DNA Damage Reversal",
+        "stId": "R-HSA-73892",
+        "stIdVersion": "R-HSA-73892.1",
+        "isInDisease": false,
+        "isInferred": false,
+        "name": [
+            "MGMT/hAGT mediated DNA Damage Reversal"
+        ],
+        "releaseDate": "2004-03-06",
+        "speciesName": "Homo sapiens",
+        "category": "transition",
+        "className": "Reaction",
+        "schemaClass": "Reaction"
+    }
+]

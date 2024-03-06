@@ -210,7 +210,7 @@ getFormatedOrthologueString <- function(orthologueData, humanGene, species, orth
 #' @include global_variables.R
 #' @return data.frame matrix of human genes as rows and columns as species where orthologues are listed as values.
 #' @export
-getOrthologueMatrix <- function(orthologueData, species, allHumanGenes = NULL, orthologueOutput = "both") {
+getOrthologueMatrix <- function(orthologueData, species = NULL, allHumanGenes = NULL, orthologueOutput = "both") {
   checkOrthologueDataFrame(orthologueData, functionName = "getOrthologueMatrix")
   orthologue_data_human_genes <- unique(orthologueData$Gene.symbol)
   

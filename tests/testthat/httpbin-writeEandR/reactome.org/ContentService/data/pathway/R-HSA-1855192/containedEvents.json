@@ -1,0 +1,19 @@
+[
+    {
+        "dbId": 1855187,
+        "displayName": "IP6 transports from the nucleus to the ER lumen",
+        "stId": "R-HSA-1855187",
+        "stIdVersion": "R-HSA-1855187.2",
+        "isInDisease": false,
+        "isInferred": false,
+        "name": [
+            "IP6 transports from the nucleus to the ER lumen"
+        ],
+        "releaseDate": "2012-12-04",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "transition",
+        "className": "Reaction",
+        "schemaClass": "Reaction"
+    }
+]

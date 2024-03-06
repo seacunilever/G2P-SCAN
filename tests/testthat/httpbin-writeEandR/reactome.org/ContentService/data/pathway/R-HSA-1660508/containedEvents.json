@@ -1,0 +1,19 @@
+[
+    {
+        "dbId": 1676161,
+        "displayName": "PI(3,5)P2 transports from the late endosome membrane to the Golgi membrane",
+        "stId": "R-HSA-1676161",
+        "stIdVersion": "R-HSA-1676161.1",
+        "isInDisease": false,
+        "isInferred": false,
+        "name": [
+            "PI(3,5)P2 transports from the late endosome membrane to the Golgi membrane"
+        ],
+        "releaseDate": "2012-06-12",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "transition",
+        "className": "Reaction",
+        "schemaClass": "Reaction"
+    }
+]

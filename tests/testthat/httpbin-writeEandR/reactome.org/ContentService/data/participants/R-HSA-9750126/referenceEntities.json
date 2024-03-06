@@ -1,0 +1,455 @@
+[
+    {
+        "dbId": 5316173,
+        "displayName": "photon [ChEBI:30212]",
+        "databaseName": "ChEBI",
+        "identifier": "30212",
+        "name": [
+            "photon",
+            "hnu",
+            "Lichtquant",
+            "Light",
+            "gamma",
+            "hnu",
+            "light quantum",
+            "foton"
+        ],
+        "url": "http://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:30212",
+        "formula": ".",
+        "schemaClass": "ReferenceMolecule",
+        "className": "ReferenceMolecule"
+    },
+    {
+        "dbId": 9714102,
+        "displayName": "methoxsalen [PubChem Compound:4114]",
+        "databaseName": "PubChem Compound",
+        "identifier": "4114",
+        "name": [
+            "methoxsalen"
+        ],
+        "url": "http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=4114",
+        "approvalSource": [
+            "FDA (1982)"
+        ],
+        "approved": true,
+        "schemaClass": "ReferenceTherapeutic",
+        "className": "ReferenceTherapeutic"
+    },
+    {
+        "dbId": 9714103,
+        "displayName": "trioxsalen [PubChem Compound:5585]",
+        "databaseName": "PubChem Compound",
+        "identifier": "5585",
+        "name": [
+            "trioxsalen",
+            "Trimethylpsoralen"
+        ],
+        "url": "http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=5585",
+        "approvalSource": [
+            "FDA (1982)"
+        ],
+        "approved": true,
+        "schemaClass": "ReferenceTherapeutic",
+        "className": "ReferenceTherapeutic"
+    },
+    {
+        "dbId": 9714106,
+        "displayName": "bergapten [PubChem Compound:2355]",
+        "databaseName": "PubChem Compound",
+        "identifier": "2355",
+        "name": [
+            "bergapten",
+            "5-Methoxypsoralen"
+        ],
+        "url": "http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=2355",
+        "approved": false,
+        "schemaClass": "ReferenceTherapeutic",
+        "className": "ReferenceTherapeutic"
+    },
+    {
+        "dbId": 9713793,
+        "displayName": "chlorambucil [Guide to Pharmacology:7143]",
+        "databaseName": "Guide to Pharmacology",
+        "identifier": "7143",
+        "name": [
+            "chlorambucil",
+            "chlorbutin",
+            "Leukeran&reg;"
+        ],
+        "url": "https://www.guidetopharmacology.org/GRAC/LigandDisplayForward?ligandId=7143",
+        "approvalSource": [
+            "FDA (1957)"
+        ],
+        "approved": true,
+        "inn": "chlorambucil",
+        "type": "Synthetic organic",
+        "schemaClass": "ReferenceTherapeutic",
+        "className": "ReferenceTherapeutic"
+    },
+    {
+        "dbId": 9713791,
+        "displayName": "uramustine [Guide to Pharmacology:7621]",
+        "databaseName": "Guide to Pharmacology",
+        "identifier": "7621",
+        "name": [
+            "uramustine",
+            "U-8344",
+            "Uracil Mustard&reg;"
+        ],
+        "url": "https://www.guidetopharmacology.org/GRAC/LigandDisplayForward?ligandId=7621",
+        "approved": true,
+        "inn": "uramustine",
+        "type": "Synthetic organic",
+        "schemaClass": "ReferenceTherapeutic",
+        "className": "ReferenceTherapeutic"
+    },
+    {
+        "dbId": 9713783,
+        "displayName": "cyclophosphamide [Guide to Pharmacology:7154]",
+        "databaseName": "Guide to Pharmacology",
+        "identifier": "7154",
+        "name": [
+            "cyclophosphamide",
+            "cytophosphane",
+            "Cytoxan&reg;",
+            "Endoxan&reg;"
+        ],
+        "url": "https://www.guidetopharmacology.org/GRAC/LigandDisplayForward?ligandId=7154",
+        "approvalSource": [
+            "FDA (1959)"
+        ],
+        "approved": true,
+        "inn": "cyclophosphamide",
+        "type": "Synthetic organic",
+        "schemaClass": "ReferenceTherapeutic",
+        "className": "ReferenceTherapeutic"
+    },
+    {
+        "dbId": 9660719,
+        "displayName": "melphalan [Guide to Pharmacology:7620]",
+        "databaseName": "Guide to Pharmacology",
+        "identifier": "7620",
+        "name": [
+            "melphalan",
+            "Alkeran&reg;",
+            "CB-3025",
+            "L-phenylalanine mustard (L-PAM)",
+            "L-sarcolysine",
+            "melfalan",
+            "Sarcolysin&reg;"
+        ],
+        "url": "https://www.guidetopharmacology.org/GRAC/LigandDisplayForward?ligandId=7620",
+        "approvalSource": [
+            "FDA (1964)"
+        ],
+        "approved": true,
+        "inn": "melphalan",
+        "type": "Synthetic organic",
+        "schemaClass": "ReferenceTherapeutic",
+        "className": "ReferenceTherapeutic"
+    },
+    {
+        "dbId": 9713786,
+        "displayName": "ifosfamide [Guide to Pharmacology:7201]",
+        "databaseName": "Guide to Pharmacology",
+        "identifier": "7201",
+        "name": [
+            "ifosfamide",
+            "Holoxan&reg;",
+            "Ifex&reg;",
+            "MJF-9325",
+            "Z-4942"
+        ],
+        "url": "https://www.guidetopharmacology.org/GRAC/LigandDisplayForward?ligandId=7201",
+        "approvalSource": [
+            "FDA (1988)"
+        ],
+        "approved": true,
+        "inn": "ifosfamide",
+        "type": "Synthetic organic",
+        "schemaClass": "ReferenceTherapeutic",
+        "className": "ReferenceTherapeutic"
+    },
+    {
+        "dbId": 9713789,
+        "displayName": "mechlorethamine [Guide to Pharmacology:7218]",
+        "databaseName": "Guide to Pharmacology",
+        "identifier": "7218",
+        "name": [
+            "mechlorethamine",
+            "Ledaga&reg;",
+            "Mustargen&reg;",
+            "mustine",
+            "nitrogen mustard",
+            "nitrogen mustard N-oxide hydrochloride"
+        ],
+        "url": "https://www.guidetopharmacology.org/GRAC/LigandDisplayForward?ligandId=7218",
+        "approvalSource": [
+            "FDA (1949), EMA (2017)"
+        ],
+        "approved": true,
+        "inn": "chlormethine",
+        "type": "Synthetic organic",
+        "schemaClass": "ReferenceTherapeutic",
+        "className": "ReferenceTherapeutic"
+    },
+    {
+        "dbId": 9713795,
+        "displayName": "mitomycin C [Guide to Pharmacology:7089]",
+        "databaseName": "Guide to Pharmacology",
+        "identifier": "7089",
+        "name": [
+            "mitomycin C",
+            "mitomycin C",
+            "Mitosol&reg;",
+            "NSC-26980"
+        ],
+        "url": "https://www.guidetopharmacology.org/GRAC/LigandDisplayForward?ligandId=7089",
+        "approvalSource": [
+            "FDA (1981)"
+        ],
+        "approved": true,
+        "inn": "mitomycin",
+        "type": "Natural product",
+        "schemaClass": "ReferenceTherapeutic",
+        "className": "ReferenceTherapeutic"
+    },
+    {
+        "dbId": 9736548,
+        "displayName": "thiotepa [IUPHAR:7622]",
+        "databaseName": "Guide to Pharmacology",
+        "identifier": "7622",
+        "name": [
+            "thiotepa",
+            "Tepadina&reg;",
+            "Thioplex&reg;"
+        ],
+        "url": "https://www.guidetopharmacology.org/GRAC/LigandDisplayForward?ligandId=7622",
+        "approvalSource": [
+            "FDA (1959), EMA (2010)"
+        ],
+        "approved": true,
+        "inn": "thiotepa",
+        "type": "Synthetic organic",
+        "schemaClass": "ReferenceTherapeutic",
+        "className": "ReferenceTherapeutic"
+    },
+    {
+        "dbId": 9736549,
+        "displayName": "altretamine [IUPHAR:7112]",
+        "databaseName": "Guide to Pharmacology",
+        "identifier": "7112",
+        "name": [
+            "altretamine",
+            "Hexalen&reg;"
+        ],
+        "url": "https://www.guidetopharmacology.org/GRAC/LigandDisplayForward?ligandId=7112",
+        "approvalSource": [
+            "FDA (1990)"
+        ],
+        "approved": true,
+        "inn": "altretamine",
+        "type": "Synthetic organic",
+        "schemaClass": "ReferenceTherapeutic",
+        "className": "ReferenceTherapeutic"
+    },
+    {
+        "dbId": 9714120,
+        "displayName": "SGD-1882 [PubChem Compound:45257190]",
+        "databaseName": "PubChem Compound",
+        "identifier": "45257190",
+        "name": [
+            "SGD-1882"
+        ],
+        "url": "http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=45257190",
+        "approved": false,
+        "schemaClass": "ReferenceTherapeutic",
+        "className": "ReferenceTherapeutic"
+    },
+    {
+        "dbId": 9714115,
+        "displayName": "SG3199 [PubChem Compound:90132565]",
+        "databaseName": "PubChem Compound",
+        "identifier": "90132565",
+        "name": [
+            "SG3199"
+        ],
+        "url": "http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=90132565",
+        "approved": false,
+        "schemaClass": "ReferenceTherapeutic",
+        "className": "ReferenceTherapeutic"
+    },
+    {
+        "dbId": 9714116,
+        "displayName": "SG2000 [PubChem Compound:393111]",
+        "databaseName": "PubChem Compound",
+        "identifier": "393111",
+        "name": [
+            "SG2000",
+            "SJG-136"
+        ],
+        "url": "http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=393111",
+        "approved": false,
+        "schemaClass": "ReferenceTherapeutic",
+        "className": "ReferenceTherapeutic"
+    },
+    {
+        "dbId": 9713812,
+        "displayName": "oxaliplatin [Guide to Pharmacology:7433]",
+        "databaseName": "Guide to Pharmacology",
+        "identifier": "7433",
+        "name": [
+            "oxaliplatin",
+            "ACT-078",
+            "Eloxatin&reg;"
+        ],
+        "url": "https://www.guidetopharmacology.org/GRAC/LigandDisplayForward?ligandId=7433",
+        "approvalSource": [
+            "FDA (2002)"
+        ],
+        "approved": true,
+        "inn": "oxaliplatin",
+        "type": "Synthetic organic",
+        "schemaClass": "ReferenceTherapeutic",
+        "className": "ReferenceTherapeutic"
+    },
+    {
+        "dbId": 9713819,
+        "displayName": "carboplatin [Guide to Pharmacology:7624]",
+        "databaseName": "Guide to Pharmacology",
+        "identifier": "7624",
+        "name": [
+            "carboplatin",
+            "JM-8",
+            "Paraplatin&reg;"
+        ],
+        "url": "https://www.guidetopharmacology.org/GRAC/LigandDisplayForward?ligandId=7624",
+        "approvalSource": [
+            "FDA (1989)"
+        ],
+        "approved": true,
+        "inn": "carboplatin",
+        "type": "Inorganic",
+        "schemaClass": "ReferenceTherapeutic",
+        "className": "ReferenceTherapeutic"
+    },
+    {
+        "dbId": 9713816,
+        "displayName": "cisplatin [Guide to Pharmacology:5343]",
+        "databaseName": "Guide to Pharmacology",
+        "identifier": "5343",
+        "name": [
+            "cisplatin",
+            "Platinol&reg;"
+        ],
+        "url": "https://www.guidetopharmacology.org/GRAC/LigandDisplayForward?ligandId=5343",
+        "approvalSource": [
+            "FDA (1978)"
+        ],
+        "approved": true,
+        "inn": "cisplatin",
+        "type": "Inorganic",
+        "schemaClass": "ReferenceTherapeutic",
+        "className": "ReferenceTherapeutic"
+    },
+    {
+        "dbId": 9713813,
+        "displayName": "satraplatin [PubChem Compound:6918220]",
+        "databaseName": "PubChem Compound",
+        "identifier": "6918220",
+        "name": [
+            "satraplatin",
+            "YHI-601",
+            "C6H13N.C4H6Cl2O4Pt.H3Nche",
+            "4023AH",
+            "AKOS015914237"
+        ],
+        "url": "http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=6918220",
+        "approved": false,
+        "schemaClass": "ReferenceTherapeutic",
+        "className": "ReferenceTherapeutic"
+    },
+    {
+        "dbId": 9713821,
+        "displayName": "Platinum, amminedichloro(2-methylpyridine)-, (SP-4-3)-  (SP-4-3)-Amminedichloro(2-methylpyridine)platinium [PubChem Compound:177358]",
+        "databaseName": "PubChem Compound",
+        "identifier": "177358",
+        "name": [
+            "Platinum, amminedichloro(2-methylpyridine)-, (SP-4-3)-  (SP-4-3)-Amminedichloro(2-methylpyridine)platinium",
+            "AMD 473",
+            "Picoplatin",
+            "ZD0473"
+        ],
+        "url": "http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=177358",
+        "approved": false,
+        "schemaClass": "ReferenceTherapeutic",
+        "className": "ReferenceTherapeutic"
+    },
+    {
+        "dbId": 9736529,
+        "displayName": "lomustine [IUPHAR:7214]",
+        "databaseName": "Guide to Pharmacology",
+        "identifier": "7214",
+        "name": [
+            "lomustine",
+            "CCNU",
+            "CeeNU&reg;"
+        ],
+        "url": "https://www.guidetopharmacology.org/GRAC/LigandDisplayForward?ligandId=7214",
+        "approvalSource": [
+            "FDA (1976)"
+        ],
+        "approved": true,
+        "inn": "lomustine",
+        "type": "Synthetic organic",
+        "schemaClass": "ReferenceTherapeutic",
+        "className": "ReferenceTherapeutic"
+    },
+    {
+        "dbId": 9736531,
+        "displayName": "nimustine [PubChem Compound:39214]",
+        "databaseName": "PubChem Compound",
+        "identifier": "39214",
+        "name": [
+            "nimustine",
+            "ACNU"
+        ],
+        "url": "http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=39214",
+        "approved": false,
+        "schemaClass": "ReferenceTherapeutic",
+        "className": "ReferenceTherapeutic"
+    },
+    {
+        "dbId": 9736535,
+        "displayName": "carmustine [Guide to Pharmacology:6800]",
+        "databaseName": "Guide to Pharmacology",
+        "identifier": "6800",
+        "name": [
+            "carmustine",
+            "BiCNU&reg;",
+            "Carustine&reg;"
+        ],
+        "url": "https://www.guidetopharmacology.org/GRAC/LigandDisplayForward?ligandId=6800",
+        "approvalSource": [
+            "FDA (1977), EMA (2003)"
+        ],
+        "approved": true,
+        "inn": "carmustine",
+        "type": "Synthetic organic",
+        "schemaClass": "ReferenceTherapeutic",
+        "className": "ReferenceTherapeutic"
+    },
+    {
+        "dbId": 9736530,
+        "displayName": "fotemustine [PubChem Compound:104799]",
+        "databaseName": "PubChem Compound",
+        "identifier": "104799",
+        "name": [
+            "fotemustine"
+        ],
+        "url": "http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=104799",
+        "approved": false,
+        "schemaClass": "ReferenceTherapeutic",
+        "className": "ReferenceTherapeutic"
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "dbId": 9669890,
+        "displayName": "Constitutive phosphorylation of kinase domain KIT mutants",
+        "stId": "R-HSA-9669890",
+        "stIdVersion": "R-HSA-9669890.1",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "Constitutive phosphorylation of kinase domain KIT mutants"
+        ],
+        "releaseDate": "2020-06-10",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "transition",
+        "className": "Reaction",
+        "schemaClass": "Reaction"
+    }
+]

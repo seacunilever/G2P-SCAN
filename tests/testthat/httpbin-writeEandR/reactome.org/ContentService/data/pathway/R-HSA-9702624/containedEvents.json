@@ -1,0 +1,19 @@
+[
+    {
+        "dbId": 9702623,
+        "displayName": "sorafenib-resistant FLT3 mutants don't bind sorafenib",
+        "stId": "R-HSA-9702623",
+        "stIdVersion": "R-HSA-9702623.1",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "sorafenib-resistant FLT3 mutants don't bind sorafenib"
+        ],
+        "releaseDate": "2020-12-08",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "transition",
+        "className": "Reaction",
+        "schemaClass": "FailedReaction"
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "dbId": 5251427,
+        "displayName": "ENSEMBL:ENSG00000184675 AMER1",
+        "databaseName": "ENSEMBL",
+        "identifier": "ENSG00000184675",
+        "name": [
+            "AMER1"
+        ],
+        "url": "http://www.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000184675",
+        "geneName": [
+            "AMER1",
+            "FAM123B",
+            "WTX"
+        ],
+        "schemaClass": "ReferenceDNASequence",
+        "className": "ReferenceDNASequence"
+    }
+]

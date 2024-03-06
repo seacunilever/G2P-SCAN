@@ -1,0 +1,125 @@
+[
+    {
+        "dbId": 9637681,
+        "displayName": "UniProt:O05442 cpnT",
+        "databaseName": "UniProt",
+        "identifier": "O05442",
+        "name": [
+            "cpnT"
+        ],
+        "url": "http://purl.uniprot.org/uniprot/O05442",
+        "checksum": "CB7DF1D77C7C9A25",
+        "comment": [
+            "FUNCTION Has a dual function in uptake of nutrients and induction of host cell death. The N-terminal domain (NTD) forms an outer membrane channel and is used for uptake of nutrients across the outer membrane. The secreted C-terminal toxic domain (TNT) acts as a glycohydrolase, which hydrolyzes the essential cellular coenzyme NAD(+) in the cytosol of infected macrophages, leading to necrotic host cell death. Both functions are required for survival, replication and cytotoxicity of M.tuberculosis in macrophages.ACTIVITY REGULATION Glycohydrolase activity is completely inhibited by interaction with the immunity factor for TNT (IFT). This inhibition protects M.tuberculosis from self-poisoning.SUBUNIT Interacts with the immunity factor for TNT (IFT) (PubMed:26237511). Oligomer formation is required for channel activity (PubMed:24753609).PTM The C-terminal toxic domain is cleaved, probably after integration of CpnT into the outer membrane.DISRUPTION PHENOTYPE Deletion reduces growth on glycerol and glucose as sole carbon sources. Deletion mutant does not replicate in differentiated THP-1 macrophages and lacks cytotoxicity (PubMed:24753609). Lack of cpnT does not increase drug resistance in vitro (PubMed:25645841). Deletion mutant does not decrease NAD(+) levels in infected macrophages (PubMed:26237511)."
+        ],
+        "description": [
+            "recommendedName: fullName evidence=\"7\"Outer membrane channel protein CpnT  alternativeName: fullName evidence=\"5\"Channel protein with necrosis-inducing toxin  component recommendedName: fullName evidence=\"7\"N-terminal channel domain  /component component recommendedName: fullName evidence=\"6\"Tuberculosis necrotizing toxin shortName evidence=\"6\"TNT  alternativeName: fullName evidence=\"6\"NAD(+) glycohydrolase ecNumber evidence=\"4\"3.2.2.5/ecNumber  /component"
+        ],
+        "geneName": [
+            "cpnT",
+            "Rv3903c"
+        ],
+        "isSequenceChanged": false,
+        "keyword": [
+            "3D-structure",
+            "Cell outer membrane",
+            "Host cytoplasm",
+            "Hydrolase",
+            "Ion transport",
+            "Membrane",
+            "NAD",
+            "Porin",
+            "Reference proteome",
+            "Secreted",
+            "Toxin",
+            "Transmembrane",
+            "Transmembrane beta strand",
+            "Transport",
+            "Virulence"
+        ],
+        "secondaryIdentifier": [
+            "CPNT_MYCTU",
+            "F2GDR4",
+            "I6Y4T3",
+            "Q7D4M4"
+        ],
+        "sequenceLength": 846,
+        "chain": [
+            "chain:1-846",
+            "chain:1-",
+            "chain:-846"
+        ],
+        "schemaClass": "ReferenceGeneProduct",
+        "className": "ReferenceGeneProduct"
+    },
+    {
+        "dbId": 9654423,
+        "displayName": "NAD(1-) [ChEBI:57540]",
+        "databaseName": "ChEBI",
+        "identifier": "57540",
+        "name": [
+            "NAD(1-)",
+            "adenosine 5'-{3-[1-(3-carbamoylpyridinio)-1,4-anhydro-D-ribitol-5-yl] diphosphate}",
+            "NAD(+)",
+            "NAD anion"
+        ],
+        "url": "http://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:57540",
+        "formula": "C21H26N7O14P2",
+        "schemaClass": "ReferenceMolecule",
+        "className": "ReferenceMolecule"
+    },
+    {
+        "dbId": 114728,
+        "displayName": "water [ChEBI:15377]",
+        "databaseName": "ChEBI",
+        "identifier": "15377",
+        "name": [
+            "water"
+        ],
+        "url": "http://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:15377",
+        "formula": "H2O",
+        "schemaClass": "ReferenceMolecule",
+        "className": "ReferenceMolecule"
+    },
+    {
+        "dbId": 8870341,
+        "displayName": "ADP-D-ribose(2-) [ChEBI:57967]",
+        "databaseName": "ChEBI",
+        "identifier": "57967",
+        "name": [
+            "ADP-D-ribose(2-)",
+            "ADP-D-ribose",
+            "D-ribofuranos-5-yl-ADP dianion"
+        ],
+        "url": "http://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:57967",
+        "formula": "C15H21N5O14P2",
+        "schemaClass": "ReferenceMolecule",
+        "className": "ReferenceMolecule"
+    },
+    {
+        "dbId": 114918,
+        "displayName": "hydron [ChEBI:15378]",
+        "databaseName": "ChEBI",
+        "identifier": "15378",
+        "name": [
+            "hydron"
+        ],
+        "url": "http://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:15378",
+        "formula": "H",
+        "schemaClass": "ReferenceMolecule",
+        "className": "ReferenceMolecule"
+    },
+    {
+        "dbId": 29644,
+        "displayName": "nicotinamide [ChEBI:17154]",
+        "databaseName": "ChEBI",
+        "identifier": "17154",
+        "name": [
+            "nicotinamide"
+        ],
+        "url": "http://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:17154",
+        "formula": "C6H6N2O",
+        "schemaClass": "ReferenceMolecule",
+        "className": "ReferenceMolecule"
+    }
+]

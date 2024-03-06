@@ -1,0 +1,66 @@
+[
+    {
+        "dbId": 210913,
+        "displayName": "NEUROG3-dependent synthesis of INSM1",
+        "stId": "R-HSA-210913",
+        "stIdVersion": "R-HSA-210913.2",
+        "isInDisease": false,
+        "isInferred": false,
+        "name": [
+            "NEUROG3-dependent synthesis of INSM1"
+        ],
+        "releaseDate": "2008-06-30",
+        "speciesName": "Homo sapiens",
+        "category": "omitted",
+        "className": "Reaction",
+        "schemaClass": "BlackBoxEvent"
+    },
+    {
+        "dbId": 210886,
+        "displayName": "NEUROG3-dependent synthesis of PAX4 protein",
+        "stId": "R-HSA-210886",
+        "stIdVersion": "R-HSA-210886.2",
+        "isInDisease": false,
+        "isInferred": false,
+        "name": [
+            "NEUROG3-dependent synthesis of PAX4 protein"
+        ],
+        "releaseDate": "2008-06-30",
+        "speciesName": "Homo sapiens",
+        "category": "omitted",
+        "className": "Reaction",
+        "schemaClass": "BlackBoxEvent"
+    },
+    {
+        "dbId": 210921,
+        "displayName": "NEUROG3-dependent synthesis of NKX2-2",
+        "stId": "R-HSA-210921",
+        "stIdVersion": "R-HSA-210921.2",
+        "isInDisease": false,
+        "isInferred": false,
+        "name": [
+            "NEUROG3-dependent synthesis of NKX2-2"
+        ],
+        "releaseDate": "2008-06-30",
+        "speciesName": "Homo sapiens",
+        "category": "omitted",
+        "className": "Reaction",
+        "schemaClass": "BlackBoxEvent"
+    },
+    {
+        "dbId": 210920,
+        "displayName": "NEUROG3-dependent synthesis of NEUROD1",
+        "stId": "R-HSA-210920",
+        "stIdVersion": "R-HSA-210920.2",
+        "isInDisease": false,
+        "isInferred": false,
+        "name": [
+            "NEUROG3-dependent synthesis of NEUROD1"
+        ],
+        "releaseDate": "2008-06-30",
+        "speciesName": "Homo sapiens",
+        "category": "omitted",
+        "className": "Reaction",
+        "schemaClass": "BlackBoxEvent"
+    }
+]

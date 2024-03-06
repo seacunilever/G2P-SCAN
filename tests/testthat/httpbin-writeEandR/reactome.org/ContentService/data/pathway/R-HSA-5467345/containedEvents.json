@@ -1,0 +1,19 @@
+[
+    {
+        "dbId": 5251562,
+        "displayName": "Deletions in the AXIN1 gene prevent expression of AXIN1 protein",
+        "stId": "R-HSA-5251562",
+        "stIdVersion": "R-HSA-5251562.3",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "Deletions in the AXIN1 gene prevent expression of AXIN1 protein"
+        ],
+        "releaseDate": "2014-06-10",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "transition",
+        "className": "Reaction",
+        "schemaClass": "FailedReaction"
+    }
+]

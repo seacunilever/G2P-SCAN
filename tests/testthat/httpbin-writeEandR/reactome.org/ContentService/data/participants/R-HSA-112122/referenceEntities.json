@@ -1,0 +1,210 @@
+[
+    {
+        "dbId": 5316186,
+        "displayName": "iron(2+) [ChEBI:29033]",
+        "databaseName": "ChEBI",
+        "identifier": "29033",
+        "name": [
+            "iron(2+)",
+            "FE (II) ION",
+            "Fe2+",
+            "Fe(2+)",
+            "iron ion(2+)",
+            "Fe(II)",
+            "Ferrous ion"
+        ],
+        "url": "http://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:29033",
+        "formula": "Fe",
+        "schemaClass": "ReferenceMolecule",
+        "className": "ReferenceMolecule"
+    },
+    {
+        "dbId": 164580,
+        "displayName": "UniProt:Q6NS38 ALKBH2",
+        "databaseName": "UniProt",
+        "identifier": "Q6NS38",
+        "name": [
+            "ALKBH2"
+        ],
+        "otherIdentifier": [
+            "0007100180",
+            "11720138_a_at",
+            "11750069_x_at",
+            "121642",
+            "16769868",
+            "225625_at",
+            "3470690",
+            "3470691",
+            "3470692",
+            "3470695",
+            "3470696",
+            "3470697",
+            "3470698",
+            "3470699",
+            "3470701",
+            "3470702",
+            "43385_s_at",
+            "43386_r_at",
+            "48028_at",
+            "75022_at",
+            "7966183",
+            "A_32_P28939",
+            "GO:0003674",
+            "GO:0005515",
+            "GO:0005575",
+            "GO:0005622",
+            "GO:0005634",
+            "GO:0005654",
+            "GO:0006259",
+            "GO:0006281",
+            "GO:0006307",
+            "GO:0006950",
+            "GO:0006974",
+            "GO:0008150",
+            "GO:0008198",
+            "GO:0016491",
+            "GO:0016706",
+            "GO:0034641",
+            "GO:0035511",
+            "GO:0043167",
+            "GO:0043226",
+            "GO:0043734",
+            "GO:0046872",
+            "GO:0051213",
+            "GO:0051747",
+            "GO:0055114",
+            "GO:0070989",
+            "GO:0080111",
+            "GO:0103053",
+            "HMNXSV003056971",
+            "Hs.217493.3.S1_3p_at",
+            "Hs.217493.3.S1_3p_x_at",
+            "ILMN_1690252",
+            "PH_hs_0032956",
+            "TC12001947.hg"
+        ],
+        "url": "http://purl.uniprot.org/uniprot/Q6NS38",
+        "checksum": "A376E13F92621A01",
+        "comment": [
+            "FUNCTION Dioxygenase that repairs alkylated DNA and RNA containing 1-methyladenine and 3-methylcytosine by oxidative demethylation. Can also repair alkylated DNA containing 1-ethenoadenine (in vitro). Has strong preference for double-stranded DNA. Has low efficiency with single-stranded substrates. Requires molecular oxygen, alpha-ketoglutarate and iron.ACTIVITY REGULATION Activated by ascorbate and magnesium ions.TISSUE SPECIFICITY Detected in colon, small intestine, ovary, testis, prostate, skeletal muscle, heart, liver and urinary bladder.SIMILARITY Belongs to the alkB family."
+        ],
+        "description": [
+            "recommendedName: DNA oxidative demethylase ALKBH2 ecNumber1.14.11.33/ecNumber  alternativeName: Alkylated DNA repair protein alkB homolog 2  alternativeName: Alpha-ketoglutarate-dependent dioxygenase alkB homolog 2  alternativeName: Oxy DC1 "
+        ],
+        "geneName": [
+            "ALKBH2",
+            "ABH2"
+        ],
+        "isSequenceChanged": false,
+        "keyword": [
+            "3D-structure",
+            "Alternative splicing",
+            "Dioxygenase",
+            "DNA damage",
+            "DNA repair",
+            "Iron",
+            "Magnesium",
+            "Metal-binding",
+            "Nucleus",
+            "Oxidoreductase",
+            "Reference proteome"
+        ],
+        "secondaryIdentifier": [
+            "ALKB2_HUMAN",
+            "A4PET2",
+            "Q5XLE3"
+        ],
+        "sequenceLength": 261,
+        "chain": [
+            "chain:1-261"
+        ],
+        "schemaClass": "ReferenceGeneProduct",
+        "className": "ReferenceGeneProduct"
+    },
+    {
+        "dbId": 114734,
+        "displayName": "dioxygen [ChEBI:15379]",
+        "databaseName": "ChEBI",
+        "identifier": "15379",
+        "name": [
+            "dioxygen"
+        ],
+        "url": "http://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:15379",
+        "formula": "O2",
+        "schemaClass": "ReferenceMolecule",
+        "className": "ReferenceMolecule"
+    },
+    {
+        "dbId": 5316172,
+        "displayName": "2-oxoglutarate(2-) [ChEBI:16810]",
+        "databaseName": "ChEBI",
+        "identifier": "16810",
+        "name": [
+            "2-oxoglutarate(2-)",
+            "2-ketoglutarate",
+            "alpha-ketoglutarate",
+            "2-oxopentanedioic acid, ion(2-)",
+            "2-oxoglutarate"
+        ],
+        "url": "http://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:16810",
+        "formula": "C5H4O5",
+        "schemaClass": "ReferenceMolecule",
+        "className": "ReferenceMolecule"
+    },
+    {
+        "dbId": 9629523,
+        "displayName": "succinate(2-) [ChEBI:30031]",
+        "databaseName": "ChEBI",
+        "identifier": "30031",
+        "name": [
+            "succinate(2-)",
+            "(-)OOC-CH2-CH2-COO(-)",
+            "succinate",
+            "butanedioic acid, ion(2-)",
+            "butanedioate"
+        ],
+        "url": "http://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:30031",
+        "formula": "C4H4O4",
+        "schemaClass": "ReferenceMolecule",
+        "className": "ReferenceMolecule"
+    },
+    {
+        "dbId": 114738,
+        "displayName": "carbon dioxide [ChEBI:16526]",
+        "databaseName": "ChEBI",
+        "identifier": "16526",
+        "name": [
+            "carbon dioxide"
+        ],
+        "url": "http://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:16526",
+        "formula": "CO2",
+        "schemaClass": "ReferenceMolecule",
+        "className": "ReferenceMolecule"
+    },
+    {
+        "dbId": 114764,
+        "displayName": "formaldehyde [ChEBI:16842]",
+        "databaseName": "ChEBI",
+        "identifier": "16842",
+        "name": [
+            "formaldehyde"
+        ],
+        "url": "http://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:16842",
+        "formula": "CH2O",
+        "schemaClass": "ReferenceMolecule",
+        "className": "ReferenceMolecule"
+    },
+    {
+        "dbId": 114774,
+        "displayName": "acetaldehyde [ChEBI:15343]",
+        "databaseName": "ChEBI",
+        "identifier": "15343",
+        "name": [
+            "acetaldehyde"
+        ],
+        "url": "http://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:15343",
+        "formula": "C2H4O",
+        "schemaClass": "ReferenceMolecule",
+        "className": "ReferenceMolecule"
+    }
+]

@@ -1,0 +1,36 @@
+[
+    {
+        "dbId": 9674427,
+        "displayName": "PDGFR mutants bind type I TKIs",
+        "stId": "R-HSA-9674427",
+        "stIdVersion": "R-HSA-9674427.1",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "PDGFR mutants bind type I TKIs"
+        ],
+        "releaseDate": "2020-03-17",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "binding",
+        "className": "Reaction",
+        "schemaClass": "Reaction"
+    },
+    {
+        "dbId": 9674430,
+        "displayName": "PDGFR mutants bind type II TKIs",
+        "stId": "R-HSA-9674430",
+        "stIdVersion": "R-HSA-9674430.1",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "PDGFR mutants bind type II TKIs"
+        ],
+        "releaseDate": "2020-03-17",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "binding",
+        "className": "Reaction",
+        "schemaClass": "Reaction"
+    }
+]

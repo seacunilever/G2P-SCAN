@@ -1,0 +1,588 @@
+[
+    {
+        "dbId": 169085,
+        "displayName": "UniProt:P03466 NP",
+        "databaseName": "UniProt",
+        "identifier": "P03466",
+        "name": [
+            "NP"
+        ],
+        "url": "http://purl.uniprot.org/uniprot/P03466",
+        "checksum": "4F750FEF05D6E668",
+        "comment": [
+            "FUNCTION Encapsidates the negative strand viral RNA, protecting it from nucleases. The encapsidated genomic RNA is termed the ribonucleoprotein (RNP) and serves as template for transcription and replication. The RNP needs to be localized in the host nucleus to start an infectious cycle, but is too large to diffuse through the nuclear pore complex. NP comprises at least 2 nuclear localization signals that are responsible for the active RNP import into the nucleus through cellular importin alpha/beta pathway. Later in the infection, nclear export of RNPs are mediated through viral proteins NEP interacting with M1 which binds nucleoproteins. It is possible that nucleoprotein binds directly host exportin-1/XPO1 and plays an active role in RNPs nuclear export. M1 interaction with RNP seems to hide nucleoprotein's nuclear localization signals. Soon after a virion infects a new cell, M1 dissociates from the RNP under acidification of the virion driven by M2 protein. Dissociation of M1 from RNP unmasks nucleoprotein's nuclear localization signals, targeting the RNP to the nucleus.SUBUNIT Homomultimerizes to form the nucleocapsid. May bind host exportin-1/XPO1. Binds to viral genomic RNA. Protein-RNA contacts are mediated by a combination of electrostatic interactions between positively charged residues and the phosphate backbone and planar interactions between aromatic side chains and bases.PTM Late in virus-infected cells, may be cleaved from a 56-kDa protein to a 53-kDa protein by a cellular caspase. This cleavage might be a marker for the onset of apoptosis in infected cells or have a specific function in virus host interaction.SIMILARITY Belongs to the influenza viruses nucleoprotein family."
+        ],
+        "description": [
+            "recommendedName: fullName evidence=\"1\"Nucleoprotein  alternativeName: fullName evidence=\"1\"Nucleocapsid protein shortName evidence=\"1\"Protein N "
+        ],
+        "geneName": [
+            "NP"
+        ],
+        "isSequenceChanged": false,
+        "keyword": [
+            "3D-structure",
+            "Capsid protein",
+            "Helical capsid protein",
+            "Host nucleus",
+            "Host-virus interaction",
+            "Reference proteome",
+            "Ribonucleoprotein",
+            "RNA-binding",
+            "Viral nucleoprotein",
+            "Viral penetration into host nucleus",
+            "Virion",
+            "Virus entry into host cell"
+        ],
+        "secondaryIdentifier": [
+            "NCAP_I34A1",
+            "Q20N34",
+            "Q58NB3",
+            "Q67228",
+            "Q80AB4"
+        ],
+        "sequenceLength": 498,
+        "chain": [
+            "chain:1-498"
+        ],
+        "schemaClass": "ReferenceGeneProduct",
+        "className": "ReferenceGeneProduct"
+    },
+    {
+        "dbId": 169124,
+        "displayName": "UniProt:P03485 M",
+        "databaseName": "UniProt",
+        "identifier": "P03485",
+        "name": [
+            "M"
+        ],
+        "url": "http://purl.uniprot.org/uniprot/P03485",
+        "checksum": "2A54EEC87C3D4638",
+        "comment": [
+            "FUNCTION Plays critical roles in virus replication, from virus entry and uncoating to assembly and budding of the virus particle. M1 binding to ribonucleocapsids (RNPs) in nucleus seems to inhibit viral transcription. Interaction of viral NEP with M1-RNP is thought to promote nuclear export of the complex, which is targeted to the virion assembly site at the apical plasma membrane in polarized epithelial cells. Interactions with NA and HA may bring M1, a non-raft-associated protein, into lipid rafts. Forms a continuous shell on the inner side of the lipid bilayer in virion, where it binds the RNP. During virus entry into cell, the M2 ion channel acidifies the internal virion core, inducing M1 dissociation from the RNP. M1-free RNPs are transported to the nucleus, where viral transcription and replication can take place.FUNCTION Determines the virion's shape: spherical or filamentous. Clinical isolates of influenza are characterized by the presence of significant proportion of filamentous virions, whereas after multiple passage on eggs or cell culture, virions have only spherical morphology. Filamentous virions are thought to be important to infect neighboring cells, and spherical virions more suited to spread through aerosol between hosts organisms.SUBUNIT Homodimer and homomultimer. Interacts with NEP. Binds ribonucleocapsid by both interacting with genomic RNA and NP protein. May interact with HA and NA. Cannot bind NP without genomic RNA.MISCELLANEOUS Most abundant protein in virion. When expressed alone can form virus-like particles in transfected cells.SIMILARITY Belongs to the influenza viruses Matrix protein M1 family."
+        ],
+        "description": [
+            "recommendedName: fullName evidence=\"1\"Matrix protein 1 shortName evidence=\"1\"M1 "
+        ],
+        "geneName": [
+            "M"
+        ],
+        "isSequenceChanged": false,
+        "keyword": [
+            "3D-structure",
+            "Alternative splicing",
+            "Host nucleus",
+            "Membrane",
+            "Reference proteome",
+            "RNA-binding",
+            "Viral matrix protein",
+            "Virion"
+        ],
+        "secondaryIdentifier": [
+            "M1_I34A1",
+            "A4GXH8",
+            "Q20N36",
+            "Q77HF4"
+        ],
+        "sequenceLength": 252,
+        "chain": [
+            "chain:1-252"
+        ],
+        "schemaClass": "ReferenceGeneProduct",
+        "className": "ReferenceGeneProduct"
+    },
+    {
+        "dbId": 169115,
+        "displayName": "UniProt:P03431 PB1",
+        "databaseName": "UniProt",
+        "identifier": "P03431",
+        "name": [
+            "PB1"
+        ],
+        "url": "http://purl.uniprot.org/uniprot/P03431",
+        "checksum": "FB23E4976E06C18F",
+        "comment": [
+            "FUNCTION RNA-dependent RNA polymerase which is responsible for replication and transcription of virus RNA segments. The transcription of viral mRNAs occurs by a unique mechanism called cap-snatching. 5' methylated caps of cellular mRNAs are cleaved after 10-13 nucleotides by PA. In turn, these short capped RNAs are used as primers by PB1 for transcription of viral mRNAs. During virus replication, PB1 initiates RNA synthesis and copy vRNA into complementary RNA (cRNA) which in turn serves as a template for the production of more vRNAs.SUBUNIT Influenza RNA polymerase is composed of three subunits: PB1, PB2 and PA. Interacts (via N-terminus) with PA (via C-terminus). Interacts (via C-terminus) with PB2 (via N-terminus); this interaction is essential for transcription initiation.PTM Phosphorylated by host PRKCA.SIMILARITY Belongs to the influenza viruses polymerase PB1 family."
+        ],
+        "description": [
+            "recommendedName: fullName evidence=\"1\"RNA-directed RNA polymerase catalytic subunit ecNumber evidence=\"1\"2.7.7.48/ecNumber  alternativeName: fullName evidence=\"1\"Polymerase basic protein 1 shortName evidence=\"1\"PB1  alternativeName: fullName evidence=\"1\"RNA-directed RNA polymerase subunit P1 "
+        ],
+        "geneName": [
+            "PB1"
+        ],
+        "isSequenceChanged": false,
+        "keyword": [
+            "3D-structure",
+            "Eukaryotic host gene expression shutoff by virus",
+            "Eukaryotic host transcription shutoff by virus",
+            "Host cytoplasm",
+            "Host gene expression shutoff by virus",
+            "Host nucleus",
+            "Host-virus interaction",
+            "Inhibition of host RNA polymerase II by virus",
+            "Nucleotide-binding",
+            "Nucleotidyltransferase",
+            "Phosphoprotein",
+            "Reference proteome",
+            "RNA-directed RNA polymerase",
+            "Transferase",
+            "Viral RNA replication",
+            "Viral transcription"
+        ],
+        "secondaryIdentifier": [
+            "RDRP_I34A1",
+            "A4GXH1",
+            "Q20N30",
+            "Q8JUU7"
+        ],
+        "sequenceLength": 757,
+        "chain": [
+            "chain:1-757"
+        ],
+        "schemaClass": "ReferenceGeneProduct",
+        "className": "ReferenceGeneProduct"
+    },
+    {
+        "dbId": 192992,
+        "displayName": "EMBL:AF389122 NS",
+        "databaseName": "EMBL",
+        "identifier": "AF389122",
+        "name": [
+            "NS1 mRNA"
+        ],
+        "url": "http://www.ebi.ac.uk/ena/data/view/AF389122",
+        "geneName": [
+            "NS"
+        ],
+        "schemaClass": "ReferenceRNASequence",
+        "className": "ReferenceRNASequence"
+    },
+    {
+        "dbId": 169094,
+        "displayName": "UniProt:P03428 PB2",
+        "databaseName": "UniProt",
+        "identifier": "P03428",
+        "name": [
+            "PB2"
+        ],
+        "url": "http://purl.uniprot.org/uniprot/P03428",
+        "checksum": "10D2D1608AE536D2",
+        "comment": [
+            "FUNCTION Plays an essential role in transcription initiation and cap-stealing mechanism, in which cellular capped pre-mRNAs are used to generate primers for viral transcription. Recognizes and binds the 7-methylguanosine-containing cap of the target pre-RNA which is subsequently cleaved after 10-13 nucleotides by the viral protein PA. Plays a role in the initiation of the viral genome replication and modulates the activity of the ribonucleoprotein (RNP) complex. In addition, participates in the inhibition of type I interferon induction through interaction with and inhibition of the host mitochondrial antiviral signaling protein MAVS.SUBUNIT Influenza RNA polymerase is composed of three subunits: PB1, PB2 and PA. Interacts (via N-terminus) with PB1 (via C-terminus). Interacts with nucleoprotein NP (via N-terminus). Interacts (via N-terminus) with host MAVS (via N-terminus); this interaction inhibits host innate immune response.SIMILARITY Belongs to the influenza viruses PB2 family."
+        ],
+        "description": [
+            "recommendedName: fullName evidence=\"2\"Polymerase basic protein 2  alternativeName: fullName evidence=\"2\"RNA-directed RNA polymerase subunit P3 "
+        ],
+        "geneName": [
+            "PB2"
+        ],
+        "isSequenceChanged": false,
+        "keyword": [
+            "3D-structure",
+            "Alternative splicing",
+            "Cap snatching",
+            "Eukaryotic host gene expression shutoff by virus",
+            "Eukaryotic host transcription shutoff by virus",
+            "Host gene expression shutoff by virus",
+            "Host mitochondrion",
+            "Host nucleus",
+            "Host-virus interaction",
+            "Inhibition of host innate immune response by virus",
+            "Inhibition of host MAVS by virus",
+            "Inhibition of host RLR pathway by virus",
+            "Inhibition of host RNA polymerase II by virus",
+            "mRNA capping",
+            "mRNA processing",
+            "Reference proteome",
+            "Viral immunoevasion",
+            "Viral transcription",
+            "Virion"
+        ],
+        "secondaryIdentifier": [
+            "PB2_I34A1",
+            "A4GXH0",
+            "Q20N28",
+            "Q8JUU8"
+        ],
+        "sequenceLength": 759,
+        "chain": [
+            "chain:1-759"
+        ],
+        "schemaClass": "ReferenceGeneProduct",
+        "className": "ReferenceGeneProduct"
+    },
+    {
+        "dbId": 188837,
+        "displayName": "EMBL:AF389118 Unknown",
+        "databaseName": "EMBL",
+        "identifier": "AF389118",
+        "name": [
+            "H1N1 Genomic RNA Segment 4"
+        ],
+        "url": "http://www.ebi.ac.uk/ena/data/view/AF389118",
+        "description": [
+            "Influenza A virus (A/Puerto Rico/8/34/Mount Sinai(H1N1)) segment 4, complete sequence."
+        ],
+        "schemaClass": "ReferenceRNASequence",
+        "className": "ReferenceRNASequence"
+    },
+    {
+        "dbId": 169114,
+        "displayName": "UniProt:P03433 PA",
+        "databaseName": "UniProt",
+        "identifier": "P03433",
+        "name": [
+            "PA"
+        ],
+        "url": "http://purl.uniprot.org/uniprot/P03433",
+        "checksum": "8829F53525814394",
+        "comment": [
+            "FUNCTION Plays an essential role in viral RNA transcription and replication by forming the heterotrimeric polymerase complex together with PB1 and PB2 subunits. The complex transcribes viral mRNAs by using a unique mechanism called cap-snatching. It consists in the hijacking and cleavage of host capped pre-mRNAs. These short capped RNAs are then used as primers for viral mRNAs. The PB2 subunit is responsible for the binding of the 5' cap of cellular pre-mRNAs which are subsequently cleaved after 10-13 nucleotides by the PA subunit that carries the endonuclease activity.SUBUNIT Influenza RNA polymerase is composed of three subunits: PB1, PB2 and PA. Interacts (via C-terminus) with PB1 (via N-terminus).PTM Phosphorylated on serines and threonines by host kinases, including human casein kinase II.SIMILARITY Belongs to the influenza viruses PA family."
+        ],
+        "description": [
+            "recommendedName: fullName evidence=\"1\"Polymerase acidic protein ecNumber evidence=\"1\"3.1.-.-/ecNumber  alternativeName: fullName evidence=\"1\"RNA-directed RNA polymerase subunit P2 "
+        ],
+        "geneName": [
+            "PA"
+        ],
+        "isSequenceChanged": false,
+        "keyword": [
+            "3D-structure",
+            "Cap snatching",
+            "Endonuclease",
+            "Eukaryotic host gene expression shutoff by virus",
+            "Eukaryotic host transcription shutoff by virus",
+            "Host cytoplasm",
+            "Host gene expression shutoff by virus",
+            "Host nucleus",
+            "Host-virus interaction",
+            "Hydrolase",
+            "Inhibition of host RNA polymerase II by virus",
+            "Manganese",
+            "Metal-binding",
+            "Nuclease",
+            "Phosphoprotein",
+            "Reference proteome",
+            "Ribosomal frameshifting"
+        ],
+        "secondaryIdentifier": [
+            "PA_I34A1",
+            "A4GXH3",
+            "Q20N31",
+            "Q8JUU6"
+        ],
+        "sequenceLength": 716,
+        "chain": [
+            "chain:1-716"
+        ],
+        "schemaClass": "ReferenceGeneProduct",
+        "className": "ReferenceGeneProduct"
+    },
+    {
+        "dbId": 169126,
+        "displayName": "UniProt:P03508 NS",
+        "databaseName": "UniProt",
+        "identifier": "P03508",
+        "name": [
+            "NS"
+        ],
+        "url": "http://purl.uniprot.org/uniprot/P03508",
+        "checksum": "ABFAC522B4F14854",
+        "comment": [
+            "FUNCTION Mediates the nuclear export of encapsidated genomic RNAs (ribonucleoproteins, RNPs). Acts as an adapter between viral RNPs complexes and the nuclear export machinery of the cell. Possesses no intrinsic RNA-binding activity, but includes a C-terminal M1-binding domain. This domain is believed to allow recognition of RNPs bound to the protein M1. Since protein M1 is not available in large quantities before late stages of infection, such an indirect recognition mechanism probably ensures that genomic RNPs are not exported from the host nucleus until sufficient quantities of viral mRNA and progeny genomic RNA have been synthesized. Furthermore, the RNPs enter the host cytoplasm only when associated with the M1 protein that is necessary to guide them to the plasma membrane. May down-regulate viral RNA synthesis when overproduced.SUBUNIT Interacts with protein M1. May interact with host nucleoporin RAB/HRB and exportin XPO1/CRM1.MISCELLANEOUS Average number present in a viral particle is estimated to be 130-200 molecules.SIMILARITY Belongs to the influenza viruses NEP family."
+        ],
+        "description": [
+            "recommendedName: fullName evidence=\"1\"Nuclear export protein shortName evidence=\"1\"NEP  alternativeName: fullName evidence=\"1\"Non-structural protein 2 shortName evidence=\"1\"NS2 "
+        ],
+        "geneName": [
+            "NS"
+        ],
+        "isSequenceChanged": false,
+        "keyword": [
+            "3D-structure",
+            "Alternative splicing",
+            "Host nucleus",
+            "Host-virus interaction",
+            "Reference proteome",
+            "Transport",
+            "Virion"
+        ],
+        "secondaryIdentifier": [
+            "NEP_I34A1",
+            "A4GXG8",
+            "Q20N33",
+            "Q67266",
+            "Q71QT4"
+        ],
+        "sequenceLength": 121,
+        "chain": [
+            "chain:1-121"
+        ],
+        "schemaClass": "ReferenceGeneProduct",
+        "className": "ReferenceGeneProduct"
+    },
+    {
+        "dbId": 169106,
+        "displayName": "UniProt:P03468 NA",
+        "databaseName": "UniProt",
+        "identifier": "P03468",
+        "name": [
+            "NA"
+        ],
+        "url": "http://purl.uniprot.org/uniprot/P03468",
+        "checksum": "7C52E0A9FD93A98B",
+        "comment": [
+            "FUNCTION Catalyzes the removal of terminal sialic acid residues from viral and cellular glycoconjugates. Cleaves off the terminal sialic acids on the glycosylated HA during virus budding to facilitate virus release. Additionally helps virus spread through the circulation by further removing sialic acids from the cell surface. These cleavages prevent self-aggregation and ensure the efficient spread of the progeny virus from cell to cell. Otherwise, infection would be limited to one round of replication. Described as a receptor-destroying enzyme because it cleaves a terminal sialic acid from the cellular receptors. May facilitate viral invasion of the upper airways by cleaving the sialic acid moieties on the mucin of the airway epithelial cells. Likely to plays a role in the budding process through its association with lipid rafts during intracellular transport. May additionally display a raft-association independent effect on budding. Plays a role in the determination of host range restriction on replication and virulence. Sialidase activity in late endosome/lysosome traffic seems to enhance virus replication.ACTIVITY REGULATION Inhibited by the neuraminidase inhibitors zanamivir (Relenza) and oseltamivir (Tamiflu). These drugs interfere with the release of progeny virus from infected cells and are effective against all influenza strains. Resistance to neuraminidase inhibitors is quite rare.SUBUNIT Homotetramer.DOMAIN Intact N-terminus is essential for virion morphogenesis. Possesses two apical sorting signals, one in the ectodomain, which is likely to be a glycan, and the other in the transmembrane domain. The transmembrane domain also plays a role in lipid raft association.PTM N-glycosylated.MISCELLANEOUS The influenza A genome consist of 8 RNA segments. Genetic variation of hemagglutinin and/or neuraminidase genes results in the emergence of new influenza strains. The mechanism of variation can be the result of point mutations or the result of genetic reassortment between segments of two different strains.SIMILARITY Belongs to the glycosyl hydrolase 34 family."
+        ],
+        "description": [
+            "recommendedName: fullName evidence=\"1\"Neuraminidase ecNumber evidence=\"1\"3.2.1.18/ecNumber "
+        ],
+        "geneName": [
+            "NA"
+        ],
+        "isSequenceChanged": false,
+        "keyword": [
+            "3D-structure",
+            "Calcium",
+            "Disulfide bond",
+            "Glycoprotein",
+            "Glycosidase",
+            "Host cell membrane",
+            "Host membrane",
+            "Hydrolase",
+            "Membrane",
+            "Metal-binding",
+            "Reference proteome",
+            "Signal-anchor",
+            "Transmembrane",
+            "Transmembrane helix",
+            "Virion"
+        ],
+        "secondaryIdentifier": [
+            "NRAM_I34A1",
+            "A4GXH6",
+            "Q20N35",
+            "Q84043",
+            "Q8JUU4"
+        ],
+        "sequenceLength": 454,
+        "chain": [
+            "chain:1-454"
+        ],
+        "schemaClass": "ReferenceGeneProduct",
+        "className": "ReferenceGeneProduct"
+    },
+    {
+        "dbId": 169056,
+        "displayName": "UniProt:P06821 M",
+        "databaseName": "UniProt",
+        "identifier": "P06821",
+        "name": [
+            "M"
+        ],
+        "url": "http://purl.uniprot.org/uniprot/P06821",
+        "checksum": "85858F6E84A97AB8",
+        "comment": [
+            "FUNCTION Forms a proton-selective ion channel that is necessary for the efficient release of the viral genome during virus entry. After attaching to the cell surface, the virion enters the cell by endocytosis. Acidification of the endosome triggers M2 ion channel activity. The influx of protons into virion interior is believed to disrupt interactions between the viral ribonucleoprotein (RNP), matrix protein 1 (M1), and lipid bilayers, thereby freeing the viral genome from interaction with viral proteins and enabling RNA segments to migrate to the host cell nucleus, where influenza virus RNA transcription and replication occur. Also plays a role in viral proteins secretory pathway. Elevates the intravesicular pH of normally acidic compartments, such as trans-Golgi network, preventing newly formed hemagglutinin from premature switching to the fusion-active conformation.ACTIVITY REGULATION The M2 protein from most influenza A strains is inhibited by amantadine and rimantadine, resulting in viral uncoating incapacity. Emergence of amantadine-resistant variants is usually rapid.SUBUNIT Homotetramer; composed of two disulfide-linked dimers held together by non-covalent interactions. May interact with matrix protein 1.DOMAIN Cytoplasmic tail plays an important role in virion assembly and morphogenesis.MISCELLANEOUS When the channel is activated, one or more imidazole moieties of His-37 probably become bi-protonated.SIMILARITY Belongs to the influenza viruses matrix protein M2 family."
+        ],
+        "description": [
+            "recommendedName: fullName evidence=\"1\"Matrix protein 2  alternativeName: fullName evidence=\"1\"Proton channel protein M2 "
+        ],
+        "geneName": [
+            "M"
+        ],
+        "isSequenceChanged": false,
+        "keyword": [
+            "3D-structure",
+            "Alternative splicing",
+            "Disulfide bond",
+            "Glycoprotein",
+            "Host cell membrane",
+            "Host membrane",
+            "Host-virus interaction",
+            "Hydrogen ion transport",
+            "Inhibition of host autophagy by virus",
+            "Ion channel",
+            "Ion transport",
+            "Lipoprotein",
+            "Membrane",
+            "Palmitate",
+            "Phosphoprotein",
+            "Reference proteome",
+            "Signal-anchor",
+            "Transmembrane",
+            "Transmembrane helix",
+            "Transport",
+            "Viral ion channel",
+            "Virion"
+        ],
+        "secondaryIdentifier": [
+            "M2_I34A1",
+            "A4GXH7",
+            "Q20N37",
+            "Q5UAV4",
+            "Q5UAV5",
+            "Q5UAV6",
+            "Q84105",
+            "Q8JUU3"
+        ],
+        "sequenceLength": 97,
+        "chain": [
+            "chain:1-97"
+        ],
+        "schemaClass": "ReferenceGeneProduct",
+        "className": "ReferenceGeneProduct"
+    },
+    {
+        "dbId": 169083,
+        "displayName": "UniProt:P03452 HA",
+        "databaseName": "UniProt",
+        "identifier": "P03452",
+        "name": [
+            "HA"
+        ],
+        "url": "http://purl.uniprot.org/uniprot/P03452",
+        "checksum": "47F34821748F494E",
+        "comment": [
+            "FUNCTION Binds to sialic acid-containing receptors on the cell surface, bringing about the attachment of the virus particle to the cell. This attachment induces virion internalization either through clathrin-dependent endocytosis or through clathrin- and caveolin-independent pathway. Plays a major role in the determination of host range restriction and virulence. Class I viral fusion protein. Responsible for penetration of the virus into the cell cytoplasm by mediating the fusion of the membrane of the endocytosed virus particle with the endosomal membrane. Low pH in endosomes induces an irreversible conformational change in HA2, releasing the fusion hydrophobic peptide. Several trimers are required to form a competent fusion pore.SUBUNIT Homotrimer of disulfide-linked HA1-HA2. Interacts with human CACNA1C (PubMed:29779930).PTM Palmitoylated.PTM In natural infection, inactive HA is matured into HA1 and HA2 outside the cell by one or more trypsin-like, arginine-specific endoprotease secreted by the bronchial epithelial cells. One identified protease that may be involved in this process is secreted in lungs by Clara cells.MISCELLANEOUS Major glycoprotein, comprises over 80% of the envelope proteins present in virus particle.MISCELLANEOUS The extent of infection into host organism is determined by HA. Influenza viruses bud from the apical surface of polarized epithelial cells (e.g. bronchial epithelial cells) into lumen of lungs and are therefore usually pneumotropic. The reason is that HA is cleaved by tryptase clara which is restricted to lungs. However, HAs of H5 and H7 pantropic avian viruses subtypes can be cleaved by furin and subtilisin-type enzymes, allowing the virus to grow in other organs than lungs.MISCELLANEOUS The influenza A genome consist of 8 RNA segments. Genetic variation of hemagglutinin and/or neuraminidase genes results in the emergence of new influenza strains. The mechanism of variation can be the result of point mutations or the result of genetic reassortment between segments of two different strains.SIMILARITY Belongs to the influenza viruses hemagglutinin family."
+        ],
+        "description": [
+            "recommendedName: fullName evidence=\"1\"Hemagglutinin  component recommendedName: fullName evidence=\"1\"Hemagglutinin HA1 chain  /component component recommendedName: fullName evidence=\"1\"Hemagglutinin HA2 chain  /component"
+        ],
+        "geneName": [
+            "HA"
+        ],
+        "isSequenceChanged": false,
+        "keyword": [
+            "3D-structure",
+            "Clathrin- and caveolin-independent endocytosis of virus by host",
+            "Clathrin-mediated endocytosis of virus by host",
+            "Disulfide bond",
+            "Fusion of virus membrane with host endosomal membrane",
+            "Fusion of virus membrane with host membrane",
+            "Glycoprotein",
+            "Hemagglutinin",
+            "Host cell membrane",
+            "Host membrane",
+            "Host-virus interaction",
+            "Lipoprotein",
+            "Membrane",
+            "Palmitate",
+            "Reference proteome",
+            "Signal",
+            "Transmembrane",
+            "Transmembrane helix",
+            "Viral attachment to host cell",
+            "Viral envelope protein",
+            "Viral penetration into host cytoplasm",
+            "Virion",
+            "Virus endocytosis by host",
+            "Virus entry into host cell"
+        ],
+        "secondaryIdentifier": [
+            "HEMA_I34A1",
+            "A4GXH4",
+            "Q20N38",
+            "Q83964",
+            "Q8JUU5"
+        ],
+        "sequenceLength": 565,
+        "chain": [
+            "signal peptide:1-17",
+            "chain:18-342",
+            "chain:344-565",
+            "chain:18-565"
+        ],
+        "schemaClass": "ReferenceGeneProduct",
+        "className": "ReferenceGeneProduct"
+    },
+    {
+        "dbId": 188870,
+        "displayName": "EMBL:AF389115 Unknown",
+        "databaseName": "EMBL",
+        "identifier": "AF389115",
+        "name": [
+            "H1N1 Genomic RNA Segment 1"
+        ],
+        "url": "http://www.ebi.ac.uk/ena/data/view/AF389115",
+        "description": [
+            "Influenza A virus (A/Puerto Rico/8/34/Mount Sinai(H1N1)) segment 1, complete sequence"
+        ],
+        "schemaClass": "ReferenceRNASequence",
+        "className": "ReferenceRNASequence"
+    },
+    {
+        "dbId": 188854,
+        "displayName": "EMBL:AF389117 Unknown",
+        "databaseName": "EMBL",
+        "identifier": "AF389117",
+        "name": [
+            "H1N1 Genomic RNA Segment 3"
+        ],
+        "url": "http://www.ebi.ac.uk/ena/data/view/AF389117",
+        "description": [
+            "Influenza A virus (A/Puerto Rico/8/34/Mount Sinai(H1N1)) segment 3, complete sequence."
+        ],
+        "schemaClass": "ReferenceRNASequence",
+        "className": "ReferenceRNASequence"
+    },
+    {
+        "dbId": 188847,
+        "displayName": "EMBL:AF389116 Unknown",
+        "databaseName": "EMBL",
+        "identifier": "AF389116",
+        "name": [
+            "H1N1 Genomic RNA Segment 2"
+        ],
+        "url": "http://www.ebi.ac.uk/ena/data/view/AF389116",
+        "description": [
+            "Influenza A virus (A/Puerto Rico/8/34/Mount Sinai(H1N1)) segment 2, complete sequence."
+        ],
+        "schemaClass": "ReferenceRNASequence",
+        "className": "ReferenceRNASequence"
+    },
+    {
+        "dbId": 188836,
+        "displayName": "EMBL:AF389119 Unknown",
+        "databaseName": "EMBL",
+        "identifier": "AF389119",
+        "name": [
+            "H1N1 Genomic RNA Segment 5"
+        ],
+        "url": "http://www.ebi.ac.uk/ena/data/view/AF389119",
+        "description": [
+            "Influenza A virus (A/Puerto Rico/8/34/Mount Sinai(H1N1)) segment 5, complete sequence."
+        ],
+        "schemaClass": "ReferenceRNASequence",
+        "className": "ReferenceRNASequence"
+    },
+    {
+        "dbId": 188862,
+        "displayName": "EMBL:AF389120 Unknown",
+        "databaseName": "EMBL",
+        "identifier": "AF389120",
+        "name": [
+            "H1N1 Genomic RNA Segment 6"
+        ],
+        "url": "http://www.ebi.ac.uk/ena/data/view/AF389120",
+        "description": [
+            "Influenza A virus (A/Puerto Rico/8/34/Mount Sinai(H1N1)) segment 6, complete sequence."
+        ],
+        "schemaClass": "ReferenceRNASequence",
+        "className": "ReferenceRNASequence"
+    },
+    {
+        "dbId": 188873,
+        "displayName": "EMBL:AF389121 Unknown",
+        "databaseName": "EMBL",
+        "identifier": "AF389121",
+        "name": [
+            "H1N1 Genomic RNA Segment 7"
+        ],
+        "url": "http://www.ebi.ac.uk/ena/data/view/AF389121",
+        "description": [
+            "Influenza A virus (A/Puerto Rico/8/34/Mount Sinai(H1N1)) segment 7, complete sequence."
+        ],
+        "schemaClass": "ReferenceRNASequence",
+        "className": "ReferenceRNASequence"
+    }
+]

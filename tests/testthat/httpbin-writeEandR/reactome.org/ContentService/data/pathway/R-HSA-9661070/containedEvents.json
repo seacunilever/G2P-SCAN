@@ -1,0 +1,19 @@
+[
+    {
+        "dbId": 9660615,
+        "displayName": "Defective RB1 does not translocate to the nucleus",
+        "stId": "R-HSA-9660615",
+        "stIdVersion": "R-HSA-9660615.1",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "Defective RB1 does not translocate to the nucleus"
+        ],
+        "releaseDate": "2020-06-10",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "transition",
+        "className": "Reaction",
+        "schemaClass": "FailedReaction"
+    }
+]

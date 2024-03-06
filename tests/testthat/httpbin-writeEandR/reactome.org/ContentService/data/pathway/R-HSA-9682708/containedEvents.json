@@ -1,0 +1,87 @@
+[
+    {
+        "dbId": 9685906,
+        "displayName": "Polyadenylation of SARS-CoV-1 subgenomic mRNAs (plus strand)",
+        "stId": "R-HSA-9685906",
+        "stIdVersion": "R-HSA-9685906.2",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "Polyadenylation of SARS-CoV-1 subgenomic mRNAs (plus strand)"
+        ],
+        "releaseDate": "2020-06-10",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "uncertain",
+        "className": "Reaction",
+        "schemaClass": "BlackBoxEvent"
+    },
+    {
+        "dbId": 9685681,
+        "displayName": "Synthesis of SARS-CoV-1 plus strand subgenomic mRNAs",
+        "stId": "R-HSA-9685681",
+        "stIdVersion": "R-HSA-9685681.3",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "Synthesis of SARS-CoV-1 plus strand subgenomic mRNAs"
+        ],
+        "releaseDate": "2020-06-10",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "uncertain",
+        "className": "Reaction",
+        "schemaClass": "BlackBoxEvent"
+    },
+    {
+        "dbId": 9684033,
+        "displayName": "nsp16 acts as a cap 2'-O-methyltransferase to modify SARS-CoV-1 mRNAs",
+        "stId": "R-HSA-9684033",
+        "stIdVersion": "R-HSA-9684033.3",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "nsp16 acts as a cap 2'-O-methyltransferase to modify SARS-CoV-1 mRNAs"
+        ],
+        "releaseDate": "2020-06-10",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "transition",
+        "className": "Reaction",
+        "schemaClass": "Reaction"
+    },
+    {
+        "dbId": 9684016,
+        "displayName": "nsp14 acts as a cap N7 methyltransferase to modify SARS-CoV-1 mRNAs",
+        "stId": "R-HSA-9684016",
+        "stIdVersion": "R-HSA-9684016.3",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "nsp14 acts as a cap N7 methyltransferase to modify SARS-CoV-1 mRNAs"
+        ],
+        "releaseDate": "2020-06-10",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "uncertain",
+        "className": "Reaction",
+        "schemaClass": "BlackBoxEvent"
+    },
+    {
+        "dbId": 9685639,
+        "displayName": "Synthesis of SARS-CoV-1 minus strand subgenomic mRNAs by template switching",
+        "stId": "R-HSA-9685639",
+        "stIdVersion": "R-HSA-9685639.3",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "Synthesis of SARS-CoV-1 minus strand subgenomic mRNAs by template switching"
+        ],
+        "releaseDate": "2020-06-10",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "uncertain",
+        "className": "Reaction",
+        "schemaClass": "BlackBoxEvent"
+    }
+]

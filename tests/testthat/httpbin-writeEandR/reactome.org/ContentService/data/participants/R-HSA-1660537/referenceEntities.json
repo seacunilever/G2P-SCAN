@@ -1,0 +1,18 @@
+[
+    {
+        "dbId": 1163349,
+        "displayName": "1-phosphatidyl-1D-myo-inositol 3,5-bisphosphate [ChEBI:16851]",
+        "databaseName": "ChEBI",
+        "identifier": "16851",
+        "name": [
+            "1-phosphatidyl-1D-myo-inositol 3,5-bisphosphate",
+            "PtsIns(3,5)P2",
+            "1,2-Diacyl-sn-glycero-3-phospho-(1&apos;-myo-inositol-3&apos;,5&apos;-bisphosphate)",
+            "PtsIns-3,5-P2"
+        ],
+        "url": "http://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:16851",
+        "formula": "C11H19O19P3R2",
+        "schemaClass": "ReferenceMolecule",
+        "className": "ReferenceMolecule"
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "dbId": 9713837,
+        "displayName": "Psoralens in combination with UV generate DNA interstrand crosslinks",
+        "stId": "R-HSA-9713837",
+        "stIdVersion": "R-HSA-9713837.1",
+        "isInDisease": false,
+        "isInferred": false,
+        "name": [
+            "Psoralens in combination with UV generate DNA interstrand crosslinks"
+        ],
+        "releaseDate": "2021-09-15",
+        "releaseStatus": "NEW",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "omitted",
+        "className": "Reaction",
+        "schemaClass": "BlackBoxEvent"
+    },
+    {
+        "dbId": 9713785,
+        "displayName": "Anti-cancer drugs generate DNA interstrand crosslinks",
+        "stId": "R-HSA-9713785",
+        "stIdVersion": "R-HSA-9713785.1",
+        "isInDisease": false,
+        "isInferred": true,
+        "name": [
+            "Anti-cancer drugs generate DNA interstrand crosslinks"
+        ],
+        "releaseDate": "2021-09-15",
+        "releaseStatus": "NEW",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "omitted",
+        "className": "Reaction",
+        "schemaClass": "BlackBoxEvent"
+    }
+]

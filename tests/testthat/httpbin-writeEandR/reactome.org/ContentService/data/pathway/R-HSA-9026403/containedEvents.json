@@ -1,0 +1,53 @@
+[
+    {
+        "dbId": 9026411,
+        "displayName": "13(R)-HDPAn-3 translocates from endothelial cell to neutrophil",
+        "stId": "R-HSA-9026411",
+        "stIdVersion": "R-HSA-9026411.1",
+        "isInDisease": false,
+        "isInferred": false,
+        "name": [
+            "13(R)-HDPAn-3 translocates from endothelial cell to neutrophil"
+        ],
+        "releaseDate": "2018-03-21",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "uncertain",
+        "className": "Reaction",
+        "schemaClass": "BlackBoxEvent"
+    },
+    {
+        "dbId": 9026405,
+        "displayName": "ALOX5 oxidises 13(R)-HDPAn-3 to RvT1-4",
+        "stId": "R-HSA-9026405",
+        "stIdVersion": "R-HSA-9026405.1",
+        "isInDisease": false,
+        "isInferred": false,
+        "name": [
+            "ALOX5 oxidises 13(R)-HDPAn-3 to RvT1-4"
+        ],
+        "releaseDate": "2018-03-21",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "transition",
+        "className": "Reaction",
+        "schemaClass": "Reaction"
+    },
+    {
+        "dbId": 9032021,
+        "displayName": "RvT1-4 translocate from cytosol to extracellular region",
+        "stId": "R-HSA-9032021",
+        "stIdVersion": "R-HSA-9032021.1",
+        "isInDisease": false,
+        "isInferred": false,
+        "name": [
+            "RvT1-4 translocate from cytosol to extracellular region"
+        ],
+        "releaseDate": "2018-03-21",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "uncertain",
+        "className": "Reaction",
+        "schemaClass": "BlackBoxEvent"
+    }
+]

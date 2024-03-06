@@ -1,0 +1,138 @@
+[
+    {
+        "dbId": 6782881,
+        "displayName": "LCMT2 methylates yW-72 yielding yW-58 at nucleotide 37 of tRNA(Phe)",
+        "stId": "R-HSA-6782881",
+        "stIdVersion": "R-HSA-6782881.2",
+        "isInDisease": false,
+        "isInferred": true,
+        "name": [
+            "LCMT2 methylates yW-72 yielding yW-58 at nucleotide 37 of tRNA(Phe)"
+        ],
+        "releaseDate": "2015-09-22",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "transition",
+        "className": "Reaction",
+        "schemaClass": "Reaction"
+    },
+    {
+        "dbId": 6783473,
+        "displayName": "LCMT2 methoxycarbonylates OHyW-72 yielding OHyW (hydroxywybutosine) at nucleotide 37 of tRNA(Phe)",
+        "stId": "R-HSA-6783473",
+        "stIdVersion": "R-HSA-6783473.2",
+        "isInDisease": false,
+        "isInferred": false,
+        "name": [
+            "LCMT2 methoxycarbonylates OHyW-72 yielding OHyW (hydroxywybutosine) at nucleotide 37 of tRNA(Phe)"
+        ],
+        "releaseDate": "2015-09-22",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "transition",
+        "className": "Reaction",
+        "schemaClass": "Reaction"
+    },
+    {
+        "dbId": 6782895,
+        "displayName": "TYW1:FMN:4Fe-4S  transforms 1-methylguanosine yielding yW-187 (4-demethylwyosine) at nucleotide 37 of tRNA(Phe)",
+        "stId": "R-HSA-6782895",
+        "stIdVersion": "R-HSA-6782895.2",
+        "isInDisease": false,
+        "isInferred": true,
+        "name": [
+            "TYW1:FMN:4Fe-4S  transforms 1-methylguanosine yielding yW-187 (4-demethylwyosine) at nucleotide 37 of tRNA(Phe)"
+        ],
+        "releaseDate": "2015-09-22",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "transition",
+        "className": "Reaction",
+        "schemaClass": "Reaction"
+    },
+    {
+        "dbId": 6782879,
+        "displayName": "TYW3 methylates yW-86 yielding yW-72 at nucleotide 37 of tRNA(Phe)",
+        "stId": "R-HSA-6782879",
+        "stIdVersion": "R-HSA-6782879.2",
+        "isInDisease": false,
+        "isInferred": true,
+        "name": [
+            "TYW3 methylates yW-86 yielding yW-72 at nucleotide 37 of tRNA(Phe)"
+        ],
+        "releaseDate": "2015-09-22",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "transition",
+        "className": "Reaction",
+        "schemaClass": "Reaction"
+    },
+    {
+        "dbId": 6783455,
+        "displayName": "TYW5 hydroxylates yW-72 yielding OHyW-72 at nucleotide 37 of tRNA(Phe)",
+        "stId": "R-HSA-6783455",
+        "stIdVersion": "R-HSA-6783455.3",
+        "isInDisease": false,
+        "isInferred": false,
+        "name": [
+            "TYW5 hydroxylates yW-72 yielding OHyW-72 at nucleotide 37 of tRNA(Phe)"
+        ],
+        "releaseDate": "2015-09-22",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "transition",
+        "className": "Reaction",
+        "schemaClass": "Reaction"
+    },
+    {
+        "dbId": 6782893,
+        "displayName": "TRMT12 transforms yW-187 yielding yW-86 at nucleotide 37 of tRNA(Phe)",
+        "stId": "R-HSA-6782893",
+        "stIdVersion": "R-HSA-6782893.3",
+        "isInDisease": false,
+        "isInferred": true,
+        "name": [
+            "TRMT12 transforms yW-187 yielding yW-86 at nucleotide 37 of tRNA(Phe)"
+        ],
+        "releaseDate": "2015-09-22",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "transition",
+        "className": "Reaction",
+        "schemaClass": "Reaction"
+    },
+    {
+        "dbId": 6782859,
+        "displayName": "TRMT5 methylates guanosine yielding 1-methylguanosine at nucleotide 37 of tRNA(Phe)",
+        "stId": "R-HSA-6782859",
+        "stIdVersion": "R-HSA-6782859.2",
+        "isInDisease": false,
+        "isInferred": true,
+        "name": [
+            "TRMT5 methylates guanosine yielding 1-methylguanosine at nucleotide 37 of tRNA(Phe)"
+        ],
+        "releaseDate": "2015-09-22",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "transition",
+        "className": "Reaction",
+        "schemaClass": "Reaction"
+    },
+    {
+        "dbId": 6782890,
+        "displayName": "LCMT2 methoxycarbonylates yW-58 yielding yW (wybutosine) at nucleotide 37 of tRNA(Phe)",
+        "stId": "R-HSA-6782890",
+        "stIdVersion": "R-HSA-6782890.2",
+        "isInDisease": false,
+        "isInferred": true,
+        "name": [
+            "LCMT2 methoxycarbonylates yW-58 yielding yW (wybutosine) at nucleotide 37 of tRNA(Phe)"
+        ],
+        "releaseDate": "2015-09-22",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "transition",
+        "className": "Reaction",
+        "schemaClass": "Reaction"
+    }
+]

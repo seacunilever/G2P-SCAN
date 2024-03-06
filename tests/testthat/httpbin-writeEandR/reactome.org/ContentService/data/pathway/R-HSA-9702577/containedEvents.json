@@ -1,0 +1,19 @@
+[
+    {
+        "dbId": 9702578,
+        "displayName": "semaxanib-resistant FLT3 mutants don't bind semaxanib<br>",
+        "stId": "R-HSA-9702578",
+        "stIdVersion": "R-HSA-9702578.1",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "semaxanib-resistant FLT3 mutants don't bind semaxanib<br>"
+        ],
+        "releaseDate": "2020-12-08",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "transition",
+        "className": "Reaction",
+        "schemaClass": "FailedReaction"
+    }
+]

@@ -1,0 +1,36 @@
+[
+    {
+        "dbId": 9637698,
+        "displayName": "Phagocyte cell death caused by cytosolic Mtb",
+        "stId": "R-HSA-9637698",
+        "stIdVersion": "R-HSA-9637698.1",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "Phagocyte cell death caused by cytosolic Mtb"
+        ],
+        "releaseDate": "2019-12-10",
+        "speciesName": "Homo sapiens",
+        "hasDiagram": false,
+        "hasEHLD": false,
+        "schemaClass": "Pathway",
+        "className": "Pathway"
+    },
+    {
+        "dbId": 9637699,
+        "displayName": "CpnT hydrolyses NAD+",
+        "stId": "R-HSA-9637699",
+        "stIdVersion": "R-HSA-9637699.1",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "CpnT hydrolyses NAD+"
+        ],
+        "releaseDate": "2019-12-10",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "transition",
+        "className": "Reaction",
+        "schemaClass": "Reaction"
+    }
+]

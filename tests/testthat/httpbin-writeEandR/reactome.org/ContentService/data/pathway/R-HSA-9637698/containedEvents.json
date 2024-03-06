@@ -1,0 +1,19 @@
+[
+    {
+        "dbId": 9637699,
+        "displayName": "CpnT hydrolyses NAD+",
+        "stId": "R-HSA-9637699",
+        "stIdVersion": "R-HSA-9637699.1",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "CpnT hydrolyses NAD+"
+        ],
+        "releaseDate": "2019-12-10",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "transition",
+        "className": "Reaction",
+        "schemaClass": "Reaction"
+    }
+]

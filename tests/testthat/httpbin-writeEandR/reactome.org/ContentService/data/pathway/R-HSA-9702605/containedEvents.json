@@ -1,0 +1,19 @@
+[
+    {
+        "dbId": 9702607,
+        "displayName": "pexidartinib-resistant FLT3 mutants don't bind pexidartinib",
+        "stId": "R-HSA-9702607",
+        "stIdVersion": "R-HSA-9702607.1",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "pexidartinib-resistant FLT3 mutants don't bind pexidartinib"
+        ],
+        "releaseDate": "2020-12-08",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "transition",
+        "className": "Reaction",
+        "schemaClass": "FailedReaction"
+    }
+]

@@ -1,0 +1,36 @@
+[
+    {
+        "dbId": 9723905,
+        "displayName": "Loss of function of TP53 in cancer due to loss of tetramerization ability",
+        "stId": "R-HSA-9723905",
+        "stIdVersion": "R-HSA-9723905.1",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "Loss of function of TP53 in cancer due to loss of tetramerization ability"
+        ],
+        "releaseDate": "2021-06-09",
+        "speciesName": "Homo sapiens",
+        "hasDiagram": true,
+        "hasEHLD": false,
+        "schemaClass": "Pathway",
+        "className": "Pathway"
+    },
+    {
+        "dbId": 9723906,
+        "displayName": "Defective TP53 does not tetramerize",
+        "stId": "R-HSA-9723906",
+        "stIdVersion": "R-HSA-9723906.1",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "Defective TP53 does not tetramerize"
+        ],
+        "releaseDate": "2021-06-09",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "transition",
+        "className": "Reaction",
+        "schemaClass": "FailedReaction"
+    }
+]

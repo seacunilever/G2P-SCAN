@@ -1,0 +1,121 @@
+[
+    {
+        "dbId": 1222690,
+        "displayName": "DlaT reactivates AhpD",
+        "stId": "R-HSA-1222690",
+        "stIdVersion": "R-HSA-1222690.1",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "DlaT reactivates AhpD"
+        ],
+        "releaseDate": "2012-06-12",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "transition",
+        "className": "Reaction",
+        "schemaClass": "Reaction"
+    },
+    {
+        "dbId": 1222417,
+        "displayName": "TrxA reactivates AhpC",
+        "stId": "R-HSA-1222417",
+        "stIdVersion": "R-HSA-1222417.1",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "TrxA reactivates AhpC"
+        ],
+        "releaseDate": "2012-06-12",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "transition",
+        "className": "Reaction",
+        "schemaClass": "Reaction"
+    },
+    {
+        "dbId": 1222644,
+        "displayName": "TrxA/B1 reactivates Tpx",
+        "stId": "R-HSA-1222644",
+        "stIdVersion": "R-HSA-1222644.1",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "TrxA/B1 reactivates Tpx"
+        ],
+        "releaseDate": "2012-06-12",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "transition",
+        "className": "Reaction",
+        "schemaClass": "Reaction"
+    },
+    {
+        "dbId": 1222485,
+        "displayName": "TrxB reactivates TrxA",
+        "stId": "R-HSA-1222485",
+        "stIdVersion": "R-HSA-1222485.1",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "TrxB reactivates TrxA"
+        ],
+        "releaseDate": "2012-06-12",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "transition",
+        "className": "Reaction",
+        "schemaClass": "Reaction"
+    },
+    {
+        "dbId": 1500781,
+        "displayName": "Fgd1 reactivates F420",
+        "stId": "R-HSA-1500781",
+        "stIdVersion": "R-HSA-1500781.2",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "Fgd1 reactivates F420"
+        ],
+        "releaseDate": "2012-06-12",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "transition",
+        "className": "Reaction",
+        "schemaClass": "Reaction"
+    },
+    {
+        "dbId": 1222655,
+        "displayName": "AhpD reactivates AhpC",
+        "stId": "R-HSA-1222655",
+        "stIdVersion": "R-HSA-1222655.1",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "AhpD reactivates AhpC"
+        ],
+        "releaseDate": "2012-06-12",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "transition",
+        "className": "Reaction",
+        "schemaClass": "Reaction"
+    },
+    {
+        "dbId": 1222412,
+        "displayName": "lpdC dimer reactivates dlaT",
+        "stId": "R-HSA-1222412",
+        "stIdVersion": "R-HSA-1222412.2",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "lpdC dimer reactivates dlaT"
+        ],
+        "releaseDate": "2012-06-12",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "transition",
+        "className": "Reaction",
+        "schemaClass": "Reaction"
+    }
+]

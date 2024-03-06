@@ -1,0 +1,36 @@
+[
+    {
+        "dbId": 1483218,
+        "displayName": "PG transports from the ER membrane to the late endosome membrane",
+        "stId": "R-HSA-1483218",
+        "stIdVersion": "R-HSA-1483218.1",
+        "isInDisease": false,
+        "isInferred": false,
+        "name": [
+            "PG transports from the ER membrane to the late endosome membrane"
+        ],
+        "releaseDate": "2012-06-12",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "transition",
+        "className": "Reaction",
+        "schemaClass": "Reaction"
+    },
+    {
+        "dbId": 1483209,
+        "displayName": "PG is converted to BMP",
+        "stId": "R-HSA-1483209",
+        "stIdVersion": "R-HSA-1483209.1",
+        "isInDisease": false,
+        "isInferred": false,
+        "name": [
+            "PG is converted to BMP"
+        ],
+        "releaseDate": "2012-06-12",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "omitted",
+        "className": "Reaction",
+        "schemaClass": "BlackBoxEvent"
+    }
+]

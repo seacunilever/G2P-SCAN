@@ -1,0 +1,70 @@
+[
+    {
+        "dbId": 9608290,
+        "displayName": "Defective MUTYH substrate processing",
+        "stId": "R-HSA-9608290",
+        "stIdVersion": "R-HSA-9608290.1",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "Defective MUTYH substrate processing"
+        ],
+        "releaseDate": "2018-09-12",
+        "speciesName": "Homo sapiens",
+        "hasDiagram": true,
+        "hasEHLD": false,
+        "schemaClass": "Pathway",
+        "className": "Pathway"
+    },
+    {
+        "dbId": 9605313,
+        "displayName": "Defective MUTYH mutants do not cleave adenine mispaired with 8-oxoguanine",
+        "stId": "R-HSA-9605313",
+        "stIdVersion": "R-HSA-9605313.1",
+        "isInDisease": true,
+        "isInferred": true,
+        "name": [
+            "Defective MUTYH mutants do not cleave adenine mispaired with 8-oxoguanine"
+        ],
+        "releaseDate": "2018-09-12",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "transition",
+        "className": "Reaction",
+        "schemaClass": "FailedReaction"
+    },
+    {
+        "dbId": 9608287,
+        "displayName": "Defective MUTYH substrate binding",
+        "stId": "R-HSA-9608287",
+        "stIdVersion": "R-HSA-9608287.1",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "Defective MUTYH substrate binding"
+        ],
+        "releaseDate": "2018-09-12",
+        "speciesName": "Homo sapiens",
+        "hasDiagram": true,
+        "hasEHLD": false,
+        "schemaClass": "Pathway",
+        "className": "Pathway"
+    },
+    {
+        "dbId": 9608288,
+        "displayName": "Defective MUTYH mutants do not bind adenine mispaired with 8-oxoguanine",
+        "stId": "R-HSA-9608288",
+        "stIdVersion": "R-HSA-9608288.2",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "Defective MUTYH mutants do not bind adenine mispaired with 8-oxoguanine"
+        ],
+        "releaseDate": "2018-09-12",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "transition",
+        "className": "Reaction",
+        "schemaClass": "FailedReaction"
+    }
+]

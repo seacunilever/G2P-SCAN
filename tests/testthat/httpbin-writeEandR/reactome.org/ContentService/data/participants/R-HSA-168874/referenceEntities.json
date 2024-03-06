@@ -1,0 +1,177 @@
+[
+    {
+        "dbId": 169056,
+        "displayName": "UniProt:P06821 M",
+        "databaseName": "UniProt",
+        "identifier": "P06821",
+        "name": [
+            "M"
+        ],
+        "url": "http://purl.uniprot.org/uniprot/P06821",
+        "checksum": "85858F6E84A97AB8",
+        "comment": [
+            "FUNCTION Forms a proton-selective ion channel that is necessary for the efficient release of the viral genome during virus entry. After attaching to the cell surface, the virion enters the cell by endocytosis. Acidification of the endosome triggers M2 ion channel activity. The influx of protons into virion interior is believed to disrupt interactions between the viral ribonucleoprotein (RNP), matrix protein 1 (M1), and lipid bilayers, thereby freeing the viral genome from interaction with viral proteins and enabling RNA segments to migrate to the host cell nucleus, where influenza virus RNA transcription and replication occur. Also plays a role in viral proteins secretory pathway. Elevates the intravesicular pH of normally acidic compartments, such as trans-Golgi network, preventing newly formed hemagglutinin from premature switching to the fusion-active conformation.ACTIVITY REGULATION The M2 protein from most influenza A strains is inhibited by amantadine and rimantadine, resulting in viral uncoating incapacity. Emergence of amantadine-resistant variants is usually rapid.SUBUNIT Homotetramer; composed of two disulfide-linked dimers held together by non-covalent interactions. May interact with matrix protein 1.DOMAIN Cytoplasmic tail plays an important role in virion assembly and morphogenesis.MISCELLANEOUS When the channel is activated, one or more imidazole moieties of His-37 probably become bi-protonated.SIMILARITY Belongs to the influenza viruses matrix protein M2 family."
+        ],
+        "description": [
+            "recommendedName: fullName evidence=\"1\"Matrix protein 2  alternativeName: fullName evidence=\"1\"Proton channel protein M2 "
+        ],
+        "geneName": [
+            "M"
+        ],
+        "isSequenceChanged": false,
+        "keyword": [
+            "3D-structure",
+            "Alternative splicing",
+            "Disulfide bond",
+            "Glycoprotein",
+            "Host cell membrane",
+            "Host membrane",
+            "Host-virus interaction",
+            "Hydrogen ion transport",
+            "Inhibition of host autophagy by virus",
+            "Ion channel",
+            "Ion transport",
+            "Lipoprotein",
+            "Membrane",
+            "Palmitate",
+            "Phosphoprotein",
+            "Reference proteome",
+            "Signal-anchor",
+            "Transmembrane",
+            "Transmembrane helix",
+            "Transport",
+            "Viral ion channel",
+            "Virion"
+        ],
+        "secondaryIdentifier": [
+            "M2_I34A1",
+            "A4GXH7",
+            "Q20N37",
+            "Q5UAV4",
+            "Q5UAV5",
+            "Q5UAV6",
+            "Q84105",
+            "Q8JUU3"
+        ],
+        "sequenceLength": 97,
+        "chain": [
+            "chain:1-97"
+        ],
+        "schemaClass": "ReferenceGeneProduct",
+        "className": "ReferenceGeneProduct"
+    },
+    {
+        "dbId": 169106,
+        "displayName": "UniProt:P03468 NA",
+        "databaseName": "UniProt",
+        "identifier": "P03468",
+        "name": [
+            "NA"
+        ],
+        "url": "http://purl.uniprot.org/uniprot/P03468",
+        "checksum": "7C52E0A9FD93A98B",
+        "comment": [
+            "FUNCTION Catalyzes the removal of terminal sialic acid residues from viral and cellular glycoconjugates. Cleaves off the terminal sialic acids on the glycosylated HA during virus budding to facilitate virus release. Additionally helps virus spread through the circulation by further removing sialic acids from the cell surface. These cleavages prevent self-aggregation and ensure the efficient spread of the progeny virus from cell to cell. Otherwise, infection would be limited to one round of replication. Described as a receptor-destroying enzyme because it cleaves a terminal sialic acid from the cellular receptors. May facilitate viral invasion of the upper airways by cleaving the sialic acid moieties on the mucin of the airway epithelial cells. Likely to plays a role in the budding process through its association with lipid rafts during intracellular transport. May additionally display a raft-association independent effect on budding. Plays a role in the determination of host range restriction on replication and virulence. Sialidase activity in late endosome/lysosome traffic seems to enhance virus replication.ACTIVITY REGULATION Inhibited by the neuraminidase inhibitors zanamivir (Relenza) and oseltamivir (Tamiflu). These drugs interfere with the release of progeny virus from infected cells and are effective against all influenza strains. Resistance to neuraminidase inhibitors is quite rare.SUBUNIT Homotetramer.DOMAIN Intact N-terminus is essential for virion morphogenesis. Possesses two apical sorting signals, one in the ectodomain, which is likely to be a glycan, and the other in the transmembrane domain. The transmembrane domain also plays a role in lipid raft association.PTM N-glycosylated.MISCELLANEOUS The influenza A genome consist of 8 RNA segments. Genetic variation of hemagglutinin and/or neuraminidase genes results in the emergence of new influenza strains. The mechanism of variation can be the result of point mutations or the result of genetic reassortment between segments of two different strains.SIMILARITY Belongs to the glycosyl hydrolase 34 family."
+        ],
+        "description": [
+            "recommendedName: fullName evidence=\"1\"Neuraminidase ecNumber evidence=\"1\"3.2.1.18/ecNumber "
+        ],
+        "geneName": [
+            "NA"
+        ],
+        "isSequenceChanged": false,
+        "keyword": [
+            "3D-structure",
+            "Calcium",
+            "Disulfide bond",
+            "Glycoprotein",
+            "Glycosidase",
+            "Host cell membrane",
+            "Host membrane",
+            "Hydrolase",
+            "Membrane",
+            "Metal-binding",
+            "Reference proteome",
+            "Signal-anchor",
+            "Transmembrane",
+            "Transmembrane helix",
+            "Virion"
+        ],
+        "secondaryIdentifier": [
+            "NRAM_I34A1",
+            "A4GXH6",
+            "Q20N35",
+            "Q84043",
+            "Q8JUU4"
+        ],
+        "sequenceLength": 454,
+        "chain": [
+            "chain:1-454"
+        ],
+        "schemaClass": "ReferenceGeneProduct",
+        "className": "ReferenceGeneProduct"
+    },
+    {
+        "dbId": 169083,
+        "displayName": "UniProt:P03452 HA",
+        "databaseName": "UniProt",
+        "identifier": "P03452",
+        "name": [
+            "HA"
+        ],
+        "url": "http://purl.uniprot.org/uniprot/P03452",
+        "checksum": "47F34821748F494E",
+        "comment": [
+            "FUNCTION Binds to sialic acid-containing receptors on the cell surface, bringing about the attachment of the virus particle to the cell. This attachment induces virion internalization either through clathrin-dependent endocytosis or through clathrin- and caveolin-independent pathway. Plays a major role in the determination of host range restriction and virulence. Class I viral fusion protein. Responsible for penetration of the virus into the cell cytoplasm by mediating the fusion of the membrane of the endocytosed virus particle with the endosomal membrane. Low pH in endosomes induces an irreversible conformational change in HA2, releasing the fusion hydrophobic peptide. Several trimers are required to form a competent fusion pore.SUBUNIT Homotrimer of disulfide-linked HA1-HA2. Interacts with human CACNA1C (PubMed:29779930).PTM Palmitoylated.PTM In natural infection, inactive HA is matured into HA1 and HA2 outside the cell by one or more trypsin-like, arginine-specific endoprotease secreted by the bronchial epithelial cells. One identified protease that may be involved in this process is secreted in lungs by Clara cells.MISCELLANEOUS Major glycoprotein, comprises over 80% of the envelope proteins present in virus particle.MISCELLANEOUS The extent of infection into host organism is determined by HA. Influenza viruses bud from the apical surface of polarized epithelial cells (e.g. bronchial epithelial cells) into lumen of lungs and are therefore usually pneumotropic. The reason is that HA is cleaved by tryptase clara which is restricted to lungs. However, HAs of H5 and H7 pantropic avian viruses subtypes can be cleaved by furin and subtilisin-type enzymes, allowing the virus to grow in other organs than lungs.MISCELLANEOUS The influenza A genome consist of 8 RNA segments. Genetic variation of hemagglutinin and/or neuraminidase genes results in the emergence of new influenza strains. The mechanism of variation can be the result of point mutations or the result of genetic reassortment between segments of two different strains.SIMILARITY Belongs to the influenza viruses hemagglutinin family."
+        ],
+        "description": [
+            "recommendedName: fullName evidence=\"1\"Hemagglutinin  component recommendedName: fullName evidence=\"1\"Hemagglutinin HA1 chain  /component component recommendedName: fullName evidence=\"1\"Hemagglutinin HA2 chain  /component"
+        ],
+        "geneName": [
+            "HA"
+        ],
+        "isSequenceChanged": false,
+        "keyword": [
+            "3D-structure",
+            "Clathrin- and caveolin-independent endocytosis of virus by host",
+            "Clathrin-mediated endocytosis of virus by host",
+            "Disulfide bond",
+            "Fusion of virus membrane with host endosomal membrane",
+            "Fusion of virus membrane with host membrane",
+            "Glycoprotein",
+            "Hemagglutinin",
+            "Host cell membrane",
+            "Host membrane",
+            "Host-virus interaction",
+            "Lipoprotein",
+            "Membrane",
+            "Palmitate",
+            "Reference proteome",
+            "Signal",
+            "Transmembrane",
+            "Transmembrane helix",
+            "Viral attachment to host cell",
+            "Viral envelope protein",
+            "Viral penetration into host cytoplasm",
+            "Virion",
+            "Virus endocytosis by host",
+            "Virus entry into host cell"
+        ],
+        "secondaryIdentifier": [
+            "HEMA_I34A1",
+            "A4GXH4",
+            "Q20N38",
+            "Q83964",
+            "Q8JUU5"
+        ],
+        "sequenceLength": 565,
+        "chain": [
+            "signal peptide:1-17",
+            "chain:18-342",
+            "chain:344-565",
+            "chain:18-565"
+        ],
+        "schemaClass": "ReferenceGeneProduct",
+        "className": "ReferenceGeneProduct"
+    }
+]

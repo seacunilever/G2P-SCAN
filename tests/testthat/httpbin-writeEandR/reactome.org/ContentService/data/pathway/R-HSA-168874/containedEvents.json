@@ -1,0 +1,34 @@
+[
+    {
+        "dbId": 168871,
+        "displayName": "Fusion of vesicle containing the HA trimer, NA tetramer and M2 tetramer to the Golgi apparatus",
+        "stId": "R-HSA-168871",
+        "stIdVersion": "R-HSA-168871.3",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "Fusion of vesicle containing the HA trimer, NA tetramer and M2 tetramer to the Golgi apparatus"
+        ],
+        "releaseDate": "2006-01-23",
+        "speciesName": "Homo sapiens",
+        "category": "transition",
+        "className": "Reaction",
+        "schemaClass": "Reaction"
+    },
+    {
+        "dbId": 168869,
+        "displayName": "Budding of vesicle with the HA trimer, NA tetramer and M2 tetramer from the endoplasmic reticulum into the cytosol",
+        "stId": "R-HSA-168869",
+        "stIdVersion": "R-HSA-168869.3",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "Budding of vesicle with the HA trimer, NA tetramer and M2 tetramer from the endoplasmic reticulum into the cytosol"
+        ],
+        "releaseDate": "2006-01-23",
+        "speciesName": "Homo sapiens",
+        "category": "transition",
+        "className": "Reaction",
+        "schemaClass": "Reaction"
+    }
+]
