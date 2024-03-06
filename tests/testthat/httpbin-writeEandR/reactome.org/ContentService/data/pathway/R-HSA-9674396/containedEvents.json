@@ -1,0 +1,19 @@
+[
+    {
+        "dbId": 9674397,
+        "displayName": "Imatinib-resistant PDGFR mutants don't bind imatinib",
+        "stId": "R-HSA-9674397",
+        "stIdVersion": "R-HSA-9674397.1",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "Imatinib-resistant PDGFR mutants don't bind imatinib"
+        ],
+        "releaseDate": "2020-03-17",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "transition",
+        "className": "Reaction",
+        "schemaClass": "FailedReaction"
+    }
+]

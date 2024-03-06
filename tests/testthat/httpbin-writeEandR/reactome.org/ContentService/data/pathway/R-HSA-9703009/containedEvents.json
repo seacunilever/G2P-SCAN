@@ -1,0 +1,19 @@
+[
+    {
+        "dbId": 9703008,
+        "displayName": "tamatinib-resistant FLT3 mutants don't bind tamatinib",
+        "stId": "R-HSA-9703008",
+        "stIdVersion": "R-HSA-9703008.1",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "tamatinib-resistant FLT3 mutants don't bind tamatinib"
+        ],
+        "releaseDate": "2020-12-08",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "transition",
+        "className": "Reaction",
+        "schemaClass": "FailedReaction"
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "dbId": 9702601,
+        "displayName": "midostaurin-resistant FLT3 mutants don't bind midostaurin",
+        "stId": "R-HSA-9702601",
+        "stIdVersion": "R-HSA-9702601.1",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "midostaurin-resistant FLT3 mutants don't bind midostaurin"
+        ],
+        "releaseDate": "2020-12-08",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "transition",
+        "className": "Reaction",
+        "schemaClass": "FailedReaction"
+    }
+]

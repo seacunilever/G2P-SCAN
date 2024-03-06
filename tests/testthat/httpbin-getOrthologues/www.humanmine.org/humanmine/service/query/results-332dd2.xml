@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ResultSet >
+<Result><i>590</i><i>BCHE</i><i>FBgn0000024</i><i></i><i>D. melanogaster</i><i>least diverged orthologue</i></Result>
+<Result><i>590</i><i>BCHE</i><i>MGI:894278</i><i>Bche</i><i>M. musculus</i><i>least diverged orthologue</i></Result>
+<Result><i>590</i><i>BCHE</i><i>RGD:619996</i><i>Bche</i><i>R. norvegicus</i><i>least diverged orthologue</i></Result>
+<Result><i>590</i><i>BCHE</i><i>WBGene00000036</i><i></i><i>C. elegans</i><i>orthologue</i></Result>
+<Result><i>590</i><i>BCHE</i><i>WBGene00000037</i><i></i><i>C. elegans</i><i>least diverged orthologue</i></Result>
+<Result><i>590</i><i>BCHE</i><i>WBGene00000038</i><i></i><i>C. elegans</i><i>orthologue</i></Result>
+<Result><i>MGI:894278</i><i>Bche</i><i>590</i><i>BCHE</i><i>H. sapiens</i><i>least diverged orthologue</i></Result>
+<Result><i>RGD:619996</i><i>Bche</i><i>590</i><i>BCHE</i><i>H. sapiens</i><i>least diverged orthologue</i></Result>
+</ResultSet>

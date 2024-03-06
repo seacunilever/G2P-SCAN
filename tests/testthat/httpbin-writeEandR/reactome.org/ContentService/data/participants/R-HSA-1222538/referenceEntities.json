@@ -1,0 +1,864 @@
+[
+    {
+        "dbId": 39289,
+        "displayName": "mycothiol [ChEBI:16768]",
+        "databaseName": "ChEBI",
+        "identifier": "16768",
+        "name": [
+            "mycothiol"
+        ],
+        "url": "http://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:16768",
+        "formula": "C17H30N2O12S",
+        "schemaClass": "ReferenceMolecule",
+        "className": "ReferenceMolecule"
+    },
+    {
+        "dbId": 1222673,
+        "displayName": "oxidonitrogen(1+) [ChEBI:29120]",
+        "databaseName": "ChEBI",
+        "identifier": "29120",
+        "name": [
+            "oxidonitrogen(1+)",
+            "nitrosonium"
+        ],
+        "url": "http://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:29120",
+        "formula": "NO",
+        "schemaClass": "ReferenceMolecule",
+        "className": "ReferenceMolecule"
+    },
+    {
+        "dbId": 1222332,
+        "displayName": "S-nitrosomycothiol [ChEBI:59637]",
+        "databaseName": "ChEBI",
+        "identifier": "59637",
+        "name": [
+            "S-nitrosomycothiol"
+        ],
+        "url": "http://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:59637",
+        "formula": "C17H29N3O13S",
+        "schemaClass": "ReferenceMolecule",
+        "className": "ReferenceMolecule"
+    },
+    {
+        "dbId": 114918,
+        "displayName": "hydron [ChEBI:15378]",
+        "databaseName": "ChEBI",
+        "identifier": "15378",
+        "name": [
+            "hydron"
+        ],
+        "url": "http://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:15378",
+        "formula": "H",
+        "schemaClass": "ReferenceMolecule",
+        "className": "ReferenceMolecule"
+    },
+    {
+        "dbId": 29414,
+        "displayName": "ferroheme b [ChEBI:17627]",
+        "databaseName": "ChEBI",
+        "identifier": "17627",
+        "name": [
+            "ferroheme b"
+        ],
+        "url": "http://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:17627",
+        "formula": "C34H32FeN4O4",
+        "schemaClass": "ReferenceMolecule",
+        "className": "ReferenceMolecule"
+    },
+    {
+        "dbId": 5566415,
+        "displayName": "UniProt:P9WN25 glbN",
+        "databaseName": "UniProt",
+        "identifier": "P9WN25",
+        "name": [
+            "glbN"
+        ],
+        "url": "http://purl.uniprot.org/uniprot/P9WN25",
+        "checksum": "B75D01A45BC064BB",
+        "comment": [
+            "FUNCTION Binds oxygen cooperatively with very high affinity (P(50) = 0.013 mmHg at 20 degrees Celsius) because of a fast combination (25 microM(-1).s(-1)) and a slow dissociation (0.2 s(-1)) rate.SUBUNIT Homodimer.MISCELLANEOUS Was identified as a high-confidence drug target.SIMILARITY Belongs to the truncated hemoglobin family. Group I subfamily."
+        ],
+        "description": [
+            "recommendedName: Group 1 truncated hemoglobin GlbN shortName:Truncated hemoglobin shortName:trHbN  alternativeName: Hemoglobin-like protein HbN "
+        ],
+        "geneName": [
+            "glbN",
+            "Rv1542c",
+            "MTCY48.23"
+        ],
+        "isSequenceChanged": false,
+        "keyword": [
+            "3D-structure",
+            "Heme",
+            "Iron",
+            "Metal-binding",
+            "Oxygen transport",
+            "Reference proteome",
+            "Transport"
+        ],
+        "secondaryIdentifier": [
+            "TRHBN_MYCTU",
+            "L0T6Z0",
+            "P0A592",
+            "Q10784"
+        ],
+        "sequenceLength": 136,
+        "chain": [
+            "chain:1-136"
+        ],
+        "schemaClass": "ReferenceGeneProduct",
+        "className": "ReferenceGeneProduct"
+    },
+    {
+        "dbId": 114734,
+        "displayName": "dioxygen [ChEBI:15379]",
+        "databaseName": "ChEBI",
+        "identifier": "15379",
+        "name": [
+            "dioxygen"
+        ],
+        "url": "http://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:15379",
+        "formula": "O2",
+        "schemaClass": "ReferenceMolecule",
+        "className": "ReferenceMolecule"
+    },
+    {
+        "dbId": 198830,
+        "displayName": "ferriheme b [ChEBI:36144]",
+        "databaseName": "ChEBI",
+        "identifier": "36144",
+        "name": [
+            "ferriheme b"
+        ],
+        "url": "http://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:36144",
+        "formula": "C34H34FeN4O4",
+        "schemaClass": "ReferenceMolecule",
+        "className": "ReferenceMolecule"
+    },
+    {
+        "dbId": 9035290,
+        "displayName": "nitrate [ChEBI:17632]",
+        "databaseName": "ChEBI",
+        "identifier": "17632",
+        "name": [
+            "nitrate",
+            "NO3",
+            "nitrate(1-)",
+            "trioxonitrate(1-)",
+            "trioxidonitrate(1-)",
+            "[NO3](-)",
+            "trioxonitrate(V)",
+            "NITRATE ION",
+            "NO3(-)"
+        ],
+        "url": "http://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:17632",
+        "formula": "NO3",
+        "schemaClass": "ReferenceMolecule",
+        "className": "ReferenceMolecule"
+    },
+    {
+        "dbId": 5566414,
+        "displayName": "UniProt:P9WG35 tpx",
+        "databaseName": "UniProt",
+        "identifier": "P9WG35",
+        "name": [
+            "tpx"
+        ],
+        "url": "http://purl.uniprot.org/uniprot/P9WG35",
+        "checksum": "B251D5DADE2286FE",
+        "comment": [
+            "FUNCTION Thiol-specific peroxidase that catalyzes the reduction of hydrogen peroxide and organic hydroperoxides to water and alcohols, respectively. Plays a role in cell protection against oxidative stress by detoxifying peroxides.SUBUNIT Homodimer.MISCELLANEOUS The active site is a conserved redox-active cysteine residue, the peroxidatic cysteine (C(P)), which makes the nucleophilic attack on the peroxide substrate. The peroxide oxidizes the C(P)-SH to cysteine sulfenic acid (C(P)-SOH), which then reacts with another cysteine residue, the resolving cysteine (C(R)), to form a disulfide bridge. The disulfide is subsequently reduced by an appropriate electron donor to complete the catalytic cycle. In this atypical 2-Cys peroxiredoxin, C(R) is present in the same subunit to form an intramolecular disulfide. The disulfide is subsequently reduced by thioredoxin (TrxB and TrxC).SIMILARITY Belongs to the peroxiredoxin family. Tpx subfamily."
+        ],
+        "description": [
+            "recommendedName: fullName evidence=\"2 5\"Thiol peroxidase shortName evidence=\"2\"Tpx ecNumber evidence=\"2 3\"1.11.1.24/ecNumber  alternativeName: fullName evidence=\"2\"Peroxiredoxin tpx shortName evidence=\"2\"Prx  alternativeName: fullName evidence=\"2\"Thioredoxin peroxidase  alternativeName: fullName evidence=\"2\"Thioredoxin-dependent peroxiredoxin "
+        ],
+        "geneName": [
+            "tpx",
+            "Rv1932",
+            "MTCY09F9.32c"
+        ],
+        "isSequenceChanged": false,
+        "keyword": [
+            "3D-structure",
+            "Antioxidant",
+            "Disulfide bond",
+            "Oxidoreductase",
+            "Peroxidase",
+            "Redox-active center",
+            "Reference proteome"
+        ],
+        "secondaryIdentifier": [
+            "TPX_MYCTU",
+            "L0TB06",
+            "P66952",
+            "P95282"
+        ],
+        "sequenceLength": 165,
+        "chain": [
+            "chain:1-165"
+        ],
+        "schemaClass": "ReferenceGeneProduct",
+        "className": "ReferenceGeneProduct"
+    },
+    {
+        "dbId": 1222357,
+        "displayName": "peroxynitrite [ChEBI:25941]",
+        "databaseName": "ChEBI",
+        "identifier": "25941",
+        "name": [
+            "peroxynitrite"
+        ],
+        "url": "http://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:25941",
+        "formula": "NO3",
+        "schemaClass": "ReferenceMolecule",
+        "className": "ReferenceMolecule"
+    },
+    {
+        "dbId": 29518,
+        "displayName": "nitrite [ChEBI:16301]",
+        "databaseName": "ChEBI",
+        "identifier": "16301",
+        "name": [
+            "nitrite"
+        ],
+        "url": "http://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:16301",
+        "formula": "NO2",
+        "schemaClass": "ReferenceMolecule",
+        "className": "ReferenceMolecule"
+    },
+    {
+        "dbId": 114728,
+        "displayName": "water [ChEBI:15377]",
+        "databaseName": "ChEBI",
+        "identifier": "15377",
+        "name": [
+            "water"
+        ],
+        "url": "http://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:15377",
+        "formula": "H2O",
+        "schemaClass": "ReferenceMolecule",
+        "className": "ReferenceMolecule"
+    },
+    {
+        "dbId": 5566429,
+        "displayName": "UniProt:P9WIE3 ahpE",
+        "databaseName": "UniProt",
+        "identifier": "P9WIE3",
+        "name": [
+            "ahpE"
+        ],
+        "url": "http://purl.uniprot.org/uniprot/P9WIE3",
+        "checksum": "B24927599A0A80E2",
+        "comment": [
+            "FUNCTION Thiol-specific peroxidase that catalyzes the reduction of hydrogen peroxide and organic hydroperoxides to water and alcohols, respectively. Plays a role in cell protection against oxidative stress by detoxifying peroxides. May represent an important antioxidant defense against cytotoxic peroxides, especially peroxynitrite, which can be formed by activated macrophages during infection.SUBUNIT Homodimer (PubMed:19737009, PubMed:27417938). Forms both dimers and octamers; a tightly-associated dimer and a ring-like octamer (PubMed:15701515).MISCELLANEOUS The active site is a conserved redox-active cysteine residue, the peroxidatic cysteine (C(P)), which makes the nucleophilic attack on the peroxide substrate. The peroxide oxidizes the C(P)-SH to cysteine sulfenic acid (C(P)-SOH), which then reacts with another cysteine residue, the resolving cysteine (C(R)), to form a disulfide bridge. The disulfide is subsequently reduced by an appropriate electron donor to complete the catalytic cycle. In this 1-Cys peroxiredoxin, no C(R) is present and C(P) instead forms a disulfide with a cysteine from another protein or with a small thiol molecule. C(P) can be reduced through a mixed disulfide with the N-terminal cysteine of mycoredoxin-1 (Mrx1), resolved by its C-terminal cysteine, or by a mixed disulfide with mycothiol, resolved by a second molecule of mycothiol or by mycoredoxin-1.SIMILARITY Belongs to the peroxiredoxin family. AhpE subfamily."
+        ],
+        "description": [
+            "recommendedName: Alkyl hydroperoxide reductase E ecNumber evidence=\"3\"1.11.1.29/ecNumber  alternativeName: fullName evidence=\"6\"Mycoredoxin-dependent peroxiredoxin  alternativeName: Peroxiredoxin AhpE shortName:Prx  alternativeName: Thioredoxin peroxidase shortName:TPx "
+        ],
+        "geneName": [
+            "Rv2238c",
+            "MTCY427.19c",
+            "ahpE"
+        ],
+        "isSequenceChanged": false,
+        "keyword": [
+            "3D-structure",
+            "Antioxidant",
+            "Oxidoreductase",
+            "Peroxidase",
+            "Redox-active center",
+            "Reference proteome"
+        ],
+        "secondaryIdentifier": [
+            "AHPE_MYCTU",
+            "L0TAL3",
+            "P65688",
+            "Q10520"
+        ],
+        "sequenceLength": 153,
+        "chain": [
+            "chain:1-153"
+        ],
+        "schemaClass": "ReferenceGeneProduct",
+        "className": "ReferenceGeneProduct"
+    },
+    {
+        "dbId": 114751,
+        "displayName": "zinc(2+) [ChEBI:29105]",
+        "databaseName": "ChEBI",
+        "identifier": "29105",
+        "name": [
+            "zinc(2+)"
+        ],
+        "url": "http://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:29105",
+        "formula": "Zn",
+        "schemaClass": "ReferenceMolecule",
+        "className": "ReferenceMolecule"
+    },
+    {
+        "dbId": 879290,
+        "displayName": "UniProt:O53533 adhE2",
+        "databaseName": "UniProt",
+        "identifier": "O53533",
+        "url": "http://purl.uniprot.org/uniprot/O53533",
+        "geneName": [
+            "adhE2",
+            "MT2320",
+            "Rv2259"
+        ],
+        "keyword": [
+            "Complete proteome",
+            "Oxidoreductase"
+        ],
+        "secondaryIdentifier": [
+            "O53533_MYCTU",
+            "Q7D7D0"
+        ],
+        "schemaClass": "ReferenceGeneProduct",
+        "className": "ReferenceGeneProduct"
+    },
+    {
+        "dbId": 9654567,
+        "displayName": "NADH(2-) [ChEBI:57945]",
+        "databaseName": "ChEBI",
+        "identifier": "57945",
+        "name": [
+            "NADH(2-)",
+            "NADH dianion",
+            "adenosine 5'-{3-[1-(3-carbamoyl-1,4-dihydropyridin-1-yl)-1,4-anhydro-D-ribitol-5-yl] diphosphate}",
+            "NADH"
+        ],
+        "url": "http://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:57945",
+        "formula": "C21H27N7O14P2",
+        "schemaClass": "ReferenceMolecule",
+        "className": "ReferenceMolecule"
+    },
+    {
+        "dbId": 9654423,
+        "displayName": "NAD(1-) [ChEBI:57540]",
+        "databaseName": "ChEBI",
+        "identifier": "57540",
+        "name": [
+            "NAD(1-)",
+            "adenosine 5'-{3-[1-(3-carbamoylpyridinio)-1,4-anhydro-D-ribitol-5-yl] diphosphate}",
+            "NAD(+)",
+            "NAD anion"
+        ],
+        "url": "http://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:57540",
+        "formula": "C21H26N7O14P2",
+        "schemaClass": "ReferenceMolecule",
+        "className": "ReferenceMolecule"
+    },
+    {
+        "dbId": 114739,
+        "displayName": "ammonia [ChEBI:16134]",
+        "databaseName": "ChEBI",
+        "identifier": "16134",
+        "name": [
+            "ammonia"
+        ],
+        "url": "http://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:16134",
+        "formula": "H3N",
+        "schemaClass": "ReferenceMolecule",
+        "className": "ReferenceMolecule"
+    },
+    {
+        "dbId": 879309,
+        "displayName": "mycothione [ChEBI:16086]",
+        "databaseName": "ChEBI",
+        "identifier": "16086",
+        "name": [
+            "mycothione"
+        ],
+        "url": "http://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:16086",
+        "formula": "C34H58N4O24S2",
+        "schemaClass": "ReferenceMolecule",
+        "className": "ReferenceMolecule"
+    },
+    {
+        "dbId": 5566430,
+        "displayName": "UniProt:P9WFZ9 Rv1282c",
+        "databaseName": "UniProt",
+        "identifier": "P9WFZ9",
+        "name": [
+            "Rv1282c"
+        ],
+        "url": "http://purl.uniprot.org/uniprot/P9WFZ9",
+        "checksum": "F6BB51906154CF9F",
+        "comment": [
+            "SIMILARITY Belongs to the binding-protein-dependent transport system permease family. OppBC subfamily."
+        ],
+        "description": [
+            "recommendedName: Putative peptide transport permease protein Rv1282c "
+        ],
+        "geneName": [
+            "Rv1282c",
+            "MTCY373.01c",
+            "MTCY3H3.01"
+        ],
+        "isSequenceChanged": false,
+        "keyword": [
+            "Cell membrane",
+            "Membrane",
+            "Peptide transport",
+            "Protein transport",
+            "Reference proteome",
+            "Transmembrane",
+            "Transmembrane helix",
+            "Transport"
+        ],
+        "secondaryIdentifier": [
+            "Y1282_MYCTU",
+            "L0T965",
+            "P66964",
+            "Q10623",
+            "Q50698"
+        ],
+        "sequenceLength": 291,
+        "chain": [
+            "chain:1-291"
+        ],
+        "schemaClass": "ReferenceGeneProduct",
+        "className": "ReferenceGeneProduct"
+    },
+    {
+        "dbId": 5566426,
+        "displayName": "UniProt:P9WQJ5 Rv1281c",
+        "databaseName": "UniProt",
+        "identifier": "P9WQJ5",
+        "name": [
+            "Rv1281c"
+        ],
+        "url": "http://purl.uniprot.org/uniprot/P9WQJ5",
+        "checksum": "9E03D437C6EF0992",
+        "comment": [
+            "SIMILARITY Belongs to the ABC transporter superfamily."
+        ],
+        "description": [
+            "recommendedName: Uncharacterized ABC transporter ATP-binding protein Rv1281c "
+        ],
+        "geneName": [
+            "Rv1281c",
+            "MTCY50.01"
+        ],
+        "isSequenceChanged": false,
+        "keyword": [
+            "ATP-binding",
+            "Nucleotide-binding",
+            "Reference proteome",
+            "Repeat",
+            "Transport"
+        ],
+        "secondaryIdentifier": [
+            "Y1281_MYCTU",
+            "L0T6E3",
+            "P63395",
+            "Q11040"
+        ],
+        "sequenceLength": 612,
+        "chain": [
+            "chain:1-612"
+        ],
+        "schemaClass": "ReferenceGeneProduct",
+        "className": "ReferenceGeneProduct"
+    },
+    {
+        "dbId": 5566412,
+        "displayName": "UniProt:P9WFZ7 Rv1283c",
+        "databaseName": "UniProt",
+        "identifier": "P9WFZ7",
+        "name": [
+            "Rv1283c"
+        ],
+        "url": "http://purl.uniprot.org/uniprot/P9WFZ7",
+        "checksum": "A3EA93995DEFE13A",
+        "comment": [
+            "SIMILARITY Belongs to the binding-protein-dependent transport system permease family. OppBC subfamily."
+        ],
+        "description": [
+            "recommendedName: Putative peptide transport permease protein Rv1283c "
+        ],
+        "geneName": [
+            "Rv1283c",
+            "MTCY373.02c"
+        ],
+        "isSequenceChanged": false,
+        "keyword": [
+            "Cell membrane",
+            "Membrane",
+            "Peptide transport",
+            "Protein transport",
+            "Reference proteome",
+            "Transmembrane",
+            "Transmembrane helix",
+            "Transport"
+        ],
+        "secondaryIdentifier": [
+            "Y1283_MYCTU",
+            "L0T8X5",
+            "P66966",
+            "Q10611"
+        ],
+        "sequenceLength": 325,
+        "chain": [
+            "chain:1-325"
+        ],
+        "schemaClass": "ReferenceGeneProduct",
+        "className": "ReferenceGeneProduct"
+    },
+    {
+        "dbId": 5566418,
+        "displayName": "UniProt:P9WGU5 Rv1280c",
+        "databaseName": "UniProt",
+        "identifier": "P9WGU5",
+        "name": [
+            "Rv1280c"
+        ],
+        "url": "http://purl.uniprot.org/uniprot/P9WGU5",
+        "checksum": "E63F417047BE91CE",
+        "comment": [
+            "SIMILARITY Belongs to the bacterial solute-binding protein 5 family."
+        ],
+        "description": [
+            "recommendedName: Uncharacterized protein Rv1280c "
+        ],
+        "geneName": [
+            "Rv1280c",
+            "MTCY50.02"
+        ],
+        "isSequenceChanged": false,
+        "keyword": [
+            "Cell membrane",
+            "Membrane",
+            "Reference proteome",
+            "Transmembrane",
+            "Transmembrane helix",
+            "Transport"
+        ],
+        "secondaryIdentifier": [
+            "Y1280_MYCTU",
+            "L0T665",
+            "P66771",
+            "Q11041"
+        ],
+        "sequenceLength": 591,
+        "chain": [
+            "chain:1-591"
+        ],
+        "schemaClass": "ReferenceGeneProduct",
+        "className": "ReferenceGeneProduct"
+    },
+    {
+        "dbId": 9737458,
+        "displayName": "glutathionate(1-) [ChEBI:57925]",
+        "databaseName": "ChEBI",
+        "identifier": "57925",
+        "name": [
+            "glutathionate(1-)",
+            "glutathionate ion",
+            "glutathionate anion",
+            "glutathionate",
+            "glutathione"
+        ],
+        "url": "http://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:57925",
+        "formula": "C10H16N3O6S",
+        "schemaClass": "ReferenceMolecule",
+        "className": "ReferenceMolecule"
+    },
+    {
+        "dbId": 114757,
+        "displayName": "glutathione [ChEBI:16856]",
+        "databaseName": "ChEBI",
+        "identifier": "16856",
+        "name": [
+            "glutathione"
+        ],
+        "url": "http://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:16856",
+        "formula": "C10H17N3O6S",
+        "schemaClass": "ReferenceMolecule",
+        "className": "ReferenceMolecule"
+    },
+    {
+        "dbId": 1222471,
+        "displayName": "UniProt:P71971 MT2748",
+        "databaseName": "UniProt",
+        "identifier": "P71971",
+        "url": "http://purl.uniprot.org/uniprot/P71971",
+        "geneName": [
+            "MT2748",
+            "Rv2674"
+        ],
+        "keyword": [
+            "Complete proteome",
+            "Oxidoreductase"
+        ],
+        "secondaryIdentifier": [
+            "P71971_MYCTU",
+            "Q7D6S8"
+        ],
+        "schemaClass": "ReferenceGeneProduct",
+        "className": "ReferenceGeneProduct"
+    },
+    {
+        "dbId": 5567323,
+        "displayName": "UniProt:P9WJM5 msrA",
+        "databaseName": "UniProt",
+        "identifier": "P9WJM5",
+        "name": [
+            "msrA"
+        ],
+        "url": "http://purl.uniprot.org/uniprot/P9WJM5",
+        "checksum": "B0A2847A699C2016",
+        "comment": [
+            "FUNCTION Has an important function as a repair enzyme for proteins that have been inactivated by oxidation. Catalyzes the reversible oxidation-reduction of methionine sulfoxide in proteins to methionine.SIMILARITY Belongs to the MsrA Met sulfoxide reductase family."
+        ],
+        "description": [
+            "recommendedName: fullName evidence=\"1\"Peptide methionine sulfoxide reductase MsrA shortName evidence=\"1\"Protein-methionine-S-oxide reductase ecNumber evidence=\"1\"1.8.4.11/ecNumber  alternativeName: fullName evidence=\"1\"Peptide-methionine (S)-S-oxide reductase shortName evidence=\"1\"Peptide Met(O) reductase "
+        ],
+        "geneName": [
+            "msrA",
+            "Rv0137c",
+            "MTCI5.11c"
+        ],
+        "isSequenceChanged": false,
+        "keyword": [
+            "3D-structure",
+            "Oxidoreductase",
+            "Reference proteome"
+        ],
+        "secondaryIdentifier": [
+            "MSRA_MYCTU",
+            "L0T5N9",
+            "P0A5L0",
+            "P96814"
+        ],
+        "sequenceLength": 182,
+        "chain": [
+            "chain:1-182"
+        ],
+        "schemaClass": "ReferenceGeneProduct",
+        "className": "ReferenceGeneProduct"
+    },
+    {
+        "dbId": 5545550,
+        "displayName": "UniProt:P9WG67 trxA",
+        "databaseName": "UniProt",
+        "identifier": "P9WG67",
+        "name": [
+            "trxA"
+        ],
+        "url": "http://purl.uniprot.org/uniprot/P9WG67",
+        "checksum": "3B7B9AC90B44B571",
+        "comment": [
+            "FUNCTION Participates in various redox reactions through the reversible oxidation of its active center dithiol to a disulfide and catalyzes dithiol-disulfide exchange reactions.SIMILARITY Belongs to the thioredoxin family."
+        ],
+        "description": [
+            "recommendedName: Thioredoxin shortName:Trx  alternativeName: MPT46 "
+        ],
+        "geneName": [
+            "trxA",
+            "trx",
+            "trxC",
+            "Rv3914",
+            "MTV028.05"
+        ],
+        "isSequenceChanged": false,
+        "keyword": [
+            "3D-structure",
+            "Direct protein sequencing",
+            "Disulfide bond",
+            "Electron transport",
+            "Redox-active center",
+            "Reference proteome",
+            "Transport"
+        ],
+        "secondaryIdentifier": [
+            "THIO_MYCTU",
+            "L0TDX8",
+            "P0A616",
+            "P52229"
+        ],
+        "sequenceLength": 116,
+        "chain": [
+            "initiator methionine:1",
+            "chain:2-116"
+        ],
+        "schemaClass": "ReferenceGeneProduct",
+        "className": "ReferenceGeneProduct"
+    },
+    {
+        "dbId": 1222566,
+        "displayName": "UniProt:P71828 ggtA",
+        "databaseName": "UniProt",
+        "identifier": "P71828",
+        "url": "http://purl.uniprot.org/uniprot/P71828",
+        "geneName": [
+            "ggtA",
+            "ggt-1",
+            "MT0797",
+            "Rv0773c"
+        ],
+        "keyword": [
+            "Acyltransferase",
+            "Complete proteome",
+            "Hydrolase",
+            "Transferase"
+        ],
+        "secondaryIdentifier": [
+            "P71828_MYCTU",
+            "Q7D9A9"
+        ],
+        "schemaClass": "ReferenceGeneProduct",
+        "className": "ReferenceGeneProduct"
+    },
+    {
+        "dbId": 1222625,
+        "displayName": "S-nitrosoglutathione [ChEBI:50091]",
+        "databaseName": "ChEBI",
+        "identifier": "50091",
+        "name": [
+            "S-nitrosoglutathione"
+        ],
+        "url": "http://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:50091",
+        "formula": "C10H16N4O7S",
+        "schemaClass": "ReferenceMolecule",
+        "className": "ReferenceMolecule"
+    },
+    {
+        "dbId": 2103115,
+        "displayName": "5-L-glutamyl amino acid [ChEBI:15857]",
+        "databaseName": "ChEBI",
+        "identifier": "15857",
+        "name": [
+            "5-L-glutamyl amino acid",
+            "L-gamma-glutamyl amino acid",
+            "N(alpha)-(L-gamma-glutamyl) amino acid",
+            "L-gamma-Glutamyl amino acid"
+        ],
+        "url": "http://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:15857",
+        "formula": "C7H11N2O5R",
+        "schemaClass": "ReferenceMolecule",
+        "className": "ReferenceMolecule"
+    },
+    {
+        "dbId": 1222735,
+        "displayName": "S-nitroso-L-cysteinylglycine [ChEBI:61088]",
+        "databaseName": "ChEBI",
+        "identifier": "61088",
+        "name": [
+            "S-nitroso-L-cysteinylglycine"
+        ],
+        "otherIdentifier": [
+            "Cys(NO)-Gly"
+        ],
+        "url": "http://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:61088",
+        "formula": "C5H9N3O4S",
+        "schemaClass": "ReferenceMolecule",
+        "className": "ReferenceMolecule"
+    },
+    {
+        "dbId": 5566431,
+        "displayName": "UniProt:P9WQB7 ahpC",
+        "databaseName": "UniProt",
+        "identifier": "P9WQB7",
+        "name": [
+            "ahpC"
+        ],
+        "url": "http://purl.uniprot.org/uniprot/P9WQB7",
+        "checksum": "011C1014F07C7095",
+        "comment": [
+            "FUNCTION Thiol-specific peroxidase that catalyzes the reduction of hydrogen peroxide and organic hydroperoxides to water and alcohols, respectively. Plays a role in cell protection against oxidative stress by detoxifying peroxides. Together with AhpD, DlaT and Lpd, constitutes an NADH-dependent peroxidase active against hydrogen and alkyl peroxides as well as serving as a peroxynitrite reductase, thus protecting the bacterium against reactive nitrogen intermediates and oxidative stress generated by the host immune system. Does not however seem to play a role in detoxification of isoniazid.SUBUNIT Homodimer; disulfide-linked, upon oxidation. 6 homodimers assemble to form a ring-like dodecamer (PubMed:11171096, PubMed:15886207). Identified in a complex with AhpD, DlaT and Lpd (PubMed:11799204).INDUCTION Induced in isoniazid (INH)-resistant, KatG-deficient strains as well as in INH-sensitive strains when challenged with the drug. Increased expression in these strains probably compensates for loss of katG activity in detoxification of organic peroxides. A possible member of the dormancy regulon. Induced in response to reduced oxygen tension (hypoxia). It is hoped that this regulon will give insight into the latent, or dormant phase of infection.MISCELLANEOUS The active site is a conserved redox-active cysteine residue, the peroxidatic cysteine (C(P)), which makes the nucleophilic attack on the peroxide substrate. The peroxide oxidizes the C(P)-SH to cysteine sulfenic acid (C(P)-SOH), which then reacts with another cysteine residue, the resolving cysteine (C(R)), to form a disulfide bridge. The disulfide is subsequently reduced by an appropriate electron donor to complete the catalytic cycle. In this typical 2-Cys peroxiredoxin, C(R) is provided by the other dimeric subunit to form an intersubunit disulfide (PubMed:15178486, PubMed:15886207). The disulfide can subsequently be reduced through a mixed disulfide with the C-terminal cysteine of AhpD, resolved by its second cysteine (PubMed:15178486) or by thioredoxin (TrxC) (PubMed:14871480).SIMILARITY Belongs to the peroxiredoxin family. AhpC/Prx1 subfamily."
+        ],
+        "description": [
+            "recommendedName: Alkyl hydroperoxide reductase C shortName:MtAhpC ecNumber evidence=\"7 8\"1.11.1.28/ecNumber  alternativeName: Peroxiredoxin  alternativeName: Thioredoxin peroxidase "
+        ],
+        "geneName": [
+            "ahpC",
+            "Rv2428"
+        ],
+        "isSequenceChanged": false,
+        "keyword": [
+            "3D-structure",
+            "Antioxidant",
+            "Cytoplasm",
+            "Direct protein sequencing",
+            "Disulfide bond",
+            "Oxidoreductase",
+            "Peroxidase",
+            "Redox-active center",
+            "Reference proteome",
+            "Stress response"
+        ],
+        "secondaryIdentifier": [
+            "AHPC_MYCTU",
+            "L0T9L3",
+            "Q79FE2",
+            "Q7BHK8",
+            "Q7D758"
+        ],
+        "sequenceLength": 195,
+        "chain": [
+            "initiator methionine:1",
+            "chain:2-195"
+        ],
+        "schemaClass": "ReferenceGeneProduct",
+        "className": "ReferenceGeneProduct"
+    },
+    {
+        "dbId": 9617035,
+        "displayName": "F420(red.) [ChEBI:141635]",
+        "databaseName": "ChEBI",
+        "identifier": "141635",
+        "name": [
+            "F420(red.)"
+        ],
+        "url": "http://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:141635",
+        "schemaClass": "ReferenceMolecule",
+        "className": "ReferenceMolecule"
+    },
+    {
+        "dbId": 1500754,
+        "displayName": "nitrogen dioxide [ChEBI:33101]",
+        "databaseName": "ChEBI",
+        "identifier": "33101",
+        "name": [
+            "nitrogen dioxide",
+            "NO2",
+            "nitryl",
+            "[NO2]",
+            "ONO(.)",
+            "(NO2)(.)",
+            "NO2(.)",
+            "Stickstoffdioxid"
+        ],
+        "url": "http://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:33101",
+        "formula": "NO2",
+        "schemaClass": "ReferenceMolecule",
+        "className": "ReferenceMolecule"
+    },
+    {
+        "dbId": 9617034,
+        "displayName": "F420(ox.) [ChEBI:141634]",
+        "databaseName": "ChEBI",
+        "identifier": "141634",
+        "name": [
+            "F420(ox.)"
+        ],
+        "url": "http://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:141634",
+        "schemaClass": "ReferenceMolecule",
+        "className": "ReferenceMolecule"
+    },
+    {
+        "dbId": 30317,
+        "displayName": "nitric oxide [ChEBI:16480]",
+        "databaseName": "ChEBI",
+        "identifier": "16480",
+        "name": [
+            "nitric oxide"
+        ],
+        "url": "http://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:16480",
+        "formula": "NO",
+        "schemaClass": "ReferenceMolecule",
+        "className": "ReferenceMolecule"
+    }
+]

@@ -1,0 +1,55 @@
+{
+    "template": {
+        "model": {
+            "name": "genomic"
+        },
+        "title": "Pathway --> Genes",
+        "description": "For a specified pathway(s), show any genes associated with the pathway(s) in a given organism (human or mouse). Data Source: KEGG or Reactome.",
+        "select": [
+            "Pathway.name",
+            "Pathway.identifier",
+            "Pathway.dataSets.name",
+            "Pathway.dataSets.dataSource.name",
+            "Pathway.genes.primaryIdentifier",
+            "Pathway.genes.symbol",
+            "Pathway.genes.organism.name"
+        ],
+        "constraintLogic": "A and B",
+        "name": "PathwayGenes",
+        "comment": "",
+        "tags": [
+            "im:aspect:Pathways",
+            "im:public"
+        ],
+        "rank": "unranked",
+        "orderBy": [
+            {
+                "Pathway.identifier": "ASC"
+            }
+        ],
+        "where": [
+            {
+                "path": "Pathway.name",
+                "op": "=",
+                "code": "A",
+                "editable": true,
+                "switchable": false,
+                "switched": "LOCKED",
+                "value": "mRNA Splicing"
+            },
+            {
+                "path": "Pathway.genes.organism.name",
+                "op": "=",
+                "code": "B",
+                "editable": true,
+                "switchable": true,
+                "switched": "ON",
+                "value": "Homo sapiens"
+            }
+        ]
+    },
+    "executionTime": "2021.12.01 11:20::31",
+    "wasSuccessful": true,
+    "error": null,
+    "statusCode": 200
+}

@@ -1,0 +1,52 @@
+{
+    "template": {
+        "model": {
+            "name": "genomic"
+        },
+        "title": "Gene -> Description",
+        "description": "For a specified gene or list of genes, return the functional description summary.",
+        "select": [
+            "Gene.primaryIdentifier",
+            "Gene.symbol",
+            "Gene.description"
+        ],
+        "constraintLogic": "A and B",
+        "name": "Gene_description",
+        "comment": "",
+        "tags": [
+            "im:aspect:Function",
+            "im:aspect:Genomics",
+            "im:public"
+        ],
+        "rank": "62",
+        "orderBy": [
+            {
+                "Gene.primaryIdentifier": "ASC"
+            }
+        ],
+        "where": [
+            {
+                "path": "Gene.organism.name",
+                "op": "=",
+                "code": "A",
+                "editable": false,
+                "switchable": false,
+                "switched": "LOCKED",
+                "value": "Homo sapiens"
+            },
+            {
+                "path": "Gene",
+                "op": "LOOKUP",
+                "code": "B",
+                "editable": true,
+                "switchable": false,
+                "switched": "LOCKED",
+                "value": "pparg"
+            }
+        ]
+    },
+    "executionTime": "2021.12.01 11:20::46",
+    "wasSuccessful": true,
+    "error": null,
+    "statusCode": 200
+}

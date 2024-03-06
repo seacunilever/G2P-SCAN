@@ -1,0 +1,122 @@
+[
+    {
+        "dbId": 55508,
+        "displayName": "UniProt:Q13724 MOGS",
+        "databaseName": "UniProt",
+        "identifier": "Q13724",
+        "name": [
+            "MOGS"
+        ],
+        "otherIdentifier": [
+            "0003140068",
+            "11717954_s_at",
+            "11747419_a_at",
+            "16899248",
+            "210627_s_at",
+            "2560123",
+            "2560124",
+            "2560125",
+            "2560126",
+            "2560127",
+            "2560128",
+            "2560131",
+            "2560132",
+            "2560135",
+            "2560136",
+            "2560137",
+            "2560138",
+            "2560139",
+            "2560140",
+            "38464_at",
+            "7841",
+            "8053158",
+            "A_23_P108662",
+            "A_24_P414045",
+            "GE60113",
+            "GO:0003674",
+            "GO:0004573",
+            "GO:0005575",
+            "GO:0005576",
+            "GO:0005615",
+            "GO:0005622",
+            "GO:0005737",
+            "GO:0005783",
+            "GO:0005789",
+            "GO:0005975",
+            "GO:0006457",
+            "GO:0006464",
+            "GO:0006487",
+            "GO:0008150",
+            "GO:0008152",
+            "GO:0009058",
+            "GO:0009311",
+            "GO:0015926",
+            "GO:0016020",
+            "GO:0016021",
+            "GO:0016787",
+            "GO:0016798",
+            "GO:0019082",
+            "GO:0043226",
+            "GO:0044403",
+            "GO:0070062",
+            "HMNXSV003057282",
+            "ILMN_1727642",
+            "PH_hs_0004782",
+            "TC02001997.hg",
+            "X87237_at",
+            "g12803914_3p_a_at"
+        ],
+        "url": "http://purl.uniprot.org/uniprot/Q13724",
+        "checksum": "11C5B09301B50DEE",
+        "comment": [
+            "FUNCTION Cleaves the distal alpha 1,2-linked glucose residue from the Glc(3)Man(9)GlcNAc(2) oligosaccharide precursor in a highly specific manner.PATHWAY Glycan metabolism; N-glycan degradation.SIMILARITY Belongs to the glycosyl hydrolase 63 family."
+        ],
+        "description": [
+            "recommendedName: Mannosyl-oligosaccharide glucosidase ecNumber3.2.1.106/ecNumber  alternativeName: Processing A-glucosidase I "
+        ],
+        "geneName": [
+            "MOGS",
+            "GCS1"
+        ],
+        "isSequenceChanged": false,
+        "keyword": [
+            "Alternative splicing",
+            "Disease variant",
+            "Endoplasmic reticulum",
+            "Glycoprotein",
+            "Glycosidase",
+            "Hydrolase",
+            "Membrane",
+            "Reference proteome",
+            "Signal-anchor",
+            "Transmembrane",
+            "Transmembrane helix"
+        ],
+        "secondaryIdentifier": [
+            "MOGS_HUMAN",
+            "A8K938",
+            "F5H6D0",
+            "Q17RN9",
+            "Q8TCT5"
+        ],
+        "sequenceLength": 837,
+        "chain": [
+            "chain:1-837"
+        ],
+        "schemaClass": "ReferenceGeneProduct",
+        "className": "ReferenceGeneProduct"
+    },
+    {
+        "dbId": 549023,
+        "displayName": "N-{alpha-Glc-(1->2)-alpha-Glc-(1->3)-alpha-Glc-(1->3)-alpha-Man-(1->2)-alpha-Man-(1->2)-alpha-Man-(1->3)-[alpha-Man-(1->2)-alpha-Man-(1->3)-[alpha-Man-(1->2)-alpha-Man-(1->6)]-alpha-Man-(1->6)]-beta-Man-(1->4)-beta-GlcNAc-(1->4)-beta-GlcNAc} group [ChEBI:59084]",
+        "databaseName": "ChEBI",
+        "identifier": "59084",
+        "name": [
+            "N-{alpha-Glc-(1->2)-alpha-Glc-(1->3)-alpha-Glc-(1->3)-alpha-Man-(1->2)-alpha-Man-(1->2)-alpha-Man-(1->3)-[alpha-Man-(1->2)-alpha-Man-(1->3)-[alpha-Man-(1->2)-alpha-Man-(1->6)]-alpha-Man-(1->6)]-beta-Man-(1->4)-beta-GlcNAc-(1->4)-beta-GlcNAc} group"
+        ],
+        "url": "http://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:59084",
+        "formula": "C88H147N2O70",
+        "schemaClass": "ReferenceMolecule",
+        "className": "ReferenceMolecule"
+    }
+]

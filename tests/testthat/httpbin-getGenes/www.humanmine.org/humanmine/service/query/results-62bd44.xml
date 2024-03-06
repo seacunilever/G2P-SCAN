@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ResultSet >
+<Result><i>1312</i><i>COMT</i><i>R-HSA-112311</i></Result>
+<Result><i>217</i><i>ALDH2</i><i>R-HSA-112311</i></Result>
+<Result><i>220074</i><i>LRTOMT</i><i>R-HSA-112311</i></Result>
+<Result><i>4128</i><i>MAOA</i><i>R-HSA-112311</i></Result>
+<Result><i>43</i><i>ACHE</i><i>R-HSA-112311</i></Result>
+<Result><i>590</i><i>BCHE</i><i>R-HSA-112311</i></Result>
+<Result><i>6531</i><i>SLC6A3</i><i>R-HSA-112311</i></Result>
+<Result><i>6532</i><i>SLC6A4</i><i>R-HSA-112311</i></Result>
+<Result><i>6580</i><i>SLC22A1</i><i>R-HSA-112311</i></Result>
+<Result><i>6582</i><i>SLC22A2</i><i>R-HSA-112311</i></Result>
+</ResultSet>

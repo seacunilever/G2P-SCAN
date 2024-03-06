@@ -1,0 +1,132 @@
+[
+    {
+        "dbId": 63994,
+        "displayName": "UniProt:Q9Y6L6 SLCO1B1",
+        "databaseName": "UniProt",
+        "identifier": "Q9Y6L6",
+        "name": [
+            "SLCO1B1"
+        ],
+        "otherIdentifier": [
+            "0002640142",
+            "10599",
+            "11739848_at",
+            "16749077",
+            "210366_at",
+            "3407646",
+            "3407685",
+            "3407708",
+            "3407710",
+            "3407711",
+            "3407713",
+            "3407715",
+            "3407716",
+            "3407717",
+            "3407718",
+            "3407719",
+            "3407720",
+            "3407723",
+            "3407724",
+            "3407725",
+            "3407726",
+            "3407729",
+            "3407732",
+            "3407733",
+            "3407734",
+            "3407735",
+            "3407739",
+            "3407740",
+            "3407741",
+            "3407745",
+            "35570_at",
+            "7954356",
+            "A_14_P114848",
+            "A_23_P128254",
+            "GE55225",
+            "GO:0003674",
+            "GO:0005515",
+            "GO:0005575",
+            "GO:0005886",
+            "GO:0005887",
+            "GO:0006810",
+            "GO:0006811",
+            "GO:0008150",
+            "GO:0009056",
+            "GO:0015125",
+            "GO:0015347",
+            "GO:0015711",
+            "GO:0015721",
+            "GO:0016020",
+            "GO:0016021",
+            "GO:0016323",
+            "GO:0022857",
+            "GO:0034641",
+            "GO:0042167",
+            "GO:0043252",
+            "GO:0055085",
+            "HMNXSV003014356",
+            "ILMN_1771118",
+            "ILMN_2084745",
+            "PH_hs_0038723",
+            "TC12002283.hg",
+            "TC12003240.hg",
+            "g5006264_3p_at"
+        ],
+        "url": "http://purl.uniprot.org/uniprot/Q9Y6L6",
+        "checksum": "D13D5130189383A3",
+        "comment": [
+            "FUNCTION Mediates the Na(+)-independent uptake of organic anions such as pravastatin, taurocholate, methotrexate, dehydroepiandrosterone sulfate, 17-beta-glucuronosyl estradiol, estrone sulfate, prostaglandin E2, thromboxane B2, leukotriene C3, leukotriene E4, thyroxine and triiodothyronine. Involved in the clearance of bile acids and organic anions from the liver.TISSUE SPECIFICITY Highly expressed in liver, at the basolateral membranes of centrilobular hepatocytes. Not detected in heart, brain, placenta, lung, skeletal muscle, kidney, pancreas, spleen, thymus, prostate, testis, ovary, small intestine, colon and leukocyte.SIMILARITY Belongs to the organo anion transporter (TC 2.A.60) family."
+        ],
+        "description": [
+            "recommendedName: Solute carrier organic anion transporter family member 1B1  alternativeName: Liver-specific organic anion transporter 1 shortName:LST-1  alternativeName: OATP-C  alternativeName: Sodium-independent organic anion-transporting polypeptide 2 shortName:OATP-2  alternativeName: Solute carrier family 21 member 6 "
+        ],
+        "geneName": [
+            "SLCO1B1",
+            "LST1",
+            "OATP1B1",
+            "OATP2",
+            "OATPC",
+            "SLC21A6"
+        ],
+        "isSequenceChanged": false,
+        "keyword": [
+            "Cell membrane",
+            "Disulfide bond",
+            "Glycoprotein",
+            "Ion transport",
+            "Membrane",
+            "Phosphoprotein",
+            "Reference proteome",
+            "Transmembrane",
+            "Transmembrane helix",
+            "Transport"
+        ],
+        "secondaryIdentifier": [
+            "SO1B1_HUMAN",
+            "B2R7G2",
+            "Q29R64",
+            "Q9NQ37",
+            "Q9UBF3",
+            "Q9UH89"
+        ],
+        "sequenceLength": 691,
+        "chain": [
+            "chain:1-691"
+        ],
+        "schemaClass": "ReferenceGeneProduct",
+        "className": "ReferenceGeneProduct"
+    },
+    {
+        "dbId": 30233,
+        "displayName": "bilirubin IXalpha [ChEBI:16990]",
+        "databaseName": "ChEBI",
+        "identifier": "16990",
+        "name": [
+            "bilirubin IXalpha"
+        ],
+        "url": "http://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:16990",
+        "formula": "C33H36N4O6",
+        "schemaClass": "ReferenceMolecule",
+        "className": "ReferenceMolecule"
+    }
+]

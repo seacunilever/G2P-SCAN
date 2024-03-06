@@ -1,0 +1,36 @@
+[
+    {
+        "dbId": 9036065,
+        "displayName": "Defective ARSB does not hydrolyse DS",
+        "stId": "R-HSA-9036065",
+        "stIdVersion": "R-HSA-9036065.2",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "Defective ARSB does not hydrolyse DS"
+        ],
+        "releaseDate": "2012-09-18",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "transition",
+        "className": "Reaction",
+        "schemaClass": "FailedReaction"
+    },
+    {
+        "dbId": 2282889,
+        "displayName": "Defective ARSB does not hydrolyse C4S/C6S chains",
+        "stId": "R-HSA-2282889",
+        "stIdVersion": "R-HSA-2282889.3",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "Defective ARSB does not hydrolyse C4S/C6S chains"
+        ],
+        "releaseDate": "2012-09-18",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "transition",
+        "className": "Reaction",
+        "schemaClass": "FailedReaction"
+    }
+]

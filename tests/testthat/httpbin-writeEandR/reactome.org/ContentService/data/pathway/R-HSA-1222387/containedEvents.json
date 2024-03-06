@@ -1,0 +1,121 @@
+[
+    {
+        "dbId": 1222704,
+        "displayName": "KatG reduces H2O2",
+        "stId": "R-HSA-1222704",
+        "stIdVersion": "R-HSA-1222704.1",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "KatG reduces H2O2"
+        ],
+        "releaseDate": "2012-06-12",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "transition",
+        "className": "Reaction",
+        "schemaClass": "Reaction"
+    },
+    {
+        "dbId": 1222469,
+        "displayName": "SodC reduces superoxide to H2O2",
+        "stId": "R-HSA-1222469",
+        "stIdVersion": "R-HSA-1222469.1",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "SodC reduces superoxide to H2O2"
+        ],
+        "releaseDate": "2012-06-12",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "transition",
+        "className": "Reaction",
+        "schemaClass": "Reaction"
+    },
+    {
+        "dbId": 1222341,
+        "displayName": "H2O2 gets scavenged by unsaturated lipid",
+        "stId": "R-HSA-1222341",
+        "stIdVersion": "R-HSA-1222341.1",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "H2O2 gets scavenged by unsaturated lipid"
+        ],
+        "releaseDate": "2012-06-12",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "transition",
+        "className": "Reaction",
+        "schemaClass": "Reaction"
+    },
+    {
+        "dbId": 1222346,
+        "displayName": "AhpC reduces H2O2",
+        "stId": "R-HSA-1222346",
+        "stIdVersion": "R-HSA-1222346.1",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "AhpC reduces H2O2"
+        ],
+        "releaseDate": "2012-06-12",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "transition",
+        "className": "Reaction",
+        "schemaClass": "Reaction"
+    },
+    {
+        "dbId": 1222523,
+        "displayName": "SodB gets secreted",
+        "stId": "R-HSA-1222523",
+        "stIdVersion": "R-HSA-1222523.1",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "SodB gets secreted"
+        ],
+        "releaseDate": "2012-06-12",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "transition",
+        "className": "Reaction",
+        "schemaClass": "Reaction"
+    },
+    {
+        "dbId": 1222462,
+        "displayName": "SodB reduces superoxide to H2O2",
+        "stId": "R-HSA-1222462",
+        "stIdVersion": "R-HSA-1222462.1",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "SodB reduces superoxide to H2O2"
+        ],
+        "releaseDate": "2012-06-12",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "transition",
+        "className": "Reaction",
+        "schemaClass": "Reaction"
+    },
+    {
+        "dbId": 1222526,
+        "displayName": "AhpC reduces peroxidated lipids",
+        "stId": "R-HSA-1222526",
+        "stIdVersion": "R-HSA-1222526.1",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "AhpC reduces peroxidated lipids"
+        ],
+        "releaseDate": "2012-06-12",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "transition",
+        "className": "Reaction",
+        "schemaClass": "Reaction"
+    }
+]

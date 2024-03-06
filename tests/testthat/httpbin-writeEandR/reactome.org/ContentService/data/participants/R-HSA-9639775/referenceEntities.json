@@ -1,0 +1,249 @@
+[
+    {
+        "dbId": 9638751,
+        "displayName": "rifampicin [Guide to Pharmacology:2765]",
+        "databaseName": "Guide to Pharmacology",
+        "identifier": "2765",
+        "name": [
+            "rifampicin",
+            "Rifadin&reg;",
+            "rifampin"
+        ],
+        "url": "https://www.guidetopharmacology.org/GRAC/LigandDisplayForward?ligandId=2765",
+        "approvalSource": [
+            "FDA (1971)"
+        ],
+        "approved": true,
+        "inn": "rifampicin",
+        "type": "Natural product",
+        "schemaClass": "ReferenceTherapeutic",
+        "className": "ReferenceTherapeutic"
+    },
+    {
+        "dbId": 9638791,
+        "displayName": "UniProt:P9WGZ1 rpoA",
+        "databaseName": "UniProt",
+        "identifier": "P9WGZ1",
+        "name": [
+            "rpoA"
+        ],
+        "url": "http://purl.uniprot.org/uniprot/P9WGZ1",
+        "checksum": "E89CA7D377CACF99",
+        "comment": [
+            "FUNCTION DNA-dependent RNA polymerase catalyzes the transcription of DNA into RNA using the four ribonucleoside triphosphates as substrates.SUBUNIT Homodimer. The RNAP catalytic core consists of 2 alpha, 1 beta, 1 beta' and 1 omega subunit. When a sigma factor is associated with the core the holoenzyme is formed, which can initiate transcription.INDUCTION 3-fold repressed by starvation.DOMAIN The N-terminal domain is essential for RNAP assembly and basal transcription, whereas the C-terminal domain is involved in interaction with transcriptional regulators and with upstream promoter elements.SIMILARITY Belongs to the RNA polymerase alpha chain family."
+        ],
+        "description": [
+            "recommendedName: fullName evidence=\"1\"DNA-directed RNA polymerase subunit alpha shortName evidence=\"1\"RNAP subunit alpha ecNumber evidence=\"1\"2.7.7.6/ecNumber  alternativeName: fullName evidence=\"1\"RNA polymerase subunit alpha  alternativeName: fullName evidence=\"1\"Transcriptase subunit alpha "
+        ],
+        "geneName": [
+            "rpoA",
+            "Rv3457c",
+            "MTCY13E12.10c"
+        ],
+        "isSequenceChanged": false,
+        "keyword": [
+            "3D-structure",
+            "DNA-directed RNA polymerase",
+            "Nucleotidyltransferase",
+            "Reference proteome",
+            "Transcription",
+            "Transferase"
+        ],
+        "secondaryIdentifier": [
+            "RPOA_MYCTU",
+            "L0TCT4",
+            "O06324",
+            "P66701"
+        ],
+        "sequenceLength": 347,
+        "chain": [
+            "chain:1-347"
+        ],
+        "schemaClass": "ReferenceGeneProduct",
+        "className": "ReferenceGeneProduct"
+    },
+    {
+        "dbId": 9638752,
+        "displayName": "UniProt:P9WGY5 rpoZ",
+        "databaseName": "UniProt",
+        "identifier": "P9WGY5",
+        "name": [
+            "rpoZ"
+        ],
+        "url": "http://purl.uniprot.org/uniprot/P9WGY5",
+        "checksum": "ED2FBEB38F46FF0F",
+        "comment": [
+            "FUNCTION Promotes RNA polymerase assembly. Latches the N- and C-terminal regions of the beta' subunit thereby facilitating its interaction with the beta and alpha subunits.SUBUNIT The RNAP catalytic core consists of 2 alpha, 1 beta, 1 beta' and 1 omega subunit. When a sigma factor is associated with the core the holoenzyme is formed, which can initiate transcription.SIMILARITY Belongs to the RNA polymerase subunit omega family."
+        ],
+        "description": [
+            "recommendedName: DNA-directed RNA polymerase subunit omega shortName:RNAP omega subunit ecNumber2.7.7.6/ecNumber  alternativeName: RNA polymerase omega subunit  alternativeName: Transcriptase subunit omega "
+        ],
+        "geneName": [
+            "rpoZ",
+            "Rv1390",
+            "MTCY21B4.07"
+        ],
+        "isSequenceChanged": false,
+        "keyword": [
+            "3D-structure",
+            "DNA-directed RNA polymerase",
+            "Nucleotidyltransferase",
+            "Reference proteome",
+            "Transcription",
+            "Transferase"
+        ],
+        "secondaryIdentifier": [
+            "RPOZ_MYCTU",
+            "L0T993",
+            "P66721",
+            "P71660"
+        ],
+        "sequenceLength": 110,
+        "chain": [
+            "chain:1-110"
+        ],
+        "schemaClass": "ReferenceGeneProduct",
+        "className": "ReferenceGeneProduct"
+    },
+    {
+        "dbId": 9638768,
+        "displayName": "UniProt:P9WGY9 rpoB",
+        "databaseName": "UniProt",
+        "identifier": "P9WGY9",
+        "name": [
+            "rpoB"
+        ],
+        "url": "http://purl.uniprot.org/uniprot/P9WGY9",
+        "checksum": "3DA88DEC6A7DF661",
+        "comment": [
+            "FUNCTION DNA-dependent RNA polymerase catalyzes the transcription of DNA into RNA using the four ribonucleoside triphosphates as substrates.SUBUNIT The RNAP catalytic core consists of 2 alpha, 1 beta, 1 beta' and 1 omega subunit. When a sigma factor is associated with the core the holoenzyme is formed, which can initiate transcription. Interacts with CarD, TRCF (Mfd) and RbpA.SIMILARITY Belongs to the RNA polymerase beta chain family."
+        ],
+        "description": [
+            "recommendedName: fullName evidence=\"1\"DNA-directed RNA polymerase subunit beta shortName evidence=\"1\"RNAP subunit beta ecNumber evidence=\"1\"2.7.7.6/ecNumber  alternativeName: fullName evidence=\"1\"RNA polymerase subunit beta  alternativeName: fullName evidence=\"1\"Transcriptase subunit beta "
+        ],
+        "geneName": [
+            "rpoB",
+            "Rv0667",
+            "MTCI376.08c"
+        ],
+        "isSequenceChanged": false,
+        "keyword": [
+            "3D-structure",
+            "Antibiotic resistance",
+            "DNA-directed RNA polymerase",
+            "Nucleotidyltransferase",
+            "Reference proteome",
+            "Transcription",
+            "Transferase"
+        ],
+        "secondaryIdentifier": [
+            "RPOB_MYCTU",
+            "L0T4D5",
+            "O08406",
+            "P0A680",
+            "P47766",
+            "Q53424",
+            "Q59564",
+            "Q9X6Q3",
+            "Q9X6U9",
+            "Q9XC82",
+            "Q9XC83",
+            "Q9XC84",
+            "Q9XC85"
+        ],
+        "sequenceLength": 1178,
+        "chain": [
+            "chain:1-1178"
+        ],
+        "schemaClass": "ReferenceGeneProduct",
+        "className": "ReferenceGeneProduct"
+    },
+    {
+        "dbId": 9638780,
+        "displayName": "UniProt:P9WGY7 rpoC",
+        "databaseName": "UniProt",
+        "identifier": "P9WGY7",
+        "name": [
+            "rpoC"
+        ],
+        "url": "http://purl.uniprot.org/uniprot/P9WGY7",
+        "checksum": "45BF24839AF53E8B",
+        "comment": [
+            "FUNCTION DNA-dependent RNA polymerase catalyzes the transcription of DNA into RNA using the four ribonucleoside triphosphates as substrates.SUBUNIT The RNAP catalytic core consists of 2 alpha, 1 beta, 1 beta' and 1 omega subunit. When a sigma factor is associated with the core the holoenzyme is formed, which can initiate transcription.INDUCTION 6-fold repressed by starvation.SIMILARITY Belongs to the RNA polymerase beta' chain family."
+        ],
+        "description": [
+            "recommendedName: fullName evidence=\"1\"DNA-directed RNA polymerase subunit beta' shortName evidence=\"1\"RNAP subunit beta' ecNumber evidence=\"1\"2.7.7.6/ecNumber  alternativeName: fullName evidence=\"1\"RNA polymerase subunit beta'  alternativeName: fullName evidence=\"1\"Transcriptase subunit beta' "
+        ],
+        "geneName": [
+            "rpoC",
+            "Rv0668",
+            "MTCI376.07c"
+        ],
+        "isSequenceChanged": false,
+        "keyword": [
+            "3D-structure",
+            "DNA-directed RNA polymerase",
+            "Magnesium",
+            "Metal-binding",
+            "Nucleotidyltransferase",
+            "Reference proteome",
+            "Transcription",
+            "Transferase",
+            "Zinc"
+        ],
+        "secondaryIdentifier": [
+            "RPOC_MYCTU",
+            "L0T4I2",
+            "O06771",
+            "P0A674",
+            "P47769"
+        ],
+        "sequenceLength": 1316,
+        "chain": [
+            "chain:1-1316"
+        ],
+        "schemaClass": "ReferenceGeneProduct",
+        "className": "ReferenceGeneProduct"
+    },
+    {
+        "dbId": 9638758,
+        "displayName": "RNA polyanion [ChEBI:83400]",
+        "databaseName": "ChEBI",
+        "identifier": "83400",
+        "name": [
+            "RNA polyanion",
+            "RNA polymer",
+            "a ribonucleic acid"
+        ],
+        "url": "http://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:83400",
+        "formula": "(C5H7O6P)nHOR",
+        "schemaClass": "ReferenceMolecule",
+        "className": "ReferenceMolecule"
+    },
+    {
+        "dbId": 9638763,
+        "displayName": "ribonucleoside 5'-triphosphate [ChEBI:37076]",
+        "databaseName": "ChEBI",
+        "identifier": "37076",
+        "name": [
+            "ribonucleoside 5'-triphosphate",
+            "ribonucleoside 5'-triphosphates"
+        ],
+        "url": "http://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:37076",
+        "schemaClass": "ReferenceMolecule",
+        "className": "ReferenceMolecule"
+    },
+    {
+        "dbId": 1422654,
+        "displayName": "diphosphate(3-) [ChEBI:33019]",
+        "databaseName": "ChEBI",
+        "identifier": "33019",
+        "name": [
+            "diphosphate(3-)"
+        ],
+        "url": "http://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:33019",
+        "formula": "HO7P2",
+        "schemaClass": "ReferenceMolecule",
+        "className": "ReferenceMolecule"
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "dbId": 9702613,
+        "displayName": "ponatinib-resistant FLT3 mutants don't bind ponatinib",
+        "stId": "R-HSA-9702613",
+        "stIdVersion": "R-HSA-9702613.1",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "ponatinib-resistant FLT3 mutants don't bind ponatinib"
+        ],
+        "releaseDate": "2020-12-08",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "transition",
+        "className": "Reaction",
+        "schemaClass": "FailedReaction"
+    }
+]

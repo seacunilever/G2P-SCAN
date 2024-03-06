@@ -1,0 +1,172 @@
+[
+    {
+        "dbId": 5316285,
+        "displayName": "glutathioselenol [ChEBI:64729]",
+        "databaseName": "ChEBI",
+        "identifier": "64729",
+        "name": [
+            "glutathioselenol",
+            "GSSeH"
+        ],
+        "url": "http://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:64729",
+        "formula": "C10H17N3O6SSe",
+        "schemaClass": "ReferenceMolecule",
+        "className": "ReferenceMolecule"
+    },
+    {
+        "dbId": 5357711,
+        "displayName": "N-acetyl-beta-D-galactosaminyl group [ChEBI:17806]",
+        "databaseName": "ChEBI",
+        "identifier": "17806",
+        "name": [
+            "N-acetyl-beta-D-galactosaminyl group",
+            "2-acetamido-2-deoxy-beta-D-galactopyranosyl group"
+        ],
+        "url": "http://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:17806",
+        "formula": "C8H14NO5",
+        "schemaClass": "ReferenceMolecule",
+        "className": "ReferenceMolecule"
+    },
+    {
+        "dbId": 5357648,
+        "displayName": "1beta-glutathionylseleno-N-acetyl-D-galactosamine [ChEBI:77008]",
+        "databaseName": "ChEBI",
+        "identifier": "77008",
+        "name": [
+            "1beta-glutathionylseleno-N-acetyl-D-galactosamine",
+            "selenosugar A",
+            "GSSebGalNac",
+            "GSSe-beta-GalNAc"
+        ],
+        "url": "http://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:77008",
+        "formula": "C18H30N4O11SSe",
+        "schemaClass": "ReferenceMolecule",
+        "className": "ReferenceMolecule"
+    },
+    {
+        "dbId": 5357644,
+        "displayName": "1beta-methylseleno-N-acetyl-D-galactosamine [ChEBI:77010]",
+        "databaseName": "ChEBI",
+        "identifier": "77010",
+        "name": [
+            "1beta-methylseleno-N-acetyl-D-galactosamine",
+            "MeSe-beta-GalNAc",
+            "MeSebGalNac",
+            "selenosugar B"
+        ],
+        "url": "http://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:77010",
+        "formula": "C9H17NO5Se",
+        "schemaClass": "ReferenceMolecule",
+        "className": "ReferenceMolecule"
+    },
+    {
+        "dbId": 114728,
+        "displayName": "water [ChEBI:15377]",
+        "databaseName": "ChEBI",
+        "identifier": "15377",
+        "name": [
+            "water"
+        ],
+        "url": "http://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:15377",
+        "formula": "H2O",
+        "schemaClass": "ReferenceMolecule",
+        "className": "ReferenceMolecule"
+    },
+    {
+        "dbId": 5357682,
+        "displayName": "methylselenol [ChEBI:64685]",
+        "databaseName": "ChEBI",
+        "identifier": "64685",
+        "name": [
+            "methylselenol",
+            "Methaneselenol"
+        ],
+        "url": "http://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:64685",
+        "formula": "CH4Se",
+        "schemaClass": "ReferenceMolecule",
+        "className": "ReferenceMolecule"
+    },
+    {
+        "dbId": 36869,
+        "displayName": "N-acetyl-beta-D-galactosamine [ChEBI:28497]",
+        "databaseName": "ChEBI",
+        "identifier": "28497",
+        "name": [
+            "N-acetyl-beta-D-galactosamine"
+        ],
+        "url": "http://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:28497",
+        "formula": "C8H15NO6",
+        "schemaClass": "ReferenceMolecule",
+        "className": "ReferenceMolecule"
+    },
+    {
+        "dbId": 29392,
+        "displayName": "S-adenosyl-L-methionine [ChEBI:15414]",
+        "databaseName": "ChEBI",
+        "identifier": "15414",
+        "name": [
+            "S-adenosyl-L-methionine"
+        ],
+        "url": "http://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:15414",
+        "formula": "C15H23N6O5S",
+        "schemaClass": "ReferenceMolecule",
+        "className": "ReferenceMolecule"
+    },
+    {
+        "dbId": 29396,
+        "displayName": "S-adenosyl-L-homocysteine [ChEBI:16680]",
+        "databaseName": "ChEBI",
+        "identifier": "16680",
+        "name": [
+            "S-adenosyl-L-homocysteine"
+        ],
+        "url": "http://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:16680",
+        "formula": "C14H20N6O5S",
+        "schemaClass": "ReferenceMolecule",
+        "className": "ReferenceMolecule"
+    },
+    {
+        "dbId": 9737458,
+        "displayName": "glutathionate(1-) [ChEBI:57925]",
+        "databaseName": "ChEBI",
+        "identifier": "57925",
+        "name": [
+            "glutathionate(1-)",
+            "glutathionate ion",
+            "glutathionate anion",
+            "glutathionate",
+            "glutathione"
+        ],
+        "url": "http://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:57925",
+        "formula": "C10H16N3O6S",
+        "schemaClass": "ReferenceMolecule",
+        "className": "ReferenceMolecule"
+    },
+    {
+        "dbId": 5357642,
+        "displayName": "2-acetamidoglucal [ChEBI:73979]",
+        "databaseName": "ChEBI",
+        "identifier": "73979",
+        "name": [
+            "2-acetamidoglucal",
+            "2-acetoamido-1,2-dideoxy-D-arabino-hex-1-enopyranose"
+        ],
+        "url": "http://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:73979",
+        "formula": "C8H13NO5",
+        "schemaClass": "ReferenceMolecule",
+        "className": "ReferenceMolecule"
+    },
+    {
+        "dbId": 5357668,
+        "displayName": "methylseleninic acid [ChEBI:77012]",
+        "databaseName": "ChEBI",
+        "identifier": "77012",
+        "name": [
+            "methylseleninic acid"
+        ],
+        "url": "http://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:77012",
+        "formula": "CH4O2Se",
+        "schemaClass": "ReferenceMolecule",
+        "className": "ReferenceMolecule"
+    }
+]

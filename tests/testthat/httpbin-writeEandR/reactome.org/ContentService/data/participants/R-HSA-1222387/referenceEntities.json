@@ -1,0 +1,645 @@
+[
+    {
+        "dbId": 29414,
+        "displayName": "ferroheme b [ChEBI:17627]",
+        "databaseName": "ChEBI",
+        "identifier": "17627",
+        "name": [
+            "ferroheme b"
+        ],
+        "url": "http://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:17627",
+        "formula": "C34H32FeN4O4",
+        "schemaClass": "ReferenceMolecule",
+        "className": "ReferenceMolecule"
+    },
+    {
+        "dbId": 5566417,
+        "displayName": "UniProt:P9WIE5 katG",
+        "databaseName": "UniProt",
+        "identifier": "P9WIE5",
+        "name": [
+            "katG"
+        ],
+        "url": "http://purl.uniprot.org/uniprot/P9WIE5",
+        "checksum": "B43C033B533CDD89",
+        "comment": [
+            "FUNCTION Bifunctional enzyme with both catalase and broad-spectrum peroxidase activity, oxidizing various electron donors including NADP(H) (PubMed:9006925, PubMed:18178143). Protects M.tuberculosis against toxic reactive oxygen species (ROS) including hydrogen peroxide as well as organic peroxides and thus contributes to its survival within host macrophages by countering the phagocyte oxidative burst (PubMed:8658136, PubMed:15165233). Also displays efficient peroxynitritase activity, which may help the bacterium to persist in macrophages (PubMed:10080924).FUNCTION Might be involved in DNA repair. Partly complements recA-deficient E.coli cells exposed to UV radiation, mitomycin C or hydrogen peroxide. Increases resistance to mitomycin C in E.coli cells deficient for either uvrA, uvrB or uvrC.FUNCTION Catalyzes the oxidative activation of the antitubercular pro-drug isoniazid (INH) to generate an isonicotinoyl radical that then reacts nonenzymatically with NAD to form an isonicotinoyl-NAD adduct which inhibits InhA.SUBUNIT Homodimer.INDUCTION By treatment with H(2)O(2) (PubMed:8658136). Repressed by FurA (PubMed:11401695).DOMAIN Consists of two related domains. The catalase-peroxidase activity is associated with the N-terminal domain but no definite function has been assigned to the C-terminal domain, although it may play a role in substrate binding.PTM Formation of the three residue Trp-Tyr-Met cross-link is important for the catalase, but not the peroxidase activity of the enzyme (By similarity). The formation of the Trp-Tyr-Met cross-link is autocatalytic (PubMed:15840564).DISRUPTION PHENOTYPE Cells lacking this gene are devoid of catalase activity, supersensitive to H(2)O(2) exposure and highly resistant to the antitubercular drug isoniazid (INH) in vitro. This mutant strain is markedly attenuated for virulence in mice and displays impaired growth in infected macrophages, but its growth and survival is indistinguishable from wild-type in macrophages lacking the ROS-generating NADPH oxidase (Phox).MISCELLANEOUS In contrast to the Synechocystis sp. enzyme, no Trp radical is formed on the distal Trp residue (Trp-91).MISCELLANEOUS Was identified as a high-confidence drug target.MISCELLANEOUS Many isoniazid-resistant clinical isolates contain mutations in katG, leading to abolition or reduction of catalase/peroxidase activity which results in lack of INH activation, or to a reduced affinity for INH. Other mechanisms of INH resistance include deletion of the katG gene, and down-regulation of katG expression due to mutations in the furA-katG intergenic region.SIMILARITY Belongs to the peroxidase family. Peroxidase/catalase subfamily."
+        ],
+        "description": [
+            "recommendedName: fullName evidence=\"1 16 17\"Catalase-peroxidase shortName evidence=\"1 15\"CP ecNumber evidence=\"1 10 13\"1.11.1.21/ecNumber  alternativeName: fullName evidence=\"1\"Peroxidase/catalase "
+        ],
+        "geneName": [
+            "katG",
+            "Rv1908c",
+            "MTCY180.10"
+        ],
+        "isSequenceChanged": false,
+        "keyword": [
+            "3D-structure",
+            "Antibiotic resistance",
+            "Heme",
+            "Hydrogen peroxide",
+            "Iron",
+            "Metal-binding",
+            "Organic radical",
+            "Oxidoreductase",
+            "Peroxidase",
+            "Reference proteome",
+            "Virulence"
+        ],
+        "secondaryIdentifier": [
+            "KATG_MYCTU",
+            "J9VFD2",
+            "O08221",
+            "Q08129",
+            "Q50544",
+            "Q50546",
+            "Q50551",
+            "Q50552",
+            "Q50553",
+            "Q50554",
+            "Q50555",
+            "Q50762",
+            "Q57215",
+            "Q57274"
+        ],
+        "sequenceLength": 740,
+        "chain": [
+            "chain:1-740"
+        ],
+        "schemaClass": "ReferenceGeneProduct",
+        "className": "ReferenceGeneProduct"
+    },
+    {
+        "dbId": 114745,
+        "displayName": "hydrogen peroxide [ChEBI:16240]",
+        "databaseName": "ChEBI",
+        "identifier": "16240",
+        "name": [
+            "hydrogen peroxide"
+        ],
+        "url": "http://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:16240",
+        "formula": "H2O2",
+        "schemaClass": "ReferenceMolecule",
+        "className": "ReferenceMolecule"
+    },
+    {
+        "dbId": 114734,
+        "displayName": "dioxygen [ChEBI:15379]",
+        "databaseName": "ChEBI",
+        "identifier": "15379",
+        "name": [
+            "dioxygen"
+        ],
+        "url": "http://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:15379",
+        "formula": "O2",
+        "schemaClass": "ReferenceMolecule",
+        "className": "ReferenceMolecule"
+    },
+    {
+        "dbId": 114728,
+        "displayName": "water [ChEBI:15377]",
+        "databaseName": "ChEBI",
+        "identifier": "15377",
+        "name": [
+            "water"
+        ],
+        "url": "http://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:15377",
+        "formula": "H2O",
+        "schemaClass": "ReferenceMolecule",
+        "className": "ReferenceMolecule"
+    },
+    {
+        "dbId": 1164535,
+        "displayName": "copper(2+) [ChEBI:29036]",
+        "databaseName": "ChEBI",
+        "identifier": "29036",
+        "name": [
+            "copper(2+)",
+            "COPPER (II) ION",
+            "Cu2+",
+            "copper(II) cation",
+            "cupric ion",
+            "copper, ion (Cu2+)",
+            "Cu(II)",
+            "Cu(2+)"
+        ],
+        "url": "http://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:29036",
+        "formula": "Cu",
+        "schemaClass": "ReferenceMolecule",
+        "className": "ReferenceMolecule"
+    },
+    {
+        "dbId": 5567304,
+        "displayName": "UniProt:P9WGE9 sodC",
+        "databaseName": "UniProt",
+        "identifier": "P9WGE9",
+        "name": [
+            "sodC"
+        ],
+        "url": "http://purl.uniprot.org/uniprot/P9WGE9",
+        "checksum": "AFC08C0B302B84FC",
+        "comment": [
+            "FUNCTION Destroys radicals which are normally produced within the cells and which are toxic to biological systems. May play a role in favoring mycobacterial survival in phagocytes (By similarity).ACTIVITY REGULATION Inhibited by the copper chelator diethyl dithiocarbamate.SUBUNIT Homodimer.MISCELLANEOUS Does not bind zinc ions. Has normal enzyme activity in the absence of zinc ions.SIMILARITY Belongs to the Cu-Zn superoxide dismutase family.CAUTION Lacks two conserved histidine residues that bind copper and zinc."
+        ],
+        "description": [
+            "recommendedName: Superoxide dismutase [Cu-Zn] ecNumber1.15.1.1/ecNumber "
+        ],
+        "geneName": [
+            "sodC",
+            "Rv0432",
+            "MTCY22G10.29"
+        ],
+        "isSequenceChanged": false,
+        "keyword": [
+            "3D-structure",
+            "Antioxidant",
+            "Cell membrane",
+            "Copper",
+            "Disulfide bond",
+            "Lipoprotein",
+            "Membrane",
+            "Metal-binding",
+            "Oxidoreductase",
+            "Palmitate",
+            "Reference proteome",
+            "Signal",
+            "Zinc"
+        ],
+        "secondaryIdentifier": [
+            "SODC_MYCTU",
+            "L0T6G1",
+            "P0A608",
+            "P96278"
+        ],
+        "sequenceLength": 240,
+        "chain": [
+            "signal peptide:1-32",
+            "chain:33-240"
+        ],
+        "schemaClass": "ReferenceGeneProduct",
+        "className": "ReferenceGeneProduct"
+    },
+    {
+        "dbId": 30601,
+        "displayName": "superoxide [ChEBI:18421]",
+        "databaseName": "ChEBI",
+        "identifier": "18421",
+        "name": [
+            "superoxide",
+            "O2-",
+            "O2.-"
+        ],
+        "url": "http://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:18421",
+        "formula": "O2",
+        "schemaClass": "ReferenceMolecule",
+        "className": "ReferenceMolecule"
+    },
+    {
+        "dbId": 114918,
+        "displayName": "hydron [ChEBI:15378]",
+        "databaseName": "ChEBI",
+        "identifier": "15378",
+        "name": [
+            "hydron"
+        ],
+        "url": "http://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:15378",
+        "formula": "H",
+        "schemaClass": "ReferenceMolecule",
+        "className": "ReferenceMolecule"
+    },
+    {
+        "dbId": 5566431,
+        "displayName": "UniProt:P9WQB7 ahpC",
+        "databaseName": "UniProt",
+        "identifier": "P9WQB7",
+        "name": [
+            "ahpC"
+        ],
+        "url": "http://purl.uniprot.org/uniprot/P9WQB7",
+        "checksum": "011C1014F07C7095",
+        "comment": [
+            "FUNCTION Thiol-specific peroxidase that catalyzes the reduction of hydrogen peroxide and organic hydroperoxides to water and alcohols, respectively. Plays a role in cell protection against oxidative stress by detoxifying peroxides. Together with AhpD, DlaT and Lpd, constitutes an NADH-dependent peroxidase active against hydrogen and alkyl peroxides as well as serving as a peroxynitrite reductase, thus protecting the bacterium against reactive nitrogen intermediates and oxidative stress generated by the host immune system. Does not however seem to play a role in detoxification of isoniazid.SUBUNIT Homodimer; disulfide-linked, upon oxidation. 6 homodimers assemble to form a ring-like dodecamer (PubMed:11171096, PubMed:15886207). Identified in a complex with AhpD, DlaT and Lpd (PubMed:11799204).INDUCTION Induced in isoniazid (INH)-resistant, KatG-deficient strains as well as in INH-sensitive strains when challenged with the drug. Increased expression in these strains probably compensates for loss of katG activity in detoxification of organic peroxides. A possible member of the dormancy regulon. Induced in response to reduced oxygen tension (hypoxia). It is hoped that this regulon will give insight into the latent, or dormant phase of infection.MISCELLANEOUS The active site is a conserved redox-active cysteine residue, the peroxidatic cysteine (C(P)), which makes the nucleophilic attack on the peroxide substrate. The peroxide oxidizes the C(P)-SH to cysteine sulfenic acid (C(P)-SOH), which then reacts with another cysteine residue, the resolving cysteine (C(R)), to form a disulfide bridge. The disulfide is subsequently reduced by an appropriate electron donor to complete the catalytic cycle. In this typical 2-Cys peroxiredoxin, C(R) is provided by the other dimeric subunit to form an intersubunit disulfide (PubMed:15178486, PubMed:15886207). The disulfide can subsequently be reduced through a mixed disulfide with the C-terminal cysteine of AhpD, resolved by its second cysteine (PubMed:15178486) or by thioredoxin (TrxC) (PubMed:14871480).SIMILARITY Belongs to the peroxiredoxin family. AhpC/Prx1 subfamily."
+        ],
+        "description": [
+            "recommendedName: Alkyl hydroperoxide reductase C shortName:MtAhpC ecNumber evidence=\"7 8\"1.11.1.28/ecNumber  alternativeName: Peroxiredoxin  alternativeName: Thioredoxin peroxidase "
+        ],
+        "geneName": [
+            "ahpC",
+            "Rv2428"
+        ],
+        "isSequenceChanged": false,
+        "keyword": [
+            "3D-structure",
+            "Antioxidant",
+            "Cytoplasm",
+            "Direct protein sequencing",
+            "Disulfide bond",
+            "Oxidoreductase",
+            "Peroxidase",
+            "Redox-active center",
+            "Reference proteome",
+            "Stress response"
+        ],
+        "secondaryIdentifier": [
+            "AHPC_MYCTU",
+            "L0T9L3",
+            "Q79FE2",
+            "Q7BHK8",
+            "Q7D758"
+        ],
+        "sequenceLength": 195,
+        "chain": [
+            "initiator methionine:1",
+            "chain:2-195"
+        ],
+        "schemaClass": "ReferenceGeneProduct",
+        "className": "ReferenceGeneProduct"
+    },
+    {
+        "dbId": 5567310,
+        "displayName": "UniProt:P9WGP1 secD",
+        "databaseName": "UniProt",
+        "identifier": "P9WGP1",
+        "name": [
+            "secD"
+        ],
+        "url": "http://purl.uniprot.org/uniprot/P9WGP1",
+        "checksum": "5A8F42E2C0389CE2",
+        "comment": [
+            "FUNCTION Part of the Sec protein translocase complex. Interacts with the SecYEG preprotein conducting channel. SecDF uses the proton motive force (PMF) to complete protein translocation after the ATP-dependent function of SecA.SUBUNIT Forms a complex with SecF. Part of the essential Sec protein translocation apparatus which comprises SecA, SecYEG and auxiliary proteins SecDF. Other proteins may also be involved.SIMILARITY Belongs to the SecD/SecF family. SecD subfamily."
+        ],
+        "description": [
+            "recommendedName: fullName evidence=\"1\"Protein translocase subunit SecD "
+        ],
+        "geneName": [
+            "secD",
+            "Rv2587c",
+            "MTCY227.14"
+        ],
+        "isSequenceChanged": false,
+        "keyword": [
+            "Cell membrane",
+            "Membrane",
+            "Protein transport",
+            "Reference proteome",
+            "Translocation",
+            "Transmembrane",
+            "Transmembrane helix",
+            "Transport"
+        ],
+        "secondaryIdentifier": [
+            "SECD_MYCTU",
+            "L0TCU8",
+            "Q50634"
+        ],
+        "sequenceLength": 573,
+        "chain": [
+            "chain:1-573"
+        ],
+        "schemaClass": "ReferenceGeneProduct",
+        "className": "ReferenceGeneProduct"
+    },
+    {
+        "dbId": 5567311,
+        "displayName": "UniProt:P9WGN7 secE",
+        "databaseName": "UniProt",
+        "identifier": "P9WGN7",
+        "name": [
+            "secE"
+        ],
+        "url": "http://purl.uniprot.org/uniprot/P9WGN7",
+        "checksum": "9AC5CED696B9784E",
+        "comment": [
+            "FUNCTION Essential subunit of the Sec protein translocation channel SecYEG. Clamps together the 2 halves of SecY. May contact the channel plug during translocation.SUBUNIT Component of the Sec protein translocase complex. Heterotrimer consisting of SecY, SecE and SecG subunits. The heterotrimers can form oligomers, although 1 heterotrimer is thought to be able to translocate proteins. Interacts with the ribosome. Interacts with SecDF, and other proteins may be involved. Interacts with SecA.SIMILARITY Belongs to the SecE/SEC61-gamma family."
+        ],
+        "description": [
+            "recommendedName: fullName evidence=\"1\"Protein translocase subunit SecE "
+        ],
+        "geneName": [
+            "secE",
+            "Rv0638",
+            "MTCY20H10.19"
+        ],
+        "isSequenceChanged": false,
+        "keyword": [
+            "Cell membrane",
+            "Membrane",
+            "Protein transport",
+            "Reference proteome",
+            "Translocation",
+            "Transmembrane",
+            "Transmembrane helix",
+            "Transport"
+        ],
+        "secondaryIdentifier": [
+            "SECE_MYCTU",
+            "L0T4G1",
+            "P0A5Z0",
+            "P96929"
+        ],
+        "sequenceLength": 161,
+        "chain": [
+            "chain:1-161"
+        ],
+        "schemaClass": "ReferenceGeneProduct",
+        "className": "ReferenceGeneProduct"
+    },
+    {
+        "dbId": 5567326,
+        "displayName": "UniProt:P9WGN3 secY",
+        "databaseName": "UniProt",
+        "identifier": "P9WGN3",
+        "name": [
+            "secY"
+        ],
+        "url": "http://purl.uniprot.org/uniprot/P9WGN3",
+        "checksum": "447C85AA879FEBF2",
+        "comment": [
+            "FUNCTION The central subunit of the protein translocation channel SecYEG. Consists of two halves formed by TMs 1-5 and 6-10. These two domains form a lateral gate at the front which open onto the bilayer between TMs 2 and 7, and are clamped together by SecE at the back. The channel is closed by both a pore ring composed of hydrophobic SecY resides and a short helix (helix 2A) on the extracellular side of the membrane which forms a plug. The plug probably moves laterally to allow the channel to open. The ring and the pore may move independently.SUBUNIT Component of the Sec protein translocase complex. Heterotrimer consisting of SecY, SecE and SecG subunits. The heterotrimers can form oligomers, although 1 heterotrimer is thought to be able to translocate proteins. Interacts with the ribosome. Interacts with SecDF, and other proteins may be involved. Interacts with SecA.MISCELLANEOUS Was identified as a high-confidence drug target.SIMILARITY Belongs to the SecY/SEC61-alpha family."
+        ],
+        "description": [
+            "recommendedName: fullName evidence=\"1\"Protein translocase subunit SecY "
+        ],
+        "geneName": [
+            "secY",
+            "Rv0732",
+            "MTV041.06"
+        ],
+        "isSequenceChanged": false,
+        "keyword": [
+            "Cell membrane",
+            "Membrane",
+            "Protein transport",
+            "Reference proteome",
+            "Translocation",
+            "Transmembrane",
+            "Transmembrane helix",
+            "Transport"
+        ],
+        "secondaryIdentifier": [
+            "SECY_MYCTU",
+            "L0T7J9",
+            "P0A5Z2",
+            "P94926"
+        ],
+        "sequenceLength": 441,
+        "chain": [
+            "chain:1-441"
+        ],
+        "schemaClass": "ReferenceGeneProduct",
+        "className": "ReferenceGeneProduct"
+    },
+    {
+        "dbId": 5566428,
+        "displayName": "UniProt:P9WGP5 secA1",
+        "databaseName": "UniProt",
+        "identifier": "P9WGP5",
+        "name": [
+            "secA1"
+        ],
+        "url": "http://purl.uniprot.org/uniprot/P9WGP5",
+        "checksum": "D46C3315835E03D7",
+        "comment": [
+            "FUNCTION Part of the Sec protein translocase complex. Interacts with the SecYEG preprotein conducting channel. Has a central role in coupling the hydrolysis of ATP to the transfer of proteins into and across the cell membrane, serving as an ATP-driven molecular motor driving the stepwise translocation of polypeptide chains across the membrane.SUBUNIT Part of the essential Sec protein translocation apparatus which comprises SecA, SecYEG and auxiliary proteins SecDF. Other proteins may also be involved (By similarity). Monomer and homodimer.SIMILARITY Belongs to the SecA family."
+        ],
+        "description": [
+            "recommendedName: fullName evidence=\"2\"Protein translocase subunit SecA 1 shortName:tbSecA ecNumber evidence=\"2\"7.4.2.8/ecNumber "
+        ],
+        "geneName": [
+            "secA1",
+            "Rv3240c",
+            "MTCY20B11.15c"
+        ],
+        "isSequenceChanged": false,
+        "keyword": [
+            "3D-structure",
+            "ATP-binding",
+            "Cell membrane",
+            "Cytoplasm",
+            "Membrane",
+            "Nucleotide-binding",
+            "Protein transport",
+            "Reference proteome",
+            "Translocase",
+            "Translocation",
+            "Transport"
+        ],
+        "secondaryIdentifier": [
+            "SECA1_MYCTU",
+            "L0TF13",
+            "O05885",
+            "P0A5Y8",
+            "P71494"
+        ],
+        "sequenceLength": 949,
+        "chain": [
+            "chain:1-949"
+        ],
+        "schemaClass": "ReferenceGeneProduct",
+        "className": "ReferenceGeneProduct"
+    },
+    {
+        "dbId": 5567306,
+        "displayName": "UniProt:P9WGN5 secG",
+        "databaseName": "UniProt",
+        "identifier": "P9WGN5",
+        "name": [
+            "secG"
+        ],
+        "url": "http://purl.uniprot.org/uniprot/P9WGN5",
+        "checksum": "6DB2403163699EC6",
+        "comment": [
+            "FUNCTION Involved in protein export. Participates in an early event of protein translocation (By similarity).SIMILARITY Belongs to the SecG family."
+        ],
+        "description": [
+            "recommendedName: Probable protein-export membrane protein SecG "
+        ],
+        "geneName": [
+            "secG",
+            "Rv1440",
+            "MTCY493.14c"
+        ],
+        "isSequenceChanged": false,
+        "keyword": [
+            "Cell membrane",
+            "Membrane",
+            "Protein transport",
+            "Reference proteome",
+            "Translocation",
+            "Transmembrane",
+            "Transmembrane helix",
+            "Transport"
+        ],
+        "secondaryIdentifier": [
+            "SECG_MYCTU",
+            "L0T9E7",
+            "O06819",
+            "P66791"
+        ],
+        "sequenceLength": 77,
+        "chain": [
+            "chain:1-77"
+        ],
+        "schemaClass": "ReferenceGeneProduct",
+        "className": "ReferenceGeneProduct"
+    },
+    {
+        "dbId": 5567321,
+        "displayName": "UniProt:P9WGP3 secA2",
+        "databaseName": "UniProt",
+        "identifier": "P9WGP3",
+        "name": [
+            "secA2"
+        ],
+        "url": "http://purl.uniprot.org/uniprot/P9WGP3",
+        "checksum": "6AF6707CC3951D2F",
+        "comment": [
+            "FUNCTION Part of the Sec protein translocase complex. Interacts with the SecYEG preprotein conducting channel. Has a central role in coupling the hydrolysis of ATP to the transfer of proteins into and across the cell membrane, serving as an ATP-driven molecular motor driving the stepwise translocation of polypeptide chains across the membrane.SUBUNIT Monomer and homodimer. Part of the essential Sec protein translocation apparatus which comprises SecA, SecYEG and auxiliary proteins SecDF. Other proteins may also be involved.SIMILARITY Belongs to the SecA family."
+        ],
+        "description": [
+            "recommendedName: fullName evidence=\"1\"Protein translocase subunit SecA 2 ecNumber evidence=\"1\"7.4.2.8/ecNumber "
+        ],
+        "geneName": [
+            "secA2",
+            "Rv1821",
+            "MTCY1A11.22c"
+        ],
+        "isSequenceChanged": false,
+        "keyword": [
+            "3D-structure",
+            "ATP-binding",
+            "Cell membrane",
+            "Cytoplasm",
+            "Membrane",
+            "Nucleotide-binding",
+            "Protein transport",
+            "Reference proteome",
+            "Translocase",
+            "Translocation",
+            "Transport"
+        ],
+        "secondaryIdentifier": [
+            "SECA2_MYCTU",
+            "L0T7S9",
+            "P66785",
+            "Q50612"
+        ],
+        "sequenceLength": 808,
+        "chain": [
+            "chain:1-808"
+        ],
+        "schemaClass": "ReferenceGeneProduct",
+        "className": "ReferenceGeneProduct"
+    },
+    {
+        "dbId": 5567308,
+        "displayName": "UniProt:P9WGN9 secF",
+        "databaseName": "UniProt",
+        "identifier": "P9WGN9",
+        "name": [
+            "secF"
+        ],
+        "url": "http://purl.uniprot.org/uniprot/P9WGN9",
+        "checksum": "09427E2AD59CD6FA",
+        "comment": [
+            "FUNCTION Part of the Sec protein translocase complex. Interacts with the SecYEG preprotein conducting channel. SecDF uses the proton motive force (PMF) to complete protein translocation after the ATP-dependent function of SecA.SUBUNIT Forms a complex with SecD. Part of the essential Sec protein translocation apparatus which comprises SecA, SecYEG and auxiliary proteins SecDF. Other proteins may also be involved.SIMILARITY Belongs to the SecD/SecF family. SecF subfamily."
+        ],
+        "description": [
+            "recommendedName: Protein translocase subunit SecF "
+        ],
+        "geneName": [
+            "secF",
+            "Rv2586c",
+            "MTCY227.15"
+        ],
+        "isSequenceChanged": false,
+        "keyword": [
+            "Cell membrane",
+            "Membrane",
+            "Protein transport",
+            "Reference proteome",
+            "Translocation",
+            "Transmembrane",
+            "Transmembrane helix",
+            "Transport"
+        ],
+        "secondaryIdentifier": [
+            "SECF_MYCTU",
+            "L0TD04",
+            "Q50635"
+        ],
+        "sequenceLength": 442,
+        "chain": [
+            "chain:1-442"
+        ],
+        "schemaClass": "ReferenceGeneProduct",
+        "className": "ReferenceGeneProduct"
+    },
+    {
+        "dbId": 5566424,
+        "displayName": "UniProt:P9WGE7 sodB",
+        "databaseName": "UniProt",
+        "identifier": "P9WGE7",
+        "name": [
+            "sodB"
+        ],
+        "url": "http://purl.uniprot.org/uniprot/P9WGE7",
+        "checksum": "DEE8F5921DABE54A",
+        "comment": [
+            "FUNCTION Destroys superoxide anion radicals which are normally produced within the cells and which are toxic to biological systems.SUBUNIT Homotetramer.SIMILARITY Belongs to the iron/manganese superoxide dismutase family.CAUTION Although found extracellularly, no signal sequence is present. An alternative secretory pathway may be used."
+        ],
+        "description": [
+            "recommendedName: Superoxide dismutase [Fe] ecNumber1.15.1.1/ecNumber "
+        ],
+        "geneName": [
+            "sodB",
+            "sod",
+            "sodA",
+            "Rv3846",
+            "MTCY01A6.22c"
+        ],
+        "isSequenceChanged": false,
+        "keyword": [
+            "3D-structure",
+            "Iron",
+            "Isopeptide bond",
+            "Metal-binding",
+            "Oxidoreductase",
+            "Reference proteome",
+            "Secreted",
+            "Ubl conjugation"
+        ],
+        "secondaryIdentifier": [
+            "SODF_MYCTU",
+            "L0TGX2",
+            "P17670",
+            "P96231"
+        ],
+        "sequenceLength": 207,
+        "chain": [
+            "chain:1-207"
+        ],
+        "schemaClass": "ReferenceGeneProduct",
+        "className": "ReferenceGeneProduct"
+    },
+    {
+        "dbId": 5316186,
+        "displayName": "iron(2+) [ChEBI:29033]",
+        "databaseName": "ChEBI",
+        "identifier": "29033",
+        "name": [
+            "iron(2+)",
+            "FE (II) ION",
+            "Fe2+",
+            "Fe(2+)",
+            "iron ion(2+)",
+            "Fe(II)",
+            "Ferrous ion"
+        ],
+        "url": "http://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:29033",
+        "formula": "Fe",
+        "schemaClass": "ReferenceMolecule",
+        "className": "ReferenceMolecule"
+    }
+]

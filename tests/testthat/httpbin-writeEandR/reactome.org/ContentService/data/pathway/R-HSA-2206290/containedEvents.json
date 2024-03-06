@@ -1,0 +1,19 @@
+[
+    {
+        "dbId": 2263490,
+        "displayName": "Defective GALNS does not hydrolyse sulfate from Gal6S in keratan sulfate",
+        "stId": "R-HSA-2263490",
+        "stIdVersion": "R-HSA-2263490.3",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "Defective GALNS does not hydrolyse sulfate from Gal6S in keratan sulfate"
+        ],
+        "releaseDate": "2012-09-18",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "transition",
+        "className": "Reaction",
+        "schemaClass": "FailedReaction"
+    }
+]

@@ -1,0 +1,36 @@
+[
+    {
+        "dbId": 9651280,
+        "displayName": "RAS GAP mutants aren't stimulated by GAPs",
+        "stId": "R-HSA-9651280",
+        "stIdVersion": "R-HSA-9651280.1",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "RAS GAP mutants aren't stimulated by GAPs"
+        ],
+        "releaseDate": "2016-09-19",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "transition",
+        "className": "Reaction",
+        "schemaClass": "FailedReaction"
+    },
+    {
+        "dbId": 6802834,
+        "displayName": "RAS GTPase mutants don't hydrolyze GTP",
+        "stId": "R-HSA-6802834",
+        "stIdVersion": "R-HSA-6802834.1",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "RAS GTPase mutants don't hydrolyze GTP"
+        ],
+        "releaseDate": "2020-06-10",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "transition",
+        "className": "Reaction",
+        "schemaClass": "FailedReaction"
+    }
+]

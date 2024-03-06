@@ -1,0 +1,59 @@
+[
+    {
+        "dbId": 9681693,
+        "displayName": "UniProt:P0DTC5 M",
+        "databaseName": "UniProt",
+        "identifier": "P0DTC5",
+        "name": [
+            "M"
+        ],
+        "url": "http://purl.uniprot.org/uniprot/P0DTC5",
+        "checksum": "ED44D84C3BB9A6DB",
+        "comment": [
+            "FUNCTION Component of the viral envelope that plays a central role in virus morphogenesis and assembly via its interactions with other viral proteins (By similarity). Regulates the localization of S protein at cis-Golgi, the place of virus budding (PubMed:33229438). May act by binding cytoplasmic c-terminus of S (PubMed:33229438).SUBUNIT Homomultimer. Interacts with envelope E protein in the budding compartment of the host cell, which is located between endoplasmic reticulum and the Golgi complex (By similarity). Forms a complex with S proteins (PubMed:33229438). Interacts with nucleocapsid N protein. This interaction probably participates in RNA packaging into the virus (By similarity). Interacts with the accessory proteins 3a and 7a (By similarity).SIMILARITY Belongs to the betacoronaviruses M protein family."
+        ],
+        "description": [
+            "recommendedName: fullName evidence=\"2\"Membrane protein shortName:M  alternativeName: fullName evidence=\"2\"E1 glycoprotein  alternativeName: fullName evidence=\"2\"Matrix glycoprotein  alternativeName: fullName evidence=\"2\"Membrane glycoprotein "
+        ],
+        "geneName": [
+            "M"
+        ],
+        "isSequenceChanged": false,
+        "keyword": [
+            "Glycoprotein",
+            "Host Golgi apparatus",
+            "Host membrane",
+            "Host-virus interaction",
+            "Membrane",
+            "Reference proteome",
+            "Transmembrane",
+            "Transmembrane helix",
+            "Viral envelope protein",
+            "Viral immunoevasion",
+            "Viral matrix protein",
+            "Virion"
+        ],
+        "secondaryIdentifier": [
+            "VME1_SARS2"
+        ],
+        "sequenceLength": 222,
+        "chain": [
+            "chain:1-222"
+        ],
+        "schemaClass": "ReferenceGeneProduct",
+        "className": "ReferenceGeneProduct"
+    },
+    {
+        "dbId": 114918,
+        "displayName": "hydron [ChEBI:15378]",
+        "databaseName": "ChEBI",
+        "identifier": "15378",
+        "name": [
+            "hydron"
+        ],
+        "url": "http://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:15378",
+        "formula": "H",
+        "schemaClass": "ReferenceMolecule",
+        "className": "ReferenceMolecule"
+    }
+]

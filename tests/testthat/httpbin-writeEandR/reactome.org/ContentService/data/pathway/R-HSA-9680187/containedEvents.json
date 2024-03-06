@@ -1,0 +1,36 @@
+[
+    {
+        "dbId": 9680242,
+        "displayName": "Ligand-independent dimerization of KIT extracellular domain mutants",
+        "stId": "R-HSA-9680242",
+        "stIdVersion": "R-HSA-9680242.1",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "Ligand-independent dimerization of KIT extracellular domain mutants"
+        ],
+        "releaseDate": "2020-06-10",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "transition",
+        "className": "Reaction",
+        "schemaClass": "Reaction"
+    },
+    {
+        "dbId": 9680248,
+        "displayName": "Phosphorylation of extracellular domain KIT mutants",
+        "stId": "R-HSA-9680248",
+        "stIdVersion": "R-HSA-9680248.1",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "Phosphorylation of extracellular domain KIT mutants"
+        ],
+        "releaseDate": "2020-06-10",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "transition",
+        "className": "Reaction",
+        "schemaClass": "Reaction"
+    }
+]

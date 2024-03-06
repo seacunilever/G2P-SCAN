@@ -1,0 +1,20 @@
+[
+    {
+        "dbId": 4551297,
+        "displayName": "Defective ALG11 does not transfer Man to the N-glycan precursor",
+        "stId": "R-HSA-4551297",
+        "stIdVersion": "R-HSA-4551297.3",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "Defective ALG11 does not transfer Man to the N-glycan precursor"
+        ],
+        "releaseDate": "2014-12-11",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "systematicName": "ALG11 mutants do not transfer Man to (GlcNAc)2 (Man)3 (PP-Dol)1",
+        "category": "transition",
+        "className": "Reaction",
+        "schemaClass": "FailedReaction"
+    }
+]

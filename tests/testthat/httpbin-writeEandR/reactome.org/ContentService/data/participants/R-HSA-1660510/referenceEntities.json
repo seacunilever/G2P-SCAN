@@ -1,0 +1,15 @@
+[
+    {
+        "dbId": 392385,
+        "displayName": "1-phosphatidyl-1D-myo-inositol 4-phosphate [ChEBI:17526]",
+        "databaseName": "ChEBI",
+        "identifier": "17526",
+        "name": [
+            "1-phosphatidyl-1D-myo-inositol 4-phosphate"
+        ],
+        "url": "http://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:17526",
+        "formula": "C11H18O16P2R2",
+        "schemaClass": "ReferenceMolecule",
+        "className": "ReferenceMolecule"
+    }
+]

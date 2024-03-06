@@ -1,0 +1,18 @@
+[
+    {
+        "dbId": 168860,
+        "displayName": "Membrane fusion",
+        "stId": "R-HSA-168860",
+        "stIdVersion": "R-HSA-168860.4",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "Membrane fusion"
+        ],
+        "releaseDate": "2005-06-13",
+        "speciesName": "Homo sapiens",
+        "category": "binding",
+        "className": "Reaction",
+        "schemaClass": "Reaction"
+    }
+]

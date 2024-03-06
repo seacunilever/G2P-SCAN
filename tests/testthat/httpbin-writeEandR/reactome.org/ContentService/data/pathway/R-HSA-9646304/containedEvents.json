@@ -1,0 +1,19 @@
+[
+    {
+        "dbId": 9646295,
+        "displayName": "p14ARF mutant does not translocate to the nucleus",
+        "stId": "R-HSA-9646295",
+        "stIdVersion": "R-HSA-9646295.1",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "p14ARF mutant does not translocate to the nucleus"
+        ],
+        "releaseDate": "2019-09-10",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "transition",
+        "className": "Reaction",
+        "schemaClass": "FailedReaction"
+    }
+]

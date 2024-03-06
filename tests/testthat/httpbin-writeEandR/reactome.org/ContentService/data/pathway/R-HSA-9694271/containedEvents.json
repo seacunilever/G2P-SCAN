@@ -1,0 +1,172 @@
+[
+    {
+        "dbId": 9691363,
+        "displayName": "nsp12 binds nsp7 and nsp8",
+        "stId": "R-HSA-9691363",
+        "stIdVersion": "R-HSA-9691363.2",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "nsp12 binds nsp7 and nsp8"
+        ],
+        "releaseDate": "2020-09-15",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "binding",
+        "className": "Reaction",
+        "schemaClass": "Reaction"
+    },
+    {
+        "dbId": 9694304,
+        "displayName": "nsp14 binds nsp12",
+        "stId": "R-HSA-9694304",
+        "stIdVersion": "R-HSA-9694304.1",
+        "isInDisease": true,
+        "isInferred": true,
+        "name": [
+            "nsp14 binds nsp12"
+        ],
+        "releaseDate": "2020-09-15",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "binding",
+        "className": "Reaction",
+        "schemaClass": "Reaction"
+    },
+    {
+        "dbId": 9694576,
+        "displayName": "nsp3 binds to nsp7-8 and nsp12-16",
+        "stId": "R-HSA-9694576",
+        "stIdVersion": "R-HSA-9694576.1",
+        "isInDisease": true,
+        "isInferred": true,
+        "name": [
+            "nsp3 binds to nsp7-8 and nsp12-16"
+        ],
+        "releaseDate": "2020-09-15",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "omitted",
+        "className": "Reaction",
+        "schemaClass": "BlackBoxEvent"
+    },
+    {
+        "dbId": 9691335,
+        "displayName": "nsp7 binds nsp8",
+        "stId": "R-HSA-9691335",
+        "stIdVersion": "R-HSA-9691335.2",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "nsp7 binds nsp8"
+        ],
+        "releaseDate": "2020-09-15",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "binding",
+        "className": "Reaction",
+        "schemaClass": "Reaction"
+    },
+    {
+        "dbId": 9694630,
+        "displayName": "Nsp3:nsp4 binds to nsp6",
+        "stId": "R-HSA-9694630",
+        "stIdVersion": "R-HSA-9694630.1",
+        "isInDisease": true,
+        "isInferred": true,
+        "name": [
+            "Nsp3:nsp4 binds to nsp6"
+        ],
+        "releaseDate": "2020-09-15",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "omitted",
+        "className": "Reaction",
+        "schemaClass": "BlackBoxEvent"
+    },
+    {
+        "dbId": 9694436,
+        "displayName": "nsp15 forms a hexamer",
+        "stId": "R-HSA-9694436",
+        "stIdVersion": "R-HSA-9694436.2",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "nsp15 forms a hexamer"
+        ],
+        "releaseDate": "2020-09-15",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "binding",
+        "className": "Reaction",
+        "schemaClass": "Reaction"
+    },
+    {
+        "dbId": 9694539,
+        "displayName": "nsp15 binds nsp8",
+        "stId": "R-HSA-9694539",
+        "stIdVersion": "R-HSA-9694539.1",
+        "isInDisease": true,
+        "isInferred": true,
+        "name": [
+            "nsp15 binds nsp8"
+        ],
+        "releaseDate": "2020-09-15",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "binding",
+        "className": "Reaction",
+        "schemaClass": "Reaction"
+    },
+    {
+        "dbId": 9694542,
+        "displayName": "nsp14 binds nsp10",
+        "stId": "R-HSA-9694542",
+        "stIdVersion": "R-HSA-9694542.1",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "nsp14 binds nsp10"
+        ],
+        "releaseDate": "2020-09-15",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "binding",
+        "className": "Reaction",
+        "schemaClass": "Reaction"
+    },
+    {
+        "dbId": 9694445,
+        "displayName": "nsp16 binds nsp10",
+        "stId": "R-HSA-9694445",
+        "stIdVersion": "R-HSA-9694445.2",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "nsp16 binds nsp10"
+        ],
+        "releaseDate": "2020-09-15",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "binding",
+        "className": "Reaction",
+        "schemaClass": "Reaction"
+    },
+    {
+        "dbId": 9694524,
+        "displayName": "nsp13 binds nsp12",
+        "stId": "R-HSA-9694524",
+        "stIdVersion": "R-HSA-9694524.3",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "nsp13 binds nsp12"
+        ],
+        "releaseDate": "2020-09-15",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "binding",
+        "className": "Reaction",
+        "schemaClass": "Reaction"
+    }
+]

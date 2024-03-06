@@ -1,0 +1,50 @@
+[
+    {
+        "dbId": 428293,
+        "displayName": "IGF2BP2 binds specific RNAs",
+        "stId": "R-HSA-428293",
+        "stIdVersion": "R-HSA-428293.2",
+        "isInDisease": false,
+        "isInferred": false,
+        "name": [
+            "IGF2BP2 binds specific RNAs"
+        ],
+        "releaseDate": "2010-06-15",
+        "speciesName": "Homo sapiens",
+        "category": "binding",
+        "className": "Reaction",
+        "schemaClass": "Reaction"
+    },
+    {
+        "dbId": 428287,
+        "displayName": "IGF2BP3 binds specific RNAs",
+        "stId": "R-HSA-428287",
+        "stIdVersion": "R-HSA-428287.2",
+        "isInDisease": false,
+        "isInferred": false,
+        "name": [
+            "IGF2BP3 binds specific RNAs"
+        ],
+        "releaseDate": "2010-06-15",
+        "speciesName": "Homo sapiens",
+        "category": "binding",
+        "className": "Reaction",
+        "schemaClass": "Reaction"
+    },
+    {
+        "dbId": 428296,
+        "displayName": "IGF2BP1 binds specific RNAs",
+        "stId": "R-HSA-428296",
+        "stIdVersion": "R-HSA-428296.2",
+        "isInDisease": false,
+        "isInferred": false,
+        "name": [
+            "IGF2BP1 binds specific RNAs"
+        ],
+        "releaseDate": "2010-06-15",
+        "speciesName": "Homo sapiens",
+        "category": "binding",
+        "className": "Reaction",
+        "schemaClass": "Reaction"
+    }
+]

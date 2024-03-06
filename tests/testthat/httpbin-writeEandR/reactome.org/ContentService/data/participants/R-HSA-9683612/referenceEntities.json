@@ -1,0 +1,71 @@
+[
+    {
+        "dbId": 9678152,
+        "displayName": "UniProt:P59596 M",
+        "databaseName": "UniProt",
+        "identifier": "P59596",
+        "name": [
+            "M"
+        ],
+        "url": "http://purl.uniprot.org/uniprot/P59596",
+        "checksum": "275C37085A0215A8",
+        "comment": [
+            "FUNCTION Component of the viral envelope that plays a central role in virus morphogenesis and assembly via its interactions with other viral proteins.SUBUNIT Homomultimer. Interacts with envelope E protein in the budding compartment of the host cell, which is located between endoplasmic reticulum and the Golgi complex. Forms a complex with HE and S proteins. Interacts with nucleocapsid N protein. This interaction probably participates in RNA packaging into the virus (By similarity). Interacts with the accessory proteins 3a and 7a.SIMILARITY Belongs to the betacoronaviruses M protein family."
+        ],
+        "description": [
+            "recommendedName: fullName evidence=\"1\"Membrane protein shortName evidence=\"1\"M protein  alternativeName: fullName evidence=\"1\"E1 glycoprotein  alternativeName: fullName evidence=\"1\"Matrix glycoprotein  alternativeName: fullName evidence=\"1\"Membrane glycoprotein "
+        ],
+        "geneName": [
+            "M",
+            "5"
+        ],
+        "isSequenceChanged": false,
+        "keyword": [
+            "3D-structure",
+            "Glycoprotein",
+            "Host Golgi apparatus",
+            "Host membrane",
+            "Host-virus interaction",
+            "Membrane",
+            "Reference proteome",
+            "Transmembrane",
+            "Transmembrane helix",
+            "Viral envelope protein",
+            "Viral immunoevasion",
+            "Viral matrix protein",
+            "Virion"
+        ],
+        "secondaryIdentifier": [
+            "VME1_SARS",
+            "Q6S8E5",
+            "Q7T6Q8",
+            "Q7T6R1",
+            "Q7T6R5",
+            "Q7T6S0",
+            "Q7T6S3",
+            "Q7T726",
+            "Q7T7P6",
+            "Q7T7S6",
+            "Q7TA12"
+        ],
+        "sequenceLength": 221,
+        "chain": [
+            "chain:1-221"
+        ],
+        "schemaClass": "ReferenceGeneProduct",
+        "className": "ReferenceGeneProduct"
+    },
+    {
+        "dbId": 114918,
+        "displayName": "hydron [ChEBI:15378]",
+        "databaseName": "ChEBI",
+        "identifier": "15378",
+        "name": [
+            "hydron"
+        ],
+        "url": "http://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:15378",
+        "formula": "H",
+        "schemaClass": "ReferenceMolecule",
+        "className": "ReferenceMolecule"
+    }
+]

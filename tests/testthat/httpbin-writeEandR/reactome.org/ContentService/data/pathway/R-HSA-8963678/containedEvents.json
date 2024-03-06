@@ -1,0 +1,52 @@
+[
+    {
+        "dbId": 265456,
+        "displayName": "NPC1L1 binds ezetimibe",
+        "stId": "R-HSA-265456",
+        "stIdVersion": "R-HSA-265456.2",
+        "isInDisease": false,
+        "isInferred": false,
+        "name": [
+            "NPC1L1 binds ezetimibe",
+            "NPC1L1 inactivation by ezetimibe",
+            "NPC1L1 + ezetimibe => NPC1L1:ezetimibe complex"
+        ],
+        "releaseDate": "2008-06-30",
+        "speciesName": "Homo sapiens",
+        "category": "binding",
+        "className": "Reaction",
+        "schemaClass": "Reaction"
+    },
+    {
+        "dbId": 265443,
+        "displayName": "NPC1L1-mediated cholesterol uptake",
+        "stId": "R-HSA-265443",
+        "stIdVersion": "R-HSA-265443.2",
+        "isInDisease": false,
+        "isInferred": true,
+        "name": [
+            "NPC1L1-mediated cholesterol uptake"
+        ],
+        "releaseDate": "2008-06-30",
+        "speciesName": "Homo sapiens",
+        "category": "transition",
+        "className": "Reaction",
+        "schemaClass": "Reaction"
+    },
+    {
+        "dbId": 265545,
+        "displayName": "NPC1L1-mediated phytosterol uptake",
+        "stId": "R-HSA-265545",
+        "stIdVersion": "R-HSA-265545.1",
+        "isInDisease": false,
+        "isInferred": true,
+        "name": [
+            "NPC1L1-mediated phytosterol uptake"
+        ],
+        "releaseDate": "2008-06-30",
+        "speciesName": "Homo sapiens",
+        "category": "transition",
+        "className": "Reaction",
+        "schemaClass": "Reaction"
+    }
+]

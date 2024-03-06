@@ -1,0 +1,36 @@
+[
+    {
+        "dbId": 9669906,
+        "displayName": "Ligand-independent dimerization of KIT juxtamembrane domain mutants",
+        "stId": "R-HSA-9669906",
+        "stIdVersion": "R-HSA-9669906.1",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "Ligand-independent dimerization of KIT juxtamembrane domain mutants"
+        ],
+        "releaseDate": "2020-06-10",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "transition",
+        "className": "Reaction",
+        "schemaClass": "Reaction"
+    },
+    {
+        "dbId": 9669911,
+        "displayName": "Phosphorylation of juxtamembrane domain KIT mutants",
+        "stId": "R-HSA-9669911",
+        "stIdVersion": "R-HSA-9669911.1",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "Phosphorylation of juxtamembrane domain KIT mutants"
+        ],
+        "releaseDate": "2020-06-10",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "transition",
+        "className": "Reaction",
+        "schemaClass": "Reaction"
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "dbId": 9730736,
+        "displayName": "Monofunctional chemotherapeutic alkylating drugs produce 3-methyladenine in dsDNA",
+        "stId": "R-HSA-9730736",
+        "stIdVersion": "R-HSA-9730736.1",
+        "isInDisease": false,
+        "isInferred": true,
+        "name": [
+            "Monofunctional chemotherapeutic alkylating drugs produce 3-methyladenine in dsDNA"
+        ],
+        "releaseDate": "2021-09-15",
+        "releaseStatus": "NEW",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "omitted",
+        "className": "Reaction",
+        "schemaClass": "BlackBoxEvent"
+    },
+    {
+        "dbId": 9730767,
+        "displayName": "Monofunctional chemotherapeutic alkylating drugs produce 7-methylguanine in dsDNA",
+        "stId": "R-HSA-9730767",
+        "stIdVersion": "R-HSA-9730767.1",
+        "isInDisease": false,
+        "isInferred": true,
+        "name": [
+            "Monofunctional chemotherapeutic alkylating drugs produce 7-methylguanine in dsDNA"
+        ],
+        "releaseDate": "2021-09-15",
+        "releaseStatus": "NEW",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "omitted",
+        "className": "Reaction",
+        "schemaClass": "BlackBoxEvent"
+    }
+]

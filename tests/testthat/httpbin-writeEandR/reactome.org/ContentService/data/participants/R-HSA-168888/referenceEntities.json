@@ -1,0 +1,57 @@
+[
+    {
+        "dbId": 169060,
+        "displayName": "UniProt:P03496 NS",
+        "databaseName": "UniProt",
+        "identifier": "P03496",
+        "name": [
+            "NS"
+        ],
+        "url": "http://purl.uniprot.org/uniprot/P03496",
+        "checksum": "2F7EC18E3EE7A4BE",
+        "comment": [
+            "FUNCTION Prevents the establishment of the cellular antiviral state by inhibiting TRIM25-mediated DDX58 ubiquitination, which normally triggers the antiviral transduction signal that leads to the activation of type I IFN genes by transcription factors IRF3 and IRF7. Prevents human EIF2AK2/PKR activation, either by binding double-strand RNA, or by interacting directly with EIF2AK2/PKR. This function may be important at the very beginning of the infection, when NS1 is mainly present in the cytoplasm. Also binds poly(A) and U6 snRNA.FUNCTION Inhibits post-transcriptional processing of cellular pre-mRNA, by binding and inhibiting two cellular proteins that are required for the 3'-end processing of cellular pre-mRNAs: the 30 kDa cleavage and polyadenylation specificity factor/CPSF4 and the poly(A)-binding protein 2/PABPN1. In turn, unprocessed 3' end pre-mRNAs accumulate in the host nucleus and are no longer exported to the cytoplasm. Cellular protein synthesis is thereby shut off very early after virus infection. Viral protein synthesis is not affected by the inhibition of the cellular 3' end processing machinery because the poly(A) tails of viral mRNAs are produced by the viral polymerase through a stuttering mechanism.SUBUNIT Homodimer. Interacts with host TRIM25 (via coiled coil); this interaction specifically inhibits TRIM25 multimerization and TRIM25-mediated DDX58 CARD ubiquitination. Interacts with human EIF2AK2/PKR, CPSF4, IVNS1ABP and PABPN1.DOMAIN The dsRNA-binding region is required for suppression of RNA silencing.PTM Upon interferon induction, ISGylated via host HERC5; this results in the impairment of NS1 interaction with RNA targets due to its inability to form homodimers and to interact with host EIF2AK2/PKR. There are two ISGylated forms: one form is ISGylated at Lys-20, Lys-41, Lys-217, and Lys-219, and another one at Lys-108, Lys-110, and Lys-126, they represent band I and II respectively. Lys-126 and Lys-217 are critical for host antiviral response in vivo.SIMILARITY Belongs to the influenza A viruses NS1 family."
+        ],
+        "description": [
+            "recommendedName: fullName evidence=\"1\"Non-structural protein 1 shortName evidence=\"1\"NS1  alternativeName: fullName evidence=\"1\"NS1A "
+        ],
+        "geneName": [
+            "NS"
+        ],
+        "isSequenceChanged": false,
+        "keyword": [
+            "3D-structure",
+            "Alternative splicing",
+            "Eukaryotic host gene expression shutoff by virus",
+            "Host cytoplasm",
+            "Host gene expression shutoff by virus",
+            "Host mRNA suppression by virus",
+            "Host nucleus",
+            "Host-virus interaction",
+            "Inhibition of host innate immune response by virus",
+            "Inhibition of host interferon signaling pathway by virus",
+            "Inhibition of host PKR by virus",
+            "Inhibition of host pre-mRNA processing by virus",
+            "Inhibition of host RIG-I by virus",
+            "Inhibition of host RLR pathway by virus",
+            "Interferon antiviral system evasion",
+            "Isopeptide bond",
+            "Reference proteome",
+            "RNA-binding",
+            "Ubl conjugation",
+            "Viral immunoevasion"
+        ],
+        "secondaryIdentifier": [
+            "NS1_I34A1",
+            "Q20N32",
+            "Q67267",
+            "Q71QT3"
+        ],
+        "sequenceLength": 230,
+        "chain": [
+            "chain:1-230"
+        ],
+        "schemaClass": "ReferenceGeneProduct",
+        "className": "ReferenceGeneProduct"
+    }
+]

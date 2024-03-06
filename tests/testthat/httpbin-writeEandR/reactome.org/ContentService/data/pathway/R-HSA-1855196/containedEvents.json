@@ -1,0 +1,53 @@
+[
+    {
+        "dbId": 1855190,
+        "displayName": "I(1,4,5)P3 transports from the cytosol to the nucleus",
+        "stId": "R-HSA-1855190",
+        "stIdVersion": "R-HSA-1855190.2",
+        "isInDisease": false,
+        "isInferred": false,
+        "name": [
+            "I(1,4,5)P3 transports from the cytosol to the nucleus"
+        ],
+        "releaseDate": "2012-12-04",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "transition",
+        "className": "Reaction",
+        "schemaClass": "Reaction"
+    },
+    {
+        "dbId": 1855168,
+        "displayName": "I(1,3,4,5)P4 transports from the cytosol to the nucleus",
+        "stId": "R-HSA-1855168",
+        "stIdVersion": "R-HSA-1855168.2",
+        "isInDisease": false,
+        "isInferred": false,
+        "name": [
+            "I(1,3,4,5)P4 transports from the cytosol to the nucleus"
+        ],
+        "releaseDate": "2012-12-04",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "transition",
+        "className": "Reaction",
+        "schemaClass": "Reaction"
+    },
+    {
+        "dbId": 1855201,
+        "displayName": "I(1,3,4,6)P4 transports from the cytosol to the nucleus",
+        "stId": "R-HSA-1855201",
+        "stIdVersion": "R-HSA-1855201.2",
+        "isInDisease": false,
+        "isInferred": false,
+        "name": [
+            "I(1,3,4,6)P4 transports from the cytosol to the nucleus"
+        ],
+        "releaseDate": "2012-12-04",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "transition",
+        "className": "Reaction",
+        "schemaClass": "Reaction"
+    }
+]

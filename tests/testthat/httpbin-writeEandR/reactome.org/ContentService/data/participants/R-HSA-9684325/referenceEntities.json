@@ -1,0 +1,499 @@
+[
+    {
+        "dbId": 9678248,
+        "displayName": "UniProt:P0C6X7 rep",
+        "databaseName": "UniProt",
+        "identifier": "P0C6X7",
+        "name": [
+            "rep"
+        ],
+        "url": "http://purl.uniprot.org/uniprot/P0C6X7",
+        "checksum": "E6504CAFDC36BC09",
+        "comment": [
+            "DOMAIN The hydrophobic domains (HD) could mediate the membrane association of the replication complex and thereby alter the architecture of the host cell membrane.PTM Specific enzymatic cleavages in vivo by its own proteases yield mature proteins (PubMed:32083638). 3CL-PRO and PL-PRO proteinases are autocatalytically processed (By similarity).SIMILARITY Belongs to the coronaviruses polyprotein 1ab family.CAUTION Isolates SZ3 and SZ16 have been isolated from Paguma larvata and are described as SARS-like in literature."
+        ],
+        "description": [
+            "recommendedName: Replicase polyprotein 1ab shortName:pp1ab  alternativeName: ORF1ab polyprotein  component recommendedName: Host translation inhibitor nsp1  alternativeName: Leader protein  alternativeName: Non-structural protein 1 shortName:nsp1  /component component recommendedName: Non-structural protein 2 shortName:nsp2  alternativeName: p65 homolog  /component component recommendedName: Non-structural protein 3 shortName:nsp3 ecNumber3.4.19.12/ecNumber ecNumber3.4.22.69/ecNumber  alternativeName: PL2-PRO  alternativeName: Papain-like proteinase shortName:PL-PRO  /component component recommendedName: Non-structural protein 4 shortName:nsp4  /component component recommendedName: 3C-like proteinase shortName:3CL-PRO shortName:3CLp ecNumber3.4.22.-/ecNumber  alternativeName: Main protease shortName:Mpro  alternativeName: Non-structural protein 5 shortName:nsp5  alternativeName: SARS coronavirus main proteinase  /component component recommendedName: Non-structural protein 6 shortName:nsp6  /component component recommendedName: Non-structural protein 7 shortName:nsp7  /component component recommendedName: Non-structural protein 8 shortName:nsp8  /component component recommendedName: Non-structural protein 9 shortName:nsp9  /component component recommendedName: Non-structural protein 10 shortName:nsp10  alternativeName: Growth factor-like peptide shortName:GFL  /component component recommendedName: RNA-directed RNA polymerase shortName:Pol shortName:RdRp ecNumber2.7.7.48/ecNumber  alternativeName: Non-structural protein 12 shortName:nsp12  /component component recommendedName: Helicase shortName:Hel ecNumber3.6.4.12/ecNumber ecNumber3.6.4.13/ecNumber  alternativeName: Non-structural protein 13 shortName:nsp13  /component component recommendedName: fullName evidence=\"59 61\"Proofreading exoribonuclease shortName:ExoN ecNumber2.1.1.-/ecNumber ecNumber3.1.13.-/ecNumber  alternativeName: Guanine-N7 methyltransferase  alternativeName: Non-structural protein 14 shortName:nsp14  /component component recommendedName: Uridylate-specific endoribonuclease ecNumber3.1.-.-/ecNumber  alternativeName: NendoU  alternativeName: Non-structural protein 15 shortName:nsp15  /component component recommendedName: 2'-O-methyltransferase ecNumber2.1.1.-/ecNumber  alternativeName: Non-structural protein 16 shortName:nsp16  /component"
+        ],
+        "geneName": [
+            "rep",
+            "1a-1b"
+        ],
+        "isSequenceChanged": false,
+        "keyword": [
+            "3D-structure",
+            "Activation of host autophagy by virus",
+            "ATP-binding",
+            "Decay of host mRNAs by virus",
+            "Endonuclease",
+            "Eukaryotic host gene expression shutoff by virus",
+            "Eukaryotic host translation shutoff by virus",
+            "Exonuclease",
+            "Helicase",
+            "Host cytoplasm",
+            "Host gene expression shutoff by virus",
+            "Host membrane",
+            "Host mRNA suppression by virus",
+            "Host-virus interaction",
+            "Hydrolase",
+            "Inhibition of host innate immune response by virus",
+            "Inhibition of host interferon signaling pathway by virus",
+            "Inhibition of host ISG15 by virus",
+            "Inhibition of host NF-kappa-B by virus",
+            "Membrane",
+            "Metal-binding",
+            "Methyltransferase",
+            "Modulation of host ubiquitin pathway by viral deubiquitinase",
+            "Modulation of host ubiquitin pathway by virus",
+            "Nuclease",
+            "Nucleotide-binding",
+            "Nucleotidyltransferase",
+            "Protease",
+            "Reference proteome",
+            "Repeat",
+            "Ribosomal frameshifting",
+            "RNA-binding",
+            "RNA-directed RNA polymerase",
+            "Thiol protease",
+            "Transferase",
+            "Transmembrane",
+            "Transmembrane helix",
+            "Ubl conjugation pathway",
+            "Viral immunoevasion",
+            "Viral RNA replication",
+            "Zinc",
+            "Zinc-finger"
+        ],
+        "secondaryIdentifier": [
+            "R1AB_SARS",
+            "P59641",
+            "Q6WGN0",
+            "Q7T697",
+            "Q808C0",
+            "Q80BV7",
+            "Q80BV8",
+            "Q80E51"
+        ],
+        "sequenceLength": 7073,
+        "chain": [
+            "chain:1-180",
+            "chain:181-818",
+            "chain:819-2740",
+            "chain:2741-3240",
+            "chain:3241-3546",
+            "chain:3547-3836",
+            "chain:3837-3919",
+            "chain:3920-4117",
+            "chain:4118-4230",
+            "chain:4231-4369",
+            "chain:4370-5301",
+            "chain:5302-5902",
+            "chain:5903-6429",
+            "chain:6430-6775",
+            "chain:6776-7073"
+        ],
+        "schemaClass": "ReferenceGeneProduct",
+        "className": "ReferenceGeneProduct"
+    },
+    {
+        "dbId": 9678245,
+        "displayName": "UniProt:P0C6U8 1a",
+        "databaseName": "UniProt",
+        "identifier": "P0C6U8",
+        "name": [
+            "1a"
+        ],
+        "url": "http://purl.uniprot.org/uniprot/P0C6U8",
+        "checksum": "E1F65D5FD5DFF828",
+        "comment": [
+            "DOMAIN The hydrophobic domains (HD) could mediate the membrane association of the replication complex and thereby alter the architecture of the host cell membrane.PTM Specific enzymatic cleavages in vivo by its own proteases yield mature proteins. 3CL-PRO and PL-PRO proteinases are autocatalytically processed (By similarity).SIMILARITY Belongs to the coronaviruses polyprotein 1ab family.CAUTION Isolates SZ3 and SZ16 have been isolated from Paguma larvata and are described as SARS-like in literature."
+        ],
+        "description": [
+            "recommendedName: Replicase polyprotein 1a shortName:pp1a  alternativeName: ORF1a polyprotein  component recommendedName: Non-structural protein 1 shortName:nsp1  alternativeName: Leader protein  /component component recommendedName: Non-structural protein 2 shortName:nsp2  alternativeName: p65 homolog  /component component recommendedName: Non-structural protein 3 shortName:nsp3 ecNumber3.4.19.12/ecNumber ecNumber3.4.22.-/ecNumber  alternativeName: PL2-PRO  alternativeName: Papain-like proteinase shortName:PL-PRO  /component component recommendedName: Non-structural protein 4 shortName:nsp4  /component component recommendedName: 3C-like proteinase shortName:3CL-PRO shortName:3CLp ecNumber3.4.22.69/ecNumber  alternativeName: Main protease shortName:Mpro  alternativeName: Non-structural protein 5 shortName:nsp5  alternativeName: SARS coronavirus main proteinase  /component component recommendedName: Non-structural protein 6 shortName:nsp6  /component component recommendedName: Non-structural protein 7 shortName:nsp7  /component component recommendedName: Non-structural protein 8 shortName:nsp8  /component component recommendedName: Non-structural protein 9 shortName:nsp9  /component component recommendedName: Non-structural protein 10 shortName:nsp10  alternativeName: Growth factor-like peptide shortName:GFL  /component component recommendedName: Non-structural protein 11 shortName:nsp11  /component"
+        ],
+        "geneName": [
+            "1a"
+        ],
+        "isSequenceChanged": false,
+        "keyword": [
+            "3D-structure",
+            "Activation of host autophagy by virus",
+            "Decay of host mRNAs by virus",
+            "Endonuclease",
+            "Eukaryotic host gene expression shutoff by virus",
+            "Eukaryotic host translation shutoff by virus",
+            "Host cytoplasm",
+            "Host gene expression shutoff by virus",
+            "Host membrane",
+            "Host mRNA suppression by virus",
+            "Host-virus interaction",
+            "Hydrolase",
+            "Inhibition of host innate immune response by virus",
+            "Inhibition of host interferon signaling pathway by virus",
+            "Inhibition of host IRF3 by virus",
+            "Inhibition of host ISG15 by virus",
+            "Inhibition of host RLR pathway by virus",
+            "Membrane",
+            "Metal-binding",
+            "Modulation of host ubiquitin pathway by viral deubiquitinase",
+            "Modulation of host ubiquitin pathway by virus",
+            "Nuclease",
+            "Protease",
+            "Reference proteome",
+            "Repeat",
+            "Ribosomal frameshifting",
+            "RNA-binding",
+            "Thiol protease",
+            "Transmembrane",
+            "Transmembrane helix",
+            "Ubl conjugation pathway",
+            "Viral immunoevasion",
+            "Zinc",
+            "Zinc-finger"
+        ],
+        "secondaryIdentifier": [
+            "R1A_SARS",
+            "P59641"
+        ],
+        "sequenceLength": 4382,
+        "chain": [
+            "chain:1-4382",
+            "chain:1-180",
+            "chain:181-818",
+            "chain:819-2740",
+            "chain:2741-3240",
+            "chain:3241-3546",
+            "chain:3547-3836",
+            "chain:3837-3919",
+            "chain:3920-4117",
+            "chain:4118-4230",
+            "chain:4231-4369",
+            "chain:4370-4382"
+        ],
+        "schemaClass": "ReferenceGeneProduct",
+        "className": "ReferenceGeneProduct"
+    },
+    {
+        "dbId": 1163321,
+        "displayName": "nucleotide-sugar [ChEBI:25609]",
+        "databaseName": "ChEBI",
+        "identifier": "25609",
+        "name": [
+            "nucleotide-sugar",
+            "nucleotide-sugars"
+        ],
+        "url": "http://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:25609",
+        "schemaClass": "ReferenceMolecule",
+        "className": "ReferenceMolecule"
+    },
+    {
+        "dbId": 114918,
+        "displayName": "hydron [ChEBI:15378]",
+        "databaseName": "ChEBI",
+        "identifier": "15378",
+        "name": [
+            "hydron"
+        ],
+        "url": "http://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:15378",
+        "formula": "H",
+        "schemaClass": "ReferenceMolecule",
+        "className": "ReferenceMolecule"
+    },
+    {
+        "dbId": 8866398,
+        "displayName": "nucleoside 5'-diphosphate(3-) [ChEBI:57930]",
+        "databaseName": "ChEBI",
+        "identifier": "57930",
+        "name": [
+            "nucleoside 5'-diphosphate(3-)"
+        ],
+        "url": "http://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:57930",
+        "formula": "C5H8O10P2R",
+        "schemaClass": "ReferenceMolecule",
+        "className": "ReferenceMolecule"
+    },
+    {
+        "dbId": 114728,
+        "displayName": "water [ChEBI:15377]",
+        "databaseName": "ChEBI",
+        "identifier": "15377",
+        "name": [
+            "water"
+        ],
+        "url": "http://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:15377",
+        "formula": "H2O",
+        "schemaClass": "ReferenceMolecule",
+        "className": "ReferenceMolecule"
+    },
+    {
+        "dbId": 9733021,
+        "displayName": "baicalin [ChEBI:2981]",
+        "databaseName": "ChEBI",
+        "identifier": "2981",
+        "name": [
+            "baicalin"
+        ],
+        "url": "http://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:2981",
+        "approved": false,
+        "schemaClass": "ReferenceTherapeutic",
+        "className": "ReferenceTherapeutic"
+    },
+    {
+        "dbId": 9731193,
+        "displayName": "PF-00835231 [Guide to Pharmacology:11250]",
+        "databaseName": "Guide to Pharmacology",
+        "identifier": "11250",
+        "name": [
+            "PF-00835231",
+            "compound 4 [Hoffman <i>et al<\/i>., 2020]",
+            "PF00835231"
+        ],
+        "url": "https://www.guidetopharmacology.org/GRAC/LigandDisplayForward?ligandId=11250",
+        "approved": false,
+        "type": "Synthetic organic",
+        "schemaClass": "ReferenceTherapeutic",
+        "className": "ReferenceTherapeutic"
+    },
+    {
+        "dbId": 9732343,
+        "displayName": "simeprevir [Guide to Pharmacology:7367]",
+        "databaseName": "Guide to Pharmacology",
+        "identifier": "7367",
+        "name": [
+            "simeprevir",
+            "Olysio&reg;",
+            "simeprevir sodium",
+            "TMC435",
+            "TMC 435",
+            "TMC-435",
+            "TMC 435350"
+        ],
+        "url": "https://www.guidetopharmacology.org/GRAC/LigandDisplayForward?ligandId=7367",
+        "approvalSource": [
+            "FDA (2013), EMA (2014)"
+        ],
+        "approved": true,
+        "inn": "simeprevir",
+        "type": "Synthetic organic",
+        "schemaClass": "ReferenceTherapeutic",
+        "className": "ReferenceTherapeutic"
+    },
+    {
+        "dbId": 9735469,
+        "displayName": "PF-07321332 [Guide to Pharmacology:11503]",
+        "databaseName": "Guide to Pharmacology",
+        "identifier": "11503",
+        "name": [
+            "PF-07321332"
+        ],
+        "url": "https://www.guidetopharmacology.org/GRAC/LigandDisplayForward?ligandId=11503",
+        "approved": false,
+        "type": "Synthetic organic",
+        "schemaClass": "ReferenceTherapeutic",
+        "className": "ReferenceTherapeutic"
+    },
+    {
+        "dbId": 9681598,
+        "displayName": "compound 11r [Guide to Pharmacology:10705]",
+        "databaseName": "Guide to Pharmacology",
+        "identifier": "10705",
+        "name": [
+            "compound 11r",
+            "compound 11r [PMID: 32045235]",
+            "Cinnamoyl-cyclopropylalanine-GlnLactam-CO-CO-NH-benzyl"
+        ],
+        "url": "https://www.guidetopharmacology.org/GRAC/LigandDisplayForward?ligandId=10705",
+        "approved": false,
+        "type": "Synthetic organic",
+        "schemaClass": "ReferenceTherapeutic",
+        "className": "ReferenceTherapeutic"
+    },
+    {
+        "dbId": 9732918,
+        "displayName": "telaprevir [Guide to Pharmacology:7871]",
+        "databaseName": "Guide to Pharmacology",
+        "identifier": "7871",
+        "name": [
+            "telaprevir",
+            "VX-950"
+        ],
+        "url": "https://www.guidetopharmacology.org/GRAC/LigandDisplayForward?ligandId=7871",
+        "approvalSource": [
+            "FDA (2011)"
+        ],
+        "approved": true,
+        "type": "Synthetic organic",
+        "schemaClass": "ReferenceTherapeutic",
+        "className": "ReferenceTherapeutic"
+    },
+    {
+        "dbId": 9735462,
+        "displayName": "vaniprevir [Guide to Pharmacology:11570]",
+        "databaseName": "Guide to Pharmacology",
+        "identifier": "11570",
+        "name": [
+            "vaniprevir",
+            "analog 35b [PMID: 20163176]",
+            "MK7009",
+            "MK-7009",
+            "Vanihep&reg;"
+        ],
+        "url": "https://www.guidetopharmacology.org/GRAC/LigandDisplayForward?ligandId=11570",
+        "approvalSource": [
+            "Japan 2014"
+        ],
+        "approved": true,
+        "inn": "vaniprevir",
+        "type": "Synthetic organic",
+        "schemaClass": "ReferenceTherapeutic",
+        "className": "ReferenceTherapeutic"
+    },
+    {
+        "dbId": 9731687,
+        "displayName": "ebselen [Guide to Pharmacology:10583]",
+        "databaseName": "Guide to Pharmacology",
+        "identifier": "10583",
+        "name": [
+            "ebselen"
+        ],
+        "url": "https://www.guidetopharmacology.org/GRAC/LigandDisplayForward?ligandId=10583",
+        "approved": false,
+        "inn": "ebselen",
+        "type": "Synthetic organic",
+        "schemaClass": "ReferenceTherapeutic",
+        "className": "ReferenceTherapeutic"
+    },
+    {
+        "dbId": 9735460,
+        "displayName": "narlaprevir [Guide to Pharmacology:11572]",
+        "databaseName": "Guide to Pharmacology",
+        "identifier": "11572",
+        "name": [
+            "narlaprevir",
+            "Arlansa&reg;",
+            "SCH900518",
+            "SCH 900518",
+            "SCH-900518"
+        ],
+        "url": "https://www.guidetopharmacology.org/GRAC/LigandDisplayForward?ligandId=11572",
+        "approvalSource": [
+            "Russia (2016)"
+        ],
+        "approved": true,
+        "inn": "narlaprevir",
+        "type": "Synthetic organic",
+        "schemaClass": "ReferenceTherapeutic",
+        "className": "ReferenceTherapeutic"
+    },
+    {
+        "dbId": 9724705,
+        "displayName": "suramin [Guide to Pharmacology:1728]",
+        "databaseName": "Guide to Pharmacology",
+        "identifier": "1728",
+        "name": [
+            "suramin",
+            "CI-1003",
+            "suramine"
+        ],
+        "url": "https://www.guidetopharmacology.org/GRAC/LigandDisplayForward?ligandId=1728",
+        "approved": true,
+        "inn": "suramin sodium",
+        "type": "Synthetic organic",
+        "schemaClass": "ReferenceTherapeutic",
+        "className": "ReferenceTherapeutic"
+    },
+    {
+        "dbId": 9732887,
+        "displayName": "nelfinavir [Guide to Pharmacology:11090]",
+        "databaseName": "Guide to Pharmacology",
+        "identifier": "11090",
+        "name": [
+            "nelfinavir",
+            "AG1343",
+            "AG-1343",
+            "Viracept&reg;"
+        ],
+        "url": "https://www.guidetopharmacology.org/GRAC/LigandDisplayForward?ligandId=11090",
+        "approvalSource": [
+            "FDA (1997)"
+        ],
+        "approved": true,
+        "inn": "nelfinavir",
+        "type": "Synthetic organic",
+        "schemaClass": "ReferenceTherapeutic",
+        "className": "ReferenceTherapeutic"
+    },
+    {
+        "dbId": 9695422,
+        "displayName": "mefloquine [Guide to Pharmacology:4252]",
+        "databaseName": "Guide to Pharmacology",
+        "identifier": "4252",
+        "name": [
+            "mefloquine",
+            "GNF-Pf-5544",
+            "Lariam&reg;",
+            "Ro-21-5998-001",
+            "WR-142490"
+        ],
+        "url": "https://www.guidetopharmacology.org/GRAC/LigandDisplayForward?ligandId=4252",
+        "approvalSource": [
+            "FDA (1989), UK (1989)"
+        ],
+        "approved": true,
+        "inn": "mefloquine",
+        "type": "Synthetic organic",
+        "schemaClass": "ReferenceTherapeutic",
+        "className": "ReferenceTherapeutic"
+    },
+    {
+        "dbId": 9682025,
+        "displayName": "compound 13b [Guide to Pharmacology:10720]",
+        "databaseName": "Guide to Pharmacology",
+        "identifier": "10720",
+        "name": [
+            "compound 13b"
+        ],
+        "url": "https://www.guidetopharmacology.org/GRAC/LigandDisplayForward?ligandId=10720",
+        "approved": false,
+        "schemaClass": "ReferenceTherapeutic",
+        "className": "ReferenceTherapeutic"
+    },
+    {
+        "dbId": 9732983,
+        "displayName": "baicalein [Guide to Pharmacology:5144]",
+        "databaseName": "Guide to Pharmacology",
+        "identifier": "5144",
+        "name": [
+            "baicalein",
+            "5,6,7-trihydroxyflavone"
+        ],
+        "url": "https://www.guidetopharmacology.org/GRAC/LigandDisplayForward?ligandId=5144",
+        "approved": false,
+        "type": "Natural product",
+        "schemaClass": "ReferenceTherapeutic",
+        "className": "ReferenceTherapeutic"
+    },
+    {
+        "dbId": 9731711,
+        "displayName": "boceprevir [Guide to Pharmacology:7876]",
+        "databaseName": "Guide to Pharmacology",
+        "identifier": "7876",
+        "name": [
+            "boceprevir",
+            "EBP520",
+            "EBP-520",
+            "SCH503034",
+            "SCH-503034",
+            "Victrelis&reg;"
+        ],
+        "url": "https://www.guidetopharmacology.org/GRAC/LigandDisplayForward?ligandId=7876",
+        "approvalSource": [
+            "EMA & FDA (2011)"
+        ],
+        "approved": true,
+        "inn": "boceprevir",
+        "type": "Synthetic organic",
+        "schemaClass": "ReferenceTherapeutic",
+        "className": "ReferenceTherapeutic"
+    }
+]

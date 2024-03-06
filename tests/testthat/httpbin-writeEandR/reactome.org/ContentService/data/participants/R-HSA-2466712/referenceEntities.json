@@ -1,0 +1,253 @@
+[
+    {
+        "dbId": 3006586,
+        "displayName": "N-retinylidene-N-retinylethanolamine [ChEBI:71980]",
+        "databaseName": "ChEBI",
+        "identifier": "71980",
+        "name": [
+            "N-retinylidene-N-retinylethanolamine"
+        ],
+        "url": "http://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:71980",
+        "formula": "C42H58NO",
+        "schemaClass": "ReferenceMolecule",
+        "className": "ReferenceMolecule"
+    },
+    {
+        "dbId": 114828,
+        "displayName": "all-trans-retinal [ChEBI:17898]",
+        "databaseName": "ChEBI",
+        "identifier": "17898",
+        "name": [
+            "all-trans-retinal"
+        ],
+        "url": "http://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:17898",
+        "formula": "C20H28O",
+        "schemaClass": "ReferenceMolecule",
+        "className": "ReferenceMolecule"
+    },
+    {
+        "dbId": 2586568,
+        "displayName": "N-retinylidenephosphatidylethanolamine [ChEBI:71063]",
+        "databaseName": "ChEBI",
+        "identifier": "71063",
+        "name": [
+            "N-retinylidenephosphatidylethanolamine"
+        ],
+        "url": "http://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:71063",
+        "formula": "C27H38NO8PR2",
+        "schemaClass": "ReferenceMolecule",
+        "className": "ReferenceMolecule"
+    },
+    {
+        "dbId": 3006588,
+        "displayName": "N-retinylidene-N-retinylphosphatidylethanolamine [ChEBI:52592]",
+        "databaseName": "ChEBI",
+        "identifier": "52592",
+        "name": [
+            "N-retinylidene-N-retinylphosphatidylethanolamine",
+            "phosphatidylpyridinium bisretinoid",
+            "A2PE"
+        ],
+        "url": "http://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:52592",
+        "formula": "C47H63NO8PR2",
+        "schemaClass": "ReferenceMolecule",
+        "className": "ReferenceMolecule"
+    },
+    {
+        "dbId": 114728,
+        "displayName": "water [ChEBI:15377]",
+        "databaseName": "ChEBI",
+        "identifier": "15377",
+        "name": [
+            "water"
+        ],
+        "url": "http://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:15377",
+        "formula": "H2O",
+        "schemaClass": "ReferenceMolecule",
+        "className": "ReferenceMolecule"
+    },
+    {
+        "dbId": 238623,
+        "displayName": "UniProt:Q6IQ20 NAPEPLD",
+        "databaseName": "UniProt",
+        "identifier": "Q6IQ20",
+        "name": [
+            "NAPEPLD"
+        ],
+        "otherIdentifier": [
+            "0004210400",
+            "0004560609",
+            "11740685_s_at",
+            "11740686_x_at",
+            "11746846_a_at",
+            "11746847_x_at",
+            "11752187_a_at",
+            "11754248_x_at",
+            "17061189",
+            "222236",
+            "226041_at",
+            "238722_x_at",
+            "242229_at",
+            "242635_s_at",
+            "3065481",
+            "3065482",
+            "3065483",
+            "3065484",
+            "3065485",
+            "3065486",
+            "3065487",
+            "3065492",
+            "3065497",
+            "3065498",
+            "3065506",
+            "3065513",
+            "3065520",
+            "3065521",
+            "3065522",
+            "3159702",
+            "43067_at",
+            "58038_at",
+            "64613_at",
+            "8141872",
+            "A_32_P105637",
+            "A_32_P117170",
+            "GE85513",
+            "GO:0000139",
+            "GO:0001523",
+            "GO:0001659",
+            "GO:0003674",
+            "GO:0004620",
+            "GO:0005575",
+            "GO:0005576",
+            "GO:0005615",
+            "GO:0005622",
+            "GO:0005634",
+            "GO:0005635",
+            "GO:0005654",
+            "GO:0005737",
+            "GO:0005768",
+            "GO:0005769",
+            "GO:0005794",
+            "GO:0005886",
+            "GO:0005929",
+            "GO:0006629",
+            "GO:0006644",
+            "GO:0006950",
+            "GO:0007568",
+            "GO:0008150",
+            "GO:0008270",
+            "GO:0008289",
+            "GO:0009056",
+            "GO:0009395",
+            "GO:0016020",
+            "GO:0016042",
+            "GO:0016787",
+            "GO:0030154",
+            "GO:0031410",
+            "GO:0031901",
+            "GO:0032052",
+            "GO:0034641",
+            "GO:0035900",
+            "GO:0042592",
+            "GO:0042622",
+            "GO:0042802",
+            "GO:0043167",
+            "GO:0043226",
+            "GO:0043227",
+            "GO:0044281",
+            "GO:0044403",
+            "GO:0046872",
+            "GO:0048874",
+            "GO:0050729",
+            "GO:0070062",
+            "GO:0070290",
+            "GO:0070291",
+            "GO:0070292",
+            "GO:0090336",
+            "GO:0102200",
+            "GO:1903999",
+            "HMNXSV003044229",
+            "Hs.102958.0.A1_3p_a_at",
+            "Hs.102958.0.A1_3p_x_at",
+            "Hs.169117.0.A1_3p_at",
+            "Hs.210706.0.A1_3p_at",
+            "ILMN_1762033",
+            "PH_hs_0034326",
+            "PH_hs_0040318",
+            "TC07001715.hg"
+        ],
+        "url": "http://purl.uniprot.org/uniprot/Q6IQ20",
+        "checksum": "5CE3114CC557B698",
+        "comment": [
+            "FUNCTION D-type phospholipase that hydrolyzes N-acyl-phosphatidylethanolamines (NAPEs) to produce bioactive N-acylethanolamines/fatty acid ethanolamides (NAEs/FAEs) and phosphatidic acid (PubMed:14634025, PubMed:16527816, PubMed:27571266, PubMed:25684574). Cleaves the terminal phosphodiester bond of diacyl- and alkenylacyl-NAPEs, primarily playing a role in the generation of long-chain saturated and monounsaturated NAEs in the brain (By similarity). May control NAPE homeostasis in dopaminergic neuron membranes and regulate neuron survival, partly through RAC1 activation (By similarity). As a regulator of lipid metabolism in the adipose tissue, mediates the crosstalk between adipocytes, gut microbiota and immune cells to control body temperature and weight. In particular, regulates energy homeostasis by promoting cold-induced brown or beige adipocyte differentiation program to generate heat from fatty acids and glucose. Has limited D-type phospholipase activity toward N-acyl lyso-NAPEs (By similarity).ACTIVITY REGULATION Activated by divalent cations (PubMed:16527816). Activated by bile acids and their conjugates, except for lithocholic acid which is rather inhibitory. Binding of deoxycholic acid favors the selective release of anandamide and likely other unsatured long FAEs (PubMed:27571266, PubMed:25684574). Inhibited by phosphatidylethanolamines (PubMed:25684574).SUBUNIT Homodimer. Bile acids promote the assembly of inactive monomers into an active dimer and enable catalysis.TISSUE SPECIFICITY Widely expressed. Highest expression in brain, kidney and testis (at protein level). Expressed in adipose tissue (at protein level).SIMILARITY Belongs to the NAPE-PLD family."
+        ],
+        "description": [
+            "recommendedName: fullName evidence=\"11\"N-acyl-phosphatidylethanolamine-hydrolyzing phospholipase D shortName:N-acyl phosphatidylethanolamine phospholipase D shortName evidence=\"11\"NAPE-PLD shortName:NAPE-hydrolyzing phospholipase D ecNumber evidence=\"4 6 8\"3.1.4.54/ecNumber "
+        ],
+        "geneName": [
+            "NAPEPLD",
+            "C7orf18"
+        ],
+        "isSequenceChanged": false,
+        "keyword": [
+            "3D-structure",
+            "Acetylation",
+            "Endosome",
+            "Golgi apparatus",
+            "Hydrolase",
+            "Lipid degradation",
+            "Lipid metabolism",
+            "Membrane",
+            "Metal-binding",
+            "Nucleus",
+            "Phospholipid degradation",
+            "Phospholipid metabolism",
+            "Reference proteome",
+            "Zinc"
+        ],
+        "secondaryIdentifier": [
+            "NAPEP_HUMAN",
+            "Q5CZ87",
+            "Q769K1"
+        ],
+        "sequenceLength": 393,
+        "chain": [
+            "chain:1-393"
+        ],
+        "schemaClass": "ReferenceGeneProduct",
+        "className": "ReferenceGeneProduct"
+    },
+    {
+        "dbId": 114924,
+        "displayName": "phosphatidic acid [ChEBI:16337]",
+        "databaseName": "ChEBI",
+        "identifier": "16337",
+        "name": [
+            "phosphatidic acid"
+        ],
+        "url": "http://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:16337",
+        "formula": "C5H7O8PR2",
+        "schemaClass": "ReferenceMolecule",
+        "className": "ReferenceMolecule"
+    },
+    {
+        "dbId": 162903,
+        "displayName": "phosphatidylethanolamine [ChEBI:16038]",
+        "databaseName": "ChEBI",
+        "identifier": "16038",
+        "name": [
+            "phosphatidylethanolamine",
+            "1,2-diacyl-sn-glycero-3-phosphoethanolamine",
+            "(3-Phosphatidyl)-ethanolamine",
+            "phosphatidylethanolamines",
+            "1-Acyl-2-acyl-sn-glycero-3-phosphoethanolamine",
+            "O-(1-beta-Acyl-2-acyl-sn-glycero-3-phospho)ethanolamine",
+            "Cephalin",
+            "(3-Phosphatidyl)ethanolamine"
+        ],
+        "url": "http://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:16038",
+        "formula": "C7H12NO8PR2",
+        "schemaClass": "ReferenceMolecule",
+        "className": "ReferenceMolecule"
+    }
+]

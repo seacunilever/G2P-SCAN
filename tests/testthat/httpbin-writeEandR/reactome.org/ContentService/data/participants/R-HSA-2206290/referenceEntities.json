@@ -1,0 +1,142 @@
+[
+    {
+        "dbId": 55242,
+        "displayName": "UniProt:P34059 GALNS",
+        "databaseName": "UniProt",
+        "identifier": "P34059",
+        "name": [
+            "GALNS"
+        ],
+        "otherIdentifier": [
+            "0001450736",
+            "11720379_s_at",
+            "11749556_a_at",
+            "16829242",
+            "206335_at",
+            "2588",
+            "32100_r_at",
+            "3704512",
+            "3704514",
+            "3704515",
+            "3704521",
+            "3704522",
+            "3704525",
+            "3704526",
+            "3704528",
+            "3704529",
+            "3704530",
+            "3704531",
+            "3704532",
+            "3704533",
+            "3704538",
+            "3704539",
+            "3704541",
+            "3704553",
+            "3704554",
+            "3704555",
+            "8003410",
+            "A_23_P106562",
+            "GE62635",
+            "GO:0002376",
+            "GO:0003674",
+            "GO:0003824",
+            "GO:0003943",
+            "GO:0004065",
+            "GO:0005575",
+            "GO:0005576",
+            "GO:0005615",
+            "GO:0005622",
+            "GO:0005737",
+            "GO:0005764",
+            "GO:0005773",
+            "GO:0006790",
+            "GO:0006810",
+            "GO:0008150",
+            "GO:0008484",
+            "GO:0009056",
+            "GO:0016192",
+            "GO:0016787",
+            "GO:0031410",
+            "GO:0035578",
+            "GO:0042340",
+            "GO:0043167",
+            "GO:0043202",
+            "GO:0043226",
+            "GO:0043312",
+            "GO:0043890",
+            "GO:0044281",
+            "GO:0046872",
+            "GO:0070062",
+            "HMNXSV003001598",
+            "ILMN_1737949",
+            "PH_hs_0009707",
+            "TC16001345.hg",
+            "U06088_at",
+            "g9945384_3p_at"
+        ],
+        "url": "http://purl.uniprot.org/uniprot/P34059",
+        "checksum": "1D086E528AAAE949",
+        "comment": [
+            "SUBUNIT Homodimer.PTM The conversion to 3-oxoalanine (also known as C-formylglycine, FGly), of a serine or cysteine residue in prokaryotes and of a cysteine residue in eukaryotes, is critical for catalytic activity.SIMILARITY Belongs to the sulfatase family."
+        ],
+        "description": [
+            "recommendedName: N-acetylgalactosamine-6-sulfatase ecNumber3.1.6.4/ecNumber  alternativeName: Chondroitinsulfatase shortName:Chondroitinase  alternativeName: Galactose-6-sulfate sulfatase shortName:GalN6S  alternativeName: N-acetylgalactosamine-6-sulfate sulfatase shortName:GalNAc6S sulfatase "
+        ],
+        "geneName": [
+            "GALNS"
+        ],
+        "isSequenceChanged": false,
+        "keyword": [
+            "3D-structure",
+            "Calcium",
+            "Direct protein sequencing",
+            "Disease variant",
+            "Disulfide bond",
+            "Dwarfism",
+            "Glycoprotein",
+            "Hydrolase",
+            "Lysosome",
+            "Metal-binding",
+            "Mucopolysaccharidosis",
+            "Reference proteome",
+            "Signal"
+        ],
+        "secondaryIdentifier": [
+            "GALNS_HUMAN",
+            "Q86VK3"
+        ],
+        "sequenceLength": 522,
+        "chain": [
+            "signal peptide:1-26",
+            "chain:27-522"
+        ],
+        "schemaClass": "ReferenceGeneProduct",
+        "className": "ReferenceGeneProduct"
+    },
+    {
+        "dbId": 114728,
+        "displayName": "water [ChEBI:15377]",
+        "databaseName": "ChEBI",
+        "identifier": "15377",
+        "name": [
+            "water"
+        ],
+        "url": "http://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:15377",
+        "formula": "H2O",
+        "schemaClass": "ReferenceMolecule",
+        "className": "ReferenceMolecule"
+    },
+    {
+        "dbId": 2104999,
+        "displayName": "beta-D-Galp6S-(1->4)-beta-D-GlcpNAc6S-(1->3)-beta-D-Galp-(1->4)-beta-D-GlcpNAc6S-(1->3)-D-Galp [ChEBI:63846]",
+        "databaseName": "ChEBI",
+        "identifier": "63846",
+        "name": [
+            "beta-D-Galp6S-(1->4)-beta-D-GlcpNAc6S-(1->3)-beta-D-Galp-(1->4)-beta-D-GlcpNAc6S-(1->3)-D-Galp"
+        ],
+        "url": "http://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:63846",
+        "formula": "C34H58N2O35S3",
+        "schemaClass": "ReferenceMolecule",
+        "className": "ReferenceMolecule"
+    }
+]

@@ -1,0 +1,15 @@
+[
+    {
+        "dbId": 31409,
+        "displayName": "myo-inositol hexakisphosphate [ChEBI:17401]",
+        "databaseName": "ChEBI",
+        "identifier": "17401",
+        "name": [
+            "myo-inositol hexakisphosphate"
+        ],
+        "url": "http://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:17401",
+        "formula": "C6H18O24P6",
+        "schemaClass": "ReferenceMolecule",
+        "className": "ReferenceMolecule"
+    }
+]

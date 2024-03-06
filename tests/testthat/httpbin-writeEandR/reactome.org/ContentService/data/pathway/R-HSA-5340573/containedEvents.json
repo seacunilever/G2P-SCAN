@@ -1,0 +1,19 @@
+[
+    {
+        "dbId": 5340560,
+        "displayName": "PORCN-inhibitor LGK974 prevents WNT ligand palmitoyltation and secretion",
+        "stId": "R-HSA-5340560",
+        "stIdVersion": "R-HSA-5340560.1",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "PORCN-inhibitor LGK974 prevents WNT ligand palmitoyltation and secretion"
+        ],
+        "releaseDate": "2014-06-10",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "binding",
+        "className": "Reaction",
+        "schemaClass": "Reaction"
+    }
+]

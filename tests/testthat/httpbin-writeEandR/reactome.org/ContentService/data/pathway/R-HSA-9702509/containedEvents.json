@@ -1,0 +1,36 @@
+[
+    {
+        "dbId": 9702508,
+        "displayName": "FLT mutants bind type I TKIs",
+        "stId": "R-HSA-9702508",
+        "stIdVersion": "R-HSA-9702508.1",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "FLT mutants bind type I TKIs"
+        ],
+        "releaseDate": "2020-12-08",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "binding",
+        "className": "Reaction",
+        "schemaClass": "Reaction"
+    },
+    {
+        "dbId": 9702510,
+        "displayName": "FLT mutants bind type II TKIs",
+        "stId": "R-HSA-9702510",
+        "stIdVersion": "R-HSA-9702510.1",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "FLT mutants bind type II TKIs"
+        ],
+        "releaseDate": "2020-12-08",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "binding",
+        "className": "Reaction",
+        "schemaClass": "Reaction"
+    }
+]

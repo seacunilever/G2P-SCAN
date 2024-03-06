@@ -1,0 +1,45 @@
+{
+    "template": {
+        "model": {
+            "name": "genomic"
+        },
+        "title": "Gene --> Orthologues",
+        "description": "For a specified gene(s) return the orthologues in mouse, rat, worm, fly and yeast.  Data source Panther.",
+        "select": [
+            "Gene.primaryIdentifier",
+            "Gene.symbol",
+            "Gene.homologues.homologue.primaryIdentifier",
+            "Gene.homologues.homologue.symbol",
+            "Gene.homologues.homologue.organism.name"
+        ],
+        "name": "Gene_Orth",
+        "comment": "",
+        "tags": [
+            "im:aspect:Comparative Genomics",
+            "im:aspect:Homology",
+            "im:public",
+            "im:report"
+        ],
+        "rank": "unranked",
+        "orderBy": [
+            {
+                "Gene.primaryIdentifier": "ASC"
+            }
+        ],
+        "where": [
+            {
+                "path": "Gene",
+                "op": "LOOKUP",
+                "code": "A",
+                "editable": true,
+                "switchable": false,
+                "switched": "LOCKED",
+                "value": "pparg"
+            }
+        ]
+    },
+    "executionTime": "2021.12.01 11:20::36",
+    "wasSuccessful": true,
+    "error": null,
+    "statusCode": 200
+}

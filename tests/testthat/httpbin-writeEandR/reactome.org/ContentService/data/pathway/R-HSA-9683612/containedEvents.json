@@ -1,0 +1,53 @@
+[
+    {
+        "dbId": 9683751,
+        "displayName": "M protein gets N-glycosylated",
+        "stId": "R-HSA-9683751",
+        "stIdVersion": "R-HSA-9683751.2",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "M protein gets N-glycosylated"
+        ],
+        "releaseDate": "2020-06-10",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "uncertain",
+        "className": "Reaction",
+        "schemaClass": "BlackBoxEvent"
+    },
+    {
+        "dbId": 9683718,
+        "displayName": "Protein M localizes to the Golgi membrane",
+        "stId": "R-HSA-9683718",
+        "stIdVersion": "R-HSA-9683718.2",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "Protein M localizes to the Golgi membrane"
+        ],
+        "releaseDate": "2020-06-10",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "uncertain",
+        "className": "Reaction",
+        "schemaClass": "BlackBoxEvent"
+    },
+    {
+        "dbId": 9683734,
+        "displayName": "Glycosylated M localizes to the Golgi membrane",
+        "stId": "R-HSA-9683734",
+        "stIdVersion": "R-HSA-9683734.2",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "Glycosylated M localizes to the Golgi membrane"
+        ],
+        "releaseDate": "2020-06-10",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "uncertain",
+        "className": "Reaction",
+        "schemaClass": "BlackBoxEvent"
+    }
+]

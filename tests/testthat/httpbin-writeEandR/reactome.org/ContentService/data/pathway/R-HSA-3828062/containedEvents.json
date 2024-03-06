@@ -1,0 +1,19 @@
+[
+    {
+        "dbId": 3828061,
+        "displayName": "Defective GYS1 does not transfer glucose to growing glycogen chains",
+        "stId": "R-HSA-3828061",
+        "stIdVersion": "R-HSA-3828061.5",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "Defective GYS1 does not transfer glucose to growing glycogen chains"
+        ],
+        "releaseDate": "2015-09-22",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "transition",
+        "className": "Reaction",
+        "schemaClass": "FailedReaction"
+    }
+]

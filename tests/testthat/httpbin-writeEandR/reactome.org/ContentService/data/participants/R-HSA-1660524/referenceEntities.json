@@ -1,0 +1,15 @@
+[
+    {
+        "dbId": 202393,
+        "displayName": "1-phosphatidyl-1D-myo-inositol 3,4-bisphosphate [ChEBI:16152]",
+        "databaseName": "ChEBI",
+        "identifier": "16152",
+        "name": [
+            "1-phosphatidyl-1D-myo-inositol 3,4-bisphosphate"
+        ],
+        "url": "http://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:16152",
+        "formula": "C11H19O19P3R2",
+        "schemaClass": "ReferenceMolecule",
+        "className": "ReferenceMolecule"
+    }
+]

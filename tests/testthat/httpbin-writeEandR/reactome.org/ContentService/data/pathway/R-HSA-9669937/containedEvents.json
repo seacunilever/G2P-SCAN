@@ -1,0 +1,240 @@
+[
+    {
+        "dbId": 9669936,
+        "displayName": "Sorafenib-resistant KIT mutants",
+        "stId": "R-HSA-9669936",
+        "stIdVersion": "R-HSA-9669936.1",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "Sorafenib-resistant KIT mutants"
+        ],
+        "releaseDate": "2020-06-10",
+        "speciesName": "Homo sapiens",
+        "hasDiagram": true,
+        "hasEHLD": false,
+        "schemaClass": "Pathway",
+        "className": "Pathway"
+    },
+    {
+        "dbId": 9669874,
+        "displayName": "Sorafenib-resistant KIT mutants do not bind sorafenib",
+        "stId": "R-HSA-9669874",
+        "stIdVersion": "R-HSA-9669874.1",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "Sorafenib-resistant KIT mutants do not bind sorafenib"
+        ],
+        "releaseDate": "2020-06-10",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "transition",
+        "className": "Reaction",
+        "schemaClass": "FailedReaction"
+    },
+    {
+        "dbId": 9669926,
+        "displayName": "Nilotinib-resistant KIT mutants",
+        "stId": "R-HSA-9669926",
+        "stIdVersion": "R-HSA-9669926.1",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "Nilotinib-resistant KIT mutants"
+        ],
+        "releaseDate": "2020-06-10",
+        "speciesName": "Homo sapiens",
+        "hasDiagram": true,
+        "hasEHLD": false,
+        "schemaClass": "Pathway",
+        "className": "Pathway"
+    },
+    {
+        "dbId": 9669868,
+        "displayName": "Nilotinib-resistant KIT mutants do not bind nilotinib",
+        "stId": "R-HSA-9669868",
+        "stIdVersion": "R-HSA-9669868.1",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "Nilotinib-resistant KIT mutants do not bind nilotinib"
+        ],
+        "releaseDate": "2020-06-10",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "transition",
+        "className": "Reaction",
+        "schemaClass": "FailedReaction"
+    },
+    {
+        "dbId": 9669924,
+        "displayName": "Masitinib-resistant KIT mutants",
+        "stId": "R-HSA-9669924",
+        "stIdVersion": "R-HSA-9669924.1",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "Masitinib-resistant KIT mutants"
+        ],
+        "releaseDate": "2020-06-10",
+        "speciesName": "Homo sapiens",
+        "hasDiagram": true,
+        "hasEHLD": false,
+        "schemaClass": "Pathway",
+        "className": "Pathway"
+    },
+    {
+        "dbId": 9669863,
+        "displayName": "Masitinib-resistant KIT mutants do not bind masitinib",
+        "stId": "R-HSA-9669863",
+        "stIdVersion": "R-HSA-9669863.1",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "Masitinib-resistant KIT mutants do not bind masitinib"
+        ],
+        "releaseDate": "2020-06-10",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "transition",
+        "className": "Reaction",
+        "schemaClass": "FailedReaction"
+    },
+    {
+        "dbId": 9669914,
+        "displayName": "Dasatinib-resistant KIT mutants",
+        "stId": "R-HSA-9669914",
+        "stIdVersion": "R-HSA-9669914.1",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "Dasatinib-resistant KIT mutants"
+        ],
+        "releaseDate": "2020-06-10",
+        "speciesName": "Homo sapiens",
+        "hasDiagram": true,
+        "hasEHLD": false,
+        "schemaClass": "Pathway",
+        "className": "Pathway"
+    },
+    {
+        "dbId": 9669855,
+        "displayName": "Dasatinib-resistant KIT mutants do not bind dasatinib",
+        "stId": "R-HSA-9669855",
+        "stIdVersion": "R-HSA-9669855.1",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "Dasatinib-resistant KIT mutants do not bind dasatinib"
+        ],
+        "releaseDate": "2020-06-10",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "transition",
+        "className": "Reaction",
+        "schemaClass": "FailedReaction"
+    },
+    {
+        "dbId": 9669929,
+        "displayName": "Regorafenib-resistant KIT mutants",
+        "stId": "R-HSA-9669929",
+        "stIdVersion": "R-HSA-9669929.1",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "Regorafenib-resistant KIT mutants"
+        ],
+        "releaseDate": "2020-06-10",
+        "speciesName": "Homo sapiens",
+        "hasDiagram": true,
+        "hasEHLD": false,
+        "schemaClass": "Pathway",
+        "className": "Pathway"
+    },
+    {
+        "dbId": 9669870,
+        "displayName": "Regorafenib-resistant KIT mutants do not bind regorafenib",
+        "stId": "R-HSA-9669870",
+        "stIdVersion": "R-HSA-9669870.1",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "Regorafenib-resistant KIT mutants do not bind regorafenib"
+        ],
+        "releaseDate": "2020-06-10",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "transition",
+        "className": "Reaction",
+        "schemaClass": "FailedReaction"
+    },
+    {
+        "dbId": 9669934,
+        "displayName": "Sunitinib-resistant KIT mutants",
+        "stId": "R-HSA-9669934",
+        "stIdVersion": "R-HSA-9669934.1",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "Sunitinib-resistant KIT mutants"
+        ],
+        "releaseDate": "2020-06-10",
+        "speciesName": "Homo sapiens",
+        "hasDiagram": true,
+        "hasEHLD": false,
+        "schemaClass": "Pathway",
+        "className": "Pathway"
+    },
+    {
+        "dbId": 9669878,
+        "displayName": "Sunitinib-resistant KIT mutants do not bind sunitinib",
+        "stId": "R-HSA-9669878",
+        "stIdVersion": "R-HSA-9669878.1",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "Sunitinib-resistant KIT mutants do not bind sunitinib"
+        ],
+        "releaseDate": "2020-06-10",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "transition",
+        "className": "Reaction",
+        "schemaClass": "FailedReaction"
+    },
+    {
+        "dbId": 9669917,
+        "displayName": "Imatinib-resistant KIT mutants",
+        "stId": "R-HSA-9669917",
+        "stIdVersion": "R-HSA-9669917.1",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "Imatinib-resistant KIT mutants"
+        ],
+        "releaseDate": "2020-06-10",
+        "speciesName": "Homo sapiens",
+        "hasDiagram": true,
+        "hasEHLD": false,
+        "schemaClass": "Pathway",
+        "className": "Pathway"
+    },
+    {
+        "dbId": 9669859,
+        "displayName": "Imatinib-resistant KIT mutants do not bind imatinib",
+        "stId": "R-HSA-9669859",
+        "stIdVersion": "R-HSA-9669859.1",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "Imatinib-resistant KIT mutants do not bind imatinib"
+        ],
+        "releaseDate": "2020-06-10",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "transition",
+        "className": "Reaction",
+        "schemaClass": "FailedReaction"
+    }
+]

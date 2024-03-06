@@ -1,0 +1,19 @@
+[
+    {
+        "dbId": 9702593,
+        "displayName": "lestaurtinib-resistant FLT3 mutants don't bind lestaurtinib",
+        "stId": "R-HSA-9702593",
+        "stIdVersion": "R-HSA-9702593.1",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "lestaurtinib-resistant FLT3 mutants don't bind lestaurtinib"
+        ],
+        "releaseDate": "2020-12-08",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "transition",
+        "className": "Reaction",
+        "schemaClass": "FailedReaction"
+    }
+]

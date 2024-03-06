@@ -1,0 +1,137 @@
+[
+    {
+        "dbId": 9021944,
+        "displayName": "MECP2 binds RBFOX1 gene promoter",
+        "stId": "R-HSA-9021944",
+        "stIdVersion": "R-HSA-9021944.1",
+        "isInDisease": false,
+        "isInferred": true,
+        "name": [
+            "MECP2 binds RBFOX1 gene promoter"
+        ],
+        "releaseDate": "2018-09-12",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "binding",
+        "className": "Reaction",
+        "schemaClass": "Reaction"
+    },
+    {
+        "dbId": 9021851,
+        "displayName": "MECP2 binds CREB1 gene promoter",
+        "stId": "R-HSA-9021851",
+        "stIdVersion": "R-HSA-9021851.1",
+        "isInDisease": false,
+        "isInferred": true,
+        "name": [
+            "MECP2 binds CREB1 gene promoter"
+        ],
+        "releaseDate": "2018-09-12",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "binding",
+        "className": "Reaction",
+        "schemaClass": "Reaction"
+    },
+    {
+        "dbId": 9021949,
+        "displayName": "MEF2C gene expression is inhibited by MECP2",
+        "stId": "R-HSA-9021949",
+        "stIdVersion": "R-HSA-9021949.1",
+        "isInDisease": false,
+        "isInferred": true,
+        "name": [
+            "MEF2C gene expression is inhibited by MECP2"
+        ],
+        "releaseDate": "2018-09-12",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "omitted",
+        "className": "Reaction",
+        "schemaClass": "BlackBoxEvent"
+    },
+    {
+        "dbId": 9021950,
+        "displayName": "MECP2 binds MEF2C gene promoter",
+        "stId": "R-HSA-9021950",
+        "stIdVersion": "R-HSA-9021950.2",
+        "isInDisease": false,
+        "isInferred": true,
+        "name": [
+            "MECP2 binds MEF2C gene promoter"
+        ],
+        "releaseDate": "2018-09-12",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "binding",
+        "className": "Reaction",
+        "schemaClass": "Reaction"
+    },
+    {
+        "dbId": 9017441,
+        "displayName": "PPARG gene expression is inhibited by MECP2",
+        "stId": "R-HSA-9017441",
+        "stIdVersion": "R-HSA-9017441.1",
+        "isInDisease": false,
+        "isInferred": true,
+        "name": [
+            "PPARG gene expression is inhibited by MECP2"
+        ],
+        "releaseDate": "2018-09-12",
+        "speciesName": "Homo sapiens",
+        "category": "omitted",
+        "className": "Reaction",
+        "schemaClass": "BlackBoxEvent"
+    },
+    {
+        "dbId": 9021952,
+        "displayName": "RBFOX1 gene expression is inhibited by MECP2",
+        "stId": "R-HSA-9021952",
+        "stIdVersion": "R-HSA-9021952.1",
+        "isInDisease": false,
+        "isInferred": true,
+        "name": [
+            "RBFOX1 gene expression is inhibited by MECP2"
+        ],
+        "releaseDate": "2018-09-12",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "omitted",
+        "className": "Reaction",
+        "schemaClass": "BlackBoxEvent"
+    },
+    {
+        "dbId": 9021847,
+        "displayName": "CREB1 gene expression is stimulated by MECP2",
+        "stId": "R-HSA-9021847",
+        "stIdVersion": "R-HSA-9021847.1",
+        "isInDisease": false,
+        "isInferred": true,
+        "name": [
+            "CREB1 gene expression is stimulated by MECP2"
+        ],
+        "releaseDate": "2018-09-12",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "omitted",
+        "className": "Reaction",
+        "schemaClass": "BlackBoxEvent"
+    },
+    {
+        "dbId": 9017447,
+        "displayName": "MECP2 binds PPARG gene promoter",
+        "stId": "R-HSA-9017447",
+        "stIdVersion": "R-HSA-9017447.2",
+        "isInDisease": false,
+        "isInferred": true,
+        "name": [
+            "MECP2 binds PPARG gene promoter"
+        ],
+        "releaseDate": "2018-09-12",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "binding",
+        "className": "Reaction",
+        "schemaClass": "Reaction"
+    }
+]

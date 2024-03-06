@@ -1,0 +1,19 @@
+[
+    {
+        "dbId": 9669878,
+        "displayName": "Sunitinib-resistant KIT mutants do not bind sunitinib",
+        "stId": "R-HSA-9669878",
+        "stIdVersion": "R-HSA-9669878.1",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "Sunitinib-resistant KIT mutants do not bind sunitinib"
+        ],
+        "releaseDate": "2020-06-10",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "transition",
+        "className": "Reaction",
+        "schemaClass": "FailedReaction"
+    }
+]

@@ -1,0 +1,392 @@
+[
+    {
+        "dbId": 169115,
+        "displayName": "UniProt:P03431 PB1",
+        "databaseName": "UniProt",
+        "identifier": "P03431",
+        "name": [
+            "PB1"
+        ],
+        "url": "http://purl.uniprot.org/uniprot/P03431",
+        "checksum": "FB23E4976E06C18F",
+        "comment": [
+            "FUNCTION RNA-dependent RNA polymerase which is responsible for replication and transcription of virus RNA segments. The transcription of viral mRNAs occurs by a unique mechanism called cap-snatching. 5' methylated caps of cellular mRNAs are cleaved after 10-13 nucleotides by PA. In turn, these short capped RNAs are used as primers by PB1 for transcription of viral mRNAs. During virus replication, PB1 initiates RNA synthesis and copy vRNA into complementary RNA (cRNA) which in turn serves as a template for the production of more vRNAs.SUBUNIT Influenza RNA polymerase is composed of three subunits: PB1, PB2 and PA. Interacts (via N-terminus) with PA (via C-terminus). Interacts (via C-terminus) with PB2 (via N-terminus); this interaction is essential for transcription initiation.PTM Phosphorylated by host PRKCA.SIMILARITY Belongs to the influenza viruses polymerase PB1 family."
+        ],
+        "description": [
+            "recommendedName: fullName evidence=\"1\"RNA-directed RNA polymerase catalytic subunit ecNumber evidence=\"1\"2.7.7.48/ecNumber  alternativeName: fullName evidence=\"1\"Polymerase basic protein 1 shortName evidence=\"1\"PB1  alternativeName: fullName evidence=\"1\"RNA-directed RNA polymerase subunit P1 "
+        ],
+        "geneName": [
+            "PB1"
+        ],
+        "isSequenceChanged": false,
+        "keyword": [
+            "3D-structure",
+            "Eukaryotic host gene expression shutoff by virus",
+            "Eukaryotic host transcription shutoff by virus",
+            "Host cytoplasm",
+            "Host gene expression shutoff by virus",
+            "Host nucleus",
+            "Host-virus interaction",
+            "Inhibition of host RNA polymerase II by virus",
+            "Nucleotide-binding",
+            "Nucleotidyltransferase",
+            "Phosphoprotein",
+            "Reference proteome",
+            "RNA-directed RNA polymerase",
+            "Transferase",
+            "Viral RNA replication",
+            "Viral transcription"
+        ],
+        "secondaryIdentifier": [
+            "RDRP_I34A1",
+            "A4GXH1",
+            "Q20N30",
+            "Q8JUU7"
+        ],
+        "sequenceLength": 757,
+        "chain": [
+            "chain:1-757"
+        ],
+        "schemaClass": "ReferenceGeneProduct",
+        "className": "ReferenceGeneProduct"
+    },
+    {
+        "dbId": 169094,
+        "displayName": "UniProt:P03428 PB2",
+        "databaseName": "UniProt",
+        "identifier": "P03428",
+        "name": [
+            "PB2"
+        ],
+        "url": "http://purl.uniprot.org/uniprot/P03428",
+        "checksum": "10D2D1608AE536D2",
+        "comment": [
+            "FUNCTION Plays an essential role in transcription initiation and cap-stealing mechanism, in which cellular capped pre-mRNAs are used to generate primers for viral transcription. Recognizes and binds the 7-methylguanosine-containing cap of the target pre-RNA which is subsequently cleaved after 10-13 nucleotides by the viral protein PA. Plays a role in the initiation of the viral genome replication and modulates the activity of the ribonucleoprotein (RNP) complex. In addition, participates in the inhibition of type I interferon induction through interaction with and inhibition of the host mitochondrial antiviral signaling protein MAVS.SUBUNIT Influenza RNA polymerase is composed of three subunits: PB1, PB2 and PA. Interacts (via N-terminus) with PB1 (via C-terminus). Interacts with nucleoprotein NP (via N-terminus). Interacts (via N-terminus) with host MAVS (via N-terminus); this interaction inhibits host innate immune response.SIMILARITY Belongs to the influenza viruses PB2 family."
+        ],
+        "description": [
+            "recommendedName: fullName evidence=\"2\"Polymerase basic protein 2  alternativeName: fullName evidence=\"2\"RNA-directed RNA polymerase subunit P3 "
+        ],
+        "geneName": [
+            "PB2"
+        ],
+        "isSequenceChanged": false,
+        "keyword": [
+            "3D-structure",
+            "Alternative splicing",
+            "Cap snatching",
+            "Eukaryotic host gene expression shutoff by virus",
+            "Eukaryotic host transcription shutoff by virus",
+            "Host gene expression shutoff by virus",
+            "Host mitochondrion",
+            "Host nucleus",
+            "Host-virus interaction",
+            "Inhibition of host innate immune response by virus",
+            "Inhibition of host MAVS by virus",
+            "Inhibition of host RLR pathway by virus",
+            "Inhibition of host RNA polymerase II by virus",
+            "mRNA capping",
+            "mRNA processing",
+            "Reference proteome",
+            "Viral immunoevasion",
+            "Viral transcription",
+            "Virion"
+        ],
+        "secondaryIdentifier": [
+            "PB2_I34A1",
+            "A4GXH0",
+            "Q20N28",
+            "Q8JUU8"
+        ],
+        "sequenceLength": 759,
+        "chain": [
+            "chain:1-759"
+        ],
+        "schemaClass": "ReferenceGeneProduct",
+        "className": "ReferenceGeneProduct"
+    },
+    {
+        "dbId": 169114,
+        "displayName": "UniProt:P03433 PA",
+        "databaseName": "UniProt",
+        "identifier": "P03433",
+        "name": [
+            "PA"
+        ],
+        "url": "http://purl.uniprot.org/uniprot/P03433",
+        "checksum": "8829F53525814394",
+        "comment": [
+            "FUNCTION Plays an essential role in viral RNA transcription and replication by forming the heterotrimeric polymerase complex together with PB1 and PB2 subunits. The complex transcribes viral mRNAs by using a unique mechanism called cap-snatching. It consists in the hijacking and cleavage of host capped pre-mRNAs. These short capped RNAs are then used as primers for viral mRNAs. The PB2 subunit is responsible for the binding of the 5' cap of cellular pre-mRNAs which are subsequently cleaved after 10-13 nucleotides by the PA subunit that carries the endonuclease activity.SUBUNIT Influenza RNA polymerase is composed of three subunits: PB1, PB2 and PA. Interacts (via C-terminus) with PB1 (via N-terminus).PTM Phosphorylated on serines and threonines by host kinases, including human casein kinase II.SIMILARITY Belongs to the influenza viruses PA family."
+        ],
+        "description": [
+            "recommendedName: fullName evidence=\"1\"Polymerase acidic protein ecNumber evidence=\"1\"3.1.-.-/ecNumber  alternativeName: fullName evidence=\"1\"RNA-directed RNA polymerase subunit P2 "
+        ],
+        "geneName": [
+            "PA"
+        ],
+        "isSequenceChanged": false,
+        "keyword": [
+            "3D-structure",
+            "Cap snatching",
+            "Endonuclease",
+            "Eukaryotic host gene expression shutoff by virus",
+            "Eukaryotic host transcription shutoff by virus",
+            "Host cytoplasm",
+            "Host gene expression shutoff by virus",
+            "Host nucleus",
+            "Host-virus interaction",
+            "Hydrolase",
+            "Inhibition of host RNA polymerase II by virus",
+            "Manganese",
+            "Metal-binding",
+            "Nuclease",
+            "Phosphoprotein",
+            "Reference proteome",
+            "Ribosomal frameshifting"
+        ],
+        "secondaryIdentifier": [
+            "PA_I34A1",
+            "A4GXH3",
+            "Q20N31",
+            "Q8JUU6"
+        ],
+        "sequenceLength": 716,
+        "chain": [
+            "chain:1-716"
+        ],
+        "schemaClass": "ReferenceGeneProduct",
+        "className": "ReferenceGeneProduct"
+    },
+    {
+        "dbId": 9737137,
+        "displayName": "CTP(4-) [ChEBI:37563]",
+        "databaseName": "ChEBI",
+        "identifier": "37563",
+        "name": [
+            "CTP(4-)",
+            "ctp",
+            "cytidine 5'-triphosphate(4-)",
+            "CTP"
+        ],
+        "url": "http://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:37563",
+        "formula": "C9H12N3O14P3",
+        "schemaClass": "ReferenceMolecule",
+        "className": "ReferenceMolecule"
+    },
+    {
+        "dbId": 8869364,
+        "displayName": "ATP(4-) [ChEBI:30616]",
+        "databaseName": "ChEBI",
+        "identifier": "30616",
+        "name": [
+            "ATP(4-)",
+            "ATP",
+            "atp",
+            "Adenosine 5'-triphosphate"
+        ],
+        "url": "http://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:30616",
+        "formula": "C10H12N5O13P3",
+        "schemaClass": "ReferenceMolecule",
+        "className": "ReferenceMolecule"
+    },
+    {
+        "dbId": 9737136,
+        "displayName": "UTP(4-) [ChEBI:46398]",
+        "databaseName": "ChEBI",
+        "identifier": "46398",
+        "name": [
+            "UTP(4-)",
+            "UTP",
+            "utp",
+            "uridine 5'-triphosphate(4-)",
+            "URIDINE 5'-TRIPHOSPHATE"
+        ],
+        "url": "http://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:46398",
+        "formula": "C9H11N2O15P3",
+        "schemaClass": "ReferenceMolecule",
+        "className": "ReferenceMolecule"
+    },
+    {
+        "dbId": 9736415,
+        "displayName": "GTP(4-) [ChEBI:37565]",
+        "databaseName": "ChEBI",
+        "identifier": "37565",
+        "name": [
+            "GTP(4-)",
+            "GTP",
+            "gtp",
+            "guanosine 5'-triphosphate(4-)"
+        ],
+        "url": "http://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:37565",
+        "formula": "C10H12N5O14P3",
+        "schemaClass": "ReferenceMolecule",
+        "className": "ReferenceMolecule"
+    },
+    {
+        "dbId": 169085,
+        "displayName": "UniProt:P03466 NP",
+        "databaseName": "UniProt",
+        "identifier": "P03466",
+        "name": [
+            "NP"
+        ],
+        "url": "http://purl.uniprot.org/uniprot/P03466",
+        "checksum": "4F750FEF05D6E668",
+        "comment": [
+            "FUNCTION Encapsidates the negative strand viral RNA, protecting it from nucleases. The encapsidated genomic RNA is termed the ribonucleoprotein (RNP) and serves as template for transcription and replication. The RNP needs to be localized in the host nucleus to start an infectious cycle, but is too large to diffuse through the nuclear pore complex. NP comprises at least 2 nuclear localization signals that are responsible for the active RNP import into the nucleus through cellular importin alpha/beta pathway. Later in the infection, nclear export of RNPs are mediated through viral proteins NEP interacting with M1 which binds nucleoproteins. It is possible that nucleoprotein binds directly host exportin-1/XPO1 and plays an active role in RNPs nuclear export. M1 interaction with RNP seems to hide nucleoprotein's nuclear localization signals. Soon after a virion infects a new cell, M1 dissociates from the RNP under acidification of the virion driven by M2 protein. Dissociation of M1 from RNP unmasks nucleoprotein's nuclear localization signals, targeting the RNP to the nucleus.SUBUNIT Homomultimerizes to form the nucleocapsid. May bind host exportin-1/XPO1. Binds to viral genomic RNA. Protein-RNA contacts are mediated by a combination of electrostatic interactions between positively charged residues and the phosphate backbone and planar interactions between aromatic side chains and bases.PTM Late in virus-infected cells, may be cleaved from a 56-kDa protein to a 53-kDa protein by a cellular caspase. This cleavage might be a marker for the onset of apoptosis in infected cells or have a specific function in virus host interaction.SIMILARITY Belongs to the influenza viruses nucleoprotein family."
+        ],
+        "description": [
+            "recommendedName: fullName evidence=\"1\"Nucleoprotein  alternativeName: fullName evidence=\"1\"Nucleocapsid protein shortName evidence=\"1\"Protein N "
+        ],
+        "geneName": [
+            "NP"
+        ],
+        "isSequenceChanged": false,
+        "keyword": [
+            "3D-structure",
+            "Capsid protein",
+            "Helical capsid protein",
+            "Host nucleus",
+            "Host-virus interaction",
+            "Reference proteome",
+            "Ribonucleoprotein",
+            "RNA-binding",
+            "Viral nucleoprotein",
+            "Viral penetration into host nucleus",
+            "Virion",
+            "Virus entry into host cell"
+        ],
+        "secondaryIdentifier": [
+            "NCAP_I34A1",
+            "Q20N34",
+            "Q58NB3",
+            "Q67228",
+            "Q80AB4"
+        ],
+        "sequenceLength": 498,
+        "chain": [
+            "chain:1-498"
+        ],
+        "schemaClass": "ReferenceGeneProduct",
+        "className": "ReferenceGeneProduct"
+    },
+    {
+        "dbId": 188837,
+        "displayName": "EMBL:AF389118 Unknown",
+        "databaseName": "EMBL",
+        "identifier": "AF389118",
+        "name": [
+            "H1N1 Genomic RNA Segment 4"
+        ],
+        "url": "http://www.ebi.ac.uk/ena/data/view/AF389118",
+        "description": [
+            "Influenza A virus (A/Puerto Rico/8/34/Mount Sinai(H1N1)) segment 4, complete sequence."
+        ],
+        "schemaClass": "ReferenceRNASequence",
+        "className": "ReferenceRNASequence"
+    },
+    {
+        "dbId": 192992,
+        "displayName": "EMBL:AF389122 NS",
+        "databaseName": "EMBL",
+        "identifier": "AF389122",
+        "name": [
+            "NS1 mRNA"
+        ],
+        "url": "http://www.ebi.ac.uk/ena/data/view/AF389122",
+        "geneName": [
+            "NS"
+        ],
+        "schemaClass": "ReferenceRNASequence",
+        "className": "ReferenceRNASequence"
+    },
+    {
+        "dbId": 188862,
+        "displayName": "EMBL:AF389120 Unknown",
+        "databaseName": "EMBL",
+        "identifier": "AF389120",
+        "name": [
+            "H1N1 Genomic RNA Segment 6"
+        ],
+        "url": "http://www.ebi.ac.uk/ena/data/view/AF389120",
+        "description": [
+            "Influenza A virus (A/Puerto Rico/8/34/Mount Sinai(H1N1)) segment 6, complete sequence."
+        ],
+        "schemaClass": "ReferenceRNASequence",
+        "className": "ReferenceRNASequence"
+    },
+    {
+        "dbId": 188854,
+        "displayName": "EMBL:AF389117 Unknown",
+        "databaseName": "EMBL",
+        "identifier": "AF389117",
+        "name": [
+            "H1N1 Genomic RNA Segment 3"
+        ],
+        "url": "http://www.ebi.ac.uk/ena/data/view/AF389117",
+        "description": [
+            "Influenza A virus (A/Puerto Rico/8/34/Mount Sinai(H1N1)) segment 3, complete sequence."
+        ],
+        "schemaClass": "ReferenceRNASequence",
+        "className": "ReferenceRNASequence"
+    },
+    {
+        "dbId": 188836,
+        "displayName": "EMBL:AF389119 Unknown",
+        "databaseName": "EMBL",
+        "identifier": "AF389119",
+        "name": [
+            "H1N1 Genomic RNA Segment 5"
+        ],
+        "url": "http://www.ebi.ac.uk/ena/data/view/AF389119",
+        "description": [
+            "Influenza A virus (A/Puerto Rico/8/34/Mount Sinai(H1N1)) segment 5, complete sequence."
+        ],
+        "schemaClass": "ReferenceRNASequence",
+        "className": "ReferenceRNASequence"
+    },
+    {
+        "dbId": 188870,
+        "displayName": "EMBL:AF389115 Unknown",
+        "databaseName": "EMBL",
+        "identifier": "AF389115",
+        "name": [
+            "H1N1 Genomic RNA Segment 1"
+        ],
+        "url": "http://www.ebi.ac.uk/ena/data/view/AF389115",
+        "description": [
+            "Influenza A virus (A/Puerto Rico/8/34/Mount Sinai(H1N1)) segment 1, complete sequence"
+        ],
+        "schemaClass": "ReferenceRNASequence",
+        "className": "ReferenceRNASequence"
+    },
+    {
+        "dbId": 188847,
+        "displayName": "EMBL:AF389116 Unknown",
+        "databaseName": "EMBL",
+        "identifier": "AF389116",
+        "name": [
+            "H1N1 Genomic RNA Segment 2"
+        ],
+        "url": "http://www.ebi.ac.uk/ena/data/view/AF389116",
+        "description": [
+            "Influenza A virus (A/Puerto Rico/8/34/Mount Sinai(H1N1)) segment 2, complete sequence."
+        ],
+        "schemaClass": "ReferenceRNASequence",
+        "className": "ReferenceRNASequence"
+    },
+    {
+        "dbId": 188873,
+        "displayName": "EMBL:AF389121 Unknown",
+        "databaseName": "EMBL",
+        "identifier": "AF389121",
+        "name": [
+            "H1N1 Genomic RNA Segment 7"
+        ],
+        "url": "http://www.ebi.ac.uk/ena/data/view/AF389121",
+        "description": [
+            "Influenza A virus (A/Puerto Rico/8/34/Mount Sinai(H1N1)) segment 7, complete sequence."
+        ],
+        "schemaClass": "ReferenceRNASequence",
+        "className": "ReferenceRNASequence"
+    }
+]

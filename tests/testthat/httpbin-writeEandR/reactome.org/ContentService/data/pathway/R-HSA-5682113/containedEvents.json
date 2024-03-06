@@ -1,0 +1,18 @@
+[
+    {
+        "dbId": 5682111,
+        "displayName": "Defective ABCA1 does not transport CHOL from transport vesicle membrane to plasma membrane",
+        "stId": "R-HSA-5682111",
+        "stIdVersion": "R-HSA-5682111.3",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "Defective ABCA1 does not transport CHOL from transport vesicle membrane to plasma membrane"
+        ],
+        "releaseDate": "2015-12-15",
+        "speciesName": "Homo sapiens",
+        "category": "transition",
+        "className": "Reaction",
+        "schemaClass": "FailedReaction"
+    }
+]

@@ -1,0 +1,87 @@
+[
+    {
+        "dbId": 5220959,
+        "displayName": "TDG excises 5-formylcytosine",
+        "stId": "R-HSA-5220959",
+        "stIdVersion": "R-HSA-5220959.1",
+        "isInDisease": false,
+        "isInferred": false,
+        "name": [
+            "TDG excises 5-formylcytosine"
+        ],
+        "releaseDate": "2014-03-12",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "transition",
+        "className": "Reaction",
+        "schemaClass": "Reaction"
+    },
+    {
+        "dbId": 5220990,
+        "displayName": "TET1,2,3 oxidizes 5-hydroxymethylcytosine to 5-formylcytosine",
+        "stId": "R-HSA-5220990",
+        "stIdVersion": "R-HSA-5220990.1",
+        "isInDisease": false,
+        "isInferred": true,
+        "name": [
+            "TET1,2,3 oxidizes 5-hydroxymethylcytosine to 5-formylcytosine"
+        ],
+        "releaseDate": "2014-03-12",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "transition",
+        "className": "Reaction",
+        "schemaClass": "Reaction"
+    },
+    {
+        "dbId": 5220952,
+        "displayName": "TET1,2,3 oxidizes 5-formylcytosine to 5-carboxylcytosine",
+        "stId": "R-HSA-5220952",
+        "stIdVersion": "R-HSA-5220952.1",
+        "isInDisease": false,
+        "isInferred": true,
+        "name": [
+            "TET1,2,3 oxidizes 5-formylcytosine to 5-carboxylcytosine"
+        ],
+        "releaseDate": "2014-03-12",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "transition",
+        "className": "Reaction",
+        "schemaClass": "Reaction"
+    },
+    {
+        "dbId": 5221014,
+        "displayName": "TET1,2,3 oxidizes 5-methylcytosine to 5-hydroxymethylcytosine",
+        "stId": "R-HSA-5221014",
+        "stIdVersion": "R-HSA-5221014.3",
+        "isInDisease": false,
+        "isInferred": true,
+        "name": [
+            "TET1,2,3 oxidizes 5-methylcytosine to 5-hydroxymethylcytosine"
+        ],
+        "releaseDate": "2014-03-12",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "transition",
+        "className": "Reaction",
+        "schemaClass": "Reaction"
+    },
+    {
+        "dbId": 5221061,
+        "displayName": "TDG excises 5-carboxylcytosine",
+        "stId": "R-HSA-5221061",
+        "stIdVersion": "R-HSA-5221061.1",
+        "isInDisease": false,
+        "isInferred": false,
+        "name": [
+            "TDG excises 5-carboxylcytosine"
+        ],
+        "releaseDate": "2014-03-12",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "transition",
+        "className": "Reaction",
+        "schemaClass": "Reaction"
+    }
+]

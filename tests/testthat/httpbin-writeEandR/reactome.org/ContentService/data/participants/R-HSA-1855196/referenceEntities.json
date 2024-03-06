@@ -1,0 +1,41 @@
+[
+    {
+        "dbId": 114877,
+        "displayName": "1D-myo-inositol 1,4,5-trisphosphate [ChEBI:16595]",
+        "databaseName": "ChEBI",
+        "identifier": "16595",
+        "name": [
+            "1D-myo-inositol 1,4,5-trisphosphate"
+        ],
+        "url": "http://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:16595",
+        "formula": "C6H15O15P3",
+        "schemaClass": "ReferenceMolecule",
+        "className": "ReferenceMolecule"
+    },
+    {
+        "dbId": 31529,
+        "displayName": "1D-myo-inositol 1,3,4,5-tetrakisphosphate [ChEBI:16783]",
+        "databaseName": "ChEBI",
+        "identifier": "16783",
+        "name": [
+            "1D-myo-inositol 1,3,4,5-tetrakisphosphate"
+        ],
+        "url": "http://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:16783",
+        "formula": "C6H16O18P4",
+        "schemaClass": "ReferenceMolecule",
+        "className": "ReferenceMolecule"
+    },
+    {
+        "dbId": 36127,
+        "displayName": "myo-inositol 1,3,4,6-tetrakisphosphate [ChEBI:16155]",
+        "databaseName": "ChEBI",
+        "identifier": "16155",
+        "name": [
+            "myo-inositol 1,3,4,6-tetrakisphosphate"
+        ],
+        "url": "http://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:16155",
+        "formula": "C6H16O18P4",
+        "schemaClass": "ReferenceMolecule",
+        "className": "ReferenceMolecule"
+    }
+]

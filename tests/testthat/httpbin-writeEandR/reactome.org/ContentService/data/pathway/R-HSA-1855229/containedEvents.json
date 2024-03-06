@@ -1,0 +1,36 @@
+[
+    {
+        "dbId": 1855212,
+        "displayName": "1/3-PP-IP5 transports from the cytosol to the nucleus",
+        "stId": "R-HSA-1855212",
+        "stIdVersion": "R-HSA-1855212.2",
+        "isInDisease": false,
+        "isInferred": false,
+        "name": [
+            "1/3-PP-IP5 transports from the cytosol to the nucleus"
+        ],
+        "releaseDate": "2012-12-04",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "transition",
+        "className": "Reaction",
+        "schemaClass": "Reaction"
+    },
+    {
+        "dbId": 1855188,
+        "displayName": "IP6 transports from the cytosol to the nucleus",
+        "stId": "R-HSA-1855188",
+        "stIdVersion": "R-HSA-1855188.2",
+        "isInDisease": false,
+        "isInferred": false,
+        "name": [
+            "IP6 transports from the cytosol to the nucleus"
+        ],
+        "releaseDate": "2012-12-04",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "transition",
+        "className": "Reaction",
+        "schemaClass": "Reaction"
+    }
+]

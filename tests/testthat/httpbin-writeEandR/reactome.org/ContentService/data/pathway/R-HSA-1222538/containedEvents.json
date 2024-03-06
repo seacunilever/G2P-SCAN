@@ -1,0 +1,172 @@
+[
+    {
+        "dbId": 1222594,
+        "displayName": "Mycothiol scavenges nitrosyl",
+        "stId": "R-HSA-1222594",
+        "stIdVersion": "R-HSA-1222594.1",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "Mycothiol scavenges nitrosyl"
+        ],
+        "releaseDate": "2012-06-12",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "transition",
+        "className": "Reaction",
+        "schemaClass": "Reaction"
+    },
+    {
+        "dbId": 1222723,
+        "displayName": "Nitric oxide is oxidized to nitrate",
+        "stId": "R-HSA-1222723",
+        "stIdVersion": "R-HSA-1222723.1",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "Nitric oxide is oxidized to nitrate"
+        ],
+        "releaseDate": "2012-06-12",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "transition",
+        "className": "Reaction",
+        "schemaClass": "Reaction"
+    },
+    {
+        "dbId": 1222755,
+        "displayName": "Peroxynitrite is reduced to nitrite by Tpx",
+        "stId": "R-HSA-1222755",
+        "stIdVersion": "R-HSA-1222755.1",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "Peroxynitrite is reduced to nitrite by Tpx"
+        ],
+        "releaseDate": "2012-06-12",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "transition",
+        "className": "Reaction",
+        "schemaClass": "Reaction"
+    },
+    {
+        "dbId": 1500804,
+        "displayName": "Peroxynitrite is reduced by AhpE",
+        "stId": "R-HSA-1500804",
+        "stIdVersion": "R-HSA-1500804.1",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "Peroxynitrite is reduced by AhpE"
+        ],
+        "releaseDate": "2012-06-12",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "transition",
+        "className": "Reaction",
+        "schemaClass": "Reaction"
+    },
+    {
+        "dbId": 1222583,
+        "displayName": "MscR reduces nitrosomycothiol to ammonia",
+        "stId": "R-HSA-1222583",
+        "stIdVersion": "R-HSA-1222583.1",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "MscR reduces nitrosomycothiol to ammonia"
+        ],
+        "releaseDate": "2012-06-12",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "transition",
+        "className": "Reaction",
+        "schemaClass": "Reaction"
+    },
+    {
+        "dbId": 1500817,
+        "displayName": "Glutathione is taken up by the bacterium",
+        "stId": "R-HSA-1500817",
+        "stIdVersion": "R-HSA-1500817.1",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "Glutathione is taken up by the bacterium"
+        ],
+        "releaseDate": "2012-06-12",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "transition",
+        "className": "Reaction",
+        "schemaClass": "Reaction"
+    },
+    {
+        "dbId": 1222363,
+        "displayName": "MsrA/B reduces peptide-methionine S/R-sulfoxides",
+        "stId": "R-HSA-1222363",
+        "stIdVersion": "R-HSA-1222363.1",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "MsrA/B reduces peptide-methionine S/R-sulfoxides"
+        ],
+        "releaseDate": "2012-06-12",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "transition",
+        "className": "Reaction",
+        "schemaClass": "Reaction"
+    },
+    {
+        "dbId": 1222712,
+        "displayName": "Nitrosoglutathione gets cleaved to Cys(NO)-Gly",
+        "stId": "R-HSA-1222712",
+        "stIdVersion": "R-HSA-1222712.1",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "Nitrosoglutathione gets cleaved to Cys(NO)-Gly"
+        ],
+        "releaseDate": "2012-06-12",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "transition",
+        "className": "Reaction",
+        "schemaClass": "Reaction"
+    },
+    {
+        "dbId": 1222431,
+        "displayName": "Peroxynitrite is reduced to nitrite by AhpC",
+        "stId": "R-HSA-1222431",
+        "stIdVersion": "R-HSA-1222431.1",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "Peroxynitrite is reduced to nitrite by AhpC"
+        ],
+        "releaseDate": "2012-06-12",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "transition",
+        "className": "Reaction",
+        "schemaClass": "Reaction"
+    },
+    {
+        "dbId": 1500761,
+        "displayName": "Nitrogen dioxide is reduced to NO by F420",
+        "stId": "R-HSA-1500761",
+        "stIdVersion": "R-HSA-1500761.2",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "Nitrogen dioxide is reduced to NO by F420"
+        ],
+        "releaseDate": "2012-06-12",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "transition",
+        "className": "Reaction",
+        "schemaClass": "Reaction"
+    }
+]

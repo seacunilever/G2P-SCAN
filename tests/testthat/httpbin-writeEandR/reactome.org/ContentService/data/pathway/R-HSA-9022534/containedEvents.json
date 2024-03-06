@@ -1,0 +1,19 @@
+[
+    {
+        "dbId": 9022462,
+        "displayName": "MECP2 mutants R133C ,D121G, R133H and S134F do not bind 5hmC-DNA",
+        "stId": "R-HSA-9022462",
+        "stIdVersion": "R-HSA-9022462.1",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "MECP2 mutants R133C ,D121G, R133H and S134F do not bind 5hmC-DNA"
+        ],
+        "releaseDate": "2018-09-12",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "transition",
+        "className": "Reaction",
+        "schemaClass": "FailedReaction"
+    }
+]

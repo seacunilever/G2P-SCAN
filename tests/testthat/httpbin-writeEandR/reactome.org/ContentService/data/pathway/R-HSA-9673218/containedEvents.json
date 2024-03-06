@@ -1,0 +1,19 @@
+[
+    {
+        "dbId": 9670888,
+        "displayName": "F9 variant is not secreted",
+        "stId": "R-HSA-9670888",
+        "stIdVersion": "R-HSA-9670888.1",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "F9 variant is not secreted"
+        ],
+        "releaseDate": "2020-06-10",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "transition",
+        "className": "Reaction",
+        "schemaClass": "FailedReaction"
+    }
+]

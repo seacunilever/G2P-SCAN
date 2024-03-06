@@ -1,0 +1,19 @@
+[
+    {
+        "dbId": 9669870,
+        "displayName": "Regorafenib-resistant KIT mutants do not bind regorafenib",
+        "stId": "R-HSA-9669870",
+        "stIdVersion": "R-HSA-9669870.1",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "Regorafenib-resistant KIT mutants do not bind regorafenib"
+        ],
+        "releaseDate": "2020-06-10",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "transition",
+        "className": "Reaction",
+        "schemaClass": "FailedReaction"
+    }
+]

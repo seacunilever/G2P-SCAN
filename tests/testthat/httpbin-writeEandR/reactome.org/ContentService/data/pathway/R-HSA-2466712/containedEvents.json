@@ -1,0 +1,87 @@
+[
+    {
+        "dbId": 2467761,
+        "displayName": "A2E is phagocytosed",
+        "stId": "R-HSA-2467761",
+        "stIdVersion": "R-HSA-2467761.1",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "A2E is phagocytosed"
+        ],
+        "releaseDate": "2013-03-12",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "transition",
+        "className": "Reaction",
+        "schemaClass": "Reaction"
+    },
+    {
+        "dbId": 2466764,
+        "displayName": "NRPE condenses with atRAL to form A2PE",
+        "stId": "R-HSA-2466764",
+        "stIdVersion": "R-HSA-2466764.1",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "NRPE condenses with atRAL to form A2PE"
+        ],
+        "releaseDate": "2013-03-12",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "transition",
+        "className": "Reaction",
+        "schemaClass": "Reaction"
+    },
+    {
+        "dbId": 2466831,
+        "displayName": "A2PE hydrolyses to A2E",
+        "stId": "R-HSA-2466831",
+        "stIdVersion": "R-HSA-2466831.2",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "A2PE hydrolyses to A2E"
+        ],
+        "releaseDate": "2013-03-12",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "transition",
+        "className": "Reaction",
+        "schemaClass": "Reaction"
+    },
+    {
+        "dbId": 2466846,
+        "displayName": "atRAL can spontaneously react with PE to form NRPE",
+        "stId": "R-HSA-2466846",
+        "stIdVersion": "R-HSA-2466846.1",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "atRAL can spontaneously react with PE to form NRPE"
+        ],
+        "releaseDate": "2013-03-12",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "transition",
+        "className": "Reaction",
+        "schemaClass": "Reaction"
+    },
+    {
+        "dbId": 2467738,
+        "displayName": "A2E translocates to RPE cells",
+        "stId": "R-HSA-2467738",
+        "stIdVersion": "R-HSA-2467738.1",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "A2E translocates to RPE cells"
+        ],
+        "releaseDate": "2013-03-12",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "transition",
+        "className": "Reaction",
+        "schemaClass": "Reaction"
+    }
+]

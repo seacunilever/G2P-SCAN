@@ -1,0 +1,19 @@
+[
+    {
+        "dbId": 5251559,
+        "displayName": "Deletions of the AMER1 gene prevent expression of AMER1 protein",
+        "stId": "R-HSA-5251559",
+        "stIdVersion": "R-HSA-5251559.2",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "Deletions of the AMER1 gene prevent expression of AMER1 protein"
+        ],
+        "releaseDate": "2014-06-10",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "transition",
+        "className": "Reaction",
+        "schemaClass": "FailedReaction"
+    }
+]

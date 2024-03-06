@@ -1,0 +1,19 @@
+[
+    {
+        "dbId": 1675815,
+        "displayName": "PI4P transports from the Golgi membrane to the plasma membrane",
+        "stId": "R-HSA-1675815",
+        "stIdVersion": "R-HSA-1675815.1",
+        "isInDisease": false,
+        "isInferred": false,
+        "name": [
+            "PI4P transports from the Golgi membrane to the plasma membrane"
+        ],
+        "releaseDate": "2012-06-12",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "transition",
+        "className": "Reaction",
+        "schemaClass": "Reaction"
+    }
+]

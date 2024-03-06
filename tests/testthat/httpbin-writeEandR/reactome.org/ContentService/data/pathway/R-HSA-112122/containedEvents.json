@@ -1,0 +1,98 @@
+[
+    {
+        "dbId": 112118,
+        "displayName": "Oxidative demethylation of 1-meA damaged DNA by ALKBH2",
+        "stId": "R-HSA-112118",
+        "stIdVersion": "R-HSA-112118.1",
+        "isInDisease": false,
+        "isInferred": false,
+        "name": [
+            "Oxidative demethylation of 1-meA damaged DNA by ALKBH2"
+        ],
+        "releaseDate": "2004-03-06",
+        "speciesName": "Homo sapiens",
+        "category": "transition",
+        "className": "Reaction",
+        "schemaClass": "Reaction"
+    },
+    {
+        "dbId": 5657665,
+        "displayName": "ALKBH2 binds alkylated dsDNA containing 3-meC",
+        "stId": "R-HSA-5657665",
+        "stIdVersion": "R-HSA-5657665.1",
+        "isInDisease": false,
+        "isInferred": false,
+        "name": [
+            "ALKBH2 binds alkylated dsDNA containing 3-meC"
+        ],
+        "releaseDate": "2004-03-06",
+        "speciesName": "Homo sapiens",
+        "category": "binding",
+        "className": "Reaction",
+        "schemaClass": "Reaction"
+    },
+    {
+        "dbId": 5657649,
+        "displayName": "ALKBH2 binds alkylated DNA containing 1-etA",
+        "stId": "R-HSA-5657649",
+        "stIdVersion": "R-HSA-5657649.1",
+        "isInDisease": false,
+        "isInferred": false,
+        "name": [
+            "ALKBH2 binds alkylated DNA containing 1-etA"
+        ],
+        "releaseDate": "2004-03-06",
+        "speciesName": "Homo sapiens",
+        "category": "binding",
+        "className": "Reaction",
+        "schemaClass": "Reaction"
+    },
+    {
+        "dbId": 112121,
+        "displayName": "Oxidative dealkylation of 1-etA damaged DNA By ALKBH2",
+        "stId": "R-HSA-112121",
+        "stIdVersion": "R-HSA-112121.1",
+        "isInDisease": false,
+        "isInferred": false,
+        "name": [
+            "Oxidative dealkylation of 1-etA damaged DNA By ALKBH2"
+        ],
+        "releaseDate": "2004-03-06",
+        "speciesName": "Homo sapiens",
+        "category": "transition",
+        "className": "Reaction",
+        "schemaClass": "Reaction"
+    },
+    {
+        "dbId": 112120,
+        "displayName": "Oxidative demethylation of 3-meC damaged DNA by ALKBH2",
+        "stId": "R-HSA-112120",
+        "stIdVersion": "R-HSA-112120.1",
+        "isInDisease": false,
+        "isInferred": false,
+        "name": [
+            "Oxidative demethylation of 3-meC damaged DNA by ALKBH2"
+        ],
+        "releaseDate": "2004-03-06",
+        "speciesName": "Homo sapiens",
+        "category": "transition",
+        "className": "Reaction",
+        "schemaClass": "Reaction"
+    },
+    {
+        "dbId": 5657641,
+        "displayName": "ALKBH2 binds alkylated DNA containing 1-meA",
+        "stId": "R-HSA-5657641",
+        "stIdVersion": "R-HSA-5657641.1",
+        "isInDisease": false,
+        "isInferred": false,
+        "name": [
+            "ALKBH2 binds alkylated DNA containing 1-meA"
+        ],
+        "releaseDate": "2004-03-06",
+        "speciesName": "Homo sapiens",
+        "category": "binding",
+        "className": "Reaction",
+        "schemaClass": "Reaction"
+    }
+]

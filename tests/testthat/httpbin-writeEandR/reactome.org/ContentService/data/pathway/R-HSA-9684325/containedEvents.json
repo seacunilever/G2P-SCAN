@@ -1,0 +1,242 @@
+[
+    {
+        "dbId": 9684275,
+        "displayName": "nsp3-4 is glycosylated",
+        "stId": "R-HSA-9684275",
+        "stIdVersion": "R-HSA-9684275.2",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "nsp3-4 is glycosylated"
+        ],
+        "releaseDate": "2020-06-10",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "uncertain",
+        "className": "Reaction",
+        "schemaClass": "BlackBoxEvent"
+    },
+    {
+        "dbId": 9684273,
+        "displayName": "3CLp cleaves pp1a",
+        "stId": "R-HSA-9684273",
+        "stIdVersion": "R-HSA-9684273.2",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "3CLp cleaves pp1a"
+        ],
+        "releaseDate": "2020-06-10",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "transition",
+        "className": "Reaction",
+        "schemaClass": "Reaction"
+    },
+    {
+        "dbId": 9684336,
+        "displayName": "nsp1-4 cleaves itself",
+        "stId": "R-HSA-9684336",
+        "stIdVersion": "R-HSA-9684336.2",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "nsp1-4 cleaves itself"
+        ],
+        "releaseDate": "2020-06-10",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "transition",
+        "className": "Reaction",
+        "schemaClass": "Reaction"
+    },
+    {
+        "dbId": 9684309,
+        "displayName": "3CLp cleaves nsp6-11",
+        "stId": "R-HSA-9684309",
+        "stIdVersion": "R-HSA-9684309.2",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "3CLp cleaves nsp6-11"
+        ],
+        "releaseDate": "2020-06-10",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "transition",
+        "className": "Reaction",
+        "schemaClass": "Reaction"
+    },
+    {
+        "dbId": 9684340,
+        "displayName": "3CLp cleaves pp1ab",
+        "stId": "R-HSA-9684340",
+        "stIdVersion": "R-HSA-9684340.2",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "3CLp cleaves pp1ab"
+        ],
+        "releaseDate": "2020-06-10",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "transition",
+        "className": "Reaction",
+        "schemaClass": "Reaction"
+    },
+    {
+        "dbId": 9684282,
+        "displayName": "nsp9 forms a homodimer",
+        "stId": "R-HSA-9684282",
+        "stIdVersion": "R-HSA-9684282.2",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "nsp9 forms a homodimer"
+        ],
+        "releaseDate": "2020-06-10",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "uncertain",
+        "className": "Reaction",
+        "schemaClass": "BlackBoxEvent"
+    },
+    {
+        "dbId": 9684351,
+        "displayName": "pp1a cleaves itself",
+        "stId": "R-HSA-9684351",
+        "stIdVersion": "R-HSA-9684351.2",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "pp1a cleaves itself"
+        ],
+        "releaseDate": "2020-06-10",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "transition",
+        "className": "Reaction",
+        "schemaClass": "Reaction"
+    },
+    {
+        "dbId": 9684350,
+        "displayName": "pp1a forms a dimer",
+        "stId": "R-HSA-9684350",
+        "stIdVersion": "R-HSA-9684350.2",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "pp1a forms a dimer"
+        ],
+        "releaseDate": "2020-06-10",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "uncertain",
+        "className": "Reaction",
+        "schemaClass": "BlackBoxEvent"
+    },
+    {
+        "dbId": 9681596,
+        "displayName": "3CLp dimer binds a-Ketoamides",
+        "stId": "R-HSA-9681596",
+        "stIdVersion": "R-HSA-9681596.3",
+        "definition": "Inhibition",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "3CLp dimer binds a-Ketoamides",
+            "3C-like proteinase dimer binds a-Ketoamides"
+        ],
+        "releaseDate": "2020-06-10",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "omitted",
+        "className": "Reaction",
+        "schemaClass": "BlackBoxEvent"
+    },
+    {
+        "dbId": 9684323,
+        "displayName": "3CLp forms a homodimer",
+        "stId": "R-HSA-9684323",
+        "stIdVersion": "R-HSA-9684323.2",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "3CLp forms a homodimer"
+        ],
+        "releaseDate": "2020-06-10",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "binding",
+        "className": "Reaction",
+        "schemaClass": "Reaction"
+    },
+    {
+        "dbId": 9684290,
+        "displayName": "nsp3 is glycosylated",
+        "stId": "R-HSA-9684290",
+        "stIdVersion": "R-HSA-9684290.2",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "nsp3 is glycosylated"
+        ],
+        "releaseDate": "2020-06-10",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "uncertain",
+        "className": "Reaction",
+        "schemaClass": "BlackBoxEvent"
+    },
+    {
+        "dbId": 9684321,
+        "displayName": "nsp3 cleaves nsp1-4",
+        "stId": "R-HSA-9684321",
+        "stIdVersion": "R-HSA-9684321.2",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "nsp3 cleaves nsp1-4"
+        ],
+        "releaseDate": "2020-06-10",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "transition",
+        "className": "Reaction",
+        "schemaClass": "Reaction"
+    },
+    {
+        "dbId": 9684352,
+        "displayName": "nsp3-4 cleaves itself",
+        "stId": "R-HSA-9684352",
+        "stIdVersion": "R-HSA-9684352.2",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "nsp3-4 cleaves itself"
+        ],
+        "releaseDate": "2020-06-10",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "transition",
+        "className": "Reaction",
+        "schemaClass": "Reaction"
+    },
+    {
+        "dbId": 9684261,
+        "displayName": "nsp4 is glycosylated",
+        "stId": "R-HSA-9684261",
+        "stIdVersion": "R-HSA-9684261.2",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "nsp4 is glycosylated"
+        ],
+        "releaseDate": "2020-06-10",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "uncertain",
+        "className": "Reaction",
+        "schemaClass": "BlackBoxEvent"
+    }
+]

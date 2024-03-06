@@ -1,0 +1,81 @@
+[
+    {
+        "dbId": 9729896,
+        "displayName": "procarbazine [Guide to Pharmacology:7278]",
+        "databaseName": "Guide to Pharmacology",
+        "identifier": "7278",
+        "name": [
+            "procarbazine",
+            "Matulane&reg;",
+            "Ro-4-6467/1",
+            "Ro-4646711"
+        ],
+        "url": "https://www.guidetopharmacology.org/GRAC/LigandDisplayForward?ligandId=7278",
+        "approvalSource": [
+            "FDA (1969)"
+        ],
+        "approved": true,
+        "inn": "procarbazine",
+        "type": "Synthetic organic",
+        "schemaClass": "ReferenceTherapeutic",
+        "className": "ReferenceTherapeutic"
+    },
+    {
+        "dbId": 9729901,
+        "displayName": "temozolomide [Guide to Pharmacology:7301]",
+        "databaseName": "Guide to Pharmacology",
+        "identifier": "7301",
+        "name": [
+            "temozolomide",
+            "CCRG-81045",
+            "M-39831",
+            "Temodal&reg;",
+            "Temodar&reg;"
+        ],
+        "url": "https://www.guidetopharmacology.org/GRAC/LigandDisplayForward?ligandId=7301",
+        "approvalSource": [
+            "EMA and FDA (1999)"
+        ],
+        "approved": true,
+        "inn": "temozolomide",
+        "type": "Synthetic organic",
+        "schemaClass": "ReferenceTherapeutic",
+        "className": "ReferenceTherapeutic"
+    },
+    {
+        "dbId": 9729900,
+        "displayName": "streptozocin [PubChem Compound:29327]",
+        "databaseName": "PubChem Compound",
+        "identifier": "29327",
+        "name": [
+            "streptozocin",
+            "streptozotocin"
+        ],
+        "url": "http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=29327",
+        "approvalSource": [
+            "FDA (1982)"
+        ],
+        "approved": true,
+        "schemaClass": "ReferenceTherapeutic",
+        "className": "ReferenceTherapeutic"
+    },
+    {
+        "dbId": 9729905,
+        "displayName": "dacarbazine [Guide to Pharmacology:9075]",
+        "databaseName": "Guide to Pharmacology",
+        "identifier": "9075",
+        "name": [
+            "dacarbazine",
+            "DTIC-Dome&reg;"
+        ],
+        "url": "https://www.guidetopharmacology.org/GRAC/LigandDisplayForward?ligandId=9075",
+        "approvalSource": [
+            "FDA (1975)"
+        ],
+        "approved": true,
+        "inn": "dacarbazine",
+        "type": "Synthetic organic",
+        "schemaClass": "ReferenceTherapeutic",
+        "className": "ReferenceTherapeutic"
+    }
+]

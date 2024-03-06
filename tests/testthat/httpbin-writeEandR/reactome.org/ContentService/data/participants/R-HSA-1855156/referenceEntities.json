@@ -1,0 +1,28 @@
+[
+    {
+        "dbId": 31551,
+        "displayName": "myo-inositol 1,3,4,5,6-pentakisphosphate [ChEBI:16322]",
+        "databaseName": "ChEBI",
+        "identifier": "16322",
+        "name": [
+            "myo-inositol 1,3,4,5,6-pentakisphosphate"
+        ],
+        "url": "http://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:16322",
+        "formula": "C6H17O21P5",
+        "schemaClass": "ReferenceMolecule",
+        "className": "ReferenceMolecule"
+    },
+    {
+        "dbId": 48729,
+        "displayName": "1D-myo-inositol 1,4,5,6-tetrakisphosphate [ChEBI:16067]",
+        "databaseName": "ChEBI",
+        "identifier": "16067",
+        "name": [
+            "1D-myo-inositol 1,4,5,6-tetrakisphosphate"
+        ],
+        "url": "http://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:16067",
+        "formula": "C6H16O18P4",
+        "schemaClass": "ReferenceMolecule",
+        "className": "ReferenceMolecule"
+    }
+]

@@ -1,0 +1,70 @@
+[
+    {
+        "dbId": 2029992,
+        "displayName": "Tyrosine kinase inhibitors bind to overexpressed FGFR2 variants",
+        "stId": "R-HSA-2029992",
+        "stIdVersion": "R-HSA-2029992.1",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "Tyrosine kinase inhibitors bind to overexpressed FGFR2 variants"
+        ],
+        "releaseDate": "2012-06-12",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "binding",
+        "className": "Reaction",
+        "schemaClass": "Reaction"
+    },
+    {
+        "dbId": 2029988,
+        "displayName": "Dimerization of overexpressed FGFR2",
+        "stId": "R-HSA-2029988",
+        "stIdVersion": "R-HSA-2029988.1",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "Dimerization of overexpressed FGFR2"
+        ],
+        "releaseDate": "2012-06-12",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "transition",
+        "className": "Reaction",
+        "schemaClass": "Reaction"
+    },
+    {
+        "dbId": 2029989,
+        "displayName": "Autocatalytic phosphorylation of overexpressed FGFR2 variants",
+        "stId": "R-HSA-2029989",
+        "stIdVersion": "R-HSA-2029989.1",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "Autocatalytic phosphorylation of overexpressed FGFR2 variants"
+        ],
+        "releaseDate": "2012-06-12",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "transition",
+        "className": "Reaction",
+        "schemaClass": "Reaction"
+    },
+    {
+        "dbId": 2067713,
+        "displayName": "GP369 inhibits activation of amplified FGFR2 signaling",
+        "stId": "R-HSA-2067713",
+        "stIdVersion": "R-HSA-2067713.1",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "GP369 inhibits activation of amplified FGFR2 signaling"
+        ],
+        "releaseDate": "2012-06-12",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "binding",
+        "className": "Reaction",
+        "schemaClass": "Reaction"
+    }
+]
