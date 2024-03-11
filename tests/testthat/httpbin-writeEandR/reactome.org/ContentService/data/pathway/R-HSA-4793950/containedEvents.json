@@ -1,0 +1,74 @@
+[
+    {
+        "dbId": 9036008,
+        "displayName": "Defective MAN1B1 does not hydrolyse a second 1,2-linked mannose (a branch)",
+        "stId": "R-HSA-9036008",
+        "stIdVersion": "R-HSA-9036008.2",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "Defective MAN1B1 does not hydrolyse a second 1,2-linked mannose (a branch)"
+        ],
+        "releaseDate": "2014-12-11",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "systematicName": "MAN1B1 mutants do not cleave Man from MAN1B1 substrates",
+        "category": "transition",
+        "className": "Reaction",
+        "schemaClass": "FailedReaction"
+    },
+    {
+        "dbId": 9036011,
+        "displayName": "Defective MAN1B1 does not hydrolyse 1,2-linked mannose (b branch)",
+        "stId": "R-HSA-9036011",
+        "stIdVersion": "R-HSA-9036011.2",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "Defective MAN1B1 does not hydrolyse 1,2-linked mannose (b branch)"
+        ],
+        "releaseDate": "2014-12-11",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "systematicName": "MAN1B1 mutants do not cleave Man from MAN1B1 substrates",
+        "category": "transition",
+        "className": "Reaction",
+        "schemaClass": "FailedReaction"
+    },
+    {
+        "dbId": 4793949,
+        "displayName": "Defective MAN1B1 does not hydrolyse 1,2-linked mannose (a branch)",
+        "stId": "R-HSA-4793949",
+        "stIdVersion": "R-HSA-4793949.3",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "Defective MAN1B1 does not hydrolyse 1,2-linked mannose (a branch)"
+        ],
+        "releaseDate": "2014-12-11",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "systematicName": "MAN1B1 mutants do not cleave Man from MAN1B1 substrates",
+        "category": "transition",
+        "className": "Reaction",
+        "schemaClass": "FailedReaction"
+    },
+    {
+        "dbId": 9036012,
+        "displayName": "Defective MAN1B1 does not hydrolyse 1,2-linked mannose (c branch)",
+        "stId": "R-HSA-9036012",
+        "stIdVersion": "R-HSA-9036012.2",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "Defective MAN1B1 does not hydrolyse 1,2-linked mannose (c branch)"
+        ],
+        "releaseDate": "2014-12-11",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "systematicName": "MAN1B1 mutants do not cleave Man from MAN1B1 substrates",
+        "category": "transition",
+        "className": "Reaction",
+        "schemaClass": "FailedReaction"
+    }
+]

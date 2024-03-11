@@ -1,0 +1,36 @@
+[
+    {
+        "dbId": 1855160,
+        "displayName": "I(1,3,4,5,6)P5 transports from the ER lumen to the nucleus",
+        "stId": "R-HSA-1855160",
+        "stIdVersion": "R-HSA-1855160.2",
+        "isInDisease": false,
+        "isInferred": false,
+        "name": [
+            "I(1,3,4,5,6)P5 transports from the ER lumen to the nucleus"
+        ],
+        "releaseDate": "2012-12-04",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "transition",
+        "className": "Reaction",
+        "schemaClass": "Reaction"
+    },
+    {
+        "dbId": 1855189,
+        "displayName": "I(1,4,5,6)P4 transports from the ER lumen to the nucleus",
+        "stId": "R-HSA-1855189",
+        "stIdVersion": "R-HSA-1855189.2",
+        "isInDisease": false,
+        "isInferred": false,
+        "name": [
+            "I(1,4,5,6)P4 transports from the ER lumen to the nucleus"
+        ],
+        "releaseDate": "2012-12-04",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "transition",
+        "className": "Reaction",
+        "schemaClass": "Reaction"
+    }
+]

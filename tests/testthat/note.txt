@@ -1,0 +1,1 @@
+Note all function can have unit test because of how API calls are handle through the callAPI function. As output of the APIs are transformed the httptest package cannot capture the outputs correct to ensure testing function on the same api call version each time. 

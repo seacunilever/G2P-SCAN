@@ -1,0 +1,19 @@
+[
+    {
+        "dbId": 5246696,
+        "displayName": "APC truncation mutants are not K63 polyubiquitinated",
+        "stId": "R-HSA-5246696",
+        "stIdVersion": "R-HSA-5246696.1",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "APC truncation mutants are not K63 polyubiquitinated"
+        ],
+        "releaseDate": "2014-06-10",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "transition",
+        "className": "Reaction",
+        "schemaClass": "FailedReaction"
+    }
+]

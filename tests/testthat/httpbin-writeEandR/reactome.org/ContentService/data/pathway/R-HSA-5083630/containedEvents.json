@@ -1,0 +1,19 @@
+[
+    {
+        "dbId": 5096538,
+        "displayName": "Defective LFNG does not transfer GlcNAc to Pre-NOTCH",
+        "stId": "R-HSA-5096538",
+        "stIdVersion": "R-HSA-5096538.2",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "Defective LFNG does not transfer GlcNAc to Pre-NOTCH"
+        ],
+        "releaseDate": "2016-03-23",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "transition",
+        "className": "Reaction",
+        "schemaClass": "FailedReaction"
+    }
+]

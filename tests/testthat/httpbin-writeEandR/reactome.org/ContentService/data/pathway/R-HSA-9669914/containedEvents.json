@@ -1,0 +1,19 @@
+[
+    {
+        "dbId": 9669855,
+        "displayName": "Dasatinib-resistant KIT mutants do not bind dasatinib",
+        "stId": "R-HSA-9669855",
+        "stIdVersion": "R-HSA-9669855.1",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "Dasatinib-resistant KIT mutants do not bind dasatinib"
+        ],
+        "releaseDate": "2020-06-10",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "transition",
+        "className": "Reaction",
+        "schemaClass": "FailedReaction"
+    }
+]

@@ -1,0 +1,70 @@
+[
+    {
+        "dbId": 5660503,
+        "displayName": "Expression of CSRP1",
+        "stId": "R-HSA-5660503",
+        "stIdVersion": "R-HSA-5660503.5",
+        "isInDisease": false,
+        "isInferred": true,
+        "name": [
+            "Expression of CSRP1"
+        ],
+        "releaseDate": "2017-03-27",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "omitted",
+        "className": "Reaction",
+        "schemaClass": "BlackBoxEvent"
+    },
+    {
+        "dbId": 5660530,
+        "displayName": "Expression of SNCB",
+        "stId": "R-HSA-5660530",
+        "stIdVersion": "R-HSA-5660530.4",
+        "isInDisease": false,
+        "isInferred": false,
+        "name": [
+            "Expression of SNCB"
+        ],
+        "releaseDate": "2017-03-27",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "omitted",
+        "className": "Reaction",
+        "schemaClass": "BlackBoxEvent"
+    },
+    {
+        "dbId": 5660514,
+        "displayName": "MTF1 dimer:12Zn2+ binds CSRP1 gene",
+        "stId": "R-HSA-5660514",
+        "stIdVersion": "R-HSA-5660514.1",
+        "isInDisease": false,
+        "isInferred": true,
+        "name": [
+            "MTF1 dimer:12Zn2+ binds CSRP1 gene"
+        ],
+        "releaseDate": "2017-03-27",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "binding",
+        "className": "Reaction",
+        "schemaClass": "Reaction"
+    },
+    {
+        "dbId": 5660479,
+        "displayName": "MTF1 dimer:12Zn2+ binds SNCB gene (beta-synuclein)",
+        "stId": "R-HSA-5660479",
+        "stIdVersion": "R-HSA-5660479.1",
+        "isInDisease": false,
+        "isInferred": false,
+        "name": [
+            "MTF1 dimer:12Zn2+ binds SNCB gene (beta-synuclein)"
+        ],
+        "releaseDate": "2017-03-27",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "binding",
+        "className": "Reaction",
+        "schemaClass": "Reaction"
+    }
+]

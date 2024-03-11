@@ -1,0 +1,34 @@
+[
+    {
+        "dbId": 168299,
+        "displayName": "Ribonucleoprotein release from M1 proteins",
+        "stId": "R-HSA-168299",
+        "stIdVersion": "R-HSA-168299.3",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "Ribonucleoprotein release from M1 proteins"
+        ],
+        "releaseDate": "2006-01-23",
+        "speciesName": "Homo sapiens",
+        "category": "dissociation",
+        "className": "Reaction",
+        "schemaClass": "Reaction"
+    },
+    {
+        "dbId": 168313,
+        "displayName": "Virion-associated M2 protein mediated ion infusion",
+        "stId": "R-HSA-168313",
+        "stIdVersion": "R-HSA-168313.3",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "Virion-associated M2 protein mediated ion infusion"
+        ],
+        "releaseDate": "2005-06-13",
+        "speciesName": "Homo sapiens",
+        "category": "transition",
+        "className": "Reaction",
+        "schemaClass": "Reaction"
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "dbId": 192851,
+        "displayName": "vRNA Extension",
+        "stId": "R-HSA-192851",
+        "stIdVersion": "R-HSA-192851.4",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "vRNA Extension"
+        ],
+        "releaseDate": "2007-02-28",
+        "speciesName": "Homo sapiens",
+        "category": "transition",
+        "className": "Reaction",
+        "schemaClass": "Reaction"
+    },
+    {
+        "dbId": 192916,
+        "displayName": "Initiation of vRNA Synthesis",
+        "stId": "R-HSA-192916",
+        "stIdVersion": "R-HSA-192916.5",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "Initiation of vRNA Synthesis"
+        ],
+        "releaseDate": "2005-09-26",
+        "speciesName": "Homo sapiens",
+        "category": "transition",
+        "className": "Reaction",
+        "schemaClass": "Reaction"
+    }
+]

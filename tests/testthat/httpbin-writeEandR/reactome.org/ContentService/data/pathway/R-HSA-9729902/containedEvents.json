@@ -1,0 +1,20 @@
+[
+    {
+        "dbId": 9732692,
+        "displayName": "Triazenes produce DNA damage in the form of O6-methylguanine",
+        "stId": "R-HSA-9732692",
+        "stIdVersion": "R-HSA-9732692.1",
+        "isInDisease": false,
+        "isInferred": true,
+        "name": [
+            "Triazenes produce DNA damage in the form of O6-methylguanine"
+        ],
+        "releaseDate": "2021-09-15",
+        "releaseStatus": "NEW",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "omitted",
+        "className": "Reaction",
+        "schemaClass": "BlackBoxEvent"
+    }
+]

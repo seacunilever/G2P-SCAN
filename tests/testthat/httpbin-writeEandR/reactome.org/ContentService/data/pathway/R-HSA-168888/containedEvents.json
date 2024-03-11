@@ -1,0 +1,18 @@
+[
+    {
+        "dbId": 168891,
+        "displayName": "Binding of NS1 to dsRNA",
+        "stId": "R-HSA-168891",
+        "stIdVersion": "R-HSA-168891.4",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "Binding of NS1 to dsRNA"
+        ],
+        "releaseDate": "2005-04-11",
+        "speciesName": "Homo sapiens",
+        "category": "binding",
+        "className": "Reaction",
+        "schemaClass": "Reaction"
+    }
+]

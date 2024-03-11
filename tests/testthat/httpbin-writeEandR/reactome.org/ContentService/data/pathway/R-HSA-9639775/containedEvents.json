@@ -1,0 +1,54 @@
+[
+    {
+        "dbId": 9697086,
+        "displayName": "Rifampicin binds Mtb RNAP",
+        "stId": "R-HSA-9697086",
+        "stIdVersion": "R-HSA-9697086.1",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "Rifampicin binds Mtb RNAP"
+        ],
+        "releaseDate": "2019-12-10",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "binding",
+        "className": "Reaction",
+        "schemaClass": "Reaction"
+    },
+    {
+        "dbId": 9697085,
+        "displayName": "RNAP transcribes Mtb RNA polyanion",
+        "stId": "R-HSA-9697085",
+        "stIdVersion": "R-HSA-9697085.1",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "RNAP transcribes Mtb RNA polyanion",
+            "DNA-directed RNA polymerase transcribes RNA polyanion"
+        ],
+        "releaseDate": "2019-12-10",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "transition",
+        "className": "Reaction",
+        "schemaClass": "Polymerisation"
+    },
+    {
+        "dbId": 9697084,
+        "displayName": "Defective rpoB in Mtb RNAP transcribes RNA polyanion",
+        "stId": "R-HSA-9697084",
+        "stIdVersion": "R-HSA-9697084.1",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "Defective rpoB in Mtb RNAP transcribes RNA polyanion"
+        ],
+        "releaseDate": "2019-12-10",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "transition",
+        "className": "Reaction",
+        "schemaClass": "Polymerisation"
+    }
+]

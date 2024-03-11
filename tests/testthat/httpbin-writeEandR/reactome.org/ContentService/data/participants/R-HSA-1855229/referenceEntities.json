@@ -1,0 +1,41 @@
+[
+    {
+        "dbId": 1629750,
+        "displayName": "1-diphospho-1D-myo-inositol 2,3,4,5,6-pentakisphosphate [ChEBI:62919]",
+        "databaseName": "ChEBI",
+        "identifier": "62919",
+        "name": [
+            "1-diphospho-1D-myo-inositol 2,3,4,5,6-pentakisphosphate"
+        ],
+        "url": "http://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:62919",
+        "formula": "C6H19O27P7",
+        "schemaClass": "ReferenceMolecule",
+        "className": "ReferenceMolecule"
+    },
+    {
+        "dbId": 1629760,
+        "displayName": "3-diphospho-1D-myo-inositol 1,2,4,5,6-pentakisphosphate [ChEBI:62922]",
+        "databaseName": "ChEBI",
+        "identifier": "62922",
+        "name": [
+            "3-diphospho-1D-myo-inositol 1,2,4,5,6-pentakisphosphate"
+        ],
+        "url": "http://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:62922",
+        "formula": "C6H19O27P7",
+        "schemaClass": "ReferenceMolecule",
+        "className": "ReferenceMolecule"
+    },
+    {
+        "dbId": 31409,
+        "displayName": "myo-inositol hexakisphosphate [ChEBI:17401]",
+        "databaseName": "ChEBI",
+        "identifier": "17401",
+        "name": [
+            "myo-inositol hexakisphosphate"
+        ],
+        "url": "http://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:17401",
+        "formula": "C6H18O24P6",
+        "schemaClass": "ReferenceMolecule",
+        "className": "ReferenceMolecule"
+    }
+]

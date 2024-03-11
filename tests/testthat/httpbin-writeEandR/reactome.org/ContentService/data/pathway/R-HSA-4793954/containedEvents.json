@@ -1,0 +1,20 @@
+[
+    {
+        "dbId": 4793947,
+        "displayName": "Defective MOGS does not cleave glucose from an N-glycosylated protein",
+        "stId": "R-HSA-4793947",
+        "stIdVersion": "R-HSA-4793947.2",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "Defective MOGS does not cleave glucose from an N-glycosylated protein"
+        ],
+        "releaseDate": "2014-12-11",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "systematicName": "MOGS mutants do not cleave Glc from unfolded protein:(Glc)3 (GlcNAc)2 (Man)9 (Asn)1",
+        "category": "transition",
+        "className": "Reaction",
+        "schemaClass": "FailedReaction"
+    }
+]

@@ -1,0 +1,87 @@
+[
+    {
+        "dbId": 6793127,
+        "displayName": "MRM2 (FTSJ2) methylates uridine-1369 of 16S rRNA yielding 2'-O-methyluridine",
+        "stId": "R-HSA-6793127",
+        "stIdVersion": "R-HSA-6793127.3",
+        "isInDisease": false,
+        "isInferred": false,
+        "name": [
+            "MRM2 (FTSJ2) methylates uridine-1369 of 16S rRNA yielding 2'-O-methyluridine"
+        ],
+        "releaseDate": "2016-06-15",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "transition",
+        "className": "Reaction",
+        "schemaClass": "Reaction"
+    },
+    {
+        "dbId": 6793122,
+        "displayName": "MRM1 methylates guanosine-1145 of 16S rRNA yielding 2'-O-methylguanosine-1145",
+        "stId": "R-HSA-6793122",
+        "stIdVersion": "R-HSA-6793122.3",
+        "isInDisease": false,
+        "isInferred": false,
+        "name": [
+            "MRM1 methylates guanosine-1145 of 16S rRNA yielding 2'-O-methylguanosine-1145"
+        ],
+        "releaseDate": "2016-06-15",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "transition",
+        "className": "Reaction",
+        "schemaClass": "Reaction"
+    },
+    {
+        "dbId": 6793057,
+        "displayName": "NSUN4 methylates cytidine-841 of 12S rRNA yielding 5-methylcytidine-841",
+        "stId": "R-HSA-6793057",
+        "stIdVersion": "R-HSA-6793057.3",
+        "isInDisease": false,
+        "isInferred": false,
+        "name": [
+            "NSUN4 methylates cytidine-841 of 12S rRNA yielding 5-methylcytidine-841"
+        ],
+        "releaseDate": "2016-06-15",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "transition",
+        "className": "Reaction",
+        "schemaClass": "Reaction"
+    },
+    {
+        "dbId": 6793066,
+        "displayName": "TFB1M dimethylates adenosine-936 and adenosine-937 of 12S rRNA yielding 6-dimethyladenosine-936 and 6-dimethyladenosine-937",
+        "stId": "R-HSA-6793066",
+        "stIdVersion": "R-HSA-6793066.3",
+        "isInDisease": false,
+        "isInferred": false,
+        "name": [
+            "TFB1M dimethylates adenosine-936 and adenosine-937 of 12S rRNA yielding 6-dimethyladenosine-936 and 6-dimethyladenosine-937"
+        ],
+        "releaseDate": "2016-06-15",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "transition",
+        "className": "Reaction",
+        "schemaClass": "Reaction"
+    },
+    {
+        "dbId": 6793096,
+        "displayName": "MRM3 (RNMTL1) methylates guanosine-1370 of 16S rRNA yielding 2'-O-methylguanosine-1370",
+        "stId": "R-HSA-6793096",
+        "stIdVersion": "R-HSA-6793096.3",
+        "isInDisease": false,
+        "isInferred": false,
+        "name": [
+            "MRM3 (RNMTL1) methylates guanosine-1370 of 16S rRNA yielding 2'-O-methylguanosine-1370"
+        ],
+        "releaseDate": "2016-06-15",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "transition",
+        "className": "Reaction",
+        "schemaClass": "Reaction"
+    }
+]

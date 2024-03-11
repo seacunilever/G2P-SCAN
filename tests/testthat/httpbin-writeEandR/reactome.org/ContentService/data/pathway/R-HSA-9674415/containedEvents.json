@@ -1,0 +1,137 @@
+[
+    {
+        "dbId": 9674403,
+        "displayName": "Regorafenib-resistant PDGFR mutants",
+        "stId": "R-HSA-9674403",
+        "stIdVersion": "R-HSA-9674403.1",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "Regorafenib-resistant PDGFR mutants"
+        ],
+        "releaseDate": "2020-03-17",
+        "speciesName": "Homo sapiens",
+        "hasDiagram": true,
+        "hasEHLD": false,
+        "schemaClass": "Pathway",
+        "className": "Pathway"
+    },
+    {
+        "dbId": 9674408,
+        "displayName": "Regorafenib-resistant PDGFR mutants don't bind regorafenib",
+        "stId": "R-HSA-9674408",
+        "stIdVersion": "R-HSA-9674408.1",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "Regorafenib-resistant PDGFR mutants don't bind regorafenib"
+        ],
+        "releaseDate": "2020-03-17",
+        "speciesName": "Homo sapiens",
+        "category": "transition",
+        "className": "Reaction",
+        "schemaClass": "FailedReaction"
+    },
+    {
+        "dbId": 9674401,
+        "displayName": "Sunitinib-resistant PDGFR mutants",
+        "stId": "R-HSA-9674401",
+        "stIdVersion": "R-HSA-9674401.1",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "Sunitinib-resistant PDGFR mutants"
+        ],
+        "releaseDate": "2020-03-17",
+        "speciesName": "Homo sapiens",
+        "hasDiagram": true,
+        "hasEHLD": false,
+        "schemaClass": "Pathway",
+        "className": "Pathway"
+    },
+    {
+        "dbId": 9674398,
+        "displayName": "D842V PDGFRA doesn't bind sunitinib",
+        "stId": "R-HSA-9674398",
+        "stIdVersion": "R-HSA-9674398.1",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "D842V PDGFRA doesn't bind sunitinib"
+        ],
+        "releaseDate": "2020-03-17",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "transition",
+        "className": "Reaction",
+        "schemaClass": "FailedReaction"
+    },
+    {
+        "dbId": 9674404,
+        "displayName": "Sorafenib-resistant PDGFR mutants",
+        "stId": "R-HSA-9674404",
+        "stIdVersion": "R-HSA-9674404.1",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "Sorafenib-resistant PDGFR mutants"
+        ],
+        "releaseDate": "2020-03-17",
+        "speciesName": "Homo sapiens",
+        "hasDiagram": true,
+        "hasEHLD": false,
+        "schemaClass": "Pathway",
+        "className": "Pathway"
+    },
+    {
+        "dbId": 9674414,
+        "displayName": "Sorafenib-resistant PDGFR mutants don't bind sorefenib",
+        "stId": "R-HSA-9674414",
+        "stIdVersion": "R-HSA-9674414.1",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "Sorafenib-resistant PDGFR mutants don't bind sorefenib"
+        ],
+        "releaseDate": "2020-03-17",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "transition",
+        "className": "Reaction",
+        "schemaClass": "FailedReaction"
+    },
+    {
+        "dbId": 9674396,
+        "displayName": "Imatinib-resistant PDGFR mutants",
+        "stId": "R-HSA-9674396",
+        "stIdVersion": "R-HSA-9674396.1",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "Imatinib-resistant PDGFR mutants"
+        ],
+        "releaseDate": "2020-03-17",
+        "speciesName": "Homo sapiens",
+        "hasDiagram": true,
+        "hasEHLD": false,
+        "schemaClass": "Pathway",
+        "className": "Pathway"
+    },
+    {
+        "dbId": 9674397,
+        "displayName": "Imatinib-resistant PDGFR mutants don't bind imatinib",
+        "stId": "R-HSA-9674397",
+        "stIdVersion": "R-HSA-9674397.1",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "Imatinib-resistant PDGFR mutants don't bind imatinib"
+        ],
+        "releaseDate": "2020-03-17",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "transition",
+        "className": "Reaction",
+        "schemaClass": "FailedReaction"
+    }
+]

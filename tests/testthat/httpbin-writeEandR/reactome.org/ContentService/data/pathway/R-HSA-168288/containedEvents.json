@@ -1,0 +1,50 @@
+[
+    {
+        "dbId": 168306,
+        "displayName": "Concerted hemagglutinin pore formation",
+        "stId": "R-HSA-168306",
+        "stIdVersion": "R-HSA-168306.3",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "Concerted hemagglutinin pore formation"
+        ],
+        "releaseDate": "2005-06-13",
+        "speciesName": "Homo sapiens",
+        "category": "transition",
+        "className": "Reaction",
+        "schemaClass": "Reaction"
+    },
+    {
+        "dbId": 168324,
+        "displayName": "Conformation change in hemagglutinin freeing the fusion peptide of HA2",
+        "stId": "R-HSA-168324",
+        "stIdVersion": "R-HSA-168324.3",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "Conformation change in hemagglutinin freeing the fusion peptide of HA2"
+        ],
+        "releaseDate": "2006-01-23",
+        "speciesName": "Homo sapiens",
+        "category": "transition",
+        "className": "Reaction",
+        "schemaClass": "Reaction"
+    },
+    {
+        "dbId": 168312,
+        "displayName": "Fusion of the influenza virion HA2 protein transmembrane domain to the host cell endosome membrane",
+        "stId": "R-HSA-168312",
+        "stIdVersion": "R-HSA-168312.3",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "Fusion of the influenza virion HA2 protein transmembrane domain to the host cell endosome membrane"
+        ],
+        "releaseDate": "2006-01-23",
+        "speciesName": "Homo sapiens",
+        "category": "transition",
+        "className": "Reaction",
+        "schemaClass": "Reaction"
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "dbId": 9674398,
+        "displayName": "D842V PDGFRA doesn't bind sunitinib",
+        "stId": "R-HSA-9674398",
+        "stIdVersion": "R-HSA-9674398.1",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "D842V PDGFRA doesn't bind sunitinib"
+        ],
+        "releaseDate": "2020-03-17",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "transition",
+        "className": "Reaction",
+        "schemaClass": "FailedReaction"
+    }
+]

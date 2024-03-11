@@ -1,0 +1,32 @@
+[
+    {
+        "dbId": 1423871,
+        "displayName": "phosphatidylglycerol [ChEBI:17517]",
+        "databaseName": "ChEBI",
+        "identifier": "17517",
+        "name": [
+            "phosphatidylglycerol",
+            "phosphatidylglycerols"
+        ],
+        "url": "http://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:17517",
+        "formula": "C8H13O10PR2",
+        "schemaClass": "ReferenceMolecule",
+        "className": "ReferenceMolecule"
+    },
+    {
+        "dbId": 1498739,
+        "displayName": "lysobisphosphatidic acid [ChEBI:60815]",
+        "databaseName": "ChEBI",
+        "identifier": "60815",
+        "name": [
+            "lysobisphosphatidic acid",
+            "BMP",
+            "bis(monoacylglycerol) hydrogen phosphate",
+            "LBPA"
+        ],
+        "url": "http://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:60815",
+        "formula": "C10H23O8P",
+        "schemaClass": "ReferenceMolecule",
+        "className": "ReferenceMolecule"
+    }
+]

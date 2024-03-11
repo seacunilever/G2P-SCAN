@@ -1,0 +1,306 @@
+[
+    {
+        "dbId": 9694574,
+        "displayName": "NCBI Nucleotide:MN908947.3 SARS coronavirus, complete genome",
+        "databaseName": "NCBI Nucleotide",
+        "identifier": "MN908947.3",
+        "name": [
+            "SARS coronavirus, complete genome"
+        ],
+        "url": "http://www.ncbi.nlm.nih.gov/nuccore/MN908947.3",
+        "geneName": [
+            "SARS coronavirus, complete genome"
+        ],
+        "schemaClass": "ReferenceRNASequence",
+        "className": "ReferenceRNASequence"
+    },
+    {
+        "dbId": 9681690,
+        "displayName": "UniProt:P0DTC9 N",
+        "databaseName": "UniProt",
+        "identifier": "P0DTC9",
+        "name": [
+            "N"
+        ],
+        "url": "http://purl.uniprot.org/uniprot/P0DTC9",
+        "checksum": "56688DB785414E81",
+        "comment": [
+            "FUNCTION Packages the positive strand viral genome RNA into a helical ribonucleocapsid (RNP) and plays a fundamental role during virion assembly through its interactions with the viral genome and membrane protein M. Plays an important role in enhancing the efficiency of subgenomic viral RNA transcription as well as viral replication (By similarity). May modulate transforming growth factor-beta signaling by binding host smad3 (By similarity).SUBUNIT Homooligomer. Both monomeric and oligomeric forms interact with RNA. Interacts with protein M. Interacts with protein E. May bind to host HNRNPA1. Interacts with NSP3; this interaction serves to tether the genome to the newly translated replicase-transcriptase complex at a very early stage of infection (By similarity). May interact with host SMAD3 (By similarity).PTM ADP-ribosylated. The ADP-ribosylation is retained in the virion during infection.PTM Phosphorylated on serine and threonine residues.POLYMORPHISM Variant B.1.1.7 is also called Variant Of Concern (VOC) 202012/01, Variant Under Investigation (VUI) 202012/01, or 20B/501Y.V1.SIMILARITY Belongs to the betacoronavirus nucleocapsid protein family."
+        ],
+        "description": [
+            "recommendedName: fullName evidence=\"2\"Nucleoprotein shortName:N  alternativeName: fullName evidence=\"2\"Nucleocapsid protein shortName evidence=\"2\"NC shortName evidence=\"2\"Protein N "
+        ],
+        "geneName": [
+            "N"
+        ],
+        "isSequenceChanged": false,
+        "keyword": [
+            "3D-structure",
+            "ADP-ribosylation",
+            "Host cytoplasm",
+            "Phosphoprotein",
+            "Reference proteome",
+            "Ribonucleoprotein",
+            "RNA-binding",
+            "Transcription",
+            "Transcription regulation",
+            "Viral nucleoprotein",
+            "Virion"
+        ],
+        "secondaryIdentifier": [
+            "NCAP_SARS2"
+        ],
+        "sequenceLength": 419,
+        "chain": [
+            "chain:1-419"
+        ],
+        "schemaClass": "ReferenceGeneProduct",
+        "className": "ReferenceGeneProduct"
+    },
+    {
+        "dbId": 9681684,
+        "displayName": "UniProt:P0DTC7 7a",
+        "databaseName": "UniProt",
+        "identifier": "P0DTC7",
+        "name": [
+            "7a"
+        ],
+        "url": "http://purl.uniprot.org/uniprot/P0DTC7",
+        "checksum": "891E7EAB9E8A5BA9",
+        "comment": [
+            "FUNCTION Plays a role as antagonist of host tetherin (BST2), disrupting its antiviral effect. Acts by binding to BST2 thereby interfering with its glycosylation. May suppress small interfering RNA (siRNA). May bind to host ITGAL, thereby playing a role in attachment or modulation of leukocytes.SUBUNIT Interacts with the spike glycoprotein. Interacts with M protein. Interacts with E protein. Interacts with the ORF3a protein. Interacts with human SGT. Interacts with host ITGAL. Interacts with host BST2.DOMAIN The di-lysine motif confers endoplasmic reticulum localization for type I membrane proteins.PTM Poly-ubiquitinated by host with K63-linked polyubiquitin chains.MISCELLANEOUS Variant B.1.1.7 is also called Variant Of Concern (VOC) 202012/01, Variant Under Investigation (VUI) 202012/01, or 20B/501Y.V1."
+        ],
+        "description": [
+            "recommendedName: ORF7a protein shortName:ORF7a  alternativeName: Accessory protein 7a  alternativeName: Protein U122  alternativeName: Protein X4 "
+        ],
+        "geneName": [
+            "7a"
+        ],
+        "isSequenceChanged": false,
+        "keyword": [
+            "3D-structure",
+            "Disulfide bond",
+            "G0/G1 host cell cycle checkpoint dysregulation by virus",
+            "Host endoplasmic reticulum",
+            "Host Golgi apparatus",
+            "Host membrane",
+            "Host-virus interaction",
+            "Inhibition of host innate immune response by virus",
+            "Inhibition of host interferon signaling pathway by virus",
+            "Inhibition of host tetherin by virus",
+            "Isopeptide bond",
+            "Membrane",
+            "Modulation of host cell cycle by virus",
+            "Reference proteome",
+            "Signal",
+            "Transmembrane",
+            "Transmembrane helix",
+            "Ubl conjugation",
+            "Viral immunoevasion",
+            "Virion"
+        ],
+        "secondaryIdentifier": [
+            "NS7A_SARS2"
+        ],
+        "sequenceLength": 121,
+        "chain": [
+            "signal peptide:1-15",
+            "chain:16-121"
+        ],
+        "schemaClass": "ReferenceGeneProduct",
+        "className": "ReferenceGeneProduct"
+    },
+    {
+        "dbId": 9681697,
+        "displayName": "UniProt:P0DTC3 3a",
+        "databaseName": "UniProt",
+        "identifier": "P0DTC3",
+        "name": [
+            "3a"
+        ],
+        "url": "http://purl.uniprot.org/uniprot/P0DTC3",
+        "checksum": "4688E6D477E031C4",
+        "comment": [
+            "FUNCTION Plays a role in virus egress via lysosomal trafficking (PubMed:33157038, PubMed:33422265). Forms homotetrameric ion channels (viroporin) localized at endosomes and lysosomes, that may induce deacidification of lysosomes thereby allowing safe virion egress through lysosomal trafficking (By similarity) (PubMed:33157038, PubMed:33422265). Also blocks formation of autolysosomes through binding and sequestering host TMUB1/HOPS on late endosomes. This prevents fusion of autophagosomes with lysosomes, disrupting autophagy and facilitating virus egress (PubMed:33422265).SUBUNIT Homotetramer composed of two homodimers linked non covalently. Interacts with M, S and E proteins. Also interacts with the accessory protein 7a (By similarity). Interacts with host TMUB1/HOPS, sequestering it on late endosomes (PubMed:33422265).DOMAIN The second or the third transmembrane region are responsible for Golgi localization.PTM Exists in both O-glycosylated and non-glycosylated forms. The glycosylated form is associated with the virion."
+        ],
+        "description": [
+            "recommendedName: ORF3a protein shortName:ORF3a  alternativeName: Accessory protein 3a  alternativeName: Protein 3a  alternativeName: Protein U274  alternativeName: Protein X1 "
+        ],
+        "geneName": [
+            "3a"
+        ],
+        "isSequenceChanged": false,
+        "keyword": [
+            "3D-structure",
+            "Glycoprotein",
+            "Host cell membrane",
+            "Host cytoplasm",
+            "Host endosome",
+            "Host lysosome",
+            "Host membrane",
+            "Membrane",
+            "Reference proteome",
+            "Secreted",
+            "Transmembrane",
+            "Transmembrane helix",
+            "Virion"
+        ],
+        "secondaryIdentifier": [
+            "AP3A_SARS2"
+        ],
+        "sequenceLength": 275,
+        "chain": [
+            "chain:1-275"
+        ],
+        "schemaClass": "ReferenceGeneProduct",
+        "className": "ReferenceGeneProduct"
+    },
+    {
+        "dbId": 9681691,
+        "displayName": "UniProt:P0DTC2 S",
+        "databaseName": "UniProt",
+        "identifier": "P0DTC2",
+        "name": [
+            "S"
+        ],
+        "url": "http://purl.uniprot.org/uniprot/P0DTC2",
+        "checksum": "B17BE6D9F1C4EA34",
+        "comment": [
+            "DOMAIN The KxHxx motif seems to function as an ER retrieval and binds COPI in vitro.DOMAIN Fusion peptide 1 (FP1) and fusion peptide 2 (FP2) function cooperatively and have a membrane-ordering effect on lipid headgroups and shallow hydrophobic regions of target bilayers. They are considered as two domains of an extended, bipartite FP. The membrane-ordering activity is calcium-dependent and also dependent on correct folding, which is maintained by an internal disulfide bond in FP2.PTM The cytoplasmic Cys-rich domain is palmitoylated. Spike glycoprotein is digested within host endosomes.PTM Specific enzymatic cleavages in vivo yield mature proteins. The precursor is processed into S1 and S2 by host CTSL, TMPRSS2 or furin to yield the mature S1 and S2 proteins (PubMed:32155444). CTSL cleavage would occur in endosomes (PubMed:32221306, PubMed:33465165). TMPRSS2 cleavage would occur at the cell surface, allowing the virus to enter the cell despite inhibition of the endosomal pathway by hydroxychloroquine (PubMed:33465165). In addition, a second cleavage results in the release of a fusion peptide upon viral binding to the host cell receptor (By similarity). The polybasic furin cleavage site is absent in SARS-CoV S (PubMed:32155444, PubMed:32362314, PubMed:33465165). It increases the dependence on TMPRSS2 expression by SARS-CoV-2 (PubMed:33465165).PTM Highly decorated by heterogeneous N-linked glycans protruding from the trimer surface (PubMed:32075877, PubMed:32155444, PubMed:32929138). Highly glycosylated by host both on S1 and S2 subunits, occluding many regions across the surface of the protein (PubMed:32366695, PubMed:32363391, PubMed:32929138). Approximately 40% of the protein surface is shielded from antibody recognition by glycans, with the notable exception of the ACE2 receptor binding domain (PubMed:32929138).POLYMORPHISM Variant B.1.1.7 belongs to a lineage isolated first in United Kingdom (Dec 2020). It is also called Variant Of Concern (VOC) 202012/01, Variant Under Investigation (VUI) 202012/01, 501Y.V1 or 20B/501Y.V1.POLYMORPHISM Variant 501Y.V2 belongs to a lineage first isolated in South Africa (Dec 2020) is also called B 1.351.MISCELLANEOUS Variant D614G has become the most prevalent circulating sequence in the global pandemic since april 2020 (PubMed:32697968). The mutation is associated with higher viral loads produced in cell culture and animal models (PubMed:32697968, PubMed:33106671, PubMed:33184236). It would not change pathogenicity nor neutralization properties vs vaccination (PubMed:33184236). May be prevalent because the mutation increases virus transmission in human population (PubMed:33106671).SIMILARITY Belongs to the betacoronaviruses spike protein family.CAUTION Asn-17, Asn-603, Asn-1134, Asn-1158, and Asn-1173 are non glycosylated when S1 or S2 are expressed individually in HEK293 cells."
+        ],
+        "description": [
+            "recommendedName: fullName evidence=\"2\"Spike glycoprotein shortName evidence=\"2\"S glycoprotein  alternativeName: fullName evidence=\"2\"E2  alternativeName: fullName evidence=\"2\"Peplomer protein  component recommendedName: fullName evidence=\"2\"Spike protein S1  /component component recommendedName: fullName evidence=\"2\"Spike protein S2  /component component recommendedName: fullName evidence=\"2\"Spike protein S2'  /component"
+        ],
+        "geneName": [
+            "S",
+            "2"
+        ],
+        "isSequenceChanged": false,
+        "keyword": [
+            "3D-structure",
+            "Coiled coil",
+            "Disulfide bond",
+            "Fusion of virus membrane with host endosomal membrane",
+            "Fusion of virus membrane with host membrane",
+            "Glycoprotein",
+            "Host cell membrane",
+            "Host membrane",
+            "Host-virus interaction",
+            "Inhibition of host innate immune response by virus",
+            "Inhibition of host interferon signaling pathway by virus",
+            "Inhibition of host tetherin by virus",
+            "Lipoprotein",
+            "Membrane",
+            "Palmitate",
+            "Reference proteome",
+            "Signal",
+            "Transmembrane",
+            "Transmembrane helix",
+            "Viral attachment to host cell",
+            "Viral envelope protein",
+            "Viral immunoevasion",
+            "Viral penetration into host cytoplasm",
+            "Virion",
+            "Virulence",
+            "Virus entry into host cell"
+        ],
+        "secondaryIdentifier": [
+            "SPIKE_SARS2"
+        ],
+        "sequenceLength": 1273,
+        "chain": [
+            "signal peptide:1-12",
+            "chain:13-1273",
+            "chain:13-685",
+            "chain:686-1273",
+            "chain:816-1273"
+        ],
+        "schemaClass": "ReferenceGeneProduct",
+        "className": "ReferenceGeneProduct"
+    },
+    {
+        "dbId": 9681692,
+        "displayName": "UniProt:P0DTC4 E",
+        "databaseName": "UniProt",
+        "identifier": "P0DTC4",
+        "name": [
+            "E"
+        ],
+        "url": "http://purl.uniprot.org/uniprot/P0DTC4",
+        "checksum": "5C431BD2AA1B6B99",
+        "comment": [
+            "FUNCTION Plays a central role in virus morphogenesis and assembly. Acts as a viroporin and self-assembles in host membranes forming pentameric protein-lipid pores that allow ion transport. Also plays a role in the induction of apoptosis (By similarity). Regulates the localization of S protein at cis-Golgi, the place of virus budding (PubMed:33229438). May act by slowing down the cell secretory pathway (PubMed:33229438). May interfere with tight-junction stability by interacting with host MPP5. This would result in disruption of epithelial barriers, thereby amplifying inflammatory processes (PubMed:32891874).SUBUNIT Homopentamer (PubMed:33177698). Interacts with membrane protein M in the budding compartment of the host cell, which is located between endoplasmic reticulum and the Golgi complex. Interacts with Nucleoprotein (By similarity). Interacts with the accessory proteins 3a and 7a (By similarity). Interacts (via C-terminus) with human MPP5 (via PDZ domain); this inhibits the interaction between human MPP5 and human CRB3, and causes disruption of epithelial cells tight junctions (PubMed:32891874).SIMILARITY Belongs to the betacoronaviruses E protein family."
+        ],
+        "description": [
+            "recommendedName: fullName evidence=\"2\"Envelope small membrane protein shortName:E shortName evidence=\"2\"sM protein "
+        ],
+        "geneName": [
+            "E",
+            "4"
+        ],
+        "isSequenceChanged": false,
+        "keyword": [
+            "3D-structure",
+            "Apoptosis",
+            "Host Golgi apparatus",
+            "Host membrane",
+            "Membrane",
+            "Reference proteome",
+            "Transmembrane",
+            "Transmembrane helix"
+        ],
+        "secondaryIdentifier": [
+            "VEMP_SARS2"
+        ],
+        "sequenceLength": 75,
+        "chain": [
+            "chain:1-75"
+        ],
+        "schemaClass": "ReferenceGeneProduct",
+        "className": "ReferenceGeneProduct"
+    },
+    {
+        "dbId": 9681693,
+        "displayName": "UniProt:P0DTC5 M",
+        "databaseName": "UniProt",
+        "identifier": "P0DTC5",
+        "name": [
+            "M"
+        ],
+        "url": "http://purl.uniprot.org/uniprot/P0DTC5",
+        "checksum": "ED44D84C3BB9A6DB",
+        "comment": [
+            "FUNCTION Component of the viral envelope that plays a central role in virus morphogenesis and assembly via its interactions with other viral proteins (By similarity). Regulates the localization of S protein at cis-Golgi, the place of virus budding (PubMed:33229438). May act by binding cytoplasmic c-terminus of S (PubMed:33229438).SUBUNIT Homomultimer. Interacts with envelope E protein in the budding compartment of the host cell, which is located between endoplasmic reticulum and the Golgi complex (By similarity). Forms a complex with S proteins (PubMed:33229438). Interacts with nucleocapsid N protein. This interaction probably participates in RNA packaging into the virus (By similarity). Interacts with the accessory proteins 3a and 7a (By similarity).SIMILARITY Belongs to the betacoronaviruses M protein family."
+        ],
+        "description": [
+            "recommendedName: fullName evidence=\"2\"Membrane protein shortName:M  alternativeName: fullName evidence=\"2\"E1 glycoprotein  alternativeName: fullName evidence=\"2\"Matrix glycoprotein  alternativeName: fullName evidence=\"2\"Membrane glycoprotein "
+        ],
+        "geneName": [
+            "M"
+        ],
+        "isSequenceChanged": false,
+        "keyword": [
+            "Glycoprotein",
+            "Host Golgi apparatus",
+            "Host membrane",
+            "Host-virus interaction",
+            "Membrane",
+            "Reference proteome",
+            "Transmembrane",
+            "Transmembrane helix",
+            "Viral envelope protein",
+            "Viral immunoevasion",
+            "Viral matrix protein",
+            "Virion"
+        ],
+        "secondaryIdentifier": [
+            "VME1_SARS2"
+        ],
+        "sequenceLength": 222,
+        "chain": [
+            "chain:1-222"
+        ],
+        "schemaClass": "ReferenceGeneProduct",
+        "className": "ReferenceGeneProduct"
+    }
+]

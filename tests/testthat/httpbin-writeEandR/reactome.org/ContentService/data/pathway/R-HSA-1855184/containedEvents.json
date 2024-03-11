@@ -1,0 +1,53 @@
+[
+    {
+        "dbId": 1855164,
+        "displayName": "IP6 transports from the cytosol to the ER lumen",
+        "stId": "R-HSA-1855164",
+        "stIdVersion": "R-HSA-1855164.2",
+        "isInDisease": false,
+        "isInferred": false,
+        "name": [
+            "IP6 transports from the cytosol to the ER lumen"
+        ],
+        "releaseDate": "2012-12-04",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "transition",
+        "className": "Reaction",
+        "schemaClass": "Reaction"
+    },
+    {
+        "dbId": 1855195,
+        "displayName": "I(1,3,4,5,6)P5 transports from the cytosol to the ER lumen",
+        "stId": "R-HSA-1855195",
+        "stIdVersion": "R-HSA-1855195.2",
+        "isInDisease": false,
+        "isInferred": false,
+        "name": [
+            "I(1,3,4,5,6)P5 transports from the cytosol to the ER lumen"
+        ],
+        "releaseDate": "2012-12-04",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "transition",
+        "className": "Reaction",
+        "schemaClass": "Reaction"
+    },
+    {
+        "dbId": 1855186,
+        "displayName": "I(1,3,4,5)P4 transports from the cytosol to the ER lumen",
+        "stId": "R-HSA-1855186",
+        "stIdVersion": "R-HSA-1855186.2",
+        "isInDisease": false,
+        "isInferred": false,
+        "name": [
+            "I(1,3,4,5)P4 transports from the cytosol to the ER lumen"
+        ],
+        "releaseDate": "2012-12-04",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "transition",
+        "className": "Reaction",
+        "schemaClass": "Reaction"
+    }
+]

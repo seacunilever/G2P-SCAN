@@ -1,0 +1,20 @@
+[
+    {
+        "dbId": 4570573,
+        "displayName": "Defective RFT1 does not flip the N-glycan precursor",
+        "stId": "R-HSA-4570573",
+        "stIdVersion": "R-HSA-4570573.2",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "Defective RFT1 does not flip the N-glycan precursor"
+        ],
+        "releaseDate": "2014-12-11",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "systematicName": "RFT1 R67C does not translocate (GlcNAc)2 (Man)5 (PP-Dol)1 from integral component of cytoplasmic side of endoplasmic reticulum membrane to integral component of lumenal side of endoplasmic reticulum membrane",
+        "category": "transition",
+        "className": "Reaction",
+        "schemaClass": "FailedReaction"
+    }
+]

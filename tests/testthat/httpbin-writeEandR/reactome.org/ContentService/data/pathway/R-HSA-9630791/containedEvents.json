@@ -1,0 +1,19 @@
+[
+    {
+        "dbId": 9630792,
+        "displayName": "p16INK4A mutants do not bind CDK4",
+        "stId": "R-HSA-9630792",
+        "stIdVersion": "R-HSA-9630792.2",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "p16INK4A mutants do not bind CDK4"
+        ],
+        "releaseDate": "2019-06-12",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "transition",
+        "className": "Reaction",
+        "schemaClass": "FailedReaction"
+    }
+]

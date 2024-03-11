@@ -1,0 +1,98 @@
+[
+    {
+        "dbId": 5657637,
+        "displayName": "ALKBH3 associated with ASCC1:ASCC2:ASCC3 binds alkylated dsDNA containing 1-meA",
+        "stId": "R-HSA-5657637",
+        "stIdVersion": "R-HSA-5657637.1",
+        "isInDisease": false,
+        "isInferred": false,
+        "name": [
+            "ALKBH3 associated with ASCC1:ASCC2:ASCC3 binds alkylated dsDNA containing 1-meA"
+        ],
+        "releaseDate": "2004-03-06",
+        "speciesName": "Homo sapiens",
+        "category": "binding",
+        "className": "Reaction",
+        "schemaClass": "Reaction"
+    },
+    {
+        "dbId": 5657617,
+        "displayName": "ALKBH3 associated with ASCC1:ASCC2:ASCC3 binds alkylated dsDNA containing 3-meC",
+        "stId": "R-HSA-5657617",
+        "stIdVersion": "R-HSA-5657617.1",
+        "isInDisease": false,
+        "isInferred": false,
+        "name": [
+            "ALKBH3 associated with ASCC1:ASCC2:ASCC3 binds alkylated dsDNA containing 3-meC"
+        ],
+        "releaseDate": "2004-03-06",
+        "speciesName": "Homo sapiens",
+        "category": "binding",
+        "className": "Reaction",
+        "schemaClass": "Reaction"
+    },
+    {
+        "dbId": 112123,
+        "displayName": "Oxidative demethylation of 1-meA damaged DNA By ALKBH3",
+        "stId": "R-HSA-112123",
+        "stIdVersion": "R-HSA-112123.1",
+        "isInDisease": false,
+        "isInferred": false,
+        "name": [
+            "Oxidative demethylation of 1-meA damaged DNA By ALKBH3"
+        ],
+        "releaseDate": "2004-03-06",
+        "speciesName": "Homo sapiens",
+        "category": "transition",
+        "className": "Reaction",
+        "schemaClass": "Reaction"
+    },
+    {
+        "dbId": 5657642,
+        "displayName": "ALKBH3 in complex with ASCC1:ASCC2:ASCC3 binds alkylated DNA containing 1-etA",
+        "stId": "R-HSA-5657642",
+        "stIdVersion": "R-HSA-5657642.1",
+        "isInDisease": false,
+        "isInferred": false,
+        "name": [
+            "ALKBH3 in complex with ASCC1:ASCC2:ASCC3 binds alkylated DNA containing 1-etA"
+        ],
+        "releaseDate": "2004-03-06",
+        "speciesName": "Homo sapiens",
+        "category": "binding",
+        "className": "Reaction",
+        "schemaClass": "Reaction"
+    },
+    {
+        "dbId": 112125,
+        "displayName": "Oxidative dealkylation of 1-EtA damaged DNA by ABH3",
+        "stId": "R-HSA-112125",
+        "stIdVersion": "R-HSA-112125.1",
+        "isInDisease": false,
+        "isInferred": false,
+        "name": [
+            "Oxidative dealkylation of 1-EtA damaged DNA by ABH3"
+        ],
+        "releaseDate": "2004-03-06",
+        "speciesName": "Homo sapiens",
+        "category": "transition",
+        "className": "Reaction",
+        "schemaClass": "Reaction"
+    },
+    {
+        "dbId": 112124,
+        "displayName": "Oxidative demethylation of 3-meC damaged DNA By ALKBH3",
+        "stId": "R-HSA-112124",
+        "stIdVersion": "R-HSA-112124.1",
+        "isInDisease": false,
+        "isInferred": false,
+        "name": [
+            "Oxidative demethylation of 3-meC damaged DNA By ALKBH3"
+        ],
+        "releaseDate": "2004-03-06",
+        "speciesName": "Homo sapiens",
+        "category": "transition",
+        "className": "Reaction",
+        "schemaClass": "Reaction"
+    }
+]

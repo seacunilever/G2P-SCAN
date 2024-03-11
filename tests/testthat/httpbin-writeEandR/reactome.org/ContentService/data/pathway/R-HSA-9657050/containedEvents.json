@@ -1,0 +1,19 @@
+[
+    {
+        "dbId": 9657051,
+        "displayName": "OGG1beta G12E does not translocate to mitochondria",
+        "stId": "R-HSA-9657051",
+        "stIdVersion": "R-HSA-9657051.1",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "OGG1beta G12E does not translocate to mitochondria"
+        ],
+        "releaseDate": "2019-12-10",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "transition",
+        "className": "Reaction",
+        "schemaClass": "FailedReaction"
+    }
+]

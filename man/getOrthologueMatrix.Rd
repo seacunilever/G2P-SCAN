@@ -6,7 +6,7 @@
 \usage{
 getOrthologueMatrix(
   orthologueData,
-  species,
+  species = NULL,
   allHumanGenes = NULL,
   orthologueOutput = "both"
 )

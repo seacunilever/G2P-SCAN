@@ -1,0 +1,19 @@
+[
+    {
+        "dbId": 9669863,
+        "displayName": "Masitinib-resistant KIT mutants do not bind masitinib",
+        "stId": "R-HSA-9669863",
+        "stIdVersion": "R-HSA-9669863.1",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "Masitinib-resistant KIT mutants do not bind masitinib"
+        ],
+        "releaseDate": "2020-06-10",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "transition",
+        "className": "Reaction",
+        "schemaClass": "FailedReaction"
+    }
+]

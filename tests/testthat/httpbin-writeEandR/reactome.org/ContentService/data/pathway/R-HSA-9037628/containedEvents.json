@@ -1,0 +1,36 @@
+[
+    {
+        "dbId": 9038653,
+        "displayName": "RHCE gene produces Rhesus C or E proteins",
+        "stId": "R-HSA-9038653",
+        "stIdVersion": "R-HSA-9038653.1",
+        "isInDisease": false,
+        "isInferred": false,
+        "name": [
+            "RHCE gene produces Rhesus C or E proteins"
+        ],
+        "releaseDate": "2019-03-20",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "omitted",
+        "className": "Reaction",
+        "schemaClass": "BlackBoxEvent"
+    },
+    {
+        "dbId": 9038658,
+        "displayName": "RHD gene produces PALM-C-Rhesus D protein",
+        "stId": "R-HSA-9038658",
+        "stIdVersion": "R-HSA-9038658.1",
+        "isInDisease": false,
+        "isInferred": false,
+        "name": [
+            "RHD gene produces PALM-C-Rhesus D protein"
+        ],
+        "releaseDate": "2019-03-20",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "omitted",
+        "className": "Reaction",
+        "schemaClass": "BlackBoxEvent"
+    }
+]

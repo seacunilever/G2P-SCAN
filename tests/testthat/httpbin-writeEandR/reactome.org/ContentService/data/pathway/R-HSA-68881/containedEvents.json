@@ -1,0 +1,18 @@
+[
+    {
+        "dbId": 163010,
+        "displayName": "Down Regulation of Emi1 through Phosphorylation of Emi1",
+        "stId": "R-HSA-163010",
+        "stIdVersion": "R-HSA-163010.3",
+        "isInDisease": false,
+        "isInferred": false,
+        "name": [
+            "Down Regulation of Emi1 through Phosphorylation of Emi1"
+        ],
+        "releaseDate": "2005-06-13",
+        "speciesName": "Homo sapiens",
+        "category": "transition",
+        "className": "Reaction",
+        "schemaClass": "Reaction"
+    }
+]

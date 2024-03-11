@@ -1,0 +1,19 @@
+[
+    {
+        "dbId": 9669874,
+        "displayName": "Sorafenib-resistant KIT mutants do not bind sorafenib",
+        "stId": "R-HSA-9669874",
+        "stIdVersion": "R-HSA-9669874.1",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "Sorafenib-resistant KIT mutants do not bind sorafenib"
+        ],
+        "releaseDate": "2020-06-10",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "transition",
+        "className": "Reaction",
+        "schemaClass": "FailedReaction"
+    }
+]

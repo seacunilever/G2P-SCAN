@@ -1,0 +1,116 @@
+[
+    {
+        "dbId": 168288,
+        "displayName": "Fusion of the Influenza Virion to the Host Cell Endosome",
+        "stId": "R-HSA-168288",
+        "stIdVersion": "R-HSA-168288.3",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "Fusion of the Influenza Virion to the Host Cell Endosome"
+        ],
+        "releaseDate": "2005-06-13",
+        "speciesName": "Homo sapiens",
+        "hasDiagram": false,
+        "hasEHLD": false,
+        "schemaClass": "Pathway",
+        "className": "Pathway"
+    },
+    {
+        "dbId": 168306,
+        "displayName": "Concerted hemagglutinin pore formation",
+        "stId": "R-HSA-168306",
+        "stIdVersion": "R-HSA-168306.3",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "Concerted hemagglutinin pore formation"
+        ],
+        "releaseDate": "2005-06-13",
+        "speciesName": "Homo sapiens",
+        "category": "transition",
+        "className": "Reaction",
+        "schemaClass": "Reaction"
+    },
+    {
+        "dbId": 168324,
+        "displayName": "Conformation change in hemagglutinin freeing the fusion peptide of HA2",
+        "stId": "R-HSA-168324",
+        "stIdVersion": "R-HSA-168324.3",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "Conformation change in hemagglutinin freeing the fusion peptide of HA2"
+        ],
+        "releaseDate": "2006-01-23",
+        "speciesName": "Homo sapiens",
+        "category": "transition",
+        "className": "Reaction",
+        "schemaClass": "Reaction"
+    },
+    {
+        "dbId": 168312,
+        "displayName": "Fusion of the influenza virion HA2 protein transmembrane domain to the host cell endosome membrane",
+        "stId": "R-HSA-168312",
+        "stIdVersion": "R-HSA-168312.3",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "Fusion of the influenza virion HA2 protein transmembrane domain to the host cell endosome membrane"
+        ],
+        "releaseDate": "2006-01-23",
+        "speciesName": "Homo sapiens",
+        "category": "transition",
+        "className": "Reaction",
+        "schemaClass": "Reaction"
+    },
+    {
+        "dbId": 168336,
+        "displayName": "Uncoating of the Influenza Virion",
+        "stId": "R-HSA-168336",
+        "stIdVersion": "R-HSA-168336.3",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "Uncoating of the Influenza Virion"
+        ],
+        "releaseDate": "2005-06-13",
+        "speciesName": "Homo sapiens",
+        "hasDiagram": false,
+        "hasEHLD": false,
+        "schemaClass": "Pathway",
+        "className": "Pathway"
+    },
+    {
+        "dbId": 168299,
+        "displayName": "Ribonucleoprotein release from M1 proteins",
+        "stId": "R-HSA-168299",
+        "stIdVersion": "R-HSA-168299.3",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "Ribonucleoprotein release from M1 proteins"
+        ],
+        "releaseDate": "2006-01-23",
+        "speciesName": "Homo sapiens",
+        "category": "dissociation",
+        "className": "Reaction",
+        "schemaClass": "Reaction"
+    },
+    {
+        "dbId": 168313,
+        "displayName": "Virion-associated M2 protein mediated ion infusion",
+        "stId": "R-HSA-168313",
+        "stIdVersion": "R-HSA-168313.3",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "Virion-associated M2 protein mediated ion infusion"
+        ],
+        "releaseDate": "2005-06-13",
+        "speciesName": "Homo sapiens",
+        "category": "transition",
+        "className": "Reaction",
+        "schemaClass": "Reaction"
+    }
+]

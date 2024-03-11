@@ -1,0 +1,19 @@
+[
+    {
+        "dbId": 9608288,
+        "displayName": "Defective MUTYH mutants do not bind adenine mispaired with 8-oxoguanine",
+        "stId": "R-HSA-9608288",
+        "stIdVersion": "R-HSA-9608288.2",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "Defective MUTYH mutants do not bind adenine mispaired with 8-oxoguanine"
+        ],
+        "releaseDate": "2018-09-12",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "transition",
+        "className": "Reaction",
+        "schemaClass": "FailedReaction"
+    }
+]

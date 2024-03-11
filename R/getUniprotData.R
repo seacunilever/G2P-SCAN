@@ -264,7 +264,7 @@ getProteins <- function(orthologueData, allHumanGenes, cluster = NULL, stopClust
 #' @include global_functions.R
 #' @return data.frame matrix of human genes as rows and columns as species,including Human, where proteins are listed as values.
 #' @export
-getProteinMatrix <- function(proteinResult, orthologueData, species) {
+getProteinMatrix <- function(proteinResult, orthologueData, species = NULL) {
   checkOrthologueDataFrame(orthologueData, functionName = "getProteinMatrix")
   checkClass(parameter = "proteinResult", value = proteinResult, classType = "data.frame", functionName = "getProteinMatrix")
   columns_needed <- c("protein.accession",
@@ -293,7 +293,7 @@ getProteinMatrix <- function(proteinResult, orthologueData, species) {
   human_genes <- unique(protein_ortho_merged$Gene.symbol)
   
   proteins_sorted <- protein_ortho_merged[order(proteinResult$Gene.symbol), ] 
-  # get  input species and maintain order of species.
+  # get input species and maintain order of species.
   species_ordered <- c("Human", checkSpecies(species = species, functionName = "getProteinMatrix", includeHuman = F))
   # create empty matrix
   protein_matrix <- data.frame(matrix(nrow = length(human_genes), ncol = length(species_ordered)))

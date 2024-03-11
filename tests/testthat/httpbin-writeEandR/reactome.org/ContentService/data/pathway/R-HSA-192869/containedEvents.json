@@ -1,0 +1,34 @@
+[
+    {
+        "dbId": 192832,
+        "displayName": "Initiation of cRNA Synthesis",
+        "stId": "R-HSA-192832",
+        "stIdVersion": "R-HSA-192832.4",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "Initiation of cRNA Synthesis"
+        ],
+        "releaseDate": "2005-09-26",
+        "speciesName": "Homo sapiens",
+        "category": "transition",
+        "className": "Reaction",
+        "schemaClass": "Reaction"
+    },
+    {
+        "dbId": 192624,
+        "displayName": "cRNA Extension",
+        "stId": "R-HSA-192624",
+        "stIdVersion": "R-HSA-192624.4",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "cRNA Extension"
+        ],
+        "releaseDate": "2005-09-26",
+        "speciesName": "Homo sapiens",
+        "category": "transition",
+        "className": "Reaction",
+        "schemaClass": "Reaction"
+    }
+]

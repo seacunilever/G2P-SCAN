@@ -1,0 +1,34 @@
+[
+    {
+        "dbId": 211178,
+        "displayName": "Phosphorylated FOXO1A is excluded from the nucleus",
+        "stId": "R-HSA-211178",
+        "stIdVersion": "R-HSA-211178.1",
+        "isInDisease": false,
+        "isInferred": false,
+        "name": [
+            "Phosphorylated FOXO1A is excluded from the nucleus"
+        ],
+        "releaseDate": "2008-06-30",
+        "speciesName": "Homo sapiens",
+        "category": "transition",
+        "className": "Reaction",
+        "schemaClass": "Reaction"
+    },
+    {
+        "dbId": 211164,
+        "displayName": "AKT phosphorylates FOXO1A",
+        "stId": "R-HSA-211164",
+        "stIdVersion": "R-HSA-211164.1",
+        "isInDisease": false,
+        "isInferred": false,
+        "name": [
+            "AKT phosphorylates FOXO1A"
+        ],
+        "releaseDate": "2008-03-12",
+        "speciesName": "Homo sapiens",
+        "category": "transition",
+        "className": "Reaction",
+        "schemaClass": "Reaction"
+    }
+]

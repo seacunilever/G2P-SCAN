@@ -1,0 +1,138 @@
+[
+    {
+        "dbId": 9684241,
+        "displayName": "Recruitment of Spike trimer to assembling virion",
+        "stId": "R-HSA-9684241",
+        "stIdVersion": "R-HSA-9684241.2",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "Recruitment of Spike trimer to assembling virion"
+        ],
+        "releaseDate": "2020-06-10",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "binding",
+        "className": "Reaction",
+        "schemaClass": "Reaction"
+    },
+    {
+        "dbId": 9685542,
+        "displayName": "Viral release",
+        "stId": "R-HSA-9685542",
+        "stIdVersion": "R-HSA-9685542.2",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "Viral release"
+        ],
+        "releaseDate": "2020-06-10",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "transition",
+        "className": "Reaction",
+        "schemaClass": "Reaction"
+    },
+    {
+        "dbId": 9684229,
+        "displayName": "SUMO-p-N protein dimer binds genomic RNA",
+        "stId": "R-HSA-9684229",
+        "stIdVersion": "R-HSA-9684229.2",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "SUMO-p-N protein dimer binds genomic RNA"
+        ],
+        "releaseDate": "2020-06-10",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "binding",
+        "className": "Reaction",
+        "schemaClass": "Reaction"
+    },
+    {
+        "dbId": 9685531,
+        "displayName": "SARS virus buds into ERGIC lumen",
+        "stId": "R-HSA-9685531",
+        "stIdVersion": "R-HSA-9685531.2",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "SARS virus buds into ERGIC lumen"
+        ],
+        "releaseDate": "2020-06-10",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "transition",
+        "className": "Reaction",
+        "schemaClass": "Reaction"
+    },
+    {
+        "dbId": 9684234,
+        "displayName": "Encapsidation of SARS coronavirus genomic RNA",
+        "stId": "R-HSA-9684234",
+        "stIdVersion": "R-HSA-9684234.2",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "Encapsidation of SARS coronavirus genomic RNA"
+        ],
+        "releaseDate": "2020-06-10",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "binding",
+        "className": "Reaction",
+        "schemaClass": "Reaction"
+    },
+    {
+        "dbId": 9684218,
+        "displayName": "M protein oligomerization",
+        "stId": "R-HSA-9684218",
+        "stIdVersion": "R-HSA-9684218.2",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "M protein oligomerization"
+        ],
+        "releaseDate": "2020-06-10",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "binding",
+        "className": "Reaction",
+        "schemaClass": "Reaction"
+    },
+    {
+        "dbId": 9684238,
+        "displayName": "E and N are recruited to the M lattice",
+        "stId": "R-HSA-9684238",
+        "stIdVersion": "R-HSA-9684238.2",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "E and N are recruited to the M lattice"
+        ],
+        "releaseDate": "2020-06-10",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "binding",
+        "className": "Reaction",
+        "schemaClass": "Reaction"
+    },
+    {
+        "dbId": 9686174,
+        "displayName": "Accessory proteins are recruited to the maturing virion",
+        "stId": "R-HSA-9686174",
+        "stIdVersion": "R-HSA-9686174.2",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "Accessory proteins are recruited to the maturing virion"
+        ],
+        "releaseDate": "2020-06-10",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "binding",
+        "className": "Reaction",
+        "schemaClass": "Reaction"
+    }
+]

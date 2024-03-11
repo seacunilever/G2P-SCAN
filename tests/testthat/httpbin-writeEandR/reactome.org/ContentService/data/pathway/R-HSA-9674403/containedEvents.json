@@ -1,0 +1,18 @@
+[
+    {
+        "dbId": 9674408,
+        "displayName": "Regorafenib-resistant PDGFR mutants don't bind regorafenib",
+        "stId": "R-HSA-9674408",
+        "stIdVersion": "R-HSA-9674408.1",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "Regorafenib-resistant PDGFR mutants don't bind regorafenib"
+        ],
+        "releaseDate": "2020-03-17",
+        "speciesName": "Homo sapiens",
+        "category": "transition",
+        "className": "Reaction",
+        "schemaClass": "FailedReaction"
+    }
+]

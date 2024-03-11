@@ -1,0 +1,18 @@
+[
+    {
+        "dbId": 5251424,
+        "displayName": "ENSEMBL:ENSG00000103126 AXIN1",
+        "databaseName": "ENSEMBL",
+        "identifier": "ENSG00000103126",
+        "name": [
+            "AXIN1"
+        ],
+        "url": "http://www.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000103126",
+        "geneName": [
+            "AXIN1",
+            "AXIN"
+        ],
+        "schemaClass": "ReferenceDNASequence",
+        "className": "ReferenceDNASequence"
+    }
+]

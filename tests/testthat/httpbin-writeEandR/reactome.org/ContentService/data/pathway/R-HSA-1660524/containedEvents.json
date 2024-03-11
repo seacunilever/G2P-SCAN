@@ -1,0 +1,19 @@
+[
+    {
+        "dbId": 1675834,
+        "displayName": "PI(3,4)P2 is transported from the plasma membrane to the early endosome membrane",
+        "stId": "R-HSA-1675834",
+        "stIdVersion": "R-HSA-1675834.1",
+        "isInDisease": false,
+        "isInferred": true,
+        "name": [
+            "PI(3,4)P2 is transported from the plasma membrane to the early endosome membrane"
+        ],
+        "releaseDate": "2012-06-12",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "transition",
+        "className": "Reaction",
+        "schemaClass": "Reaction"
+    }
+]

@@ -1,0 +1,167 @@
+[
+    {
+        "dbId": 5357682,
+        "displayName": "methylselenol [ChEBI:64685]",
+        "databaseName": "ChEBI",
+        "identifier": "64685",
+        "name": [
+            "methylselenol",
+            "Methaneselenol"
+        ],
+        "url": "http://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:64685",
+        "formula": "CH4Se",
+        "schemaClass": "ReferenceMolecule",
+        "className": "ReferenceMolecule"
+    },
+    {
+        "dbId": 29392,
+        "displayName": "S-adenosyl-L-methionine [ChEBI:15414]",
+        "databaseName": "ChEBI",
+        "identifier": "15414",
+        "name": [
+            "S-adenosyl-L-methionine"
+        ],
+        "url": "http://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:15414",
+        "formula": "C15H23N6O5S",
+        "schemaClass": "ReferenceMolecule",
+        "className": "ReferenceMolecule"
+    },
+    {
+        "dbId": 29396,
+        "displayName": "S-adenosyl-L-homocysteine [ChEBI:16680]",
+        "databaseName": "ChEBI",
+        "identifier": "16680",
+        "name": [
+            "S-adenosyl-L-homocysteine"
+        ],
+        "url": "http://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:16680",
+        "formula": "C14H20N6O5S",
+        "schemaClass": "ReferenceMolecule",
+        "className": "ReferenceMolecule"
+    },
+    {
+        "dbId": 5357680,
+        "displayName": "dimethylselenide [ChEBI:4610]",
+        "databaseName": "ChEBI",
+        "identifier": "4610",
+        "name": [
+            "dimethylselenide",
+            "(CH3)2Se",
+            "Methyl selenide",
+            "Selenium dimethyl",
+            "Selenobismethane",
+            "Dimethylselenium",
+            "Methyl selenium"
+        ],
+        "url": "http://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:4610",
+        "formula": "C2H6Se",
+        "schemaClass": "ReferenceMolecule",
+        "className": "ReferenceMolecule"
+    },
+    {
+        "dbId": 57403,
+        "displayName": "UniProt:O95050 INMT",
+        "databaseName": "UniProt",
+        "identifier": "O95050",
+        "name": [
+            "INMT"
+        ],
+        "otherIdentifier": [
+            "0003360671",
+            "11185",
+            "11720749_a_at",
+            "11720750_a_at",
+            "224061_3p_at",
+            "224061_at",
+            "2995477",
+            "2995479",
+            "2995480",
+            "2995481",
+            "2995482",
+            "2995483",
+            "2995484",
+            "63798_at",
+            "8132092",
+            "A_14_P103336",
+            "A_23_P70961",
+            "A_33_P3248394",
+            "A_33_P3347291",
+            "GE62943",
+            "GO:0003674",
+            "GO:0004790",
+            "GO:0005515",
+            "GO:0005575",
+            "GO:0005622",
+            "GO:0005737",
+            "GO:0005829",
+            "GO:0008150",
+            "GO:0008168",
+            "GO:0008170",
+            "GO:0009308",
+            "GO:0009636",
+            "GO:0016740",
+            "GO:0030748",
+            "GO:0032259",
+            "GO:0102707",
+            "HMNXSV003033095",
+            "ILMN_1781149",
+            "PH_hs_0026619",
+            "TC07003391.hg",
+            "g6580814_3p_at",
+            "g6580814_3p_s_at",
+            "g6580814_3p_x_at"
+        ],
+        "url": "http://purl.uniprot.org/uniprot/O95050",
+        "checksum": "12B3AC66597E70A3",
+        "comment": [
+            "FUNCTION Functions as thioether S-methyltransferase and is active with a variety of thioethers and the corresponding selenium and tellurium compounds, including 3-methylthiopropionaldehyde, dimethyl selenide, dimethyl telluride, 2-methylthioethylamine, 2-methylthioethanol, methyl-n-propyl sulfide and diethyl sulfide. Plays an important role in the detoxification of selenium compounds (By similarity). Catalyzes the N-methylation of tryptamine and structurally related compounds.SUBUNIT Monomer.TISSUE SPECIFICITY Widely expressed. The highest levels were in thyroid, adrenal gland, adult and fetal lung. Intermediate levels in heart, placenta, skeletal muscle, testis, small intestine, pancreas, stomach, spinal cord, lymph node and trachea. Very low levels in adult and fetal kidney and liver, in adult spleen, thymus, ovary, colon and bone marrow. Not expressed in peripheral blood leukocytes and brain.SIMILARITY Belongs to the class I-like SAM-binding methyltransferase superfamily. NNMT/PNMT/TEMT family."
+        ],
+        "description": [
+            "recommendedName: Indolethylamine N-methyltransferase shortName:Indolamine N-methyltransferase ecNumber2.1.1.49/ecNumber ecNumber2.1.1.96/ecNumber  alternativeName: Aromatic alkylamine N-methyltransferase shortName:Amine N-methyltransferase shortName:Arylamine N-methyltransferase  alternativeName: Thioether S-methyltransferase shortName:TEMT "
+        ],
+        "geneName": [
+            "INMT"
+        ],
+        "isSequenceChanged": false,
+        "keyword": [
+            "3D-structure",
+            "Alternative splicing",
+            "Cytoplasm",
+            "Detoxification",
+            "Methyltransferase",
+            "Reference proteome",
+            "S-adenosyl-L-methionine",
+            "Transferase"
+        ],
+        "secondaryIdentifier": [
+            "INMT_HUMAN",
+            "B8ZZ69",
+            "Q3KP49",
+            "Q9P1Y2",
+            "Q9UBY4",
+            "Q9UHQ0"
+        ],
+        "sequenceLength": 263,
+        "chain": [
+            "chain:1-263"
+        ],
+        "schemaClass": "ReferenceGeneProduct",
+        "className": "ReferenceGeneProduct"
+    },
+    {
+        "dbId": 5357658,
+        "displayName": "trimethylselenonium [ChEBI:77058]",
+        "databaseName": "ChEBI",
+        "identifier": "77058",
+        "name": [
+            "trimethylselenonium",
+            "Me3Se(+)",
+            "(CH3)3Se(+)",
+            "Trimethylselenonium ion"
+        ],
+        "url": "http://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:77058",
+        "formula": "C3H9Se",
+        "schemaClass": "ReferenceMolecule",
+        "className": "ReferenceMolecule"
+    }
+]

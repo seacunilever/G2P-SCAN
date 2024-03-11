@@ -1,0 +1,70 @@
+[
+    {
+        "dbId": 5333607,
+        "displayName": "GSSeH combines with bGalNAc derivative to form GSSebGalNac",
+        "stId": "R-HSA-5333607",
+        "stIdVersion": "R-HSA-5333607.1",
+        "isInDisease": false,
+        "isInferred": true,
+        "name": [
+            "GSSeH combines with bGalNAc derivative to form GSSebGalNac"
+        ],
+        "releaseDate": "2015-12-15",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "omitted",
+        "className": "Reaction",
+        "schemaClass": "BlackBoxEvent"
+    },
+    {
+        "dbId": 5333609,
+        "displayName": "MeSebGalNac is hydrolysed to MeSeH and bGalNac",
+        "stId": "R-HSA-5333609",
+        "stIdVersion": "R-HSA-5333609.1",
+        "isInDisease": false,
+        "isInferred": true,
+        "name": [
+            "MeSebGalNac is hydrolysed to MeSeH and bGalNac"
+        ],
+        "releaseDate": "2015-12-15",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "omitted",
+        "className": "Reaction",
+        "schemaClass": "BlackBoxEvent"
+    },
+    {
+        "dbId": 5333608,
+        "displayName": "GSSebGalNac is reduced and methylated to MeSebGalNac",
+        "stId": "R-HSA-5333608",
+        "stIdVersion": "R-HSA-5333608.1",
+        "isInDisease": false,
+        "isInferred": true,
+        "name": [
+            "GSSebGalNac is reduced and methylated to MeSebGalNac"
+        ],
+        "releaseDate": "2015-12-15",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "omitted",
+        "className": "Reaction",
+        "schemaClass": "BlackBoxEvent"
+    },
+    {
+        "dbId": 5333612,
+        "displayName": "MeSebGalNac is oxidatively cleaved to MeSeO2H and 2-acetamidoglucal",
+        "stId": "R-HSA-5333612",
+        "stIdVersion": "R-HSA-5333612.1",
+        "isInDisease": false,
+        "isInferred": true,
+        "name": [
+            "MeSebGalNac is oxidatively cleaved to MeSeO2H and 2-acetamidoglucal"
+        ],
+        "releaseDate": "2015-12-15",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "omitted",
+        "className": "Reaction",
+        "schemaClass": "BlackBoxEvent"
+    }
+]

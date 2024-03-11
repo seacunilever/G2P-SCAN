@@ -1,0 +1,34 @@
+[
+    {
+        "dbId": 195926,
+        "displayName": "Association with M1 at cell membrane",
+        "stId": "R-HSA-195926",
+        "stIdVersion": "R-HSA-195926.4",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "Association with M1 at cell membrane"
+        ],
+        "releaseDate": "2006-01-23",
+        "speciesName": "Homo sapiens",
+        "category": "binding",
+        "className": "Reaction",
+        "schemaClass": "Reaction"
+    },
+    {
+        "dbId": 168895,
+        "displayName": "RNP association",
+        "stId": "R-HSA-168895",
+        "stIdVersion": "R-HSA-168895.4",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "RNP association"
+        ],
+        "releaseDate": "2006-01-23",
+        "speciesName": "Homo sapiens",
+        "category": "binding",
+        "className": "Reaction",
+        "schemaClass": "Reaction"
+    }
+]

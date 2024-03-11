@@ -1,0 +1,87 @@
+[
+    {
+        "dbId": 5654544,
+        "displayName": "Ligand-independent dimerization of overexpressed FGFR1c",
+        "stId": "R-HSA-5654544",
+        "stIdVersion": "R-HSA-5654544.1",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "Ligand-independent dimerization of overexpressed FGFR1c"
+        ],
+        "releaseDate": "2012-06-12",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "binding",
+        "className": "Reaction",
+        "schemaClass": "Reaction"
+    },
+    {
+        "dbId": 5654545,
+        "displayName": "Ligand-independent phosphorylation of overexpressed FGFR1c",
+        "stId": "R-HSA-5654545",
+        "stIdVersion": "R-HSA-5654545.1",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "Ligand-independent phosphorylation of overexpressed FGFR1c"
+        ],
+        "releaseDate": "2012-06-12",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "transition",
+        "className": "Reaction",
+        "schemaClass": "Reaction"
+    },
+    {
+        "dbId": 2023462,
+        "displayName": "Tyrosine kinase inhibitors bind and inhibit overexpressed FGFR1 dimers",
+        "stId": "R-HSA-2023462",
+        "stIdVersion": "R-HSA-2023462.1",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "Tyrosine kinase inhibitors bind and inhibit overexpressed FGFR1 dimers"
+        ],
+        "releaseDate": "2012-06-12",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "binding",
+        "className": "Reaction",
+        "schemaClass": "Reaction"
+    },
+    {
+        "dbId": 1982066,
+        "displayName": "Ligand-independent phosphorylation of overexpressed FGFR1",
+        "stId": "R-HSA-1982066",
+        "stIdVersion": "R-HSA-1982066.1",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "Ligand-independent phosphorylation of overexpressed FGFR1"
+        ],
+        "releaseDate": "2012-06-12",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "transition",
+        "className": "Reaction",
+        "schemaClass": "Reaction"
+    },
+    {
+        "dbId": 1982065,
+        "displayName": "Ligand-independent dimerization of overexpressed FGFR1b",
+        "stId": "R-HSA-1982065",
+        "stIdVersion": "R-HSA-1982065.1",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "Ligand-independent dimerization of overexpressed FGFR1b"
+        ],
+        "releaseDate": "2012-06-12",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "binding",
+        "className": "Reaction",
+        "schemaClass": "Reaction"
+    }
+]

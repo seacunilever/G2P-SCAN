@@ -1,0 +1,834 @@
+[
+    {
+        "dbId": 149588,
+        "displayName": "UniProt:O60294 LCMT2",
+        "databaseName": "UniProt",
+        "identifier": "O60294",
+        "name": [
+            "LCMT2"
+        ],
+        "otherIdentifier": [
+            "0005390180",
+            "11723018_at",
+            "11749566_s_at",
+            "11758091_s_at",
+            "16808094",
+            "204012_s_at",
+            "3621138",
+            "3621139",
+            "3621143",
+            "3621144",
+            "3621145",
+            "3621146",
+            "3621147",
+            "3621148",
+            "3621149",
+            "3621150",
+            "3621151",
+            "3621152",
+            "3621153",
+            "3621155",
+            "3621157",
+            "7988077",
+            "9836",
+            "A_23_P106505",
+            "GE79140",
+            "GO:0003674",
+            "GO:0005515",
+            "GO:0005575",
+            "GO:0005622",
+            "GO:0005737",
+            "GO:0006399",
+            "GO:0006400",
+            "GO:0008033",
+            "GO:0008150",
+            "GO:0008168",
+            "GO:0008175",
+            "GO:0009058",
+            "GO:0016740",
+            "GO:0030488",
+            "GO:0031591",
+            "GO:0032259",
+            "GO:0034641",
+            "HMNXSV003056777",
+            "Hs.200596.0.S1_3p_a_at",
+            "ILMN_1667577",
+            "PH_hs_0011765",
+            "TC15001276.hg"
+        ],
+        "url": "http://purl.uniprot.org/uniprot/O60294",
+        "checksum": "146F1C44F541059F",
+        "comment": [
+            "FUNCTION Probable S-adenosyl-L-methionine-dependent methyltransferase that acts as a component of the wybutosine biosynthesis pathway. Wybutosine is a hyper modified guanosine with a tricyclic base found at the 3'-position adjacent to the anticodon of eukaryotic phenylalanine tRNA (By similarity). May methylate the carboxyl group of leucine residues to form alpha-leucine ester residues.PATHWAY tRNA modification; wybutosine-tRNA(Phe) biosynthesis.SUBUNIT Interacts with RNF144B/IBRDC2.SIMILARITY Belongs to the methyltransferase superfamily. LCMT family."
+        ],
+        "description": [
+            "recommendedName: tRNA wybutosine-synthesizing protein 4 shortName:tRNA yW-synthesizing protein 4 ecNumber2.1.1.290/ecNumber ecNumber2.3.1.231/ecNumber  alternativeName: Leucine carboxyl methyltransferase 2  alternativeName: tRNA(Phe) (7-(3-amino-3-(methoxycarbonyl)propyl)wyosine(37)-N)-methoxycarbonyltransferase  alternativeName: tRNA(Phe) (7-(3-amino-3-carboxypropyl)wyosine(37)-O)-methyltransferase "
+        ],
+        "geneName": [
+            "LCMT2",
+            "KIAA0547",
+            "TYW4"
+        ],
+        "isSequenceChanged": false,
+        "keyword": [
+            "Methyltransferase",
+            "Reference proteome",
+            "S-adenosyl-L-methionine",
+            "Transferase",
+            "tRNA processing"
+        ],
+        "secondaryIdentifier": [
+            "TYW4_HUMAN",
+            "Q4JFT6",
+            "Q96B55",
+            "Q9NR10"
+        ],
+        "sequenceLength": 686,
+        "chain": [
+            "chain:1-686"
+        ],
+        "schemaClass": "ReferenceGeneProduct",
+        "className": "ReferenceGeneProduct"
+    },
+    {
+        "dbId": 29392,
+        "displayName": "S-adenosyl-L-methionine [ChEBI:15414]",
+        "databaseName": "ChEBI",
+        "identifier": "15414",
+        "name": [
+            "S-adenosyl-L-methionine"
+        ],
+        "url": "http://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:15414",
+        "formula": "C15H23N6O5S",
+        "schemaClass": "ReferenceMolecule",
+        "className": "ReferenceMolecule"
+    },
+    {
+        "dbId": 29396,
+        "displayName": "S-adenosyl-L-homocysteine [ChEBI:16680]",
+        "databaseName": "ChEBI",
+        "identifier": "16680",
+        "name": [
+            "S-adenosyl-L-homocysteine"
+        ],
+        "url": "http://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:16680",
+        "formula": "C14H20N6O5S",
+        "schemaClass": "ReferenceMolecule",
+        "className": "ReferenceMolecule"
+    },
+    {
+        "dbId": 114738,
+        "displayName": "carbon dioxide [ChEBI:16526]",
+        "databaseName": "ChEBI",
+        "identifier": "16526",
+        "name": [
+            "carbon dioxide"
+        ],
+        "url": "http://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:16526",
+        "formula": "CO2",
+        "schemaClass": "ReferenceMolecule",
+        "className": "ReferenceMolecule"
+    },
+    {
+        "dbId": 29466,
+        "displayName": "FMN [ChEBI:17621]",
+        "databaseName": "ChEBI",
+        "identifier": "17621",
+        "name": [
+            "FMN",
+            "Riboflavin-5-phosphate",
+            "Flavin mononucleotide"
+        ],
+        "url": "http://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:17621",
+        "formula": "C17H21N4O9P",
+        "schemaClass": "ReferenceMolecule",
+        "className": "ReferenceMolecule"
+    },
+    {
+        "dbId": 253238,
+        "displayName": "UniProt:Q9NV66 TYW1",
+        "databaseName": "UniProt",
+        "identifier": "Q9NV66",
+        "name": [
+            "TYW1"
+        ],
+        "otherIdentifier": [
+            "0006020603",
+            "11717966_s_at",
+            "11717967_x_at",
+            "11747627_s_at",
+            "11748135_s_at",
+            "11749623_s_at",
+            "218347_at",
+            "3005996",
+            "3005997",
+            "3005999",
+            "3006000",
+            "3006001",
+            "3006002",
+            "3006003",
+            "3006004",
+            "3006005",
+            "3006007",
+            "3006008",
+            "3006009",
+            "3006011",
+            "3006013",
+            "3006014",
+            "3006017",
+            "3006018",
+            "3006019",
+            "3006020",
+            "3006023",
+            "3006024",
+            "3006027",
+            "3006028",
+            "3006029",
+            "3055610",
+            "3055613",
+            "3055614",
+            "3055624",
+            "3055627",
+            "3055629",
+            "3055631",
+            "3055638",
+            "3055640",
+            "3055641",
+            "3055644",
+            "3055647",
+            "3055649",
+            "3055650",
+            "3055651",
+            "51765_at",
+            "55253",
+            "65705_at",
+            "8133202",
+            "A_23_P215198",
+            "A_33_P3210986",
+            "GE82332",
+            "GO:0000166",
+            "GO:0003674",
+            "GO:0003824",
+            "GO:0006399",
+            "GO:0008033",
+            "GO:0008150",
+            "GO:0009058",
+            "GO:0010181",
+            "GO:0016829",
+            "GO:0031591",
+            "GO:0034641",
+            "GO:0043167",
+            "GO:0046872",
+            "GO:0051536",
+            "GO:0051539",
+            "GO:0055114",
+            "GO:0102521",
+            "HMNXSV003020091",
+            "ILMN_1736135",
+            "TC07000414.hg",
+            "g8922751_3p_at"
+        ],
+        "url": "http://purl.uniprot.org/uniprot/Q9NV66",
+        "checksum": "95E8E5C3F88ADD23",
+        "comment": [
+            "FUNCTION Probable component of the wybutosine biosynthesis pathway. Wybutosine is a hyper modified guanosine with a tricyclic base found at the 3'-position adjacent to the anticodon of eukaryotic phenylalanine tRNA. Catalyzes the condensation of N-methylguanine with 2 carbon atoms from pyruvate to form the tricyclic 4-demethylwyosine, an intermediate in wybutosine biosynthesis (By similarity).PATHWAY tRNA modification; wybutosine-tRNA(Phe) biosynthesis.SIMILARITY Belongs to the TYW1 family."
+        ],
+        "description": [
+            "recommendedName: S-adenosyl-L-methionine-dependent tRNA 4-demethylwyosine synthase TYW1 ecNumber4.1.3.44/ecNumber  alternativeName: Radical S-adenosyl methionine and flavodoxin domain-containing protein 1  alternativeName: tRNA wybutosine-synthesizing protein 1 homolog  alternativeName: tRNA-yW-synthesizing protein "
+        ],
+        "geneName": [
+            "TYW1",
+            "RSAFD1"
+        ],
+        "isSequenceChanged": false,
+        "keyword": [
+            "4Fe-4S",
+            "Alternative splicing",
+            "Iron",
+            "Iron-sulfur",
+            "Lyase",
+            "Metal-binding",
+            "Nucleotide-binding",
+            "Reference proteome",
+            "S-adenosyl-L-methionine",
+            "tRNA processing"
+        ],
+        "secondaryIdentifier": [
+            "TYW1_HUMAN",
+            "Q6PJG8",
+            "Q75MG8",
+            "Q75MN3",
+            "Q86V12",
+            "Q8IVS7",
+            "Q9H9C4"
+        ],
+        "sequenceLength": 732,
+        "chain": [
+            "chain:1-732"
+        ],
+        "schemaClass": "ReferenceGeneProduct",
+        "className": "ReferenceGeneProduct"
+    },
+    {
+        "dbId": 2564711,
+        "displayName": "tetra-mu3-sulfido-tetrairon [ChEBI:49883]",
+        "databaseName": "ChEBI",
+        "identifier": "49883",
+        "name": [
+            "tetra-mu3-sulfido-tetrairon",
+            "[4Fe-4S] cluster",
+            "[Fe4S4] cluster",
+            "IRON/SULFUR CLUSTER",
+            "[4Fe-4S] cluster",
+            "[Fe4S4]"
+        ],
+        "url": "http://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:49883",
+        "formula": "Fe4S4",
+        "schemaClass": "ReferenceMolecule",
+        "className": "ReferenceMolecule"
+    },
+    {
+        "dbId": 5316164,
+        "displayName": "pyruvate [ChEBI:15361]",
+        "databaseName": "ChEBI",
+        "identifier": "15361",
+        "name": [
+            "pyruvate",
+            "2-oxopropanoate",
+            "2-oxopropanoic acid, ion(1-)"
+        ],
+        "url": "http://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:15361",
+        "formula": "C3H3O3",
+        "schemaClass": "ReferenceMolecule",
+        "className": "ReferenceMolecule"
+    },
+    {
+        "dbId": 114728,
+        "displayName": "water [ChEBI:15377]",
+        "databaseName": "ChEBI",
+        "identifier": "15377",
+        "name": [
+            "water"
+        ],
+        "url": "http://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:15377",
+        "formula": "H2O",
+        "schemaClass": "ReferenceMolecule",
+        "className": "ReferenceMolecule"
+    },
+    {
+        "dbId": 37051,
+        "displayName": "5'-deoxyadenosine [ChEBI:17319]",
+        "databaseName": "ChEBI",
+        "identifier": "17319",
+        "name": [
+            "5'-deoxyadenosine"
+        ],
+        "url": "http://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:17319",
+        "formula": "C10H13N5O3",
+        "schemaClass": "ReferenceMolecule",
+        "className": "ReferenceMolecule"
+    },
+    {
+        "dbId": 8943622,
+        "displayName": "L-methionine zwitterion [ChEBI:57844]",
+        "databaseName": "ChEBI",
+        "identifier": "57844",
+        "name": [
+            "L-methionine zwitterion",
+            "C5H11NO2S",
+            "(2S)-2-azaniumyl-4-(methylsulfanyl)butanoate",
+            "FFEARJCKVFRZRR-BYPYZUCNSA-N",
+            "L-methionine",
+            "(2S)-2-ammonio-4-(methylsulfanyl)butanoate",
+            "149.21100",
+            "CSCC[C@H]([NH3+])C([O-])=O",
+            "InChI=1S/C5H11NO2S/c1-9-3-2-4(6)5(7)8/h4H,2-3,6H2,1H3,(H,7,8)/t4-/m0/s1"
+        ],
+        "url": "http://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:57844",
+        "formula": "C5H11NO2S",
+        "schemaClass": "ReferenceMolecule",
+        "className": "ReferenceMolecule"
+    },
+    {
+        "dbId": 253249,
+        "displayName": "UniProt:Q6IPR3 TYW3",
+        "databaseName": "UniProt",
+        "identifier": "Q6IPR3",
+        "name": [
+            "TYW3"
+        ],
+        "otherIdentifier": [
+            "0002190368",
+            "11739265_at",
+            "11751727_s_at",
+            "127253",
+            "16666204",
+            "227141_at",
+            "2342392",
+            "2342393",
+            "2342396",
+            "2342397",
+            "2342399",
+            "2342402",
+            "2342405",
+            "2342406",
+            "2342408",
+            "2342409",
+            "2342412",
+            "2342415",
+            "2342417",
+            "2342418",
+            "2342419",
+            "2342420",
+            "2342421",
+            "2342422",
+            "57714_at",
+            "62967_r_at",
+            "7902345",
+            "A_14_P110762",
+            "A_23_P103172",
+            "A_23_P103180",
+            "A_24_P396327",
+            "GE552954",
+            "GO:0003674",
+            "GO:0005515",
+            "GO:0005575",
+            "GO:0005622",
+            "GO:0005737",
+            "GO:0006399",
+            "GO:0008033",
+            "GO:0008150",
+            "GO:0008168",
+            "GO:0008175",
+            "GO:0016740",
+            "GO:0030488",
+            "GO:0032259",
+            "GO:0034641",
+            "HMNXSV003033785",
+            "HMNXSV003055430",
+            "Hs.283713.1.A1_3p_s_at",
+            "ILMN_1726842",
+            "PH_hs_0016785",
+            "PH_hs_0035811",
+            "TC01000772.hg",
+            "TC01004481.hg"
+        ],
+        "url": "http://purl.uniprot.org/uniprot/Q6IPR3",
+        "checksum": "150BA9247232324D",
+        "comment": [
+            "FUNCTION Probable S-adenosyl-L-methionine-dependent methyltransferase that acts as a component of the wybutosine biosynthesis pathway. Wybutosine is a hyper modified guanosine with a tricyclic base found at the 3'-position adjacent to the anticodon of eukaryotic phenylalanine tRNA (By similarity).PATHWAY tRNA modification; wybutosine-tRNA(Phe) biosynthesis.SIMILARITY Belongs to the TYW3 family."
+        ],
+        "description": [
+            "recommendedName: tRNA wybutosine-synthesizing protein 3 homolog shortName:tRNA-yW-synthesizing protein 3 ecNumber2.1.1.282/ecNumber  alternativeName: tRNA(Phe) 7-((3-amino-3-carboxypropyl)-4-demethylwyosine(37)-N(4))-methyltransferase "
+        ],
+        "geneName": [
+            "TYW3",
+            "C1orf171"
+        ],
+        "isSequenceChanged": false,
+        "keyword": [
+            "Alternative splicing",
+            "Methyltransferase",
+            "Phosphoprotein",
+            "Reference proteome",
+            "S-adenosyl-L-methionine",
+            "Transferase",
+            "tRNA processing"
+        ],
+        "secondaryIdentifier": [
+            "TYW3_HUMAN",
+            "B4DSP9",
+            "E9PGR7",
+            "Q5HYJ0",
+            "Q8N7L1"
+        ],
+        "sequenceLength": 259,
+        "chain": [
+            "chain:1-259"
+        ],
+        "schemaClass": "ReferenceGeneProduct",
+        "className": "ReferenceGeneProduct"
+    },
+    {
+        "dbId": 5316186,
+        "displayName": "iron(2+) [ChEBI:29033]",
+        "databaseName": "ChEBI",
+        "identifier": "29033",
+        "name": [
+            "iron(2+)",
+            "FE (II) ION",
+            "Fe2+",
+            "Fe(2+)",
+            "iron ion(2+)",
+            "Fe(II)",
+            "Ferrous ion"
+        ],
+        "url": "http://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:29033",
+        "formula": "Fe",
+        "schemaClass": "ReferenceMolecule",
+        "className": "ReferenceMolecule"
+    },
+    {
+        "dbId": 221498,
+        "displayName": "UniProt:A2RUC4 TYW5",
+        "databaseName": "UniProt",
+        "identifier": "A2RUC4",
+        "name": [
+            "TYW5"
+        ],
+        "otherIdentifier": [
+            "0003610142",
+            "11732419_a_at",
+            "11732420_at",
+            "11746531_a_at",
+            "129450",
+            "16907087",
+            "235181_at",
+            "235686_at",
+            "241825_at",
+            "2594312",
+            "2594314",
+            "2594315",
+            "2594316",
+            "2594317",
+            "2594318",
+            "2594319",
+            "2594322",
+            "2594323",
+            "2594327",
+            "2594331",
+            "2594335",
+            "2594342",
+            "2594346",
+            "43086_at",
+            "43667_at",
+            "45669_at",
+            "63226_at",
+            "8058108",
+            "91269_at",
+            "91424_at",
+            "A_23_P314691",
+            "A_24_P20139",
+            "A_32_P145968",
+            "A_32_P36942",
+            "GE519107",
+            "GO:0000049",
+            "GO:0003674",
+            "GO:0003723",
+            "GO:0005506",
+            "GO:0005575",
+            "GO:0005622",
+            "GO:0005737",
+            "GO:0006399",
+            "GO:0006400",
+            "GO:0008033",
+            "GO:0008150",
+            "GO:0009058",
+            "GO:0016491",
+            "GO:0016706",
+            "GO:0031591",
+            "GO:0034641",
+            "GO:0042803",
+            "GO:0043167",
+            "GO:0046872",
+            "GO:0051213",
+            "GO:0102524",
+            "HMNXSV003034124",
+            "Hs.204619.0.A1_3p_at",
+            "Hs.295850.0.A1_3p_at",
+            "Hs.295850.1.A1_3p_at",
+            "ILMN_1785955",
+            "PH_hs_0023029",
+            "TC02002659.hg",
+            "TC02004772.hg"
+        ],
+        "url": "http://purl.uniprot.org/uniprot/A2RUC4",
+        "checksum": "F291C48E8CA729FE",
+        "comment": [
+            "FUNCTION tRNA hydroxylase that acts as a component of the wybutosine biosynthesis pathway. Wybutosine is a hyper modified guanosine with a tricyclic base found at the 3'-position adjacent to the anticodon of eukaryotic phenylalanine tRNA. Catalyzes the hydroxylation of 7-(a-amino-a-carboxypropyl)wyosine (yW-72) into undermodified hydroxywybutosine (OHyW*). OHyW* being further transformed into hydroxywybutosine (OHyW) by LCMT2/TYW4. OHyW is a derivative of wybutosine found in higher eukaryotes.PATHWAY tRNA modification; wybutosine-tRNA(Phe) biosynthesis.SUBUNIT Homodimer.SIMILARITY Belongs to the TYW5 family."
+        ],
+        "description": [
+            "recommendedName: tRNA wybutosine-synthesizing protein 5 shortName:hTYW5 ecNumber1.14.11.42/ecNumber  alternativeName: tRNA(Phe) (7-(3-amino-3-carboxypropyl)wyosine(37)-C(2))-hydroxylase "
+        ],
+        "geneName": [
+            "TYW5",
+            "C2orf60"
+        ],
+        "isSequenceChanged": false,
+        "keyword": [
+            "3D-structure",
+            "Alternative splicing",
+            "Dioxygenase",
+            "Iron",
+            "Metal-binding",
+            "Oxidoreductase",
+            "Reference proteome",
+            "tRNA processing"
+        ],
+        "secondaryIdentifier": [
+            "TYW5_HUMAN",
+            "B2RNE3",
+            "Q8N1R2"
+        ],
+        "sequenceLength": 315,
+        "chain": [
+            "chain:1-315"
+        ],
+        "schemaClass": "ReferenceGeneProduct",
+        "className": "ReferenceGeneProduct"
+    },
+    {
+        "dbId": 114734,
+        "displayName": "dioxygen [ChEBI:15379]",
+        "databaseName": "ChEBI",
+        "identifier": "15379",
+        "name": [
+            "dioxygen"
+        ],
+        "url": "http://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:15379",
+        "formula": "O2",
+        "schemaClass": "ReferenceMolecule",
+        "className": "ReferenceMolecule"
+    },
+    {
+        "dbId": 5316172,
+        "displayName": "2-oxoglutarate(2-) [ChEBI:16810]",
+        "databaseName": "ChEBI",
+        "identifier": "16810",
+        "name": [
+            "2-oxoglutarate(2-)",
+            "2-ketoglutarate",
+            "alpha-ketoglutarate",
+            "2-oxopentanedioic acid, ion(2-)",
+            "2-oxoglutarate"
+        ],
+        "url": "http://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:16810",
+        "formula": "C5H4O5",
+        "schemaClass": "ReferenceMolecule",
+        "className": "ReferenceMolecule"
+    },
+    {
+        "dbId": 9629523,
+        "displayName": "succinate(2-) [ChEBI:30031]",
+        "databaseName": "ChEBI",
+        "identifier": "30031",
+        "name": [
+            "succinate(2-)",
+            "(-)OOC-CH2-CH2-COO(-)",
+            "succinate",
+            "butanedioic acid, ion(2-)",
+            "butanedioate"
+        ],
+        "url": "http://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:30031",
+        "formula": "C4H4O4",
+        "schemaClass": "ReferenceMolecule",
+        "className": "ReferenceMolecule"
+    },
+    {
+        "dbId": 253245,
+        "displayName": "UniProt:Q53H54 TRMT12",
+        "databaseName": "UniProt",
+        "identifier": "Q53H54",
+        "name": [
+            "TRMT12"
+        ],
+        "otherIdentifier": [
+            "0000840082",
+            "11723036_at",
+            "17072489",
+            "219299_at",
+            "3114601",
+            "3114602",
+            "3114603",
+            "3114604",
+            "3114605",
+            "3114606",
+            "3114607",
+            "3114608",
+            "3114609",
+            "3114610",
+            "55039",
+            "56077_at",
+            "8148263",
+            "A_14_P129371",
+            "A_23_P82913",
+            "GE55620",
+            "GO:0003674",
+            "GO:0005515",
+            "GO:0005575",
+            "GO:0005622",
+            "GO:0005737",
+            "GO:0006399",
+            "GO:0008033",
+            "GO:0008150",
+            "GO:0008168",
+            "GO:0008175",
+            "GO:0016740",
+            "GO:0016765",
+            "GO:0030488",
+            "GO:0034641",
+            "GO:0102522",
+            "HMNXSV003040919",
+            "ILMN_1809944",
+            "PH_hs_0001027",
+            "TC08000724.hg",
+            "g8923675_3p_at"
+        ],
+        "url": "http://purl.uniprot.org/uniprot/Q53H54",
+        "checksum": "5E66C20AF26C4B5F",
+        "comment": [
+            "FUNCTION S-adenosyl-L-methionine-dependent transferase that acts as a component of the wybutosine biosynthesis pathway. Wybutosine is a hyper modified guanosine with a tricyclic base found at the 3'-position adjacent to the anticodon of eukaryotic phenylalanine tRNA. Catalyzes the transfer of the alpha-amino-alpha-carboxypropyl (acp) group from S-adenosyl-L-methionine to the C-7 position of 4-demethylwyosine (imG-14) to produce wybutosine-86.PATHWAY tRNA modification; wybutosine-tRNA(Phe) biosynthesis.SIMILARITY Belongs to the class I-like SAM-binding methyltransferase superfamily. TRM5/TYW2 family."
+        ],
+        "description": [
+            "recommendedName: tRNA wybutosine-synthesizing protein 2 homolog shortName:tRNA-yW-synthesizing protein 2 ecNumber2.5.1.114/ecNumber  alternativeName: tRNA(Phe) (4-demethylwyosine(37)-C(7)) aminocarboxypropyltransferase "
+        ],
+        "geneName": [
+            "TRMT12",
+            "TRM12",
+            "TYW2"
+        ],
+        "isSequenceChanged": false,
+        "keyword": [
+            "Reference proteome",
+            "S-adenosyl-L-methionine",
+            "Transferase",
+            "tRNA processing"
+        ],
+        "secondaryIdentifier": [
+            "TYW2_HUMAN",
+            "Q6PKB9",
+            "Q96F21",
+            "Q9NWK6"
+        ],
+        "sequenceLength": 448,
+        "chain": [
+            "chain:1-448"
+        ],
+        "schemaClass": "ReferenceGeneProduct",
+        "className": "ReferenceGeneProduct"
+    },
+    {
+        "dbId": 29678,
+        "displayName": "5'-S-methyl-5'-thioadenosine [ChEBI:17509]",
+        "databaseName": "ChEBI",
+        "identifier": "17509",
+        "name": [
+            "5'-S-methyl-5'-thioadenosine"
+        ],
+        "url": "http://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:17509",
+        "formula": "C11H15N5O3S",
+        "schemaClass": "ReferenceMolecule",
+        "className": "ReferenceMolecule"
+    },
+    {
+        "dbId": 252709,
+        "displayName": "UniProt:Q32P41 TRMT5",
+        "databaseName": "UniProt",
+        "identifier": "Q32P41",
+        "name": [
+            "TRMT5"
+        ],
+        "otherIdentifier": [
+            "0004730008",
+            "0101050400",
+            "0107040270",
+            "11724677_at",
+            "16793632",
+            "221952_x_at",
+            "227653_at",
+            "2326545",
+            "2326552",
+            "2670303",
+            "3567468",
+            "3567470",
+            "3567471",
+            "3567472",
+            "3567473",
+            "3567474",
+            "3567476",
+            "3567479",
+            "3567480",
+            "3567481",
+            "3567482",
+            "3567483",
+            "53466_at",
+            "57570",
+            "7979516",
+            "A_23_P321630",
+            "A_32_P231427",
+            "A_33_P3238976",
+            "A_33_P3393796",
+            "GE62029",
+            "GO:0002939",
+            "GO:0003674",
+            "GO:0005575",
+            "GO:0005622",
+            "GO:0005634",
+            "GO:0005737",
+            "GO:0005739",
+            "GO:0005759",
+            "GO:0006399",
+            "GO:0008033",
+            "GO:0008150",
+            "GO:0008168",
+            "GO:0008175",
+            "GO:0009019",
+            "GO:0016740",
+            "GO:0030488",
+            "GO:0032259",
+            "GO:0034641",
+            "GO:0043226",
+            "GO:0052906",
+            "GO:0070901",
+            "HMNXSV003024343",
+            "Hs.33317.0.A1_3p_at",
+            "Hs.33317.0.A2_3p_s_at",
+            "ILMN_1673872",
+            "ILMN_1826047",
+            "ILMN_1906813",
+            "ILMN_2167922",
+            "ILMN_3289128",
+            "PH_hs_0002444",
+            "PH_hs_0033006",
+            "TC14001190.hg",
+            "X13546_rna1_at"
+        ],
+        "url": "http://purl.uniprot.org/uniprot/Q32P41",
+        "checksum": "4BCF6A00EBACD4FB",
+        "comment": [
+            "FUNCTION Involved in mitochondrial tRNA methylation (PubMed:26189817). Specifically methylates the N1 position of guanosine-37 in various tRNAs. Methylation is not dependent on the nature of the nucleoside 5' of the target nucleoside. This is the first step in the biosynthesis of wybutosine (yW), a modified base adjacent to the anticodon of tRNAs and required for accurate decoding.SUBUNIT Monomer.SIMILARITY Belongs to the class I-like SAM-binding methyltransferase superfamily. TRM5/TYW2 family."
+        ],
+        "description": [
+            "recommendedName: fullName evidence=\"1\"tRNA (guanine(37)-N1)-methyltransferase ecNumber evidence=\"1\"2.1.1.228/ecNumber  alternativeName: fullName evidence=\"1\"M1G-methyltransferase  alternativeName: fullName evidence=\"1\"tRNA [GM37] methyltransferase  alternativeName: fullName evidence=\"1\"tRNA methyltransferase 5 homolog "
+        ],
+        "geneName": [
+            "TRMT5",
+            "KIAA1393",
+            "TRM5"
+        ],
+        "isSequenceChanged": false,
+        "keyword": [
+            "Cytoplasm",
+            "Disease variant",
+            "Methyltransferase",
+            "Mitochondrion",
+            "Nucleus",
+            "Primary mitochondrial disease",
+            "Reference proteome",
+            "S-adenosyl-L-methionine",
+            "Transferase",
+            "tRNA processing"
+        ],
+        "secondaryIdentifier": [
+            "TRM5_HUMAN",
+            "B2RN19",
+            "Q9P2F4"
+        ],
+        "sequenceLength": 509,
+        "chain": [
+            "chain:1-509"
+        ],
+        "schemaClass": "ReferenceGeneProduct",
+        "className": "ReferenceGeneProduct"
+    }
+]

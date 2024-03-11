@@ -1,0 +1,18 @@
+[
+    {
+        "dbId": 168870,
+        "displayName": "Neuraminidase enzymatic release from sialic acid",
+        "stId": "R-HSA-168870",
+        "stIdVersion": "R-HSA-168870.4",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "Neuraminidase enzymatic release from sialic acid"
+        ],
+        "releaseDate": "2005-06-13",
+        "speciesName": "Homo sapiens",
+        "category": "transition",
+        "className": "Reaction",
+        "schemaClass": "Reaction"
+    }
+]

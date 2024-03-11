@@ -1,0 +1,362 @@
+[
+    {
+        "dbId": 9678226,
+        "displayName": "NCBI Nucleotide:NC_004718.3 SARS coronavirus, complete genome",
+        "databaseName": "NCBI Nucleotide",
+        "identifier": "NC_004718.3",
+        "name": [
+            "SARS coronavirus, complete genome"
+        ],
+        "url": "http://www.ncbi.nlm.nih.gov/nuccore/NC_004718.3",
+        "geneName": [
+            "SARS coronavirus, complete genome"
+        ],
+        "schemaClass": "ReferenceRNASequence",
+        "className": "ReferenceRNASequence"
+    },
+    {
+        "dbId": 8869364,
+        "displayName": "ATP(4-) [ChEBI:30616]",
+        "databaseName": "ChEBI",
+        "identifier": "30616",
+        "name": [
+            "ATP(4-)",
+            "ATP",
+            "atp",
+            "Adenosine 5'-triphosphate"
+        ],
+        "url": "http://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:30616",
+        "formula": "C10H12N5O13P3",
+        "schemaClass": "ReferenceMolecule",
+        "className": "ReferenceMolecule"
+    },
+    {
+        "dbId": 1422654,
+        "displayName": "diphosphate(3-) [ChEBI:33019]",
+        "databaseName": "ChEBI",
+        "identifier": "33019",
+        "name": [
+            "diphosphate(3-)"
+        ],
+        "url": "http://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:33019",
+        "formula": "HO7P2",
+        "schemaClass": "ReferenceMolecule",
+        "className": "ReferenceMolecule"
+    },
+    {
+        "dbId": 9678248,
+        "displayName": "UniProt:P0C6X7 rep",
+        "databaseName": "UniProt",
+        "identifier": "P0C6X7",
+        "name": [
+            "rep"
+        ],
+        "url": "http://purl.uniprot.org/uniprot/P0C6X7",
+        "checksum": "E6504CAFDC36BC09",
+        "comment": [
+            "DOMAIN The hydrophobic domains (HD) could mediate the membrane association of the replication complex and thereby alter the architecture of the host cell membrane.PTM Specific enzymatic cleavages in vivo by its own proteases yield mature proteins (PubMed:32083638). 3CL-PRO and PL-PRO proteinases are autocatalytically processed (By similarity).SIMILARITY Belongs to the coronaviruses polyprotein 1ab family.CAUTION Isolates SZ3 and SZ16 have been isolated from Paguma larvata and are described as SARS-like in literature."
+        ],
+        "description": [
+            "recommendedName: Replicase polyprotein 1ab shortName:pp1ab  alternativeName: ORF1ab polyprotein  component recommendedName: Host translation inhibitor nsp1  alternativeName: Leader protein  alternativeName: Non-structural protein 1 shortName:nsp1  /component component recommendedName: Non-structural protein 2 shortName:nsp2  alternativeName: p65 homolog  /component component recommendedName: Non-structural protein 3 shortName:nsp3 ecNumber3.4.19.12/ecNumber ecNumber3.4.22.69/ecNumber  alternativeName: PL2-PRO  alternativeName: Papain-like proteinase shortName:PL-PRO  /component component recommendedName: Non-structural protein 4 shortName:nsp4  /component component recommendedName: 3C-like proteinase shortName:3CL-PRO shortName:3CLp ecNumber3.4.22.-/ecNumber  alternativeName: Main protease shortName:Mpro  alternativeName: Non-structural protein 5 shortName:nsp5  alternativeName: SARS coronavirus main proteinase  /component component recommendedName: Non-structural protein 6 shortName:nsp6  /component component recommendedName: Non-structural protein 7 shortName:nsp7  /component component recommendedName: Non-structural protein 8 shortName:nsp8  /component component recommendedName: Non-structural protein 9 shortName:nsp9  /component component recommendedName: Non-structural protein 10 shortName:nsp10  alternativeName: Growth factor-like peptide shortName:GFL  /component component recommendedName: RNA-directed RNA polymerase shortName:Pol shortName:RdRp ecNumber2.7.7.48/ecNumber  alternativeName: Non-structural protein 12 shortName:nsp12  /component component recommendedName: Helicase shortName:Hel ecNumber3.6.4.12/ecNumber ecNumber3.6.4.13/ecNumber  alternativeName: Non-structural protein 13 shortName:nsp13  /component component recommendedName: fullName evidence=\"59 61\"Proofreading exoribonuclease shortName:ExoN ecNumber2.1.1.-/ecNumber ecNumber3.1.13.-/ecNumber  alternativeName: Guanine-N7 methyltransferase  alternativeName: Non-structural protein 14 shortName:nsp14  /component component recommendedName: Uridylate-specific endoribonuclease ecNumber3.1.-.-/ecNumber  alternativeName: NendoU  alternativeName: Non-structural protein 15 shortName:nsp15  /component component recommendedName: 2'-O-methyltransferase ecNumber2.1.1.-/ecNumber  alternativeName: Non-structural protein 16 shortName:nsp16  /component"
+        ],
+        "geneName": [
+            "rep",
+            "1a-1b"
+        ],
+        "isSequenceChanged": false,
+        "keyword": [
+            "3D-structure",
+            "Activation of host autophagy by virus",
+            "ATP-binding",
+            "Decay of host mRNAs by virus",
+            "Endonuclease",
+            "Eukaryotic host gene expression shutoff by virus",
+            "Eukaryotic host translation shutoff by virus",
+            "Exonuclease",
+            "Helicase",
+            "Host cytoplasm",
+            "Host gene expression shutoff by virus",
+            "Host membrane",
+            "Host mRNA suppression by virus",
+            "Host-virus interaction",
+            "Hydrolase",
+            "Inhibition of host innate immune response by virus",
+            "Inhibition of host interferon signaling pathway by virus",
+            "Inhibition of host ISG15 by virus",
+            "Inhibition of host NF-kappa-B by virus",
+            "Membrane",
+            "Metal-binding",
+            "Methyltransferase",
+            "Modulation of host ubiquitin pathway by viral deubiquitinase",
+            "Modulation of host ubiquitin pathway by virus",
+            "Nuclease",
+            "Nucleotide-binding",
+            "Nucleotidyltransferase",
+            "Protease",
+            "Reference proteome",
+            "Repeat",
+            "Ribosomal frameshifting",
+            "RNA-binding",
+            "RNA-directed RNA polymerase",
+            "Thiol protease",
+            "Transferase",
+            "Transmembrane",
+            "Transmembrane helix",
+            "Ubl conjugation pathway",
+            "Viral immunoevasion",
+            "Viral RNA replication",
+            "Zinc",
+            "Zinc-finger"
+        ],
+        "secondaryIdentifier": [
+            "R1AB_SARS",
+            "P59641",
+            "Q6WGN0",
+            "Q7T697",
+            "Q808C0",
+            "Q80BV7",
+            "Q80BV8",
+            "Q80E51"
+        ],
+        "sequenceLength": 7073,
+        "chain": [
+            "chain:1-180",
+            "chain:181-818",
+            "chain:819-2740",
+            "chain:2741-3240",
+            "chain:3241-3546",
+            "chain:3547-3836",
+            "chain:3837-3919",
+            "chain:3920-4117",
+            "chain:4118-4230",
+            "chain:4231-4369",
+            "chain:4370-5301",
+            "chain:5302-5902",
+            "chain:5903-6429",
+            "chain:6430-6775",
+            "chain:6776-7073"
+        ],
+        "schemaClass": "ReferenceGeneProduct",
+        "className": "ReferenceGeneProduct"
+    },
+    {
+        "dbId": 9678245,
+        "displayName": "UniProt:P0C6U8 1a",
+        "databaseName": "UniProt",
+        "identifier": "P0C6U8",
+        "name": [
+            "1a"
+        ],
+        "url": "http://purl.uniprot.org/uniprot/P0C6U8",
+        "checksum": "E1F65D5FD5DFF828",
+        "comment": [
+            "DOMAIN The hydrophobic domains (HD) could mediate the membrane association of the replication complex and thereby alter the architecture of the host cell membrane.PTM Specific enzymatic cleavages in vivo by its own proteases yield mature proteins. 3CL-PRO and PL-PRO proteinases are autocatalytically processed (By similarity).SIMILARITY Belongs to the coronaviruses polyprotein 1ab family.CAUTION Isolates SZ3 and SZ16 have been isolated from Paguma larvata and are described as SARS-like in literature."
+        ],
+        "description": [
+            "recommendedName: Replicase polyprotein 1a shortName:pp1a  alternativeName: ORF1a polyprotein  component recommendedName: Non-structural protein 1 shortName:nsp1  alternativeName: Leader protein  /component component recommendedName: Non-structural protein 2 shortName:nsp2  alternativeName: p65 homolog  /component component recommendedName: Non-structural protein 3 shortName:nsp3 ecNumber3.4.19.12/ecNumber ecNumber3.4.22.-/ecNumber  alternativeName: PL2-PRO  alternativeName: Papain-like proteinase shortName:PL-PRO  /component component recommendedName: Non-structural protein 4 shortName:nsp4  /component component recommendedName: 3C-like proteinase shortName:3CL-PRO shortName:3CLp ecNumber3.4.22.69/ecNumber  alternativeName: Main protease shortName:Mpro  alternativeName: Non-structural protein 5 shortName:nsp5  alternativeName: SARS coronavirus main proteinase  /component component recommendedName: Non-structural protein 6 shortName:nsp6  /component component recommendedName: Non-structural protein 7 shortName:nsp7  /component component recommendedName: Non-structural protein 8 shortName:nsp8  /component component recommendedName: Non-structural protein 9 shortName:nsp9  /component component recommendedName: Non-structural protein 10 shortName:nsp10  alternativeName: Growth factor-like peptide shortName:GFL  /component component recommendedName: Non-structural protein 11 shortName:nsp11  /component"
+        ],
+        "geneName": [
+            "1a"
+        ],
+        "isSequenceChanged": false,
+        "keyword": [
+            "3D-structure",
+            "Activation of host autophagy by virus",
+            "Decay of host mRNAs by virus",
+            "Endonuclease",
+            "Eukaryotic host gene expression shutoff by virus",
+            "Eukaryotic host translation shutoff by virus",
+            "Host cytoplasm",
+            "Host gene expression shutoff by virus",
+            "Host membrane",
+            "Host mRNA suppression by virus",
+            "Host-virus interaction",
+            "Hydrolase",
+            "Inhibition of host innate immune response by virus",
+            "Inhibition of host interferon signaling pathway by virus",
+            "Inhibition of host IRF3 by virus",
+            "Inhibition of host ISG15 by virus",
+            "Inhibition of host RLR pathway by virus",
+            "Membrane",
+            "Metal-binding",
+            "Modulation of host ubiquitin pathway by viral deubiquitinase",
+            "Modulation of host ubiquitin pathway by virus",
+            "Nuclease",
+            "Protease",
+            "Reference proteome",
+            "Repeat",
+            "Ribosomal frameshifting",
+            "RNA-binding",
+            "Thiol protease",
+            "Transmembrane",
+            "Transmembrane helix",
+            "Ubl conjugation pathway",
+            "Viral immunoevasion",
+            "Zinc",
+            "Zinc-finger"
+        ],
+        "secondaryIdentifier": [
+            "R1A_SARS",
+            "P59641"
+        ],
+        "sequenceLength": 4382,
+        "chain": [
+            "chain:1-4382",
+            "chain:1-180",
+            "chain:181-818",
+            "chain:819-2740",
+            "chain:2741-3240",
+            "chain:3241-3546",
+            "chain:3547-3836",
+            "chain:3837-3919",
+            "chain:3920-4117",
+            "chain:4118-4230",
+            "chain:4231-4369",
+            "chain:4370-4382"
+        ],
+        "schemaClass": "ReferenceGeneProduct",
+        "className": "ReferenceGeneProduct"
+    },
+    {
+        "dbId": 9737459,
+        "displayName": "nucleoside triphosphate(4-) [ChEBI:61557]",
+        "databaseName": "ChEBI",
+        "identifier": "61557",
+        "name": [
+            "nucleoside triphosphate(4-)",
+            "NTP(4-)",
+            "nucleoside 5'-triphosphate tetraanion",
+            "NTP tetraanion",
+            "a ribonucleoside 5'-triphosphate"
+        ],
+        "url": "http://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:61557",
+        "formula": "C5H8O13P3R",
+        "schemaClass": "ReferenceMolecule",
+        "className": "ReferenceMolecule"
+    },
+    {
+        "dbId": 29392,
+        "displayName": "S-adenosyl-L-methionine [ChEBI:15414]",
+        "databaseName": "ChEBI",
+        "identifier": "15414",
+        "name": [
+            "S-adenosyl-L-methionine"
+        ],
+        "url": "http://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:15414",
+        "formula": "C15H23N6O5S",
+        "schemaClass": "ReferenceMolecule",
+        "className": "ReferenceMolecule"
+    },
+    {
+        "dbId": 29396,
+        "displayName": "S-adenosyl-L-homocysteine [ChEBI:16680]",
+        "databaseName": "ChEBI",
+        "identifier": "16680",
+        "name": [
+            "S-adenosyl-L-homocysteine"
+        ],
+        "url": "http://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:16680",
+        "formula": "C14H20N6O5S",
+        "schemaClass": "ReferenceMolecule",
+        "className": "ReferenceMolecule"
+    },
+    {
+        "dbId": 114728,
+        "displayName": "water [ChEBI:15377]",
+        "databaseName": "ChEBI",
+        "identifier": "15377",
+        "name": [
+            "water"
+        ],
+        "url": "http://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:15377",
+        "formula": "H2O",
+        "schemaClass": "ReferenceMolecule",
+        "className": "ReferenceMolecule"
+    },
+    {
+        "dbId": 9736415,
+        "displayName": "GTP(4-) [ChEBI:37565]",
+        "databaseName": "ChEBI",
+        "identifier": "37565",
+        "name": [
+            "GTP(4-)",
+            "GTP",
+            "gtp",
+            "guanosine 5'-triphosphate(4-)"
+        ],
+        "url": "http://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:37565",
+        "formula": "C10H12N5O14P3",
+        "schemaClass": "ReferenceMolecule",
+        "className": "ReferenceMolecule"
+    },
+    {
+        "dbId": 5687611,
+        "displayName": "hydrogenphosphate [ChEBI:43474]",
+        "databaseName": "ChEBI",
+        "identifier": "43474",
+        "name": [
+            "hydrogenphosphate",
+            "hydrogen phosphate",
+            "phosphate",
+            "[PO3(OH)](2-)",
+            "INORGANIC PHOSPHATE GROUP",
+            "HYDROGENPHOSPHATE ION",
+            "HPO4(2-)",
+            "[P(OH)O3](2-)"
+        ],
+        "url": "http://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:43474",
+        "formula": "HO4P",
+        "schemaClass": "ReferenceMolecule",
+        "className": "ReferenceMolecule"
+    },
+    {
+        "dbId": 9678169,
+        "displayName": "UniProt:P59595 N",
+        "databaseName": "UniProt",
+        "identifier": "P59595",
+        "name": [
+            "N"
+        ],
+        "url": "http://purl.uniprot.org/uniprot/P59595",
+        "checksum": "43FC8750F1253034",
+        "comment": [
+            "FUNCTION Packages the positive strand viral genome RNA into a helical ribonucleocapsid (RNP) and plays a fundamental role during virion assembly through its interactions with the viral genome and membrane protein M. Plays an important role in enhancing the efficiency of subgenomic viral RNA transcription as well as viral replication (PubMed:17210170). May modulate transforming growth factor-beta signaling by binding host SMAD3 (PubMed:18055455).SUBUNIT Homooligomer. Both monomeric and oligomeric forms interact with RNA. Interacts with protein M (PubMed:15351485). Interacts with protein E (PubMed:24766657). May bind to host HNRNPA1 (Probable). Interacts with NSP3; this interaction serves to tether the genome to the newly translated replicase-transcriptase complex at a very early stage of infection (By similarity). May interact with host SMAD3 (Probable). Interacts with host PPIA/CYPA (PubMed:15688292).PTM ADP-ribosylated. The ADP-ribosylation is retained in the virion during infection.PTM Phosphorylated on serine and threonine residues (By similarity). Phosphorylated by host GSK3A and GSK3B. Phosphorylation allows recruitment of host RNA helicase DDX1 which facilitates template readthrough and enables longer subgenomic mRNA synthesis.SIMILARITY Belongs to the betacoronavirus nucleocapsid protein family."
+        ],
+        "description": [
+            "recommendedName: fullName evidence=\"1\"Nucleoprotein  alternativeName: fullName evidence=\"1\"Nucleocapsid protein shortName evidence=\"1\"NC shortName evidence=\"1\"Protein N "
+        ],
+        "geneName": [
+            "N",
+            "9a"
+        ],
+        "isSequenceChanged": false,
+        "keyword": [
+            "3D-structure",
+            "ADP-ribosylation",
+            "Host cytoplasm",
+            "Host Golgi apparatus",
+            "Host-virus interaction",
+            "Phosphoprotein",
+            "Reference proteome",
+            "Ribonucleoprotein",
+            "RNA-binding",
+            "Transcription",
+            "Transcription regulation",
+            "Viral nucleoprotein",
+            "Virion"
+        ],
+        "secondaryIdentifier": [
+            "NCAP_SARS",
+            "Q7T3Z4",
+            "Q7TA14",
+            "Q7TF99",
+            "Q80E50"
+        ],
+        "sequenceLength": 422,
+        "chain": [
+            "chain:1-422"
+        ],
+        "schemaClass": "ReferenceGeneProduct",
+        "className": "ReferenceGeneProduct"
+    }
+]

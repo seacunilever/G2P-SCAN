@@ -1,0 +1,87 @@
+[
+    {
+        "dbId": 6804194,
+        "displayName": "PRDM1 binds the TP53 gene",
+        "stId": "R-HSA-6804194",
+        "stIdVersion": "R-HSA-6804194.1",
+        "isInDisease": false,
+        "isInferred": false,
+        "name": [
+            "PRDM1 binds the TP53 gene"
+        ],
+        "releaseDate": "2016-03-23",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "binding",
+        "className": "Reaction",
+        "schemaClass": "Reaction"
+    },
+    {
+        "dbId": 6804193,
+        "displayName": "TP53 stimulates PRDM1 expression",
+        "stId": "R-HSA-6804193",
+        "stIdVersion": "R-HSA-6804193.3",
+        "isInDisease": false,
+        "isInferred": false,
+        "name": [
+            "TP53 stimulates PRDM1 expression"
+        ],
+        "releaseDate": "2016-03-23",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "omitted",
+        "className": "Reaction",
+        "schemaClass": "BlackBoxEvent"
+    },
+    {
+        "dbId": 6804191,
+        "displayName": "TP53 binds the PRDM1 gene",
+        "stId": "R-HSA-6804191",
+        "stIdVersion": "R-HSA-6804191.2",
+        "isInDisease": false,
+        "isInferred": false,
+        "name": [
+            "TP53 binds the PRDM1 gene"
+        ],
+        "releaseDate": "2016-03-23",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "binding",
+        "className": "Reaction",
+        "schemaClass": "Reaction"
+    },
+    {
+        "dbId": 6804188,
+        "displayName": "PRDM1 represses TP53 expression",
+        "stId": "R-HSA-6804188",
+        "stIdVersion": "R-HSA-6804188.3",
+        "isInDisease": false,
+        "isInferred": false,
+        "name": [
+            "PRDM1 represses TP53 expression"
+        ],
+        "releaseDate": "2016-03-23",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "omitted",
+        "className": "Reaction",
+        "schemaClass": "BlackBoxEvent"
+    },
+    {
+        "dbId": 6804762,
+        "displayName": "TP53 forms homotetramers",
+        "stId": "R-HSA-6804762",
+        "stIdVersion": "R-HSA-6804762.2",
+        "isInDisease": false,
+        "isInferred": false,
+        "name": [
+            "TP53 forms homotetramers"
+        ],
+        "releaseDate": "2016-03-23",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "binding",
+        "className": "Reaction",
+        "schemaClass": "Reaction"
+    }
+]

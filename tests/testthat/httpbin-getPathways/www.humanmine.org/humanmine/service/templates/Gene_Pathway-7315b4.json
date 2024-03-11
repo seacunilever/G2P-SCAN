@@ -1,0 +1,62 @@
+{
+    "template": {
+        "model": {
+            "name": "genomic"
+        },
+        "title": "Gene --> Pathway",
+        "description": "For a given Gene (or List of Genes) show any associated Pathway(s) (Data Source: KEGG or REACTOME). Keywords: pathways, metabolism, cascade ",
+        "select": [
+            "Gene.primaryIdentifier",
+            "Gene.symbol",
+            "Gene.name",
+            "Gene.pathways.name",
+            "Gene.pathways.dataSets.name",
+            "Gene.pathways.identifier",
+            "Gene.organism.shortName"
+        ],
+        "constraintLogic": "B and A",
+        "name": "Gene_Pathway",
+        "comment": "Added 26OCT2010: ML",
+        "tags": [
+            "im:aspect:Function",
+            "im:aspect:Pathways",
+            "im:public"
+        ],
+        "rank": "1",
+        "orderBy": [
+            {
+                "Gene.primaryIdentifier": "ASC"
+            },
+            {
+                "Gene.primaryIdentifier": "ASC"
+            },
+            {
+                "Gene.primaryIdentifier": "ASC"
+            }
+        ],
+        "where": [
+            {
+                "path": "Gene",
+                "op": "LOOKUP",
+                "code": "A",
+                "editable": true,
+                "switchable": false,
+                "switched": "LOCKED",
+                "value": "pparg"
+            },
+            {
+                "path": "Gene.organism.name",
+                "op": "=",
+                "code": "B",
+                "editable": true,
+                "switchable": false,
+                "switched": "LOCKED",
+                "value": "Homo sapiens"
+            }
+        ]
+    },
+    "executionTime": "2021.12.01 11:20::47",
+    "wasSuccessful": true,
+    "error": null,
+    "statusCode": 200
+}

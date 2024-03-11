@@ -1,0 +1,19 @@
+[
+    {
+        "dbId": 9702589,
+        "displayName": "gilteritinib-resistant FLT3 mutants don't bind gilteritinib",
+        "stId": "R-HSA-9702589",
+        "stIdVersion": "R-HSA-9702589.1",
+        "isInDisease": true,
+        "isInferred": false,
+        "name": [
+            "gilteritinib-resistant FLT3 mutants don't bind gilteritinib"
+        ],
+        "releaseDate": "2020-12-08",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "transition",
+        "className": "Reaction",
+        "schemaClass": "FailedReaction"
+    }
+]

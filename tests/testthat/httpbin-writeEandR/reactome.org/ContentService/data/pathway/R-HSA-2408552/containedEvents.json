@@ -1,0 +1,36 @@
+[
+    {
+        "dbId": 2408541,
+        "displayName": "MeSeH is methylated to Me2Se by MeSeH methyltransferase",
+        "stId": "R-HSA-2408541",
+        "stIdVersion": "R-HSA-2408541.1",
+        "isInDisease": false,
+        "isInferred": true,
+        "name": [
+            "MeSeH is methylated to Me2Se by MeSeH methyltransferase"
+        ],
+        "releaseDate": "2015-12-15",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "transition",
+        "className": "Reaction",
+        "schemaClass": "Reaction"
+    },
+    {
+        "dbId": 2408554,
+        "displayName": "Me2Se is methylated to Me3Se+ by INMT",
+        "stId": "R-HSA-2408554",
+        "stIdVersion": "R-HSA-2408554.1",
+        "isInDisease": false,
+        "isInferred": true,
+        "name": [
+            "Me2Se is methylated to Me3Se+ by INMT"
+        ],
+        "releaseDate": "2015-12-15",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "transition",
+        "className": "Reaction",
+        "schemaClass": "Reaction"
+    }
+]

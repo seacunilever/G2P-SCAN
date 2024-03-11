@@ -1,0 +1,36 @@
+[
+    {
+        "dbId": 3245943,
+        "displayName": "Viral DNA cleavage by TREX1",
+        "stId": "R-HSA-3245943",
+        "stIdVersion": "R-HSA-3245943.1",
+        "isInDisease": false,
+        "isInferred": false,
+        "name": [
+            "Viral DNA cleavage by TREX1"
+        ],
+        "releaseDate": "2013-06-11",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "omitted",
+        "className": "Reaction",
+        "schemaClass": "BlackBoxEvent"
+    },
+    {
+        "dbId": 3244605,
+        "displayName": "TREX1 binds retroviral-derived DNA",
+        "stId": "R-HSA-3244605",
+        "stIdVersion": "R-HSA-3244605.1",
+        "isInDisease": false,
+        "isInferred": false,
+        "name": [
+            "TREX1 binds retroviral-derived DNA"
+        ],
+        "releaseDate": "2013-06-11",
+        "speciesName": "Homo sapiens",
+        "isChimeric": false,
+        "category": "binding",
+        "className": "Reaction",
+        "schemaClass": "Reaction"
+    }
+]
