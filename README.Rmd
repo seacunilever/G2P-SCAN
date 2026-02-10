@@ -9,6 +9,12 @@ output:
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
+<div style="border:2px solid #8B0000; background-color:#FFEDED; color:#8B0000; padding:14px; margin-bottom:18px; font-weight:700; font-size:1.05em;">
+  <strong>WARNING — This tool currently does NOT work.</strong>
+  <br>
+  The package relies on database dependencies (HumanMine) that are no longer supported. We are actively working on building a solution to restore functionality.
+</div>
+
 ```{r, include = FALSE}
 knitr::opts_chunk$set(
   collapse = TRUE,
@@ -50,7 +56,7 @@ devtools::install_github("seacunilever/G2P-SCAN")
 
 The `runGenes2Pathways` function is the wrapper function, calling all functions representing each step of the G2P-SCAN pipeline (see figure below). ![pipeline](man/figures/workflow.png) The function will first map the input gene(s) to Reactome pathways, get all genes found in those pathways and get all given orthologues for the species selected for the analysis, all using R package InterMineR. All orthologues are then queried using the UniProt protein API to determine a corresponding protein for the gene if available, these are then queried using the InterPro API to map the given proteins to functional families. A file of entities and reactions for all species is then created and used, derived from Reactome, of all Human pathways of entities and reactions counts for each species. Counts of entities and reactions are pulled from this file for each of the mapped pathways and species of interest for the final output. All Human genes and species orthologues are counted per mapped pathway as well as the corresponding proteins and functional families for a final output.
 
-```{r example, message = FALSE, warning = FALSE}
+```{r example, message = FALSE, warning = FALSE, eval=FALSE}
 library(Genes2Pathways)
 library(parallel) # for detectCores() 
 ACHE_BCHE_T_ALL <- runGenes2Pathways(inputGenes = c("ACHE", "BCHE"),
@@ -162,7 +168,7 @@ This is the first step of the pipeline where input genes are mapped to pathways.
 
 **Return example**
 
-```{r getPathways}
+```{r getPathways, eval=FALSE}
 knitr::kable(ACHE_BCHE_T_ALL$pathways)
 
 ```
@@ -172,7 +178,7 @@ knitr::kable(ACHE_BCHE_T_ALL$pathways)
 All human genes mapped into the pathways of interest are retrieved. The `getGenes` function takes a list of Reactome pathway identifiers (when run within `runGenes2Pathways` this will be the unique list of values from the ‘Pathway Identifier’ column of the `getPathways` output) and queries HumanMine via the R package InterMineR (using template ‘PathwayGenes’) to get all genes found in the given pathways. The function returns the InterMine gene identifier, gene symbol and pathway identifier the gene belongs to in a long data frame format.\
 **Return example**
 
-```{r getGenes}
+```{r getGenes, eval=FALSE}
   knitr::kable(head(ACHE_BCHE_T_ALL$genes_in_path)) ## subset of results
 
 ```
@@ -182,7 +188,7 @@ All human genes mapped into the pathways of interest are retrieved. The `getGene
 Entity and Reaction counts are pulled from Reactome using the Reactome APIs (<https://reactome.org/AnalysisService/species/homoSapiens/speciesCode?sortBy=ENTITIES_PVALUE&order=ASC&resource=TOTAL&pValue=1>, <https://reactome.org/ContentService/data/pathway/path_id/containedEvents>, <https://reactome.org/ContentService/data/participants/pathway/referenceEntities>). Counts for all available pathways and species are extracted at one time and results are saved to a static csv file within the g2pScanData directory (see section [Resource Version Control](#resource-version-control) to understand how the entity and reaction file is stored and updated). The `getEntitiesReactionsCounts` function reads the saved csv and filters the data frame to the queried species and pathways of interest.\
 **Return example**
 
-```{r getEntitiesReactionsCounts}
+```{r getEntitiesReactionsCounts, eval=FALSE}
   knitr::kable(ACHE_BCHE_T_ALL$entities_reactions)
 
 ```
@@ -192,7 +198,7 @@ Entity and Reaction counts are pulled from Reactome using the Reactome APIs (<ht
 Orthologues of a list of human genes for all selected species are retrieved. The `getOrthologueGenes` function takes the list of human gene symbols identified by getGenes and the chosen species to find orthologues together with the orthologue filter value (Least Divergent Orthologues (LDO) / All Orthologues (ALL)), both following the option selected by the user on input. When run in function `runGenes2Pathways`, the full list of genes found in all pathways is passed to this function. InterMineR is called (using template ‘Gene_Orth’) to retrieve orthologues available in the HumanMine database for all genes given in the input. The output of the InterMineR query is then filtered to only include species of interest and then if the orthologue filter is equal to LDO then orthologues are filter to only be of this type, otherwise in the case of ALL, all orthologues identified would be considered. Filtering for only LDOs will meant only the most nearly “equivalent” gene in another organism is selected (in case of gene duplications for instance). An LDO for a given gene may not exist (output is zero), as well a gene may have several orthologues (output is \>1). Data returned includes the human gene primary identifier from HumanMine, human gene symbol, the orthologue primary identifier and gene symbol, the species of the orthologue and orthologue type.\
 **Return example**
 
-```{r getOrthologueGenes}
+```{r getOrthologueGenes, eval=FALSE}
   knitr::kable(head(ACHE_BCHE_T_ALL$orthologues_genes)) #subset of results
 
 ```
@@ -203,7 +209,7 @@ A matrix containing the list of human genes and their orthologues per species is
 
 **Return example**
 
-```{r getOrthologueMatrix}
+```{r getOrthologueMatrix, eval=FALSE}
   knitr::kable(head(ACHE_BCHE_T_ALL$orthologue_matrix)) #subset of results
 
 ```
@@ -226,7 +232,7 @@ Proteins selected for genes are given as UniProt accession IDs.
 
 **Return example**
 
-```{r getProteins}
+```{r getProteins, eval=FALSE}
   knitr::kable(head(ACHE_BCHE_T_ALL$proteins)) # subset of results
 
 ```
@@ -236,7 +242,7 @@ Proteins selected for genes are given as UniProt accession IDs.
 A matrix containing the list of human gene identifiers and their respective selected proteins per each species is generated. The `getProteinMatrix` function takes the output of `getProteins` and transforms it into a matrix where human genes are provided as rows and in columns are the species (including human) selected for analysis. Each cell contains the UniProt accession ID for the protein for the given human gene (row) and species (column).\
 **Return example**
 
-```{r getProteinMatrix}
+```{r getProteinMatrix, eval=FALSE}
   knitr::kable(head(ACHE_BCHE_T_ALL$protein_matrix)) # subset of results
 
 ```
@@ -247,7 +253,7 @@ Each protein is assigned to a functional family according to InterPro classifica
 
 **Return example**
 
-```{r getFamilies}
+```{r getFamilies, eval=FALSE}
   knitr::kable(ACHE_BCHE_T_ALL$families[c(86:92), ]) # subset of results
 
 ```
@@ -258,7 +264,7 @@ A matrix containing the list of human gene identifiers and their respective uniq
 
 **Return example**
 
-```{r getFamilyMatrix}
+```{r getFamilyMatrix, eval=FALSE}
   knitr::kable(ACHE_BCHE_T_ALL$family_matrix) # subset of results
 
 ```
@@ -283,7 +289,7 @@ Counts and information returned per pathway and species:\
 
 **Return example (one list element/pathway)**
 
-```{r getAllCounts}
+```{r getAllCounts, eval=FALSE}
    knitr::kable(ACHE_BCHE_T_ALL$allCounts[[1]])
 
 ```
@@ -317,7 +323,7 @@ The `run_all_plots` wraps all plotting functions using default parameters to pro
 
 \- Entity and & reactions box plots
 
-```{r example_plotting, message = FALSE, warning = FALSE,  out.width = "45%", fig.show='hold', include = TRUE}
+```{r example_plotting, message = FALSE, warning = FALSE,  out.width = "45%", fig.show='hold', include = TRUE, eval=FALSE}
 run_all_plots(g2p_output_dir = "./man/ACHE_T_LDO/", plot_output_dir = "./ACHE_T_LDO_out", data_name = NULL) 
 ```
 

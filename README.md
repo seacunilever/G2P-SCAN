@@ -32,9 +32,19 @@ Jade Houghton
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
+<div style="border:2px solid #8B0000; background-color:#FFEDED; color:#8B0000; padding:14px; margin-bottom:18px; font-weight:700; font-size:1.05em;">
+
+<strong>WARNING — This tool currently does NOT work.</strong> <br> The
+package relies on database dependencies (HumanMine) that are no longer
+supported. We are actively working on building a solution to restore
+functionality.
+
+</div>
+
 # G2P-SCAN
 
 <!-- badges: start -->
+
 <!-- badges: end -->
 
 **G**enes **to** **P**athways - **S**pecies **C**onservation
@@ -320,16 +330,6 @@ the analysis the longer the run time of the pipeline.
 knitr::kable(ACHE_BCHE_T_ALL$pathways)
 ```
 
-|     | Derived Gene | Pathways                                         | Derived Database | Pathway Identifier | Pathway Level | Pathway Link                                        | Input Gene Count |
-|:----|:-------------|:-------------------------------------------------|:-----------------|:-------------------|:--------------|:----------------------------------------------------|-----------------:|
-| 12  | ACHE         | Neurotransmitter clearance                       | reactome         | R-HSA-112311       | terminal      | <https://reactome.org/content/detail/R-HSA-112311>  |                2 |
-| 18  | ACHE         | Synthesis of PC                                  | reactome         | R-HSA-1483191      | terminal      | <https://reactome.org/content/detail/R-HSA-1483191> |                2 |
-| 20  | ACHE         | Synthesis, secretion, and deacylation of Ghrelin | reactome         | R-HSA-422085       | terminal      | <https://reactome.org/content/detail/R-HSA-422085>  |                2 |
-| 24  | BCHE         | Aspirin ADME                                     | reactome         | R-HSA-9749641      | terminal      | <https://reactome.org/content/detail/R-HSA-9749641> |                1 |
-| 38  | BCHE         | Neurotransmitter clearance                       | reactome         | R-HSA-112311       | terminal      | <https://reactome.org/content/detail/R-HSA-112311>  |                2 |
-| 44  | BCHE         | Synthesis of PC                                  | reactome         | R-HSA-1483191      | terminal      | <https://reactome.org/content/detail/R-HSA-1483191> |                2 |
-| 46  | BCHE         | Synthesis, secretion, and deacylation of Ghrelin | reactome         | R-HSA-422085       | terminal      | <https://reactome.org/content/detail/R-HSA-422085>  |                2 |
-
 ### `getGenes`
 
 All human genes mapped into the pathways of interest are retrieved. The
@@ -345,15 +345,6 @@ identifier the gene belongs to in a long data frame format.
 ``` r
   knitr::kable(head(ACHE_BCHE_T_ALL$genes_in_path)) ## subset of results
 ```
-
-| Gene Identifier | Gene Symbol | Pathway Identifier |
-|:----------------|:------------|:-------------------|
-| 1312            | COMT        | R-HSA-112311       |
-| 217             | ALDH2       | R-HSA-112311       |
-| 220074          | LRTOMT      | R-HSA-112311       |
-| 4128            | MAOA        | R-HSA-112311       |
-| 43              | ACHE        | R-HSA-112311       |
-| 590             | BCHE        | R-HSA-112311       |
 
 ### `getEntitiesReactionsCounts`
 
@@ -374,13 +365,6 @@ species and pathways of interest.
 ``` r
   knitr::kable(ACHE_BCHE_T_ALL$entities_reactions)
 ```
-
-|               | Human_entities | R. norvegicus_entities | M. musculus_entities | D. rerio_entities | C. elegans_entities | D. melanogaster_entities | S. cerevisiae_entities | Human_reactions | R. norvegicus_reactions | M. musculus_reactions | D. rerio_reactions | C. elegans_reactions | D. melanogaster_reactions | S. cerevisiae_reactions |
-|:--------------|---------------:|-----------------------:|---------------------:|------------------:|--------------------:|-------------------------:|-----------------------:|----------------:|------------------------:|----------------------:|-------------------:|---------------------:|--------------------------:|------------------------:|
-| R-HSA-112311  |             36 |                      9 |                    9 |                 6 |                   7 |                        5 |                      0 |              16 |                      15 |                    15 |                 10 |                    8 |                         6 |                       0 |
-| R-HSA-1483191 |             55 |                     25 |                   25 |                16 |                  14 |                       12 |                      7 |              18 |                      18 |                    18 |                 14 |                   10 |                        11 |                       6 |
-| R-HSA-422085  |             26 |                     14 |                   14 |                 9 |                   2 |                        1 |                      0 |               8 |                       8 |                     8 |                  5 |                    1 |                         1 |                       0 |
-| R-HSA-9749641 |             80 |                     26 |                   27 |                 7 |                  11 |                       10 |                      1 |              26 |                      13 |                    13 |                  8 |                    9 |                         9 |                       1 |
 
 ### `getOrthologueGenes`
 
@@ -410,15 +394,6 @@ of the orthologue and orthologue type.
   knitr::kable(head(ACHE_BCHE_T_ALL$orthologues_genes)) #subset of results
 ```
 
-|     | Gene.primaryIdentifier | Gene.symbol | Gene.homologues.homologue.primaryIdentifier | Gene.homologues.homologue.symbol | Gene.homologues.homologue.organism.shortName | Gene.homologues.type      |
-|:----|:-----------------------|:------------|:--------------------------------------------|:---------------------------------|:---------------------------------------------|:--------------------------|
-| 1   | 1312                   | COMT        | MGI:88470                                   | Comt                             | M. musculus                                  | least diverged orthologue |
-| 2   | 1312                   | COMT        | RGD:2379                                    | Comt                             | R. norvegicus                                | least diverged orthologue |
-| 3   | 1312                   | COMT        | ZDB-GENE-050913-117                         | Gene symbol not found            | D. rerio                                     | least diverged orthologue |
-| 6   | 217                    | ALDH2       | FBgn0012036                                 | Gene symbol not found            | D. melanogaster                              | least diverged orthologue |
-| 7   | 217                    | ALDH2       | MGI:99600                                   | Aldh2                            | M. musculus                                  | least diverged orthologue |
-| 8   | 217                    | ALDH2       | RGD:69219                                   | Aldh2                            | R. norvegicus                                | least diverged orthologue |
-
 ### `getOrthologueMatrix`
 
 A matrix containing the list of human genes and their orthologues per
@@ -434,15 +409,6 @@ for the given human gene (row) and species (column) if available.
 ``` r
   knitr::kable(head(ACHE_BCHE_T_ALL$orthologue_matrix)) #subset of results
 ```
-
-|        | R. norvegicus      | M. musculus        | D. rerio                                                                               | C. elegans                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | D. melanogaster                                                                                                                                                                                                                                                                                                                                                                                            | S. cerevisiae                                                                                                                              |
-|:-------|:-------------------|:-------------------|:---------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------------------------------------------|
-| ABCC2  | RGD:2366(Abcc2)    | MGI:1352447(Abcc2) | ZDB-GENE-040426-1523(Gene symbol not found)                                            | WBGene00003409(Gene symbol not found), WBGene00003410(Gene symbol not found), WBGene00003413(Gene symbol not found), WBGene00003414(Gene symbol not found)                                                                                                                                                                                                                                                                                                                                                                | FBgn0028675(Gene symbol not found), FBgn0032456(Gene symbol not found)                                                                                                                                                                                                                                                                                                                                     | S000001027(Gene symbol not found), S000002542(Gene symbol not found), S000003938(Gene symbol not found), S000003971(Gene symbol not found) |
-| ABCC3  | RGD:71101(Abcc3)   | MGI:1923658(Abcc3) | ZDB-GENE-050517-16(Gene symbol not found)                                              | WBGene00003407(Gene symbol not found), WBGene00003408(Gene symbol not found)                                                                                                                                                                                                                                                                                                                                                                                                                                              |                                                                                                                                                                                                                                                                                                                                                                                                            | S000003513(Gene symbol not found)                                                                                                          |
-| ABHD3  | RGD:1310655(Abhd3) | MGI:2147183(Abhd3) | ZDB-GENE-040912-90(Gene symbol not found)                                              | WBGene00013358(Gene symbol not found), WBGene00016644(Gene symbol not found)                                                                                                                                                                                                                                                                                                                                                                                                                                              | FBgn0033382(Gene symbol not found)                                                                                                                                                                                                                                                                                                                                                                         | S000000381(Gene symbol not found), S000004823(Gene symbol not found), S000006016(Gene symbol not found)                                    |
-| ACHE   |                    |                    | ZDB-GENE-030131-9563(Gene symbol not found), ZDB-GENE-061013-99(Gene symbol not found) | WBGene00001578(Gene symbol not found), WBGene00010116(Gene symbol not found), WBGene00011362(Gene symbol not found), WBGene00011364(Gene symbol not found), WBGene00013540(Gene symbol not found), WBGene00013873(Gene symbol not found), WBGene00013874(Gene symbol not found), WBGene00013875(Gene symbol not found), WBGene00017478(Gene symbol not found), WBGene00019477(Gene symbol not found), WBGene00020125(Gene symbol not found), WBGene00020330(Gene symbol not found), WBGene00020891(Gene symbol not found) | FBgn0000326(Gene symbol not found), FBgn0000592(Gene symbol not found), FBgn0000594(Gene symbol not found), FBgn0004108(Gene symbol not found), FBgn0010052(Gene symbol not found), FBgn0027584(Gene symbol not found), FBgn0029690(Gene symbol not found), FBgn0031327(Gene symbol not found), FBgn0032132(Gene symbol not found), FBgn0033943(Gene symbol not found), FBgn0034076(Gene symbol not found) |                                                                                                                                            |
-| ACSM2A | RGD:708383(Acsm2)  | MGI:2385289(Acsm2) | ZDB-GENE-080220-22(Gene symbol not found)                                              |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |                                                                                                                                                                                                                                                                                                                                                                                                            |                                                                                                                                            |
-| ACSM2B | RGD:708383(Acsm2)  | MGI:2385289(Acsm2) | ZDB-GENE-080220-22(Gene symbol not found)                                              |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |                                                                                                                                                                                                                                                                                                                                                                                                            |                                                                                                                                            |
 
 ### `getProteins`
 
@@ -496,15 +462,6 @@ Proteins selected for genes are given as UniProt accession IDs.
   knitr::kable(head(ACHE_BCHE_T_ALL$proteins)) # subset of results
 ```
 
-|     | Gene.symbol | Gene.homologues.homologue.primaryIdentifier | Gene.homologues.homologue.organism.shortName | Gene.homologues.homologue.symbol | search_term         | protein.accession |
-|:----|:------------|:--------------------------------------------|:---------------------------------------------|:---------------------------------|:--------------------|:------------------|
-| 1   | COMT        | MGI:88470                                   | M. musculus                                  | Comt                             | MGI:88470           | O88587            |
-| 2   | COMT        | RGD:2379                                    | R. norvegicus                                | Comt                             | RGD:2379            | P22734            |
-| 3   | COMT        | ZDB-GENE-050913-117                         | D. rerio                                     | Gene symbol not found            | ZDB-GENE-050913-117 | F4ZGF2            |
-| 6   | ALDH2       | FBgn0012036                                 | D. melanogaster                              | Gene symbol not found            | FBgn0012036         | Q9VLC5            |
-| 7   | ALDH2       | MGI:99600                                   | M. musculus                                  | Aldh2                            | MGI:99600           | P47738            |
-| 8   | ALDH2       | RGD:69219                                   | R. norvegicus                                | Aldh2                            | RGD:69219           | P11884            |
-
 ### `getProteinMatrix`
 
 A matrix containing the list of human gene identifiers and their
@@ -519,15 +476,6 @@ human gene (row) and species (column).
 ``` r
   knitr::kable(head(ACHE_BCHE_T_ALL$protein_matrix)) # subset of results
 ```
-
-|        | Human  | R. norvegicus | M. musculus | D. rerio           | C. elegans                                                                                                 | D. melanogaster                                                                        | S. cerevisiae                  |
-|:-------|:-------|:--------------|:------------|:-------------------|:-----------------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------|:-------------------------------|
-| ABCC2  | Q92887 | Q63120        | Q8VI47      | F1DB26             | Q19048, G5EFP3, Q9U2G5, Q9XW61                                                                             | Q9VL32, Q7KTC0                                                                         | P38735, P39109, P14772, P32386 |
-| ABCC3  | O15438 | O88563        | B2RX12      | A0A8M3AXY3         | Q95QE2, Q20943                                                                                             | NA                                                                                     | P53049                         |
-| ABHD3  | Q8WU67 | D4A3D4        | Q91ZH7      | Q66HU2             | Q9U1Z6, Q18610                                                                                             | A1Z7Q7                                                                                 | P38295, Q03649, Q02891         |
-| ACHE   | P22303 | NA            | NA          | Q1LUZ9, A0A8M9PPJ2 | Q04457, Q8MQ23, O01302, P92016, Q9XW75, Q23268, H9G2Y9, G5EDJ7, A0A1C3NSL8, Q21266, Q22008, H2L0K7, Q4LDP0 | Q9W2F4, P08171, P18167, P23654, Q9BMT7, Q9Y141, Q8MZ17, Q9VPZ5, Q9VLA3, Q8T016, A1ZA97 | NA                             |
-| ACSM2A | Q08AH3 | O70490        | Q8K0L3      | A9JRA7             | NA                                                                                                         | NA                                                                                     | NA                             |
-| ACSM2B | Q68CK6 | O70490        | Q8K0L3      | A9JRA7             | NA                                                                                                         | NA                                                                                     | NA                             |
 
 ### `getFamilies`
 
@@ -557,16 +505,6 @@ string of comma separated terms).
   knitr::kable(ACHE_BCHE_T_ALL$families[c(86:92), ]) # subset of results
 ```
 
-|     | protein.accession | Gene.homologues.homologue.organism.shortName | filtered_family |
-|:----|:------------------|:---------------------------------------------|:----------------|
-| 86  | Q01134            | R. norvegicus                                |                 |
-| 87  | Q03764            | S. cerevisiae                                |                 |
-| 88  | P20485            | S. cerevisiae                                |                 |
-| 89  | O17610            | C. elegans                                   |                 |
-| 90  | Q22942            | C. elegans                                   |                 |
-| 91  | P46558            | C. elegans                                   |                 |
-| 92  | Q8VCC2            | M. musculus                                  |                 |
-
 ### `getFamilyMatrix`
 
 A matrix containing the list of human gene identifiers and their
@@ -583,103 +521,6 @@ and species (column).
 ``` r
   knitr::kable(ACHE_BCHE_T_ALL$family_matrix) # subset of results
 ```
-
-|          | Human                           | Human | R. norvegicus        | M. musculus          | D. rerio                                   | C. elegans           | D. melanogaster      | S. cerevisiae        |
-|:---------|:--------------------------------|:------|:---------------------|:---------------------|:-------------------------------------------|:---------------------|:---------------------|:---------------------|
-| ABCC2    | IPR005292                       | NA    | IPR005292            | IPR005292            | IPR005292                                  | IPR005292            | IPR005292            | NA                   |
-| ABCC3    | IPR005292                       | NA    | IPR005292            | IPR005292            | IPR005292                                  | IPR005292            | NA                   | NA                   |
-| ABHD3    | IPR012020                       | NA    | NA                   | IPR012020            | IPR012020                                  | IPR012020            | NA                   | IPR012020            |
-| ACHE     | IPR000997                       | NA    | NA                   | NA                   | NA                                         | NA                   | NA                   | NA                   |
-| ACSM2A   | NA                              | NA    | NA                   | NA                   | NA                                         | NA                   | NA                   | NA                   |
-| ACSM2B   | NA                              | NA    | NA                   | NA                   | NA                                         | NA                   | NA                   | NA                   |
-| ACSM4    | NA                              | NA    | NA                   | NA                   | NA                                         | NA                   | NA                   | NA                   |
-| ACSM5    | NA                              | NA    | NA                   | NA                   | NA                                         | NA                   | NA                   | NA                   |
-| ALB      | IPR021177                       | NA    | IPR021177            | IPR021177            | NA                                         | NA                   | NA                   | NA                   |
-| ALDH2    | NA                              | NA    | NA                   | NA                   | NA                                         | NA                   | NA                   | NA                   |
-| BCHE     | IPR000997                       | NA    | IPR000997            | IPR000997            | NA                                         | IPR000997            | IPR001445            | NA                   |
-| BSG      | NA                              | NA    | NA                   | NA                   | NA                                         | IPR009138            | NA                   | NA                   |
-| CEPT1    | IPR014472                       | NA    | IPR014472            | IPR014472            | IPR014472                                  | IPR014472            | NA                   | IPR014472            |
-| CES1     | NA                              | NA    | NA                   | NA                   | NA                                         | NA                   | NA                   | NA                   |
-| CES2     | NA                              | NA    | NA                   | NA                   | NA                                         | NA                   | NA                   | NA                   |
-| CHAT     | IPR000542                       | NA    | IPR000542            | IPR000542            | IPR000542                                  | IPR000542            | IPR000542            | IPR000542            |
-| CHKA     | NA                              | NA    | NA                   | NA                   | NA                                         | NA                   | NA                   | NA                   |
-| CHKB     | NA                              | NA    | NA                   | NA                   | NA                                         | NA                   | NA                   | NA                   |
-| CHPT1    | IPR014472                       | NA    | IPR014472            | IPR014472            | IPR014472                                  | NA                   | NA                   | NA                   |
-| COMT     | IPR017128                       | NA    | IPR017128            | IPR017128            | IPR017128                                  | NA                   | NA                   | NA                   |
-| CRHR2    | IPR003051, IPR003053, IPR006060 | NA    | IPR003051, IPR003053 | IPR003051, IPR003053 | NA                                         | NA                   | IPR002001            | NA                   |
-| CSNK2A1  | IPR045216                       | NA    | IPR045216            | IPR045216            | IPR045216                                  | IPR045216            | IPR045216            | IPR045216            |
-| CSNK2A2  | IPR045216                       | NA    | IPR045216            | IPR045216            | IPR045216                                  | NA                   | NA                   | NA                   |
-| CYP2C19  | IPR002401                       | NA    | NA                   | IPR002401            | IPR002401                                  | IPR002401            | NA                   | NA                   |
-| CYP2C8   | IPR002401                       | NA    | NA                   | NA                   | NA                                         | NA                   | NA                   | NA                   |
-| CYP2C9   | IPR002401                       | NA    | NA                   | NA                   | NA                                         | NA                   | NA                   | NA                   |
-| CYP2D6   | IPR002401, IPR008069            | NA    | IPR002401, IPR008069 | IPR002401, IPR008069 | IPR002401, IPR008069, IPR008071, IPR008067 | NA                   | NA                   | NA                   |
-| CYP2E1   | IPR002401, IPR008070            | NA    | IPR002401, IPR008070 | IPR002401, IPR008070 | NA                                         | NA                   | NA                   | NA                   |
-| CYP3A4   | IPR002402, IPR008072            | NA    | IPR002402, IPR008072 | IPR002402, IPR008072 | IPR002401                                  | NA                   | NA                   | NA                   |
-| GCG      | IPR015550                       | NA    | IPR015550            | IPR015550            | IPR015550                                  | NA                   | NA                   | NA                   |
-| GH1      | IPR001400, IPR034975            | NA    | IPR001400, IPR034975 | IPR001400, IPR034975 | IPR001400, IPR034975                       | NA                   | NA                   | NA                   |
-| GHRL     | IPR005441                       | NA    | IPR005441            | IPR005441            | IPR005441                                  | NA                   | NA                   | NA                   |
-| GLYAT    | IPR010313                       | NA    | IPR010313            | IPR010313            | IPR010313, NA                              | IPR010313            | NA                   | NA                   |
-| GLYATL1  | IPR010313                       | NA    | NA                   | NA                   | NA                                         | NA                   | NA                   | NA                   |
-| GLYATL2  | IPR010313                       | NA    | NA                   | NA                   | NA                                         | NA                   | NA                   | NA                   |
-| GLYATL3  | IPR010313                       | NA    | IPR010313            | IPR010313            | NA                                         | NA                   | NA                   | NA                   |
-| IGF1     | IPR022341, IPR022350            | NA    | IPR022341, IPR022350 | IPR022341, IPR022350 | IPR022350, IPR022341                       | NA                   | NA                   | NA                   |
-| INS      | IPR004825                       | NA    | IPR004825            | IPR004825            | IPR004825                                  | NA                   | NA                   | NA                   |
-| KLF4     | NA                              | NA    | NA                   | NA                   | NA                                         | NA                   | NA                   | NA                   |
-| LEP      | IPR000065                       | NA    | IPR000065            | IPR000065            | IPR000065                                  | NA                   | NA                   | NA                   |
-| LPCAT1   | NA                              | NA    | NA                   | NA                   | NA                                         | NA                   | NA                   | NA                   |
-| LPIN1    | IPR026058                       | NA    | IPR026058            | IPR026058            | IPR026058                                  | IPR026058            | IPR026058            | IPR026058            |
-| LPIN2    | IPR026058                       | NA    | IPR026058            | IPR026058            | IPR026058                                  | NA                   | NA                   | NA                   |
-| LPIN3    | IPR026058                       | NA    | IPR026058            | IPR026058            | IPR026058                                  | NA                   | NA                   | NA                   |
-| LRTOMT   | IPR002935                       | NA    | IPR002935            | IPR002935            | IPR002935                                  | NA                   | NA                   | NA                   |
-| MAOA     | IPR001613                       | NA    | IPR001613            | IPR001613            | NA                                         | NA                   | NA                   | NA                   |
-| MBOAT4   | IPR004299                       | NA    | IPR004299            | IPR004299            | IPR004299                                  | IPR004299            | IPR004299            | IPR004299            |
-| MFSD2A   | IPR039672                       | NA    | IPR039672            | IPR039672            | IPR039672                                  | NA                   | NA                   | NA                   |
-| PCSK1    | IPR015500                       | NA    | IPR015500            | IPR015500            | IPR015500                                  | IPR015500            | NA                   | IPR015500            |
-| PCTP     | NA                              | NA    | NA                   | NA                   | NA                                         | NA                   | NA                   | NA                   |
-| PCYT1A   | IPR045049                       | NA    | IPR045049            | IPR045049            | IPR045049                                  | IPR045049            | IPR045049            | IPR045049            |
-| PCYT1B   | IPR045049                       | NA    | IPR045049            | IPR045049            | IPR045049                                  | NA                   | NA                   | NA                   |
-| PEMT     | IPR024960                       | NA    | IPR024960            | IPR024960            | IPR024960                                  | NA                   | NA                   | IPR024960            |
-| PHOSPHO1 | IPR016965                       | NA    | IPR016965            | IPR016965            | IPR016965                                  | NA                   | IPR016965            | NA                   |
-| PLA2G7   | IPR016715                       | NA    | IPR016715            | IPR016715            | IPR016715                                  | IPR016715            | NA                   | NA                   |
-| SEC11A   | IPR001733                       | NA    | IPR001733            | IPR001733            | IPR001733                                  | IPR001733            | IPR001733            | IPR001733            |
-| SEC11C   | IPR001733                       | NA    | IPR001733            | IPR001733            | NA                                         | NA                   | NA                   | NA                   |
-| SLC16A1  | IPR004743                       | NA    | IPR004743            | IPR004743            | IPR004743                                  | IPR011701            | IPR011701            | IPR044738, IPR011701 |
-| SLC22A1  | IPR004749                       | NA    | IPR004749            | IPR004749            | IPR005828, IPR004749                       | IPR011701, IPR005828 | IPR005828, IPR011701 | NA                   |
-| SLC22A2  | IPR004749                       | NA    | IPR004749            | IPR004749            | NA                                         | NA                   | NA                   | NA                   |
-| SLC22A7  | IPR004749, IPR011701            | NA    | IPR004749            | IPR004749            | IPR005828, IPR011701                       | NA                   | NA                   | NA                   |
-| SLC44A1  | IPR007603                       | NA    | IPR007603            | IPR007603            | NA                                         | NA                   | NA                   | NA                   |
-| SLC44A2  | IPR007603                       | NA    | IPR007603            | IPR007603            | IPR007603                                  | NA                   | NA                   | NA                   |
-| SLC44A3  | IPR007603                       | NA    | IPR007603            | IPR007603            | IPR007603                                  | NA                   | IPR007603            | NA                   |
-| SLC44A4  | IPR007603                       | NA    | IPR007603            | IPR007603            | IPR007603                                  | NA                   | NA                   | NA                   |
-| SLC44A5  | IPR007603                       | NA    | IPR007603            | IPR007603            | IPR007603                                  | IPR007603            | IPR007603            | NA                   |
-| SLC6A3   | IPR002436                       | NA    | IPR002436            | IPR002436            | IPR000175                                  | IPR000175            | IPR000175            | NA                   |
-| SLC6A4   | IPR000175                       | NA    | IPR000175            | IPR000175            | IPR000175                                  | IPR000175            | IPR000175            | NA                   |
-| SPCS1    | IPR009542                       | NA    | IPR009542            | IPR009542            | IPR009542                                  | IPR009542            | IPR009542            | IPR009542            |
-| SPCS2    | IPR009582                       | NA    | IPR009582            | IPR009582            | IPR009582                                  | IPR009582            | IPR009582            | IPR009582            |
-| SPCS3    | IPR007653                       | NA    | IPR007653            | IPR007653            | IPR007653                                  | IPR007653            | IPR007653            | IPR007653            |
-| STARD10  | NA                              | NA    | NA                   | NA                   | NA                                         | NA                   | NA                   | NA                   |
-| STARD7   | NA                              | NA    | NA                   | NA                   | NA                                         | NA                   | NA                   | NA                   |
-| UCN      | IPR003620                       | NA    | IPR003620            | IPR003620            | IPR003620                                  | NA                   | NA                   | NA                   |
-| UGT1A1   | IPR002213                       | NA    | IPR002213            | IPR002213            | NA                                         | NA                   | NA                   | NA                   |
-| UGT1A3   | IPR002213                       | NA    | NA                   | NA                   | NA                                         | NA                   | NA                   | NA                   |
-| UGT1A4   | IPR002213                       | NA    | NA                   | NA                   | NA                                         | NA                   | NA                   | NA                   |
-| UGT1A5   | IPR002213                       | NA    | IPR002213            | IPR002213            | NA                                         | NA                   | NA                   | NA                   |
-| UGT1A6   | IPR002213                       | NA    | IPR002213            | IPR002213            | NA                                         | NA                   | NA                   | NA                   |
-| UGT1A7   | IPR002213                       | NA    | NA                   | NA                   | NA                                         | NA                   | NA                   | NA                   |
-| UGT1A8   | IPR002213                       | NA    | IPR002213            | IPR002213            | NA                                         | NA                   | NA                   | IPR002213            |
-| UGT1A9   | IPR002213                       | NA    | NA                   | NA                   | NA                                         | NA                   | NA                   | NA                   |
-| UGT2A1   | IPR002213                       | NA    | IPR002213            | IPR002213            | NA                                         | NA                   | NA                   | NA                   |
-| UGT2A2   | IPR002213                       | NA    | NA                   | IPR002213            | NA                                         | NA                   | NA                   | NA                   |
-| UGT2A3   | IPR002213                       | NA    | NA                   | NA                   | NA                                         | NA                   | NA                   | NA                   |
-| UGT2B10  | IPR002213                       | NA    | NA                   | NA                   | NA                                         | NA                   | NA                   | NA                   |
-| UGT2B11  | IPR002213                       | NA    | IPR002213            | IPR002213            | IPR002213                                  | IPR002213            | IPR002213            | NA                   |
-| UGT2B15  | IPR002213                       | NA    | NA                   | NA                   | NA                                         | NA                   | NA                   | NA                   |
-| UGT2B17  | IPR002213                       | NA    | NA                   | NA                   | NA                                         | NA                   | NA                   | NA                   |
-| UGT2B28  | IPR002213                       | NA    | NA                   | NA                   | NA                                         | NA                   | NA                   | NA                   |
-| UGT2B4   | IPR002213                       | NA    | NA                   | NA                   | NA                                         | NA                   | NA                   | NA                   |
-| UGT2B7   | IPR002213                       | NA    | NA                   | NA                   | NA                                         | NA                   | NA                   | NA                   |
-| UGT3A1   | IPR002213                       | NA    | IPR002213            | IPR002213            | NA                                         | NA                   | NA                   | NA                   |
-| UGT3A2   | IPR002213                       | NA    | NA                   | NA                   | NA                                         | NA                   | NA                   | NA                   |
 
 ### `getAllCounts`
 
@@ -714,21 +555,6 @@ accessions which no families were found for in the given pathway
 ``` r
    knitr::kable(ACHE_BCHE_T_ALL$allCounts[[1]])
 ```
-
-|                                     | Human                      | R. norvegicus              | M. musculus                | D. rerio                   | C. elegans                 | D. melanogaster            | S. cerevisiae              |
-|:------------------------------------|:---------------------------|:---------------------------|:---------------------------|:---------------------------|:---------------------------|:---------------------------|:---------------------------|
-| Pathway Reactome ID                 | R-HSA-112311               | R-HSA-112311               | R-HSA-112311               | R-HSA-112311               | R-HSA-112311               | R-HSA-112311               | R-HSA-112311               |
-| Pathway Name                        | Neurotransmitter clearance | Neurotransmitter clearance | Neurotransmitter clearance | Neurotransmitter clearance | Neurotransmitter clearance | Neurotransmitter clearance | Neurotransmitter clearance |
-| Input Found                         | c(“ACHE”, “BCHE”)          | c(“ACHE”, “BCHE”)          | c(“ACHE”, “BCHE”)          | c(“ACHE”, “BCHE”)          | c(“ACHE”, “BCHE”)          | c(“ACHE”, “BCHE”)          | c(“ACHE”, “BCHE”)          |
-| Input Found Count                   | 2                          | 2                          | 2                          | 2                          | 2                          | 2                          | 2                          |
-| Mapped Human Genes                  | 10                         | 10                         | 10                         | 10                         | 10                         | 10                         | 10                         |
-| Total Gene Count                    | 10                         | 9                          | 9                          | 11                         | 34                         | 39                         | 3                          |
-| Coverage %                          | 20                         | NA                         | NA                         | NA                         | NA                         | NA                         | NA                         |
-| Protein Count                       | 10                         | 9                          | 9                          | 11                         | 34                         | 39                         | 3                          |
-| Family Count                        | 7                          | 7                          | 7                          | 5                          | 4                          | 4                          | 0                          |
-| Proteins Unmapped to families Count | 1                          | 1                          | 1                          | 5                          | 15                         | 12                         | 3                          |
-| Entity Count                        | 36                         | 9                          | 9                          | 6                          | 7                          | 5                          | 0                          |
-| Reaction Count                      | 16                         | 15                         | 15                         | 10                         | 8                          | 6                          | 0                          |
 
 ### `writeOutput`
 
@@ -780,8 +606,6 @@ parameters to produce:
 ``` r
 run_all_plots(g2p_output_dir = "./man/ACHE_T_LDO/", plot_output_dir = "./ACHE_T_LDO_out", data_name = NULL) 
 ```
-
-<img src="man/figures/README-example_plotting-1.png" width="45%" /><img src="man/figures/README-example_plotting-2.png" width="45%" /><img src="man/figures/README-example_plotting-3.png" width="45%" /><img src="man/figures/README-example_plotting-4.png" width="45%" /><img src="man/figures/README-example_plotting-5.png" width="45%" />
 
 ## Resource Version Control
 
